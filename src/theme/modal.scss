@@ -1,0 +1,13 @@
+ion-modal {
+  &.is-popup {
+    background-color: rgba(#000, 0.5) !important;
+    > .modal-wrapper {
+      box-shadow: none;
+      background-color: transparent !important;
+
+      ion-content {
+        background-color: transparent !important;
+      }
+    }
+  }
+}

@@ -1,0 +1,147 @@
+page-parameters {
+  ::-webkit-scrollbar {
+    display: none;
+  }
+  > #background {
+    $quiz_bg_blur: 10px;
+    position: absolute;
+    top: -$quiz_bg_blur;
+    left: -$quiz_bg_blur;
+    right: -$quiz_bg_blur;
+    bottom: -$quiz_bg_blur;
+    background-image: url(/assets/imgs/params_bg.jpg);
+    background-size: cover;
+    @include prefix(filter, blur($quiz_bg_blur), webkit ms moz o);
+
+    &:after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: #000;
+      opacity: 0;
+      @include prefix(transition, opacity 0.3s ease-in-out, webkit);
+    }
+  }
+  > ion-header {
+    &:after {
+      display: none !important;
+    }
+    > ion-navbar {
+      > .toolbar-background {
+        background: transparent;
+        border-color: transparent !important;
+      }
+    }
+  }
+  > ion-content {
+    background-color: transparent !important;
+    > .scroll-content {
+      #langue,
+      #tri {
+        background: transparent;
+        ion-card-header {
+          @include fonts("h1", bold);
+          background-color: #fff;
+        }
+        ion-card-content {
+          background-color: rgba(color($colors, "primary"), 0.8);
+        }
+        .list {
+          > .item {
+            display: flex;
+            height: 54px;
+            width: 100%;
+            padding: 7px 10px;
+
+            &.selected {
+              > .title {
+                font-weight: bold;
+              }
+            }
+            &:not(.selected) {
+              > .flag {
+                opacity: 0.3;
+                -webkit-filter: grayscale(100%);
+                filter: grayscale(100%);
+              }
+              > .title {
+                color: rgba(#000, 0.5);
+              }
+              > .radio {
+                color: rgba(#000, 0.5);
+              }
+            }
+
+            &.tri-address {
+              display: flex;
+              height: auto;
+              margin-top: 20px;
+              padding: 7px 10px;
+              border-top: 1px solid color($colors, "primary");
+              > .icon {
+                display: flex;
+                margin-right: 20px;
+                font-size: 28px;
+                > ion-icon {
+                  margin: auto;
+                }
+              }
+              > .txt {
+                display: flex;
+                flex-direction: column;
+                width: 80%;
+                margin-right: 10px;
+                > .name,
+                > .tri {
+                  width: 100%;
+                  margin: auto;
+                  @include fonts("p");
+                  line-height: 150%;
+                }
+                > .name {
+                  font-weight: bold;
+                }
+              }
+              > .button {
+                display: flex;
+                width: 20%;
+                > button {
+                  margin: auto;
+                }
+              }
+            }
+            > .radio {
+              display: flex;
+              font-size: 22px;
+              margin-right: 20px;
+              > ion-icon {
+                margin: auto;
+              }
+            }
+            > .flag {
+              height: 100%;
+              width: auto;
+              margin: auto 20px;
+            }
+            > .title {
+              margin: auto 20px;
+              display: flex;
+              color: #000;
+              @include fonts("p");
+              line-height: 40px;
+              > span {
+                margin: auto;
+              }
+            }
+          }
+        }
+      }
+      #tri {
+        margin-top: 30px;
+      }
+    }
+  }
+}

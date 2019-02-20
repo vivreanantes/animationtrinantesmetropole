@@ -1,0 +1,15 @@
+{
+  "name": "Animation Tri Nantes Métropole",
+  "short_name": "ATNM",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "assets/icon/icon.png",
+      "sizes": "489x486",
+      "type": "image/png"
+    }
+  ],
+  "background_color": "#4e8ef7",
+  "theme_color": "#4e8ef7"
+}

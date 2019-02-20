@@ -1,0 +1,46 @@
+ion-alert {
+  > .alert-wrapper {
+    > .alert-button-group {
+      > button {
+        > span {
+          color: color($colors, "info");
+        }
+      }
+    }
+
+    > div[ng-reflect-ng-switch="checkbox"] {
+      > .alert-checkbox-group {
+        > button[aria-checked="true"] {
+          > span {
+            > .alert-checkbox-icon {
+              border-color: #000 !important;
+            }
+            > .alert-checkbox-label {
+              color: #000 !important;
+              font-weight: bold;
+            }
+          }
+        }
+      }
+    }
+
+    > div[ng-reflect-ng-switch="radio"] {
+      > .alert-radio-group {
+        > button[aria-checked="true"] {
+          > span {
+            > .alert-radio-icon {
+              border-color: #000 !important;
+              > .alert-radio-inner {
+                background-color: #000;
+              }
+            }
+            > .alert-radio-label {
+              color: #000 !important;
+              font-weight: bold;
+            }
+          }
+        }
+      }
+    }
+  }
+}

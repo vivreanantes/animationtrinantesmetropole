@@ -1,0 +1,59 @@
+$tablet-width: 768px;
+$desktop-width: 1024px;
+
+@mixin smartphone {
+  @media (max-width: #{$tablet-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin tablet {
+  @media (min-width: #{$tablet-width}) and (max-width: #{$desktop-width - 1px}) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media (min-width: #{$desktop-width}) {
+    @content;
+  }
+}
+
+@mixin fonts($key, $prefix: null) {
+  font: $prefix map-get($fonts, $key) $font-family;
+  @include tablet {
+    font: $prefix map-get($fonts, $key) * $fonts-ratio-tablet $font-family;
+  }
+  @include desktop {
+    font: $prefix map-get($fonts, $key) * $fonts-ratio-desktop $font-family;
+  }
+}
+
+@mixin gradient-vertical($up, $down) {
+  background: $up;
+  background: -moz-linear-gradient(top, $up 0%, $down 100%);
+  background: -webkit-linear-gradient(top, $up 0%, $down 100%);
+  background: linear-gradient(to bottom, $up 0%, $down 100%);
+}
+
+@mixin prefix($property, $value, $prefixes: ()) {
+  @each $prefix in $prefixes {
+    #{'-' + $prefix + '-' + $property}: $value;
+  }
+  #{$property}: $value;
+}
+
+@mixin keyframes($name) {
+  @-webkit-keyframes #{$name} {
+    @content;
+  }
+  @-moz-keyframes #{$name} {
+    @content;
+  }
+  @-ms-keyframes #{$name} {
+    @content;
+  }
+  @keyframes #{$name} {
+    @content;
+  }
+}

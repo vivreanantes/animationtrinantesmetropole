@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Bien manger, sans gaspiller.",
+    "name_en": "Eat well, without wasting",
+    "enabled": true,
+    "file": "cdlr1",
+    "exclude_filters": []
+  },
+  {
+    "name": "Ressources rares et déchets spécifiques",
+    "name_en": "Rare resources and specific waste",
+    "enabled": true,
+    "file": "cdlr2",
+    "exclude_filters": ["niveau_enfant"]
+  }
+]

@@ -1,0 +1,204 @@
+[
+  {
+    "name": "gaspillage_alimentaire",
+    "descr": "Gaspillage alimentaire",
+    "descr_en": "Food production",
+    "resume": "Quelle part de la production alimentaire mondiale est perdue ou gaspillée chaque année ?",
+    "resume_en": "How much of the world's food production is lost or wasted each year ?",
+    "advice": "( selon l'organisation des Nations Unies pour l'alimentation )",
+    "advice_en": "( according to the United Nations Food Organization )",
+    "image": "gaspillage_alimentaire.jpg",
+    "reponses": [
+      {
+        "id": 1,
+        "name": "10% de la production mondiale",
+        "name_en": "10% of world production"
+      },
+      {
+        "id": 2,
+        "name": "20% de la production mondiale",
+        "name_en": "20% of world production"
+      },
+      {
+        "id": 3,
+        "name": "33% de la production mondiale",
+        "name_en": "33% of world production"
+      },
+      {
+        "id": 4,
+        "name": "50%",
+        "name_en": "50%"
+      }
+    ],
+    "reponse": 3
+  },
+  {
+    "name": "nourriture_jetee",
+    "descr": "Nourriture jetée",
+    "descr_en": "Food thrown",
+    "resume": "En moyenne, un français jette combien de kg de nourriture par an ?",
+    "resume_en": "On average, a French person throws how many kg of food a year ?",
+    "image": "gaspillage_alimentaire_2.jpg",
+    "reponses": [
+      {
+        "id": 1,
+        "name": "50",
+        "name_en": "50"
+      },
+      {
+        "id": 2,
+        "name": "100",
+        "name_en": "100"
+      },
+      {
+        "id": 3,
+        "name": "150",
+        "name_en": "150"
+      },
+      {
+        "id": 4,
+        "name": "200",
+        "name_en": "200"
+      }
+    ],
+    "reponse": 1
+  },
+  {
+    "name": "argent",
+    "descr": "Le budget alimentaire",
+    "descr_en": "The food budget",
+    "resume": "Quel est l'intrus ?",
+    "resume_en": "What is the intruder ?",
+    "advice": "La proposition 3 en fausse : en 50 ans, les ménages français ont pratiquement divisé par deux la part de leur budget allouée aux dépenses alimentaires (cette part est passée de 36% à moins de 20%).",
+    "advice_en": "Proposal 3 is false: in 50 years, French households have practically halved the share of their budget allocated to food expenditure (this share has gone from 36% to less than 20%).",
+    "image": "argent.jpg",
+    "reponses": [
+      {
+        "id": 1,
+        "name": "3% des actifs français travaille dans l’agriculture.",
+        "name_en": "3% of French working people work in agriculture."
+      },
+      {
+        "id": 2,
+        "name": "Plus d’un français sur deux exprime le sentiment de ne plus savoir ce qu’il mange.",
+        "name_en": "More than one French person in two expresses the feeling of not knowing what he eats anymore."
+      },
+      {
+        "id": 3,
+        "name": "En 50 ans, les français ont quasiment doublé la part de leur budget consacré aux dépenses alimentaires.",
+        "name_en": "150"
+      }
+    ],
+    "reponse": 3
+  },
+  {
+    "name": "salade_2",
+    "descr": "Salade en sachet",
+    "descr_en": "Salad in a bag",
+    "resume": "Il est préférable d'acheter la salade toute prête en sachet pour éviter le gaspillage.",
+    "resume_en": "It is best to buy the ready-made salad in a bag to avoid waste.",
+    "advice": "Au moment de la mise en sachet, de nombreuses fauilles sont jetées car elles ne répondent pas à un certain calibre alors qu'elles pourraient être consommées. De plus, l'emballage est un déchet supplémentaire",
+    "advice_en": "At the time of bagging, many sows are thrown because they do not respond to a certain size when they could be consumed. In addition, the packaging is an additional waste",
+    "image": "salade_2.jpg",
+    "reponses": [
+      {
+        "id": 1,
+        "name": "Vrai",
+        "name_en": "True"
+      },
+      {
+        "id": 2,
+        "name": "Faux",
+        "name_en": "False"
+      }
+    ],
+    "reponse": 2
+  },
+  {
+    "name": "radis",
+    "descr": "Radis",
+    "descr_en": "Radish",
+    "resume": "Les fanes de radis sont comestibles ?",
+    "resume_en": "Radish tops are edible ?",
+    "advice": "La soupe de fânes de radis sont délicieuses !",
+    "advice_en": "The soup of radish skulls are delicious !",
+    "image": "radis.jpg",
+    "reponses": [
+      {
+        "id": 1,
+        "name": "Vrai",
+        "name_en": "True"
+      },
+      {
+        "id": 2,
+        "name": "Faux",
+        "name_en": "False"
+      }
+    ],
+    "reponse": 1
+  },
+  {
+    "name": "hachi_parmentier",
+    "descr": "Hachi parmentier",
+    "descr_en": "Shepherd's pie",
+    "resume": "Le hachis parmentier a été inventé dans un but précis, lequel ?",
+    "resume_en": "The shepherd's pie was invented for a specific purpose, which one ?",
+    "advice": "Antoine-Augustin Parmentier, pharmacien, a proposé à Louis XVI de favoriser la culture de la pomme de terre, persuadé qu'elle pourrait réduire la disette. Il a inventé le hachis parmentier pour réutiliser les restes de roti ou de pot au feu.",
+    "advice_en": "Antoine-Augustin Parmentier, pharmacist, proposed to Louis XVI to favor the cultivation of the potato, persuaded that it could reduce the scarcity. He invented the shepherd's pie to reuse leftover roti or pot-au-feu.",
+    "image": "hachi_parmentier.jpg",
+    "reponses": [
+      {
+        "id": 1,
+        "name": "Pour réduire la disette.",
+        "name_en": "To reduce the scarcity."
+      },
+      {
+        "id": 2,
+        "name": "Pour éviter le gaspillage de la pomme de terre.",
+        "name_en": "To avoid wasting the potato."
+      },
+      {
+        "id": 3,
+        "name": "Pour réutiliser les restes de roti ou de pot au feu.",
+        "name_en": "To reuse leftover roti or pot au feu."
+      },
+      {
+        "id": 4,
+        "name": "Pour tester les fours de la cuisine du roi Louis XVI.",
+        "name_en": "To test the ovens of the kitchen of King Louis XVI."
+      }
+    ],
+    "reponse": 3
+  },
+  {
+    "name": "bokashi",
+    "descr": "Bokashi",
+    "descr_en": "Bokashi",
+    "resume": "Savez-vous ce qu'est le Bokashi ?",
+    "resume_en": "Do you know what Bokashi is ?",
+    "image": "bokashi.jpg",
+    "reponses": [
+      {
+        "id": 1,
+        "name": "L'ancien nom de la boite à bento.",
+        "name_en": "The old name of the bento box."
+      },
+      {
+        "id": 2,
+        "name": "Un plat asiatique à partir de restes alimentaires.",
+        "name_en": "An Asian dish from leftover food."
+      },
+      {
+        "id": 3,
+        "name": "Une technique japonaise de traitement des biodéchets.",
+        "name_en": "A Japanese technique for treating bio-waste."
+      },
+      {
+        "id": 4,
+        "name": "Une sauce fermentée à partir de déchets de poissons.",
+        "name_en": "A fermented sauce from fish waste."
+      }
+    ],
+    "reponse": 2
+  }
+]

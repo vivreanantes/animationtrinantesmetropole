@@ -1,0 +1,14 @@
+stars {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  > .star {
+    font-size: 44px;
+    color: color($colors, "jaune");
+    > ion-icon {
+      &[name="star-outline"] {
+        opacity: 0.5;
+      }
+    }
+  }
+}
