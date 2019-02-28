@@ -11,6 +11,6 @@
     "name_en": "Rare resources and specific waste",
     "enabled": true,
     "file": "cdlr2",
-    "exclude_filters": ["niveau_enfant"]
+    "exclude_filters": []
   }
 ]

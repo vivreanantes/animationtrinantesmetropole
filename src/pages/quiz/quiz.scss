@@ -232,6 +232,11 @@ page-quiz {
       text-align: center;
     }
 
+    #title2 {
+      @include fonts("h2", bold);
+      color: #fff;
+      text-align: center;
+    }
     #game {
       display: block;
       position: absolute;
@@ -519,7 +524,7 @@ page-quiz {
         }
       }
       > stars {
-        margin-top: 30px;
+        margin-top: 10px;
       }
       > .legend {
         width: 100%;
@@ -584,6 +589,14 @@ page-quiz {
                           color: color($colors, "secondary");
                         }
                         @include fonts("h2", bold);
+                      }
+                      h3 {
+                        margin: auto;
+                        color: color($colors, "danger");
+                        &.is-true {
+                          color: color($colors, "secondary");
+                        }
+                        @include fonts("h3", bold);
                       }
                     }
                     ion-card-content {

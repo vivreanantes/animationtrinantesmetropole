@@ -331,12 +331,12 @@ page-codedelaroute {
           overflow: hidden;
           > img {
             width: 100%;
-            margin-top: 15px;
+            margin-top: 5px;
             object-fit: contain;
           }
         }
         > .title {
-          padding: 15px 0;
+          padding: 5px 0;
           background: rgba(#000, 0.3);
           text-align: center;
           @include fonts("p", bold);
@@ -353,7 +353,7 @@ page-codedelaroute {
       > .reponses {
         flex-grow: 1;
         width: 100vw;
-        margin-top: 30px;
+        margin-top: 5px;
         @include tablet {
           display: flex;
           flex-direction: row;
@@ -369,7 +369,7 @@ page-codedelaroute {
           width: 80vw;
           margin-left: 10%;
           margin-top: 20px;
-          padding: 10px 20px;
+          padding: 10px 10px;
           background-color: rgba(#fff, 0.5);
           color: #fff;
           @include prefix(transition, all 0.3s ease-in-out, webkit);
@@ -405,7 +405,7 @@ page-codedelaroute {
         }
       }
       > .confirm {
-        margin: 30px 10% 0 10%;
+        margin: 10px 10% 0 10%;
         width: 80vw;
       }
     }
@@ -440,7 +440,7 @@ page-codedelaroute {
         top: 50%;
         left: 15vw;
         right: 15vw;
-        padding: 15px 20px;
+        padding: 5px 20px; // top and bottom; right and left
         background-color: color($colors, "danger");
         @include prefix(transform-origin, 50% 50%, webkit);
         @include prefix(transform, scale(0, 0) translateY(-50%), webkit);
@@ -491,7 +491,7 @@ page-codedelaroute {
       > .title {
         width: 100%;
         margin: auto;
-        margin-top: 30px;
+        margin-top: 5px;
         > h1 {
           @include fonts("h1", bold);
           text-align: center;

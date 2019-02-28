@@ -5,8 +5,8 @@ var _theGoodSortingData = {
       descr: "Ampoule basse consommation",
       descr_en: "Low-energy bulb",
       advice:
-        "A mettre dans les bornes dédiées que l’on trouve en déchèterie et dans certains magasins et grandes surfaces",
-      advice_en: "",
+        "A mettre dans les bornes dédiées que l’on trouve en déchèterie et dans certains magasins et grandes surfaces.",
+      advice_en: "To put in the dedicated terminals that are found in refuse and in some stores and supermarkets.",
       image: "ampoule_basse_conso.png",
       reponses: ["retour", "decheterie"],
       exclude_filters: ["niveau_enfant"]
@@ -22,55 +22,31 @@ var _theGoodSortingData = {
       advice_en: "",
       image: "appareil_photo.png",
       reponses: ["decheterie", "retour"],
-      exclude_filters: ["niveau_expert"]
-    },
-    {
-      name: "arrosoir_trinormal",
-      descr: "Arrosoir",
-      descr_en: "Watering can",
-      resume: "( cassé )",
-      resume_en: "( broken )",
-      advice: "En déchèterie, dans la benne « autres déchets ».",
-      advice_en: 'In waste disposal, in the dump "other waste"',
-      image: "arrosoir.png",
-      reponses: ["decheterie"],
-      exclude_filters: ["tri_extension", "niveau_enfant", "niveau_expert"]
-    },
-    {
-      name: "arrosoir_extensiondetri",
-      descr: "Arrosoir",
-      descr_en: "Watering can",
-      resume: "( cassé )",
-      resume_en: "( broken )",
-      advice: "En déchèterie, dans la benne « autres déchets ».",
-      advice_en: 'In waste disposal, in the dump "other waste"',
-      image: "arrosoir.png",
-      reponses: ["decheterie"],
-      exclude_filters: ["tri_normal", "niveau_enfant", "niveau_expert"]
+      exclude_filters: ["niveau_enfant"]
     },
     {
       name: "ballon_trinormal",
-      descr: "Ballon",
-      descr_en: "Ball",
+      descr: "Ballon de basket",
+      descr_en: "Basket ball",
       resume: "( crevé )",
       resume_en: "( burst )",
       advice: "En déchèterie, dans la benne « autres déchets ».",
       advice_en: 'In waste disposal, in the dump "other waste"',
       image: "ballon.png",
       reponses: ["decheterie"],
-      exclude_filters: ["tri_extension", "niveau_enfant", "niveau_expert"]
+      exclude_filters: ["tri_extension", "niveau_enfant"]
     },
     {
       name: "ballon_extensiondetri",
-      descr: "Ballon",
-      descr_en: "Ball",
+      descr: "Ballon de basket",
+      descr_en: "Basket ball",
       resume: "( crevé )",
       resume_en: "( burst )",
       advice: "En déchèterie, dans la benne « autres déchets ».",
       advice_en: 'In waste disposal, in the dump "other waste"',
       image: "ballon.png",
       reponses: ["decheterie"],
-      exclude_filters: ["tri_normal", "niveau_enfant", "niveau_expert"]
+      exclude_filters: ["tri_normal", "niveau_enfant"]
     },
     {
       name: "barquette_alu",
@@ -92,19 +68,19 @@ var _theGoodSortingData = {
         "In waste, at the level of toxic products. Stores that sell this product also take it back with no obligation to purchase.",
       image: "batterie.png",
       reponses: ["decheterie", "retour"],
-      exclude_filters: ["niveau_expert", "niveau_enfant"]
+      exclude_filters: [ "niveau_enfant"]
     },
     {
       name: "bombe_aerosol",
-      descr: "Bombe aérosol",
-      descr_en: "Aerosol",
+      descr: "Bombe aérosol de laque à cheveux",
+      descr_en: "Air spray",
       advice:
         "Recyclage : les bombes métalliques ne contenant pas de produits dangereux se recyclent / Déchèterie dans la benne « ferraille ».",
       advice_en:
         'Recycling: metal bombs containing no dangerous products are recycled / Waste in the "scrap" dumpster"',
       image: "bombe_aerosol.png",
       reponses: ["jaune", "decheterie"],
-      exclude_filters: ["niveau_expert"]
+      exclude_filters: ["niveau_enfant"]
     },
     {
       name: "boite_a_oeufs",
@@ -121,27 +97,17 @@ var _theGoodSortingData = {
       exclude_filters: ["niveau_expert"]
     },
     {
-      name: "boule_petanque.png",
-      descr: "Boule de pétanque",
-      descr_en: "Pétanque ball",
-      resume: "( fendue )",
-      resume_en: "( split )",
-      advice: "En déchèterie dans la benne « ferraille ».",
-      advice_en: 'Waste disposal in the "scrap" dumpster.',
-      image: "boule_petanque.png",
-      reponses: ["decheterie"],
-      exclude_filters: ["niveau_expert"]
-    },
-    {
       name: "bouteille_huile",
       descr: "Bouteille d'huile",
       descr_en: "Oil bottle",
+      resume: "vide",
+      resume_en: "empty",
       advice:
         "Recyclage : les bouteilles et flacons plastiques vides se recyclent.",
       advice_en: "Recycling : empty plastic bottles and flasks are recycled",
       image: "bouteille_huile.png",
       reponses: ["jaune"],
-      exclude_filters: ["niveau_expert"]
+      exclude_filters: ["niveau_enfant"]
     },
     {
       name: "bouchon_liege",
@@ -215,7 +181,7 @@ var _theGoodSortingData = {
       advice_en: "In garment containers to be reused (material raw material)",
       image: "chaussures_usees.png",
       reponses: ["reemploi"],
-      exclude_filters: ["niveau_enfant", "niveau_normal"]
+      exclude_filters: ["niveau_enfant"]
     },
     {
       name: "cle_usb",
@@ -229,12 +195,12 @@ var _theGoodSortingData = {
         'Waste disposal in the dump "electrical and electronic appliances". Stores of more than 400 m² that sell small electrical and electronic devices up to 25 cm also take them back without any obligation to purchase.',
       image: "cle_usb.png",
       reponses: ["decheterie", "retour"],
-      exclude_filters: ["niveau_expert"]
+      exclude_filters: ["niveau_enfant"]
     },
     {
       name: "couvercle_bocal",
-      descr: "Couvercle bocal",
-      descr_en: "Jar lid",
+      descr: "Couvercle bocal métallique",
+      descr_en: "Jar lid metal",
       advice: "Recyclage : Le métal se recycle.",
       advice_en: "Recycling: Metal recycles.",
       image: "couvercle_bocal.png",
@@ -243,17 +209,17 @@ var _theGoodSortingData = {
     },
     {
       name: "ciseaux_enfants",
-      descr: "Ciseaux enfant",
-      descr_en: "Children’s scissors",
+      descr: "Ciseaux",
+      descr_en: "Scissors",
       advice: "Poubelle.",
       advice_en: "Bin.",
       image: "ciseaux_enfants.png",
       reponses: ["poubelle"],
-      exclude_filters: ["niveau_enfant", "niveau_expert"]
+      exclude_filters: ["niveau_expert"]
     },
     {
       name: "dentifrice",
-      descr: "Dentifrice",
+      descr: "Tube de dentifrice",
       descr_en: "Tube of toothpaste",
       advice: "Poubelle.",
       advice_en: "Bin.",
@@ -269,7 +235,7 @@ var _theGoodSortingData = {
       advice_en: "Composter direction.",
       image: "epeluchure_legumes.png",
       reponses: ["composteur"],
-      exclude_filters: ["niveau_expert"]
+      exclude_filters: ["niveau_enfant"]
     },
     {
       name: "fer_a_repasser",
@@ -300,13 +266,15 @@ var _theGoodSortingData = {
       name: "lampe",
       descr: "Lampe",
       descr_en: "Lamp",
+      resume: "( en bon état )",
+      resume_en: "( still works )",
       advice:
         "Réemploi : elle peut être revendue dans une ressourcerie / En déchèterie dans la benne « appareils électriques et électroniques »  / Les magasins qui vendent ces produits les reprennent également si vous en achetez un neuf.",
       advice_en:
         'Re-use: it can be resold in a recycling plant / In waste disposal in the "electrical and electronic appliances" bin / The stores that sell these products also take them back if you buy a new one.',
       image: "lampe.png",
       reponses: ["reemploi", "decheterie", "retour"],
-      exclude_filters: ["niveau_enfant", "niveau_expert"]
+      exclude_filters: ["niveau_enfant"]
     },
     {
       name: "medicaments",
@@ -329,7 +297,7 @@ var _theGoodSortingData = {
         "Trash can. A single butt thrown on the ground pollutes 500 liters of water.",
       image: "megot.png",
       reponses: ["poubelle"],
-      exclude_filters: ["niveau_enfant", "niveau_expert"]
+      exclude_filters: ["niveau_enfant"]
     },
     {
       name: "mouchoir_papier",
@@ -347,15 +315,17 @@ var _theGoodSortingData = {
     },
     {
       name: "nounours",
-      descr: "Nounours",
-      descr_en: "Teddy bear",
+      descr: "Jouet",
+      descr_en: "Toy",
+      resume: "( en bon état )",
+      resume_en: "( still works )",
       advice:
         "Réemploi : Il peut être revendu dans une ressourcerie ou mis dans les conteneur à vêtement / En déchèterie dans la benne « autres déchets ».",
       advice_en:
         'Reuse: It can be resold in a recycling plant or put in the garment container / In waste disposal in the bucket "other waste".',
       image: "nounours.png",
       reponses: ["decheterie", "reemploi"],
-      exclude_filters: ["niveau_enfant", "niveau_expert"]
+      exclude_filters: ["niveau_expert"]
     },
     {
       name: "ordinateur_portable",
@@ -369,11 +339,11 @@ var _theGoodSortingData = {
         'Waste in the dump "electrical and electronic devices" / Stores that sell these products also take back if you buy a new one.',
       image: "ordinateur_portable.png",
       reponses: ["retour", "decheterie"],
-      exclude_filters: ["niveau_expert"]
+      exclude_filters: ["niveau_enfant"]
     },
     {
       name: "paille_trinormal",
-      descr: "Paille",
+      descr: "Paille en plastique",
       descr_en: "Plastics straw",
       advice:
         "Poubelle : dans les plastiques, seuls les bouteilles et flacons vont en recyclage.",
@@ -381,17 +351,17 @@ var _theGoodSortingData = {
         "Waste bin: in plastics, only bottles and bottles go into recycling.",
       image: "paille.png",
       reponses: ["poubelle"],
-      exclude_filters: ["tri_extension", "niveau_enfant", "niveau_expert"]
+      exclude_filters: ["tri_extension"]
     },
     {
       name: "paille_extensiondetri",
-      descr: "Paille",
+      descr: "Paille en plastique",
       descr_en: "Plastics straw",
       advice: "Recyclage : tout le plastique se recycle en extension de tri.",
       advice_en: "Recycling: all the plastic is recycled in sorting extension.",
       image: "paille.png",
       reponses: ["jaune"],
-      exclude_filters: ["tri_normal", "niveau_enfant", "niveau_expert"]
+      exclude_filters: ["tri_normal"]
     },
     {
       name: "palette_bois",
@@ -413,7 +383,7 @@ var _theGoodSortingData = {
       advice_en: "In the composter.",
       image: "peau_banane.png",
       reponses: ["composteur"],
-      exclude_filters: ["niveau_enfant", "niveau_expert"]
+      exclude_filters: ["niveau_expert"]
     },
     {
       name: "pneu",
@@ -437,7 +407,7 @@ var _theGoodSortingData = {
       advice_en: "Waste disposal at the level of toxic products.",
       image: "pot_peinture.png",
       reponses: ["decheterie"],
-      exclude_filters: ["niveau_enfant", "niveau_expert"]
+      exclude_filters: ["niveau_enfant"]
     },
     {
       name: "rasoir_jetable",
@@ -474,18 +444,6 @@ var _theGoodSortingData = {
       exclude_filters: ["niveau_expert"]
     },
     {
-      name: "voiture_jouet_pile",
-      descr: "Voiture enfant avec LED",
-      descr_en: "Toy car with LED",
-      advice:
-        "En déchèterie dans la benne « appareils électriques et électroniques »  / Les magasins qui vendent ces produits les reprennent également si vous en achetez un neuf.",
-      advice_en:
-        "Recycling centre or Back to store : appliances with electricity must be brought back to waste collection site. We can give them back to the store if we buy a new equivalent device.",
-      image: "voiture_jouet_pile.png",
-      reponses: ["decheterie", "retour"],
-      exclude_filters: ["niveau_enfant"]
-    },
-    {
       name: "yaourt_trinormal",
       descr: "Yaourt",
       descr_en: "Yogurt pot",
@@ -495,17 +453,116 @@ var _theGoodSortingData = {
         "Waste bin: in plastics, only bottles and bottles go into recycling.",
       image: "yaourt.png",
       reponses: ["poubelle"],
-      exclude_filters: ["tri_extension", "niveau_enfant"]
+      exclude_filters: ["tri_extension"]
     },
     {
       name: "yaourt_extensiondetri",
-      descr: "Yaourt",
-      descr_en: "Yogurt pot",
+      descr: "Téléphone portable",
+      descr_en: "",
       advice: "Recyclage : tout le plastique se recycle en extension de tri.",
       advice_en: "Recycling: all the plastic is recycled in sorting extension.",
       image: "yaourt.png",
       reponses: ["jaune"],
-      exclude_filters: ["tri_normal", "niveau_enfant"]
+      exclude_filters: ["tri_normal"]
+    },
+    {
+      name: "telephone_portable",
+      descr: "Yaourt",
+      descr_en: "Yogurt pot",
+      advice:
+        "En déchèterie dans la benne « appareils électriques et électroniques » . Les magasins de plus de 400 m² qui vendent des petits appareils électriques et électroniques de 25 cm maximum les reprennent également sans obligation d'achat.",
+      advice_en:
+        'Waste disposal in the dump "electrical and electronic appliances". Stores of more than 400 m² that sell small electrical and electronic devices up to 25 cm also take them back without any obligation to purchase.',
+      image: "telephone.png",
+      reponses: ["jaune"],
+      exclude_filters: ["tri_normal"]
+    },
+    {
+      name: "barquette_jambon_trinormal",
+      descr: "Barquette de jambon en plastique",
+      descr_en: "Ham tray made of plastic",
+      advice:
+        "Poubelle : dans les plastiques, seuls les bouteilles et flacons vont en recyclage.",
+      advice_en:
+        "Waste bin: in plastics, only bottles and bottles go into recycling.",
+      image: "emballage_polystyrene.png",
+      reponses: ["poubelle"],
+      exclude_filters: ["tri_extension"]
+    },
+    {
+      name: "barquette_jambon__extensiondetri",
+      descr: "Barquette de jambon en plastique",
+      descr_en: "Ham tray made of plastic",
+      advice: "Recyclage : tout le plastique se recycle en extension de tri.",
+      advice_en: "Recycling: all the plastic is recycled in sorting extension.",
+      image: "emballage_polystyrene.png",
+      reponses: ["jaune"],
+      exclude_filters: ["tri_normal"]
+    },
+    {
+      name: "miroir",
+      descr: "Miroir",
+      descr_en: "Miror",
+      advice: "Recyclage : tout le plastique se recycle en extension de tri.",
+      advice_en: "Recycling: all the plastic is recycled in sorting extension.",
+      image: "miroir.png",
+      reponses: ["jaune"],
+      exclude_filters: ["tri_normal"]
+    },
+    {
+      name: "pile",
+      descr: "Piles",
+      descr_en: "Batteries",
+      advice:
+        "A mettre dans les bornes dédiées que l’on trouve en déchèterie et dans certains magasins et grandes surfaces.",
+      advice_en: "To put in the dedicated terminals that are found in refuse and in some stores and supermarkets.",
+      image: "pile9v.png",
+      reponses: ["retour", "decheterie"],
+      exclude_filters: ["niveau_expert"]
+    },
+    {
+      name: "cartouche_encre_imprimante",
+      descr: "Cartouche d’encre d’imprimante",
+      descr_en: "Printer ink cartridge",
+      advice:
+        "A mettre dans les bornes dédiées que l’on trouve en déchèterie et dans certains magasins et grandes surfaces.",
+      advice_en: "To put in the dedicated terminals that are found in refuse and in some stores and supermarkets.",
+      image: "cartouches_imprimantes.png",
+      reponses: ["retour", "decheterie"],
+      exclude_filters: ["niveau_enfant"]
+    },
+    {
+      name: "bouteille_eau_plastique",
+      descr: "Bouteille d'eau en plastique",
+      descr_en: "Plastic water bottle",
+      advice:
+        "Recyclage : les bouteilles et flacons plastiques vides se recyclent.",
+      advice_en: "Recycling : empty plastic bottles and flasks are recycled",
+      image: "bouteille_transparente.png",
+      reponses: ["jaune"],
+      exclude_filters: ["niveau_expert"]
+    },
+    {
+      name: "emballage_compote_a_boire",
+      descr: "Emballage de compote à boire",
+      descr_en: "Pack of compote to drink",
+      advice: "Poubelle.",
+      advice_en: "Bin.",
+      image: "compote-boire.png",
+      reponses: ["poubelle"],
+      exclude_filters: ["niveau_expert"]
+    },
+    {
+      name: "jouet_plastique",
+      descr: "Jouet en plastique",
+      descr_en: "Plastic toy",
+      resume: "( cassé )",
+      resume_en: "( out of use )",
+      advice: "Poubelle.",
+      advice_en: "Bin.",
+      image: "jouet_enfant.png",
+      reponses: ["poubelle"],
+      exclude_filters: ["niveau_expert"]
     }
   ],
   reponses: [

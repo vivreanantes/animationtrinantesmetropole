@@ -217,6 +217,20 @@ export class QuizPage {
    * @param reponseId String
    */
   drop(e: any, reponseId: string) {
+
+    // No confirm popup
+    let t = this;
+    this._isGoodReponse(reponseId).then(
+      resolve => {
+        if (resolve === true) this.goodAnswers++;
+        t.questions[t.questionIndex].isTrue = resolve;
+        t.onConfirm = true;
+        t.onSelect = false;
+        t.onAdvise = true;
+      }
+    );
+/*
+
     this.onDrag = false;
     this.onSelect = true;
     this.dragleave(e, reponseId);
@@ -224,10 +238,10 @@ export class QuizPage {
     $("#" + reponseId).addClass("selected");
     this._getReponse(reponseId).then(reponse => {
       this.questions[this.questionIndex].userReponse = reponse;
-    });
+    });*/
   }
   /**
-   * Evenement de clique sur un reponse
+   * Evenement de clic sur une reponse
    * @param e Event
    * @param reponseId
    */

@@ -248,7 +248,7 @@ var _ihmLabelsEnDatas = {
 	"erreur_de_lapplication_descr" : "So inform us of an error in the application, ",
 	"erreur_filieretri_title" : "Advice sorting prosess",
 	"erreur_filieretri_descr" : "To make the community improve on sorting, use the FixMaVille application.",
-	"ecrire_nous": "send a message to mieuxtrieranantes@gmail.com",
+	"ecrire_nous": "send a message to animationtrinantesmetropole@gmail.com",
 	"drap_to_answer":"Drag to answer",
 	"adresse_configuree":"Adress configured",
 	"votre_mode_de_tri":"Your sorting mod",
