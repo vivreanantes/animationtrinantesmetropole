@@ -47,5 +47,6 @@
   "contact_error_network": "Error: Message not sent",
   "contact_me": "Thank you for participating. Fill out the satisfaction form",
   "tri_normal": "Normal",
-  "tri_extension": "Extension"
+  "tri_extension": "Extension",
+  "home": "Accueil"
 }

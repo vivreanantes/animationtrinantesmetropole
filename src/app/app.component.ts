@@ -2,6 +2,7 @@ import { Component, ViewChild } from "@angular/core";
 import { IonicPage, Platform, MenuController, Nav } from "ionic-angular";
 import { StatusBar } from "@ionic-native/status-bar";
 
+import { HomePage } from "../pages/home/home";
 import { QuizPage } from "../pages/quiz/quiz";
 import { CodedelaroutePage } from "../pages/codedelaroute/codedelaroute";
 import { ContactPage } from "../pages/contact/contact";
@@ -31,6 +32,7 @@ export class MyApp {
     private difficultHandler: DifficultHandler
   ) {
     this.pages = [
+      { title: "accueil", component: HomePage },
       { title: "jeux", component: QuizPage },
       { title: "cdlr", component: CodedelaroutePage },
       { title: "contact", component: ContactPage },

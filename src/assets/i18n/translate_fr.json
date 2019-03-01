@@ -48,5 +48,6 @@
   "contact_error_network": "Erreur lors de l'envoi du message.",
   "contact_me": "Merci d'avoir participer. Remplissez le formulaire de satisfaction",
   "tri_normal": "Tri normal",
-  "tri_extension": "Extension de tri"
+  "tri_extension": "Extension de tri",
+  "home": "Accueil"
 }
