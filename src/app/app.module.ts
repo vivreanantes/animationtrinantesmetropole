@@ -7,6 +7,7 @@ import { HttpModule } from "@angular/http";
 import { NguCarouselModule } from "@ngu/carousel";
 
 import { MyApp } from "./app.component";
+import { HomePage } from "../pages/home/home";
 import { QuizPage } from "../pages/quiz/quiz";
 import { CodedelaroutePage } from "../pages/codedelaroute/codedelaroute";
 import { ContactPage } from "../pages/contact/contact";
@@ -31,6 +32,7 @@ import { TranslateHttpLoader } from "@ngx-translate/http-loader";
 @NgModule({
   declarations: [
     MyApp,
+    HomePage,
     QuizPage,
     CodedelaroutePage,
     ContactPage,
@@ -45,6 +47,7 @@ import { TranslateHttpLoader } from "@ngx-translate/http-loader";
       {},
       {
         links: [
+          { component: HomePage, segment: "home" },
           { component: QuizPage, segment: "quiz" },
           { component: CodedelaroutePage, segment: "code_de_la_route" },
           { component: ContactPage, segment: "contact" },
@@ -68,6 +71,7 @@ import { TranslateHttpLoader } from "@ngx-translate/http-loader";
   bootstrap: [IonicApp],
   entryComponents: [
     MyApp,
+    HomePage,
     QuizPage,
     CodedelaroutePage,
     ContactPage,

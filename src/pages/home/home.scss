@@ -1,0 +1,143 @@
+page-home {
+  ::-webkit-scrollbar {
+    display: none;
+  }
+  > #background {
+    $quiz_bg_blur: 10px;
+    position: absolute;
+    top: -$quiz_bg_blur;
+    left: -$quiz_bg_blur;
+    right: -$quiz_bg_blur;
+    bottom: -$quiz_bg_blur;
+    background: rgb(122, 188, 255);
+    background: -moz-linear-gradient(
+      45deg,
+      rgba(122, 188, 255, 1) 0%,
+      rgba(96, 171, 248, 1) 44%,
+      rgba(64, 150, 238, 1) 100%
+    );
+    background: -webkit-linear-gradient(
+      45deg,
+      rgba(122, 188, 255, 1) 0%,
+      rgba(96, 171, 248, 1) 44%,
+      rgba(64, 150, 238, 1) 100%
+    );
+    background: linear-gradient(
+      45deg,
+      rgba(122, 188, 255, 1) 0%,
+      rgba(96, 171, 248, 1) 44%,
+      rgba(64, 150, 238, 1) 100%
+    );
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7abcff', endColorstr='#4096ee',GradientType=1 );
+
+    &:after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: #000;
+      opacity: 0;
+      @include prefix(transition, opacity 0.3s ease-in-out, webkit);
+    }
+  }
+  > ion-content {
+    background-color: transparent !important;
+    > .scroll-content {
+      display: flex;
+      flex-direction: column;
+      > #logo {
+        margin: auto;
+        width: 60%;
+        > img {
+          width: 100%;
+          height: auto;
+        }
+        @include desktop {
+          width: 30%;
+          grid-template-columns: repeat(auto-fill, minmax(15vw, 1fr));
+        }
+        @include tablet {
+          width: 40%;
+        }
+      }
+      > #menu {
+        margin: auto;
+        display: grid;
+        width: 100%;
+        cursor: pointer;
+        grid-template-columns: repeat(auto-fill, minmax(45vw, 1fr));
+        grid-auto-rows: 1fr;
+        @include desktop {
+          width: 70%;
+          grid-template-columns: repeat(auto-fill, minmax(15vw, 1fr));
+        }
+        @include tablet {
+          width: 70%;
+          grid-template-columns: repeat(auto-fill, minmax(30vw, 1fr));
+        }
+        &:before {
+          content: "";
+          width: 0;
+          padding-bottom: 100%;
+          grid-row: 1 / 1;
+          grid-column: 1 / 1;
+        }
+        > .page {
+          display: flex;
+          flex-direction: column;
+          height: 45vw;
+          width: 45vw;
+          @include desktop {
+            height: 15vw;
+            width: 15vw;
+          }
+          @include tablet {
+            height: 30vw;
+            width: 30vw;
+          }
+          background: -moz-linear-gradient(
+            45deg,
+            rgba(255, 255, 255, 1) 0%,
+            rgba(255, 255, 255, 0) 100%
+          );
+          background: -webkit-linear-gradient(
+            45deg,
+            rgba(255, 255, 255, 1) 0%,
+            rgba(255, 255, 255, 0) 100%
+          );
+          background: linear-gradient(
+            45deg,
+            rgba(255, 255, 255, 1) 0%,
+            rgba(255, 255, 255, 0) 100%
+          );
+          filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#00ffffff',GradientType=1 );
+          border-radius: 5px;
+          margin: auto;
+          color: #fff;
+          &:first-child {
+            grid-row: 1 / 1;
+            grid-column: 1 / 1;
+          }
+
+          > ion-icon {
+            margin: auto;
+            font-size: 20vw;
+            @include desktop {
+              font-size: 10vw;
+            }
+            @include tablet {
+              font-size: 10vw;
+            }
+          }
+          > span {
+            margin: auto;
+            color: #fff;
+            @include fonts("h1", bold);
+          }
+        }
+      }
+    }
+  }
+}
