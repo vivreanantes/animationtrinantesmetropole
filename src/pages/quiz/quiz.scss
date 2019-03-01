@@ -233,7 +233,7 @@ page-quiz {
     }
 
     #title2 {
-      @include fonts("h2", bold);
+      @include fonts("h4", bold);
       color: #fff;
       text-align: center;
     }
@@ -590,13 +590,13 @@ page-quiz {
                         }
                         @include fonts("h2", bold);
                       }
-                      h3 {
+                      h4 {
                         margin: auto;
                         color: color($colors, "danger");
                         &.is-true {
                           color: color($colors, "secondary");
                         }
-                        @include fonts("h3", bold);
+                        @include fonts("h4", normal);
                       }
                     }
                     ion-card-content {
