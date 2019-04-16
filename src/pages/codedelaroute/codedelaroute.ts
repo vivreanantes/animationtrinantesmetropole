@@ -217,7 +217,7 @@ export class CodedelaroutePage {
           }
           t.onSelect = false;
           t.onAdvise = true;
-        }, 3000);
+        }, 300);
       }
     });
   }

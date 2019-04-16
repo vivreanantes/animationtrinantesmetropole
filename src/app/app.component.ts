@@ -20,7 +20,7 @@ import { DifficultHandler } from "../handlers/difficult.handler";
 export class MyApp {
   @ViewChild(Nav)
   nav: Nav;
-  rootPage: any = QuizPage;
+  rootPage: any = HomePage;
   pages: Array<{ title: string; component: any }>;
 
   constructor(
