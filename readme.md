@@ -27,6 +27,8 @@
     exemple de composant : jdk-8u201-windows-x64.exe
     répertoire installation : C:\dev\jdk1.8.0_66
 
+- Installer Android Studio
+
 - Installer Android SDK Tools
   Bien choisir "SDK Tools Only" (exemple : installer_r24.3.3-windows.exe )
   http://developer.android.com/sdk/index.html#download
@@ -44,7 +46,7 @@ C:\dev\android-sdk
       sdkmanager --licenses
 
 - Générer l’APK :
-  SET ANDROID_HOME=C:\dev\android-sdk 
+  SET ANDROID_HOME=C:\dev\android-sdk
   ionic cordova build —prod —release android
   
   
