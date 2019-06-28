@@ -4,7 +4,6 @@ import { ModalController } from "ionic-angular";
 import { DataService } from "../services/data.service";
 
 import { DifficultModalPage } from "../pages/difficult-modal/difficult-modal";
-import { modelGroupProvider } from "@angular/forms/src/directives/ng_model_group";
 
 @Injectable()
 export class DifficultHandler {
