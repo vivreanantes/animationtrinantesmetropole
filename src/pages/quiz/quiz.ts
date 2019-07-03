@@ -229,6 +229,7 @@ export class QuizPage {
         t.onAdvise = true;
       }
     );
+    this.dragleave(e, reponseId);
 /*
 
     this.onDrag = false;
