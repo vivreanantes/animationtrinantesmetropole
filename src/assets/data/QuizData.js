@@ -457,8 +457,8 @@ var _theGoodSortingData = {
     },
     {
       name: "yaourt_extensiondetri",
-      descr: "Téléphone portable",
-      descr_en: "",
+      descr: "Yaourt",
+      descr_en: "Yogurt pot",
       advice: "Recyclage : tout le plastique se recycle en extension de tri.",
       advice_en: "Recycling: all the plastic is recycled in sorting extension.",
       image: "yaourt.png",
@@ -467,15 +467,15 @@ var _theGoodSortingData = {
     },
     {
       name: "telephone_portable",
-      descr: "Yaourt",
-      descr_en: "Yogurt pot",
+      descr: "Téléphone portable",
+      descr_en: "Mobile phone",
       advice:
         "En déchèterie dans la benne « appareils électriques et électroniques » . Les magasins de plus de 400 m² qui vendent des petits appareils électriques et électroniques de 25 cm maximum les reprennent également sans obligation d'achat.",
       advice_en:
         'Waste disposal in the dump "electrical and electronic appliances". Stores of more than 400 m² that sell small electrical and electronic devices up to 25 cm also take them back without any obligation to purchase.',
       image: "telephone.png",
-      reponses: ["jaune"],
-      exclude_filters: ["tri_normal"]
+      reponses: ["retour"],
+      exclude_filters: ["niveau_enfant"]
     },
     {
       name: "barquette_jambon_trinormal",
