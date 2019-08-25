@@ -184,6 +184,7 @@ var _ihmLabelsEnDatas = {
 	"recherche": "Search",
 	"recherche_solutions": "Solution search",
 	"jhabite_nantes": "Town of Nantes.",
+	"jhabite_extension": "Town : La Montagne, le Pellerin, Saint Jean de Boiseau, Carquefou (sorting extension part of the town)",
 	"jhabite_hors_nantes": "Other town of Nantes Métropôle",
 	"fiche_descr": "{{descr}}",
 	"nom_translated": "{{nom_en}}",

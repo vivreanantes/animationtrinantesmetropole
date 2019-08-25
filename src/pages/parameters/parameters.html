@@ -37,7 +37,7 @@
 						<ion-icon name="radio-button-off" *ngIf="currentHomeCollectMods.label !== collect.label"></ion-icon>
 					</div>
 					<div class="title">
-						<span>{{ collect.label|translate }} {{ (i==0)?" - "+(collect.type|translate):"" }}</span>
+						<span>{{ collect.label|translate }} - {{ collect.type|translate }}</span>
 					</div>
 				</div>
 				<div class="item tri-address" *ngIf="currentHomeCollectMods.canAddress === true && currentHomeCollectMods.address.mco">
