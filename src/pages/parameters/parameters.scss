@@ -52,7 +52,7 @@ page-parameters {
         .list {
           > .item {
             display: flex;
-            height: 54px;
+            height: 90px;
             width: 100%;
             padding: 7px 10px;
 
@@ -131,11 +131,13 @@ page-parameters {
               display: flex;
               color: #000;
               @include fonts("p");
-              line-height: 40px;
+              line-height: 20px;
               > span {
                 margin: auto;
+
               }
             }
+
           }
         }
       }

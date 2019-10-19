@@ -503,11 +503,13 @@ var _theGoodSortingData = {
       name: "miroir",
       descr: "Miroir",
       descr_en: "Miror",
-      advice: "Recyclage : tout le plastique se recycle en extension de tri.",
-      advice_en: "Recycling: all the plastic is recycled in sorting extension.",
+      advice:
+        "Poubelle : seul le 'verre d'emballage' (bouteille, bocaux) peut être recyclé et mis dans une colonne dédiée.",
+      advice_en:
+        "Waste bin: only the 'packaging glass' (bottle, jars) can be recycled and put in a dedicated column.",
       image: "miroir.png",
-      reponses: ["jaune"],
-      exclude_filters: ["tri_normal"]
+      reponses: ["bleu"],
+      exclude_filters: ["niveau_enfant"]
     },
     {
       name: "pile",
