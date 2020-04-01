@@ -474,7 +474,7 @@ var _theGoodSortingData = {
       advice_en:
         'Waste disposal in the dump "electrical and electronic appliances". Stores of more than 400 m² that sell small electrical and electronic devices up to 25 cm also take them back without any obligation to purchase.',
       image: "telephone.png",
-      reponses: ["retour"],
+      reponses: ["decheterie"],
       exclude_filters: ["niveau_enfant"]
     },
     {
