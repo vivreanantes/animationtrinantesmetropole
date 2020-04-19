@@ -1,4 +1,4 @@
-var _garbagesData = [{
+var _garbagesDatas = [{
     "code": "dec_acides",
     "type": "Ressource / objet usagé",
     "type_en": "Resource / Used object",
@@ -1538,7 +1538,7 @@ var _garbagesData = [{
     "type_en": "Resource / Used object",
     "nom": "Huile alimentaire",
     "nom_en": "Edible oil",
-    "cat_usuel": "cu_vertboi",
+    "cat_usuel": "cu_vertbois",
     "cat_trait": "cat_omr",
     "descr": "huile alimentaire, huile de friture",
     "descr_en": "edible oil, cooking oil",
@@ -1859,7 +1859,7 @@ var _garbagesData = [{
     "type_en": "Resource / Used object",
     "nom": "Médicament",
     "nom_en": "Drug",
-    "cat_usuel": "scu_medicament",
+    "cat_usuel": "cu_toxique",
     "cat_trait": "cat_medicament",
     "descr": "médicament",
     "descr_en": "drug",
@@ -2055,7 +2055,7 @@ var _garbagesData = [{
     "type_en": "Resource / Used object",
     "nom": "Ordinateurs portables",
     "nom_en": "Laptop",
-    "cat_usuel": "scu_medicament",
+    "cat_usuel": "cu_encombrantelectronique",
     "cat_trait": "cat_d3e",
     "descr": "ordinateur portables",
     "descr_en": "laptop",
