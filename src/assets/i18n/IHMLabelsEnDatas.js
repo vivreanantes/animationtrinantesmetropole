@@ -217,6 +217,7 @@ var _ihmLabelsEnDatas = {
 	"apropos": "A propos",
 	"recyclable": "Recyclable",
 	"non_recyclable": "Not Recyclable",
+    "recyclable_oui_et_non" : "Recycable (ecause you are sorting extension in Nantes, La Montagne, Pellerin, Saint Jean de Boiseau or part of Carquefou)",
 	"recyclable_pas_poubelle": "Not Recyclable (don't put in trash)",
 	"recyclable_nantes": "Recycable (yellow boxes for Nantes only)",
 	"zerodechetnantes": "No waste Nantes",

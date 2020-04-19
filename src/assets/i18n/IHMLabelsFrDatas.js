@@ -216,6 +216,7 @@ var _ihmLabelsFrDatas = {
 	"langue_de_lapplication": "Langue de l'application",
 	"apropos": "A propos",
 	"non_recyclable": 'Non Recyclable',
+	"recyclable_oui_et_non" : "Recycable (car vous êtes en extension de tri à Nantes, La Montagne, le Pellerin, Saint Jean de Boiseau ou une partie de Carquefou)",
 	"recyclable_pas_poubelle": 'Non Recyclable (ne pas mettre à la poubelle)',
 	"recyclable_nantes": 'Recycable (Bacs jaunes à Nantes uniquement)',
 	"zerodechetnantes": "Zéro déchet Nantes",
