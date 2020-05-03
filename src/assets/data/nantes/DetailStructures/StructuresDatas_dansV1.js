@@ -1,7 +1,7 @@
 var _structuresDatas = [{
 		"code": "stco_reemploi_popfringues",
 		"latitude": "47.20508",
-		"longitude": "-1.575083",
+		"longitude": "-1.575083",JSON Viewer 
 		"modesCollecte": "smco_reemp",
 		"type": "Association de réemploi",
 		"statut": "Association",

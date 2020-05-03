@@ -80,12 +80,12 @@ var _paramFilterTypeMapDatas = [{
 		"nom": "Conteneurs (1580)",
 		"nom_en": "Containers (1580)",
 		"image": "resources/icons/marker-icon-brown.png"
-	}, {
-		"id": "3",
-		"code": "modco_ecopoint,modco_decheterie",
-		"nom": "Déchèteries / Ecopoints (16)",
-		"nom_en": "Déchèteries / Ecopoints (16)",
-		"image": "resources/icons/marker-icon-green.png"
+//	}, {
+//		"id": "3",
+//		"code": "modco_ecopoint,modco_decheterie",
+//		"nom": "Déchèteries / Ecopoints (16)",
+//		"nom_en": "Déchèteries / Ecopoints (16)",
+//		"image": "resources/icons/marker-icon-green.png"
 	}, {
 		"id": "4",
 		"code": "modco_compostage",
@@ -104,21 +104,27 @@ var _paramFilterTypeMapDatas = [{
 		"nom": "Vente vrac (105)",
 		"nom_en": "No packaging shops (83)",
 		"image": "resources/icons/marker-icon-red.png"
-	}, {
-		"id": "7",
-		"code": "trisacs",
-		"nom": "Trisac (116)",
-		"nom_en": "Trisac (116)",
-		"image": "resources/icons/marker-icon-purple.png"
-	}, {
-		"id": "8",
-		"code": "modco_bouchons",
-		"nom": "Collecteurs bouchons (38)",
-		"nom_en": "Collector corks (38)",
+//	}, {
+//		"id": "7",
+//		"code": "trisacs",
+//		"nom": "Trisac (116)",
+//		"nom_en": "Trisac (116)",
+//		"image": "resources/icons/marker-icon-purple.png"
+//	}, {
+//		"id": "8",
+//		"code": "modco_bouchons",
+//		"nom": "Collecteurs bouchons (38)",
+//		"nom_en": "Collector corks (38)",
+//		"image": "resources/icons/marker-icon-grey.png"
+	}
+		}, {
+		"id": "9",
+		"code": "coreparation",
+		"nom": "Ateliers co-réparations",
+		"nom_en": "Self repair workshop",
 		"image": "resources/icons/marker-icon-grey.png"
 	}
 ];
-
 var paramAllPlaces = 'smco_reemp|modco_decheterie|modco_ecopoint|modco_encombrants_resume|ventevracstruct';
 
 var paramIconsMap = {
