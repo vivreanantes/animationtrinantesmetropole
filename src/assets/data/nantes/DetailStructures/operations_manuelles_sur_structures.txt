@@ -40,10 +40,17 @@ out center body;
 "repair": "assisted_self_service",
 "repair": "assisted_self_service","type": "coreparation","carteMarqueur": "9",
 
-"@id"
-"openstreetmap_id"
+"@id": "node/
+"code": "osm_
 
+"id":
+"id_osm":
 
+"description"
+"desc"
+
+"name"
+"nom"
 
 ---- REMPLACEMENTS PAR VIDE
 
@@ -56,4 +63,5 @@ out center body;
       "properties": {
   ]
 "@geometry": "center" 
-	
+addr:
+contact:
