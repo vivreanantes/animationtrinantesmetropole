@@ -28,6 +28,13 @@ out center body;
 ^(					0\.)([0-9]*)(\,)$
 ,\"longitude\"\:\"\ 0\.\2\",
 
+^(          \"name\": \")(.)*(\"\,)$
+^(			)(\"nom\": \")(.*)(\"\,)$
+\1\2\3\4\"cartePopupText\":\"\3\4
+
+^(			)(\"mapillary\": \")(.*)(\"\,)$
+\1"photos\":\"https\:\/\/d1cuyjsrcm0gby\.cloudfront\.net\/\3\/thumb-640\.jpg\4
+Ca donne par exemple : https://d1cuyjsrcm0gby.cloudfront.net/{mapillary}/thumb-640.jpg
 
 ---- REMPLACEMENTS SIMPLES
 
@@ -51,6 +58,21 @@ out center body;
 
 "name"
 "nom"
+
+"phone"
+"tel"
+
+"image"
+"photos"
+
+"vending"
+"mots_cles"
+
+"website"
+"url"
+
+"source"
+"src"
 
 ---- REMPLACEMENTS PAR VIDE
 
