@@ -1,0 +1,52 @@
+
+---- REMPLACEMENTS SIMPLE
+
+"datasetid" par
+"src"="Ville de Nantes", "modesCollecte": "modco_distrisac", "cons": "cons_distrisac_relais,cons_distrisac_piecesobligatoires","code": 
+
+"id": "
+"code" : "trisac_
+
+quartier
+zone
+
+  "record_timestamp": "
+  "src":"Ville de Nantes - 
+
+commune
+city
+
+adresse
+street
+
+numero
+housenumber
+	
+"rdv
+"jour_
+
+"hfin
+"heure_fin_
+	
+
+---- REMPLACEMENTS SIMPLE PAR CHAINE VIDE
+	
+  },
+  
+  "geometry": {
+
+    "type": "Point",
+  
+  "fields": {
+
+
+---- REMPLACEMENTS EXPRESSION REGULIERE
+	
+^(    \"lat_wgs84\": )([0-9]*)(\.)([0-9]*)(\,)$
+    \"latitude\"\:\"\2\3\4\",
+	
+^(    \"long_wgs84\": -)([0-9]*)(\.)([0-9]*)(\,)$
+    \"longitude\"\:\"-\2\3\4\",
+
+T[0-9][0-9]:[0-9][0-9]:[0-9][0-9].[0-9][0-9][0-9]\+[0-9][0-9]:[0-9][0-9]
+T09:32:14.482+02:00

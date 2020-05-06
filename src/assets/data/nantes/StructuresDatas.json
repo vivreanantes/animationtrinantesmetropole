@@ -1,7 +1,7 @@
 {
 	"_structuresDatas": [
 		{
-			"openstreetmap_id": "way/270901433",
+			"code": "osm_270901433",
 			"building": "yes",
 			"charity": "yes",
 			"city": "Belligné",
@@ -22,7 +22,7 @@
 			"id_osm": "way/270901433"
 		},
 		{
-			"openstreetmap_id": "way/280345309",
+			"code": "osm_280345309",
 			"amenity": "recycling",
 			"barrier": "fence",
 			"charity": "yes",
@@ -93,7 +93,7 @@
 			"id_osm": "node/364694509"
 		},
 		{
-			"openstreetmap_id": "way/436782996",
+			"code": "osm_436782996",
 			"charity": "yes",
 			"city": "Nantes",
 			"housenumber": "8",
