@@ -215,9 +215,10 @@ var _ihmLabelsFrDatas = {
 	"hnsl": "Hors Nantes : Sud Loire",
 	"langue_de_lapplication": "Langue de l'application",
 	"apropos": "A propos",
-	"non_recyclable": 'Non Recyclable',
-	"recyclable_oui_et_non" : "Recycable (car vous êtes en extension de tri à Nantes, La Montagne, le Pellerin, Saint Jean de Boiseau ou une partie de Carquefou)",
-	"recyclable_pas_poubelle": 'Non Recyclable (ne pas mettre à la poubelle)',
+	"recyclable": "Je mets au tri ?",
+	"non_recyclable": "Non",
+	"recyclable_oui_et_non" : "Oui (car vous êtes en extension de tri à Nantes, La Montagne, le Pellerin, Saint Jean de Boiseau ou une partie de Carquefou ou une partie de Orvault)",
+	"recyclable_pas_poubelle": 'Non (mais ne pas mettre à la poubelle)',
 	"recyclable_nantes": 'Recycable (Bacs jaunes à Nantes uniquement)',
 	"zerodechetnantes": "Zéro déchet Nantes",
 	"zerodechetnantes_intro": "Pour toute question ou remarque, écrire à l'auteur à charles.duvergey@laposte.net",
@@ -230,7 +231,7 @@ var _ihmLabelsFrDatas = {
 	"companiesadvices_type2": "Recyclages spécifiques",
 	"companiesadvices_type3": "Conseils",
 	"carte_filter": "Filtres (points à afficher)",
-	"carte_afficher": "Afficher la carte",
+	"carte_afficher": "Filtrer",
 	"debug_mots_cles": "MODE DEBUG UNIQUEMENT : mots clés pour trouver cette page",
 	"toutletemps": "tout le temps",
 	"objets_recuperes": "Objets récupérés",
@@ -255,5 +256,6 @@ var _ihmLabelsFrDatas = {
 	"votre_mode_de_tri":"Votre mode de tri",
 	"votre_score":"Votre score",
 	"rejouer":"Rejouer",
-	"option_du_quiz":"Option du quiz"
+	"option_du_quiz":"Option du quiz",
+	"ventevracstruct":"Magasin de vracs"
 }

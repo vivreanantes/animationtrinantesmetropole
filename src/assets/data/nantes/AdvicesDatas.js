@@ -8,7 +8,7 @@ var _advicesDatas = [{
   },
   {
     "code": "cons_alloproprete",
-    "nom": "Des questions ... 02 40 41 9000",
+    "nom": "Des questions ? 02 40 41 9000",
     "nom_en": "Questions ? 02 40 41 9000",
     "descr": "AlloNantes est un numéro gratuit pour les Nantais (notamment pour les questions sur le tri). Ouvert de 8h à 19h du lundi au vendredi, et le samedi de 8h à 13h.",
     "descr_en": "AlloNantes is a free number for Nantais (including questions about sorting). Open from 8 am to 19h from Monday to Friday, and Saturday from 8 to 13h."
@@ -31,8 +31,8 @@ var _advicesDatas = [{
     "code": "cons_arcencielvalorena",
     "nom": "2 sites d'incinération",
     "nom_en": "2 burning sites",
-    "descr": "Les ordures ménagères sont incinérées à l'usine d'Arc en Ciel (Couëron) et Valoréna (Nantes). Une partie de l'énergie récupérée alimente un réseau de chauffage urbain.",
-    "descr_en": "Household waste is incinerated at the plant Arc en Ciel (Couëron) and Valoréna (Nantes). Part of the recovered energy powers a district heating network."
+    "descr": "Les ordures ménagères sont incinérées à l'usine d'Arc en Ciel (Couëron) et Alcéa (anciennement Valoréna, à Nantes - prairie de Mauves). Une partie de l'énergie récupérée alimente un réseau de chauffage urbain.",
+    "descr_en": "Household waste is incinerated at the plant Arc en Ciel (Couëron) and Alcéa (previously Valoréna, in Nantes - prairie de Mauves). Part of the recovered energy powers a district heating network."
   },
   {
     "code": "cons_assocompostage",
@@ -296,10 +296,10 @@ var _advicesDatas = [{
   },
   {
     "code": "cons_pasuniquementbouteilleflacon",
-    "nom": "Tous les plastiques dans les bacs jaunes nantais",
-    "nom_en": "All plastics in the yellow bins Nantes",
-    "descr": "Nantes mène un projet pilote : on peut mettre tous les types de plastique dans les bacs jaunes de Nantes : les bouteilles et les flacons (comme ailleurs) mais aussi les pots (crème fraiche..), barquettes, sacs de supermarché... <b><font color=red>Ceci ne concerne pas les sacs jaunes ni les bacs des autres villes de Nantes Métropole.</font></b><br/>Attention : l'objet ne doit contenir <b>que du plastique</b>.",
-    "descr_en": "Nantes is piloting: you can put all types of plastic in the yellow bins of Nantes bottles and vials (as elsewhere) but also the pots (fresh cream ..), trays, supermarket bags ... <b><font color=red> This does not include yellow bags or bins of other cities of Nantes Métropole. </font> </b>",
+    "nom": "Tous les emballages se trient pour certaines villes de Nantes Métropole.",
+    "nom_en": "All packaging is sort for certain cities of Nantes Métropole.",
+    "descr": "Plusieurs villes (Nantes, La Montagne, le Pellerin, Saint Jean de Boiseau ou une partie de Carquefou ou une partie de Orvault) sont en extension de tri : vous pouvez mettre tous les emballages : barquettes, films, couvercles, tubes, capsules, pots... mais aussi les capsules métallique de café, le papier aluminium.<br/>Pour les autres villes, aucune changement pour l'instant.</b>.",
+    "descr_en": "Several cities (Nantes, La Montagne, Pellerin, Saint Jean de Boiseau or part of Carquefou or part of Orvault) are in sorting extension: you can put all the packaging: trays, films, lids, tubes, capsules, jars ... but also metallic coffee capsules, aluminum foil. <br/> For the other cities, no changes for the moment.",
     "fiche": "fiche_pet"
   },
   {
