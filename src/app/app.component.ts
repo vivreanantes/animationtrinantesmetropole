@@ -1,48 +1,49 @@
-import { Component, ViewChild } from "@angular/core";
-import { IonicPage, Platform, MenuController, Nav } from "ionic-angular";
-import { StatusBar } from "@ionic-native/status-bar";
+import { Component } from "@angular/core";
 
-import { HomePage } from "../pages/home/home";
-import { QuizPage } from "../pages/quiz/quiz";
-import { CodedelaroutePage } from "../pages/codedelaroute/codedelaroute";
-import { ContactPage } from "../pages/contact/contact";
-import { ParametersPage } from "../pages/parameters/parameters";
+import { Platform } from "@ionic/angular";
+import { SplashScreen } from "@ionic-native/splash-screen/ngx";
+import { StatusBar } from "@ionic-native/status-bar/ngx";
+import { MenuController } from "@ionic/angular";
+import { Router } from "@angular/router";
+import { LangageService } from "./services/langage.service";
 
-import { LangageService } from "../services/langage.service";
+import { HomeCollectModsHandler } from "./handlers/home-collect-mods.handler";
+import { DifficultHandler } from "./handlers/difficult.handler";
+import * as moment from "moment";
+moment.locale("fr");
 
-import { HomeCollectModsHandler } from "../handlers/homeCollectMods.handler";
-import { DifficultHandler } from "../handlers/difficult.handler";
-
-@IonicPage()
 @Component({
-  templateUrl: "app.html"
+  selector: "app-root",
+  templateUrl: "app.component.html",
+  styleUrls: ["app.component.scss"],
 })
-export class MyApp {
-  @ViewChild(Nav)
-  nav: Nav;
-  rootPage: any = HomePage;
-  pages: Array<{ title: string; component: any }>;
+export class AppComponent {
+  pages: Array<any>;
 
   constructor(
-    platform: Platform,
-    statusBar: StatusBar,
-    public menu: MenuController,
+    private platform: Platform,
+    private splashScreen: SplashScreen,
+    private statusBar: StatusBar,
+    private menu: MenuController,
+    private router: Router,
     private langageService: LangageService,
     private homeCollectModsHandler: HomeCollectModsHandler,
     private difficultHandler: DifficultHandler
   ) {
     this.pages = [
-      { title: "accueil", component: HomePage },
-      { title: "jeux", component: QuizPage },
-      { title: "cdlr", component: CodedelaroutePage },
-      { title: "contact", component: ContactPage },
-      { title: "config", component: ParametersPage }
+      { title: "accueil", icon: "leaf", link: "home" },
+      { title: "jeux", icon: "leaf", link: "quiz" },
+      { title: "cdlr", icon: "help", link: "codedelaroute" },
+      { title: "carte", icon: "trash", link: "carte" },
+      { title: "trier", icon: "trash", link: "trier" },
+      { title: "contact", icon: "person", link: "contact" },
+      { title: "trisac", icon: "construct", link: "trisac" },
+      { title: "config", icon: "construct", link: "parameters" },
     ];
+    this.initializeApp();
+  }
 
-    platform.ready().then(() => {
-      statusBar.styleDefault();
-    });
-
+  initializeApp() {
     // Initialisation de la langue par defaut
     this.langageService.init();
 
@@ -51,10 +52,15 @@ export class MyApp {
 
     //Initialisation de la difficulté
     this.difficultHandler.init();
+
+    this.platform.ready().then(() => {
+      this.statusBar.styleDefault();
+      this.splashScreen.hide();
+    });
   }
 
   openPage(page) {
     this.menu.close();
-    this.nav.setRoot(page.component);
+    this.router.navigateByUrl(page.link);
   }
 }

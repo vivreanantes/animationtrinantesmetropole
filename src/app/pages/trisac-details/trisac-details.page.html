@@ -1,0 +1,50 @@
+<ion-content>
+  <div class="mt-content fiche">
+    <div class="close" (click)="close()">
+      <ion-icon name="close"></ion-icon>
+    </div>
+    <div class="header">
+      <h1>{{ item.lieu_distribution}}</h1>
+    </div>
+    <div class="body">
+      <div class="block">
+        <div class="titre">
+          <h2>{{'informations'|translate}}</h2>
+        </div>
+        <div class="body infos">
+          <p>
+            <strong>{{'type'|translate}} :</strong> {{ item.lieu_distribution }}
+            - {{ item.type_lieu }}
+          </p>
+          <p *ngIf="item.adresse">
+            <strong>{{'adresse'|translate}} :</strong> {{ item.adresse }}
+            <br />
+          </p>
+
+          <div class="horaires" *ngIf="item.horaires">
+            <strong>{{'horaire'|translate}} :</strong>
+            <p *ngFor="let horaire of item.horaires | values">
+              {{horaire.jour | amParse:'YYYY-MM-DD' | amDateFormat:'LL'}} :
+              {{horaire.heure}}
+            </p>
+          </div>
+
+          <p *ngIf="item.src">
+            <strong>{{'source'|translate}} :</strong> {{ item.src }}
+          </p>
+          <hr *ngIf="item.cons" />
+          <div class="info">
+            <h5>{{ item.cons | lang:"nom"}}</h5>
+            <div class="inner" [innerHtml]="(item.cons | lang:'descr')"></div>
+          </div>
+
+          <div class="buttons">
+            <button (click)="openMap(item.location[0],item.location[1])">
+              {{'y_aller'|translate}}
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</ion-content>

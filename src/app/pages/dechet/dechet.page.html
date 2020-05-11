@@ -1,0 +1,78 @@
+<ion-content>
+  <div class="mt-content fiche">
+    <div class="close" (click)="close()">
+      <ion-icon name="close"></ion-icon>
+    </div>
+    <div class="header">
+      <div class="img" *ngIf="item.image">
+        <img src="assets/imgs/{{ item.image }}" />
+      </div>
+      <h1>{{ item | lang:"nom"}}</h1>
+    </div>
+    <div class="body">
+      <div class="block">
+        <div class="titre">
+          <h2>Details</h2>
+        </div>
+        <div class="body">
+          <p>
+            <strong>{{'catégorie'|translate}} : </strong>{{ item.cat_usuel|
+            lang: "nom"}}
+          </p>
+          <p>
+            <strong>{{'recyclable'|translate}} : </strong>{{ item.recyc |
+            translate }}
+          </p>
+          <p>
+            <strong>{{'concerne_aussi'|translate}} : </strong>{{ item.src }}
+          </p>
+          <p><strong>{{'source'|translate}} : </strong>{{ item.src }}</p>
+          <p *ngIf="item.sponsor">
+            <strong
+              >Cette ressource est parrainée par le donateur KissKissBankBank : </strong
+            >{{item.sponsor}}
+          </p>
+        </div>
+      </div>
+
+      <div class="block" *ngIf="item.modco && item.modco.length > 0">
+        <div class="titre">
+          <h2>{{'modes_de_collecte'|translate}}</h2>
+        </div>
+        <div class="body collects">
+          <div
+            *ngFor="let modco of item.modco; let i = index"
+            class="collect"
+            (click)="voirCollec(modco)"
+          >
+            <img src="assets/imgs/{{ modco.image }}" alt="Image" />
+            <h4>{{ modco | lang:"nom"}}</h4>
+            <div class="plus">
+              <ion-icon name="help-circle"></ion-icon>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="block" *ngIf="item.cons && item.cons.length > 0">
+        <div class="titre">
+          <h2>{{'informations'|translate}}</h2>
+        </div>
+        <div class="body infos">
+          <div
+            class="info"
+            *ngFor="let con of item.cons; let i = index"
+            [ngClass]="{'plus':con.fiche}"
+            (click)="voirAdvice(con)"
+          >
+            <h5>{{ con | lang:"nom"}}</h5>
+            <div [innerHtml]="(con | lang:'descr')"></div>
+            <div class="plus" *ngIf="con.fiche">
+              <ion-icon name="help-circle"></ion-icon>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</ion-content>

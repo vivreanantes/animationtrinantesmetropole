@@ -1,0 +1,30 @@
+<ion-content>
+  <div class="mt-content fiche">
+    <div class="close" (click)="close()">
+      <ion-icon name="close"></ion-icon>
+    </div>
+    <div class="header">
+      <div class="img" *ngIf="item.image">
+        <img src="assets/imgs/{{ item.image }}" />
+      </div>
+      <h1>{{ item | lang:"nom"}}</h1>
+    </div>
+    <div class="body">
+      <div class="block">
+        <div class="titre">
+          <h2>{{'modes_de_collecte'|translate}}</h2>
+        </div>
+        <div class="body infos" [innerHtml]="(item|lang:'descr')"></div>
+      </div>
+      <div class="block" *ngIf="item.colFiches">
+        <div class="titre">
+          <h2>{{'informations'|translate}}</h2>
+        </div>
+        <div
+          class="body infos"
+          [innerHtml]="(item.colFiches|lang:'descr')"
+        ></div>
+      </div>
+    </div>
+  </div>
+</ion-content>

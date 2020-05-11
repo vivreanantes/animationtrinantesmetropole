@@ -25,7 +25,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "Clothing, trinkets, books, sweater, pants, jacket",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Pop' Fringues (Secours Populaire Français Nantes)<br/><i>Source  Entretien SecoursPopulaire /MieuxTrierANantes 08/2016</i>",
 		"cartePopuptext_en": "Pop' Fringues (Secours Populaire Français Nantes)<br/><i>Source : Entretien SecoursPopulaire /MieuxTrierANantes 08/2016</i>"
 	}, {
@@ -44,7 +44,7 @@ var _structuresDatas = [{
 		"email": "nantes@spf.org ",
 		"facebook": "https://www.facebook.com/spf.nantes/",
 		"tel": "02 40 95 10 61",
-		"logo": "resources/images/nantes/logo_secours_populaire_francais.png",
+		"logo": "assets/imgs/nantes/logo_secours_populaire_francais.png",
 		"src": "Entretien SecoursPopulaire /MieuxTrierANantes 08/2016",
 		"horaires": "Dépôt les mardi et jeudi de 9h00 à 12h et de 13h30 à 17h. Ouverture tout public le 1er samedi du mois de 9h à 12h30 et les 3 derniers vendredis de 9h30 à 12h et de 13h30 à 15h30. Fermé les jours fériés, en août, et 1 semaine sur 2 sur les vacances scolaires.",
 		"plagesHoraires": "0101-3107+0109-3112_ma+je_09h30-12h00+13h30-17h00,0101-3107+0109-3112_ve_09h30-12h00+13h30-15h30,sauf_ferie",
@@ -57,7 +57,7 @@ var _structuresDatas = [{
 		"photos": "www.mieuxtrieranantes.fr/docs/medias/VisiteSolidariMeubles/VisiteSolidariMeubles_DSC_0499.JPG,www.mieuxtrieranantes.fr/docs/medias/VisiteSolidariMeubles/VisiteSolidariMeubles_DSC_0501.JPG,www.mieuxtrieranantes.fr/docs/medias/VisiteSolidariMeubles/VisiteSolidariMeubles_DSC_0504.JPG,www.mieuxtrieranantes.fr/docs/medias/VisiteSolidariMeubles/VisiteSolidariMeubles_DSC_0507.JPG,www.mieuxtrieranantes.fr/docs/medias/VisiteSolidariMeubles/VisiteSolidariMeubles_DSC_0509.JPG",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Solidari'meubles (Secours Populaire Français Nantes)<br/><i>Source  Entretien SecoursPopulaire /MieuxTrierANantes 08/2016</i>",
 		"cartePopuptext_en": "Solidari'meubles (Secours Populaire Français Nantes)<br/><i>Source : Entretien SecoursPopulaire /MieuxTrierANantes 08/2016</i>"
 	}, {
@@ -76,7 +76,7 @@ var _structuresDatas = [{
 		"email": "nantes@spf.org ",
 		"facebook": "https://www.facebook.com/spf.nantes/",
 		"tel": "02 40 29 45 26",
-		"logo": "resources/images/nantes/logo_secours_populaire_francais.png",
+		"logo": "assets/imgs/nantes/logo_secours_populaire_francais.png",
 		"src": "Entretien SecoursPopulaire /MieuxTrierANantes 08/2016",
 		"horaires": "Lundi, mardi et jeudi de 10h à 12h30 et de 14h à 17h. Le vendredi de 14h à 17h.  Fermé les jours fériés, en août, et 1 semaine sur 2 sur les vacances scolaires.",
 		"plagesHoraires": "0101-3107+0109-3112_lu+ma+je_10h00-12h30+14h00-17h00,0101-3107+0109-3112_ve_14h00-17h00,sauf_ferie",
@@ -88,7 +88,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "clothing, small furniture, books, toys, dishes, sweater, pants, jacket",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "S'POP affaires (Secours Populaire Français Nantes)<br/><i>Source  Entretien SecoursPopulaire /MieuxTrierANantes 08/2016</i>",
 		"cartePopuptext_en": "S'POP affaires (Secours Populaire Français Nantes)<br/><i>Source : Entretien SecoursPopulaire /MieuxTrierANantes 08/2016</i>"
 	}, {
@@ -107,7 +107,7 @@ var _structuresDatas = [{
 		"email": "contact@velocampus.net",
 		"facebook": "https://www.facebook.com/pages/Velocampus-Nantes/349718938395583",
 		"tel": "02 40 16 26 45",
-		"logo": "resources/images/nantes/logo-velocampus.png",
+		"logo": "assets/imgs/nantes/logo-velocampus.png",
 		"src": "Actualisation par mail à mieuxtrieranantes@gmail.com, le 18/04/2016",
 		"horaires": "accueil du mardi au vendredi de 13h30 à 18h ; ateliers de réparation : mardi 13h30-17h30 et 19h30-22h, mercredi 16h-20h, jeudi 13h30-17h30",
 		"plagesHoraires": "0101-3112_lu+ma+me+je+ve_13h30-18h",
@@ -119,7 +119,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "bicycle,bike",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Velocampus<br/><i>Source  Actualisation par mail à mieuxtrieranantes@gmail.com, le 18/04/2016</i>",
 		"cartePopuptext_en": "Velocampus<br/><i>Source : Actualisation par mail à mieuxtrieranantes@gmail.com, le 18/04/2016</i>"
 	}, {
@@ -142,7 +142,7 @@ var _structuresDatas = [{
 		"mots_cles_en": "decheterie,paimboeuf,/,saint,viaud,decheterie,paimboeuf,/,saint,viaud,,",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Déchèterie Paimboeuf / Saint Viaud<br/><i>Source  Renseigné sur formulaire de mieuxtrieranantes.fr, le 15/07/2014</i>",
 		"cartePopuptext_en": "Déchèterie Paimboeuf / Saint Viaud<br/><i>Source : Renseigné sur formulaire de mieuxtrieranantes.fr, le 15/07/2014</i>"
 	}, {
@@ -160,7 +160,7 @@ var _structuresDatas = [{
 		"url": "http://www.atelierduretzemploi.org",
 		"email": "contact@atelierduretzemploi.org",
 		"tel": "02 40 65 89 09",
-		"logo": "resources/images/nantes/logo_lesateliersduretzemploi.png",
+		"logo": "assets/imgs/nantes/logo_lesateliersduretzemploi.png",
 		"src": "Renseigné sur formulaire de mieuxtrieranantes.fr, le 22/07/2014",
 		"horaires": "le MERCREDI de 10h à 18h, le SAMEDI de 10h à 18h",
 		"plagesHoraires": "0101-3112_me+sa_10h00-18h",
@@ -171,7 +171,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "bicycle, furniture, textiles, tableware, toy, baby, book, CD, DVD, tools, electrical equipment",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Atelier du Retz Emploi (Sainte-Pazanne)<br/><i>Source  Renseigné sur formulaire de mieuxtrieranantes.fr, le 22/07/2014</i>",
 		"cartePopuptext_en": "Atelier du Retz Emploi (Sainte-Pazanne)<br/><i>Source : Renseigné sur formulaire de mieuxtrieranantes.fr, le 22/07/2014</i>"
 	}, {
@@ -190,7 +190,7 @@ var _structuresDatas = [{
 		"email": "contact@atelierduretzemploi.org",
 		"googleplus": "https://drive.google.com/file/d/0B5dknMvA6hy8N0VERkJpUzIxaDg/edit?usp=sharing",
 		"tel": "06 77 63 83 04",
-		"logo": "resources/images/nantes/logo_lesateliersduretzemploi.png",
+		"logo": "assets/imgs/nantes/logo_lesateliersduretzemploi.png",
 		"src": "Renseigné sur formulaire de mieuxtrieranantes.fr, le 22/07/2014",
 		"horaires": "le MERCREDI de 10h à 18h, le SAMEDI de 10h à 18h",
 		"plagesHoraires": "0101-3112_me+sa_10h00-18h",
@@ -201,7 +201,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "bicycle, furniture, textiles, tableware, toy, baby, book, CD, DVD, tools, electrical equipment",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Atelier du Retz Emploi (Le Pèlerin)<br/><i>Source  Renseigné sur formulaire de mieuxtrieranantes.fr, le 22/07/2014</i>",
 		"cartePopuptext_en": "Atelier du Retz Emploi (Le Pèlerin)<br/><i>Source : Renseigné sur formulaire de mieuxtrieranantes.fr, le 22/07/2014</i>"
 	}, {
@@ -220,7 +220,7 @@ var _structuresDatas = [{
 		"email": "contact@atelierduretzemploi.org",
 		"googleplus": "https://drive.google.com/file/d/0B5dknMvA6hy8N0VERkJpUzIxaDg/edit?usp=sharing",
 		"tel": "07 81 63 00 48",
-		"logo": "resources/images/nantes/logo_lesateliersduretzemploi.png",
+		"logo": "assets/imgs/nantes/logo_lesateliersduretzemploi.png",
 		"src": "Renseigné sur formulaire de mieuxtrieranantes.fr, le 22/07/2014",
 		"horaires": "le MERCREDI de 10h à 18h, le SAMEDI de 10h à 18h",
 		"plagesHoraires": "0101-3112_me+sa_10h00-18h",
@@ -232,7 +232,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "bicycle, furniture, textiles, tableware, toy, baby, book, CD, DVD, tools, electrical equipment",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Atelier du Retz Emploi (Le Breil)<br/><i>Source  Renseigné sur formulaire de mieuxtrieranantes.fr, le 22/07/2014</i>",
 		"cartePopuptext_en": "Atelier du Retz Emploi (Le Breil)<br/><i>Source : Renseigné sur formulaire de mieuxtrieranantes.fr, le 22/07/2014</i>"
 	}, {
@@ -251,7 +251,7 @@ var _structuresDatas = [{
 		"email": "contact@atelierduretzemploi.org",
 		"googleplus": "https://drive.google.com/file/d/0B5dknMvA6hy8N0VERkJpUzIxaDg/edit?usp=sharing",
 		"tel": "02 40 27 69 05",
-		"logo": "resources/images/nantes/logo_lesateliersduretzemploi.png",
+		"logo": "assets/imgs/nantes/logo_lesateliersduretzemploi.png",
 		"src": "Renseigné sur formulaire de mieuxtrieranantes.fr, le 22/07/2014",
 		"horaires": "le MERCREDI de 10h à 18h, le SAMEDI de 10h à 18h",
 		"plagesHoraires": "0101-3112_me+sa_10h00-18h",
@@ -262,7 +262,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "bicycle, furniture, textiles, tableware, toy, baby, book, CD, DVD, tools, electrical equipment",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Atelier du Retz Emploi (Saint Brévin)<br/><i>Source  Renseigné sur formulaire de mieuxtrieranantes.fr, le 22/07/2014</i>",
 		"cartePopuptext_en": "Atelier du Retz Emploi (Saint Brévin)<br/><i>Source : Renseigné sur formulaire de mieuxtrieranantes.fr, le 22/07/2014</i>"
 	}, {
@@ -279,7 +279,7 @@ var _structuresDatas = [{
 		"adresseTemp": "8 rue Saint Domingue  44200 NANTES",
 		"url": "www.atelierduretzemploi.org",
 		"googleplus": "https://drive.google.com/file/d/0B5dknMvA6hy8N0VERkJpUzIxaDg/edit?usp=sharing",
-		"logo": "resources/images/nantes/logo_lecomptoir_du_solilab.jpg",
+		"logo": "assets/imgs/nantes/logo_lecomptoir_du_solilab.jpg",
 		"src": "Renseigné sur formulaire de mieuxtrieranantes.fr, le 22/07/2014",
 		"horaires": "Du Mardi au Samedi de 10 h à 18 h",
 		"plagesHoraires": "0101-3112_ma+me+je+ve+sa_10h00-18h",
@@ -291,7 +291,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "linen, textiles, shoes, dishes, tools, toy, book, furniture",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Le comptoir du Solilab (Atelier du Retz Emploi et Ding Fring)<br/><i>Source  Renseigné sur formulaire de mieuxtrieranantes.fr, le 22/07/2014</i>",
 		"cartePopuptext_en": "Le comptoir du Solilab (Atelier du Retz Emploi et Ding Fring)<br/><i>Source : Renseigné sur formulaire de mieuxtrieranantes.fr, le 22/07/2014</i>"
 	}, {
@@ -309,7 +309,7 @@ var _structuresDatas = [{
 		"url": "www.naga44.org",
 		"email": "contact@naga44.org",
 		"tel": "02 85 52 31 22",
-		"logo": "resources/images/nantes/logo_naga.png",
+		"logo": "assets/imgs/nantes/logo_naga.png",
 		"src": "Selon les infos fournies par Nâga, le 03/11/2016",
 		"horaires": "Sur rendez-vous",
 		"sous_zone": "hnsl",
@@ -319,7 +319,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "computer",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Nâga<br/><i>Source  Selon les infos fournies par Nâga, le 03/11/2016</i>",
 		"cartePopuptext_en": "Nâga<br/><i>Source : Selon les infos fournies par Nâga, le 03/11/2016</i>"
 	}, {
@@ -346,7 +346,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "garment, sweater, pants, jacket",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "La Pomme et La Lionne<br/><i>Source  Renseigné sur formulaire de mieuxtrieranantes.fr, le 01/09/2014</i>",
 		"cartePopuptext_en": "La Pomme et La Lionne<br/><i>Source : Renseigné sur formulaire de mieuxtrieranantes.fr, le 01/09/2014</i>"
 	}, {
@@ -363,7 +363,7 @@ var _structuresDatas = [{
 		"email": "contact@tech-recyclage.com",
 		"facebook": "https://www.facebook.com/techrecyclage",
 		"tel": "06 66 97 99 68",
-		"logo": "resources/images/nantes/logo_techrecyclage.png",
+		"logo": "assets/imgs/nantes/logo_techrecyclage.png",
 		"src": "Renseigné sur formulaire de mieuxtrieranantes.fr, le 14/01/2015",
 		"plagesHoraires": "0101-3112_lu_13h00-19h00,0101-3112_ma+me+je+ve+sa_10h30-19h00",
 		"zone": "Nantes",
@@ -374,7 +374,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "computers, imrpmantes, smartphones, tablets",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Tech Recyclage<br/><i>Source  Renseigné sur formulaire de mieuxtrieranantes.fr, le 14/01/2015</i>",
 		"cartePopuptext_en": "Tech Recyclage<br/><i>Source : Renseigné sur formulaire de mieuxtrieranantes.fr, le 14/01/2015</i>"
 	}, {
@@ -401,7 +401,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "garment, sweater, pants, jacket",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Ça Tourn'au Troc (Couëron)<br/><i>Source  Ça Tourn'au Troc / MieuxTrierANantes 03/2016</i>",
 		"cartePopuptext_en": "Ça Tourn'au Troc (Couëron)<br/><i>Source : Ça Tourn'au Troc / MieuxTrierANantes 03/2016</i>"
 	}, {
@@ -419,7 +419,7 @@ var _structuresDatas = [{
 		"email": "velo@atao-insertion.fr",
 		"facebook": "https://www.facebook.com/ATAOnantes/?fref=ts",
 		"tel": "02 40 92 89 00",
-		"logo": "resources/images/nantes/logo_atao_mini.png",
+		"logo": "assets/imgs/nantes/logo_atao_mini.png",
 		"src": "Entretien Atao / MieuxTrierANantes 03/2016",
 		"horaires": " Lundi et mercredi : 8h - 12h & 13h30 – 16h, Mardi et jeudi 8h - 12h15 & 13h – 17h, Vendredi 8h – 12h<br/>Le 1er mercredi de chaque mois : ouverture à 13h30",
 		"plagesHoraires": "0101-3112_lu+me_08h00-12h00+13h30-16h00,0101-3112_ma+je_08h00-12h15+13h00-17h00,0101-3112_ve_08h00-12h00",
@@ -429,7 +429,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "bike,wheel,pedals",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "ATAO (Saint-Herblain) vélo<br/><i>Source  Entretien Atao / MieuxTrierANantes 03/2016</i>",
 		"cartePopuptext_en": "ATAO (Saint-Herblain) vélo<br/><i>Source : Entretien Atao / MieuxTrierANantes 03/2016</i>"
 	}, {
@@ -446,7 +446,7 @@ var _structuresDatas = [{
 		"email": "auto@atao-insertion.fr",
 		"facebook": "https://www.facebook.com/ATAOnantes/?fref=ts",
 		"tel": "02 40 92 28 91",
-		"logo": "resources/images/nantes/logo_atao_mini.png",
+		"logo": "assets/imgs/nantes/logo_atao_mini.png",
 		"src": "Entretien Atao / MieuxTrierANantes 03/2016",
 		"horaires": "Lundi 8h00 - 12h15 / 13h30 – 16h00,Mardi 8h00 - 12h15 / 13h00 – 17h00,Mercredi* 8h00 - 12h00 / 13h30 – 16h00,Jeudi 8h00 - 12h15 / 13h00 – 17h00,Vendredi 8h00 – 12h15<br/>* Le 1er mercredi de chaque mois : ouverture à 13h30",
 		"plagesHoraires": "0101-3112_lu_08h00-12h15+13h30-16h00,0101-3112_ma_08h00-12h15+13h30-17h00,0101-3112_me_08h00-12h00+13h30-16h00,0101-3112_je_08h00-12h15+13h00-17h00,0101-3112_ve_08h00-12h15",
@@ -457,7 +457,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "car,automotive,auto",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "ATAO (Saint-Herblain) auto<br/><i>Source  Entretien Atao / MieuxTrierANantes 03/2016</i>",
 		"cartePopuptext_en": "ATAO (Saint-Herblain) auto<br/><i>Source : Entretien Atao / MieuxTrierANantes 03/2016</i>"
 	}, {
@@ -484,7 +484,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "clothing, sweater, pants, jacket, play, miscellaneous",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "La Boîte Utile (Pilote – île de Nantes, Nantes)<br/><i>Source  MieuxTrierANantes 01/2015</i>",
 		"cartePopuptext_en": "La Boîte Utile (Pilote – île de Nantes, Nantes)<br/><i>Source : MieuxTrierANantes 01/2015</i>"
 	}, {
@@ -512,7 +512,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "clothing, sweater, pants, jacket, play, miscellaneous",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "La Boîte Utile 2 (La Bottière, Nantes)<br/><i>Source  MieuxTrierANantes 09/2015</i>",
 		"cartePopuptext_en": "La Boîte Utile 2 (La Bottière, Nantes)<br/><i>Source : MieuxTrierANantes 09/2015</i>"
 	}, {
@@ -539,7 +539,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "clothing, sweater, pants, jacket, play, miscellaneous",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "La Boîte Utile 3 (Sainte-Thérèse, Nantes)<br/><i>Source  MieuxTrierANantes 03/2016</i>",
 		"cartePopuptext_en": "La Boîte Utile 3 (Sainte-Thérèse, Nantes)<br/><i>Source : MieuxTrierANantes 03/2016</i>"
 	}, {
@@ -566,7 +566,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "clothing, sweater, pants, jacket, play, miscellaneous",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "La Boîte Utile 4 (Chantenay-Bourderies, Nantes)<br/><i>Source  MieuxTrierANantes 03/2016</i>",
 		"cartePopuptext_en": "La Boîte Utile 4 (Chantenay-Bourderies, Nantes)<br/><i>Source : MieuxTrierANantes 03/2016</i>"
 	}, {
@@ -586,7 +586,7 @@ var _structuresDatas = [{
 		"twitter": "http://twitter.com/RE_atelier",
 		"facebook": "http://www.facebook.com/pages/RE-act/258885030331",
 		"tel": "06 69 17 33 89",
-		"logo": "resources/images/nantes/logo_react.png",
+		"logo": "assets/imgs/nantes/logo_react.png",
 		"src": "MieuxTrierANantes 01/2015",
 		"horaires": "Ouvert tout le temps",
 		"zone": "Nantes",
@@ -597,7 +597,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "garment, sweater, pants, jacket",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Re-act<br/><i>Source  MieuxTrierANantes 01/2015</i>",
 		"cartePopuptext_en": "Re-act<br/><i>Source : MieuxTrierANantes 01/2015</i>"
 	}, {
@@ -608,8 +608,8 @@ var _structuresDatas = [{
 		"type": "Association de réemploi",
 		"statut": "Association",
 		"categorie": "vêtements, divers",
-		"descr": "<img src='resources/images/nantes/stations_services.png' /><br/>STATIONS SERVICES est une recyclerie de matières premières. Nous récoltons des rebuts et chutes de productions dans les entreprises du territoire et nous les revendons à bas prix aux particuliers, bricoleurs, bricoleuses, artistes, étudiants, créatifs en tous genres, associations, institutions culturelles...<br/>Nous proposons un large choix de matériaux bruts issus d'un système d'économie circulaire : bois, métal, matières plastiques, tissus, mercerie...<br/>Pour vos petits travaux ou vos plus grands chef-d'œuvres, nous vous fournissons en matériaux de réemploi collectés, triés, revalorisés.<br/>Grâce à vous, ces matériaux sont détournés des bennes et retrouvent une seconde vie. Ainsi, vous participez à une consommation plus responsable et plus respectueuse de la planète !<br/><br/>Pour les horaires, c'est le mercredi, le vendredi et le samedi de 10h à 18h. Pour les périodes particulières (vacances, jours fériés), vous pouvez vérifier si la structure est ouverte sur la page Facebook.",
-		"descr_en": "<img src='resources/images/nantes/stations_services.png' /><br/>STATIONS SERVICES is a recycling of raw materials. We collect rejects and falls of productions in the companies of the territory and we sell them at low prices to individuals, do-it-yourselfers, do-it-yourselfers, artists, students, creatives of all kinds, associations, cultural institutions ... Large choice of raw materials from a circular economy system: wood, metal, plastics, fabrics, haberdashery ... <br/> For your small works or your biggest masterpieces, we provide you with Materials reused, sorted, revalued <br/> Thanks to you, these materials are diverted from the skips and find a second life. Thus, you participate in a more responsible and more respectful consumption of the planet! <br/> <br/> For the schedules, it is Wednesday, Friday and Saturday from 10h to 18h. For specific periods (holidays, public holidays), you can check if the structure is open on the Facebook page.",
+		"descr": "<img src='assets/imgs/nantes/stations_services.png' /><br/>STATIONS SERVICES est une recyclerie de matières premières. Nous récoltons des rebuts et chutes de productions dans les entreprises du territoire et nous les revendons à bas prix aux particuliers, bricoleurs, bricoleuses, artistes, étudiants, créatifs en tous genres, associations, institutions culturelles...<br/>Nous proposons un large choix de matériaux bruts issus d'un système d'économie circulaire : bois, métal, matières plastiques, tissus, mercerie...<br/>Pour vos petits travaux ou vos plus grands chef-d'œuvres, nous vous fournissons en matériaux de réemploi collectés, triés, revalorisés.<br/>Grâce à vous, ces matériaux sont détournés des bennes et retrouvent une seconde vie. Ainsi, vous participez à une consommation plus responsable et plus respectueuse de la planète !<br/><br/>Pour les horaires, c'est le mercredi, le vendredi et le samedi de 10h à 18h. Pour les périodes particulières (vacances, jours fériés), vous pouvez vérifier si la structure est ouverte sur la page Facebook.",
+		"descr_en": "<img src='assets/imgs/nantes/stations_services.png' /><br/>STATIONS SERVICES is a recycling of raw materials. We collect rejects and falls of productions in the companies of the territory and we sell them at low prices to individuals, do-it-yourselfers, do-it-yourselfers, artists, students, creatives of all kinds, associations, cultural institutions ... Large choice of raw materials from a circular economy system: wood, metal, plastics, fabrics, haberdashery ... <br/> For your small works or your biggest masterpieces, we provide you with Materials reused, sorted, revalued <br/> Thanks to you, these materials are diverted from the skips and find a second life. Thus, you participate in a more responsible and more respectful consumption of the planet! <br/> <br/> For the schedules, it is Wednesday, Friday and Saturday from 10h to 18h. For specific periods (holidays, public holidays), you can check if the structure is open on the Facebook page.",
 		"nom": "Stations services",
 		"adresseTemp": "9 Rue de la Bauche Thiraud  44400 REZE",
 		"url": "http://stations-services.org/",
@@ -626,7 +626,7 @@ var _structuresDatas = [{
 		"photos": "www.mieuxtrieranantes.fr/docs/medias/VisiteStationsServices/VisiteStationsServices_DSC_0581.JPG,www.mieuxtrieranantes.fr/docs/medias/VisiteStationsServices/VisiteStationsServices_DSC_0584.JPG",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Stations services<br/><i>Source  Actualisation par mieuxtrieranantes.fr, le 07/2016</i>",
 		"cartePopuptext_en": "Stations services<br/><i>Source : Actualisation par mieuxtrieranantes.fr, le 07/2016</i>"
 	}, {
@@ -645,7 +645,7 @@ var _structuresDatas = [{
 		"email": "larecuperette@gmail.com",
 		"facebook": "https://www.facebook.com/pages/La-R%C3%A9cup%C3%A9rette/1545686572345192?fref=ts",
 		"tel": "07 81 95 54 13",
-		"logo": "resources/images/nantes/logo_larecuperette.png",
+		"logo": "assets/imgs/nantes/logo_larecuperette.png",
 		"src": "MieuxTrierANantes 01/2015",
 		"horaires": "Nos horaires d'ouverture : chaque mercredi de 9h à 13h et de 14h à 18h, chaque vendredi de 9h à 13h et deux samedis par mois (le 2e et le 4e) de 10h à 13h et de 14h à 18h. Appeler pour vérifier les ouvezrtures sur les vacances et jours fériés.",
 		"sous_zone": "hnsl",
@@ -655,7 +655,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "tableware and kitchenware, DIY and garden tools, ornaments and decorative items, and clean clothes in good condition, toys and baby equipment, books / CDs / vinyl, furniture in good condition, lighting",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "La récupérette (Clisson)<br/><i>Source  MieuxTrierANantes 01/2015</i>",
 		"cartePopuptext_en": "La récupérette (Clisson)<br/><i>Source : MieuxTrierANantes 01/2015</i>"
 	}, {
@@ -683,7 +683,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "paper",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Arbres<br/><i>Source  MieuxTrierANantes 01/15</i>",
 		"cartePopuptext_en": "Arbres<br/><i>Source : MieuxTrierANantes 01/15</i>"
 	}, {
@@ -711,7 +711,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "computer,screen,alis",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "ALIS44<br/><i>Source  MieuxTrierANantes 07/16</i>",
 		"cartePopuptext_en": "ALIS44<br/><i>Source : MieuxTrierANantes 07/16</i>"
 	}, {
@@ -737,7 +737,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "bread",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Atelier Bar'Amel trajet<br/><i>Source  MieuxTrierANantes 01/15</i>",
 		"cartePopuptext_en": "Atelier Bar'Amel trajet<br/><i>Source : MieuxTrierANantes 01/15</i>"
 	}, {
@@ -764,7 +764,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "furnishings, furniture, toy, baby, crockery, trinket, frame, book, clothing, linens, tools, gardening, cycling, lighting, CD-DVD, video games, bedding, sports equipment, household appliances, sweater, pants, jacket",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "La Ressourcerie de l'ïle<br/><i>Source  MieuxTrierANantes 03/15</i>",
 		"cartePopuptext_en": "La Ressourcerie de l'ïle<br/><i>Source : MieuxTrierANantes 03/15</i>"
 	}, {
@@ -791,7 +791,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "électroménager,meuble,vêtement,livres,BD,CD,DVD,lit,linge,luste,lampe,vêtement,vaisselle,divers,jouet",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Emmaus Bouguenais<br/><i>Source  MieuxTrierANantes 01/15</i>",
 		"cartePopuptext_en": "Emmaus Bouguenais<br/><i>Source : MieuxTrierANantes 01/15</i>"
 	}, {
@@ -818,7 +818,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "furniture",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "L'homme debout<br/><i>Source  MieuxTrierANantes 04/16</i>",
 		"cartePopuptext_en": "L'homme debout<br/><i>Source : MieuxTrierANantes 04/16</i>"
 	}, {
@@ -844,7 +844,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "clothing, linen, sweater, pants, jacket",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Relais Atlantique<br/><i>Source  MieuxTrierANantes 07/16</i>",
 		"cartePopuptext_en": "Relais Atlantique<br/><i>Source : MieuxTrierANantes 07/16</i>"
 	}, {
@@ -870,7 +870,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "paper, cardboard, plastic cover",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Oser forêt vivante<br/><i>Source  MieuxTrierANantes 01/15</i>",
 		"cartePopuptext_en": "Oser forêt vivante<br/><i>Source : MieuxTrierANantes 01/15</i>"
 	}, {
@@ -896,7 +896,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "paper",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Papiers de l'espoir<br/><i>Source  MieuxTrierANantes 09/16</i>",
 		"cartePopuptext_en": "Papiers de l'espoir<br/><i>Source : MieuxTrierANantes 09/16</i>"
 	}, {
@@ -923,7 +923,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "computer, computer, pc, laptop",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "TRIS Actif Ouest<br/><i>Source  Entretien TriActifOuest / MieuxTrierANantes 03/16</i>",
 		"cartePopuptext_en": "TRIS Actif Ouest<br/><i>Source : Entretien TriActifOuest / MieuxTrierANantes 03/16</i>"
 	}, {
@@ -951,7 +951,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "furniture,wood,metal structure",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Les Marchands de SABLE<br/><i>Source  Envoyé par mail à mieuxtrieranantes@gmail.com, le 30/05/2016</i>",
 		"cartePopuptext_en": "Les Marchands de SABLE<br/><i>Source : Envoyé par mail à mieuxtrieranantes@gmail.com, le 30/05/2016</i>"
 	}, {
@@ -978,7 +978,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "clothing, linen, sweater, pants, jacket",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "DING-FRING Rezé<br/><i>Source  Entretien LeRelaisAtlantique / MieuxTrierANantes 04/16</i>",
 		"cartePopuptext_en": "DING-FRING Rezé<br/><i>Source : Entretien LeRelaisAtlantique / MieuxTrierANantes 04/16</i>"
 	}, {
@@ -1005,7 +1005,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "clothing, linen, sweater, pants, jacket",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "DING-FRING Palais des Congrès<br/><i>Source  Entretien LeRelaisAtlantique / MieuxTrierANantes 04/16</i>",
 		"cartePopuptext_en": "DING-FRING Palais des Congrès<br/><i>Source : Entretien LeRelaisAtlantique / MieuxTrierANantes 04/16</i>"
 	}, {
@@ -1032,7 +1032,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "clothing, linen, sweater, pants, jacket",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "DING-FRING Chantier Navals<br/><i>Source  Entretien LeRelaisAtlantique / MieuxTrierANantes 04/16</i>",
 		"cartePopuptext_en": "DING-FRING Chantier Navals<br/><i>Source : Entretien LeRelaisAtlantique / MieuxTrierANantes 04/16</i>"
 	}, {
@@ -1059,7 +1059,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "clothing, linen, sweater, pants, jacket",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "DING-FRING Nantes Erdre Grand Clos<br/><i>Source  Entretien LeRelaisAtlantique / MieuxTrierANantes 04/16</i>",
 		"cartePopuptext_en": "DING-FRING Nantes Erdre Grand Clos<br/><i>Source : Entretien LeRelaisAtlantique / MieuxTrierANantes 04/16</i>"
 	}, {
@@ -1086,7 +1086,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "appliances, refrigerator, television, dishwasher, freezer, envie44",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Envie 44 Saint Herblain<br/><i>Source  MieuxTrierANantes 01/15</i>",
 		"cartePopuptext_en": "Envie 44 Saint Herblain<br/><i>Source : MieuxTrierANantes 01/15</i>"
 	}, {
@@ -1112,7 +1112,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "glasses, hearing, wheelchair",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Orthopédie sans Frontières<br/><i>Source  MieuxTrierANantes 01/15</i>",
 		"cartePopuptext_en": "Orthopédie sans Frontières<br/><i>Source : MieuxTrierANantes 01/15</i>"
 	}, {
@@ -1139,7 +1139,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "appliances, books / BD / CD / DVD, toy, furniture, clothing, miscellaneous",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Véti Frat - La Fraternité<br/><i>Source  Visite sur place – MieuxTrierANantes 01/16</i>",
 		"cartePopuptext_en": "Véti Frat - La Fraternité<br/><i>Source : Visite sur place – MieuxTrierANantes 01/16</i>"
 	}, {
@@ -1167,7 +1167,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "clothing,books,toys,crockery,trinket,bag,shoes",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "La Croix Rouge / Vestiboutique<br/><i>Source  Mail envoyé par Croix Rouge le 07/09/16</i>",
 		"cartePopuptext_en": "La Croix Rouge / Vestiboutique<br/><i>Source : Mail envoyé par Croix Rouge le 07/09/16</i>"
 	}, {
@@ -1195,7 +1195,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "furniture,lighting,sofa,bedding,appliance,decorative",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "La Croix Rouge / Meubles,bibelots<br/><i>Source  Mail envoyé par Croix Rouge le 07/09/16</i>",
 		"cartePopuptext_en": "La Croix Rouge / Meubles,bibelots<br/><i>Source : Mail envoyé par Croix Rouge le 07/09/16</i>"
 	}, {
@@ -1223,7 +1223,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "book, magazine, Comics",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Nantes Ecologie L'Air Livre (château Nantes)<br/><i>Source  MieuxTrierANantes 01/15</i>",
 		"cartePopuptext_en": "Nantes Ecologie L'Air Livre (château Nantes)<br/><i>Source : MieuxTrierANantes 01/15</i>"
 	}, {
@@ -1241,7 +1241,7 @@ var _structuresDatas = [{
 		"url": "http://nantesecologie.free.fr",
 		"email": "nantes.ecologie@free.fr",
 		"tel": "02 51 82 78 30",
-		"logo": "resources/images/nantes/logo_nantesecologie.png",
+		"logo": "assets/imgs/nantes/logo_nantesecologie.png",
 		"src": "MieuxTrierANantes 01/15",
 		"horaires": "Récupération de livres, revues, BD et de manuels scolaires<br/><br/>- au 3 bis rue Prémion : vente de livres tous publics (tarifs très modérés)<br/>- 6 rue Monteil (équipement de livres et ventes) - uniquement le vendredi matin.",
 		"plagesHoraires": "0101-3112_ve_09h00-13h00",
@@ -1252,7 +1252,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "Book, magazine, comic, manual, school",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Nantes Ecologie L'Air Livre (Cité des Congrès Nantes)<br/><i>Source  MieuxTrierANantes 01/15</i>",
 		"cartePopuptext_en": "Nantes Ecologie L'Air Livre (Cité des Congrès Nantes)<br/><i>Source : MieuxTrierANantes 01/15</i>"
 	}, {
@@ -1278,7 +1278,7 @@ var _structuresDatas = [{
 		"mots_cles_en": "arcade,arcade,,",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "ARCADE<br/><i>Source  DeuxiemeVie 03/14</i>",
 		"cartePopuptext_en": "ARCADE<br/><i>Source : DeuxiemeVie 03/14</i>"
 	}, {
@@ -1306,7 +1306,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "furniture, cartridge, impression, electric, electronic, cd, DVD, pile, battery, tumbler, paper, cardboard, metal",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "TRAIT D'UNION<br/><i>Source  Rencontre TraitDUnion et MieuxTrierANantes 04/2016</i>",
 		"cartePopuptext_en": "TRAIT D'UNION<br/><i>Source : Rencontre TraitDUnion et MieuxTrierANantes 04/2016</i>"
 	}, {
@@ -1333,7 +1333,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "phone, computer",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Ecophone 44<br/><i>Source  DeuxiemeVie 03/14</i>",
 		"cartePopuptext_en": "Ecophone 44<br/><i>Source : DeuxiemeVie 03/14</i>"
 	}, {
@@ -1358,7 +1358,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "cartridge, toner",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "LEVER L'ENCRE<br/><i>Source  Mail reçu par MieuxTrierANantes 04/2016</i>",
 		"cartePopuptext_en": "LEVER L'ENCRE<br/><i>Source : Mail reçu par MieuxTrierANantes 04/2016</i>"
 	}, {
@@ -1386,7 +1386,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "cartridge",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "OCE'ENCRE<br/><i>Source  DeuxiemeVie 03/14</i>",
 		"cartePopuptext_en": "OCE'ENCRE<br/><i>Source : DeuxiemeVie 03/14</i>"
 	}, {
@@ -1413,7 +1413,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "cartridge, toner",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Point Encre Et Toner<br/><i>Source  DeuxiemeVie 03/14</i>",
 		"cartePopuptext_en": "Point Encre Et Toner<br/><i>Source : DeuxiemeVie 03/14</i>"
 	}, {
@@ -1438,7 +1438,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "cork",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Action cancer 44 (Rezé)<br/><i>Source  MieuxTrierANantes 01/15</i>",
 		"cartePopuptext_en": "Action cancer 44 (Rezé)<br/><i>Source : MieuxTrierANantes 01/15</i>"
 	}, {
@@ -1462,7 +1462,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "cork",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Action cancer 44 (La Chapelle Sur Erdre)<br/><i>Source  MieuxTrierANantes 01/15</i>",
 		"cartePopuptext_en": "Action cancer 44 (La Chapelle Sur Erdre)<br/><i>Source : MieuxTrierANantes 01/15</i>"
 	}, {
@@ -1489,7 +1489,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "scrap metal, appliances",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "RECUPFER44<br/><i>Source  DeuxiemeVie 03/14</i>",
 		"cartePopuptext_en": "RECUPFER44<br/><i>Source : DeuxiemeVie 03/14</i>"
 	}, {
@@ -1515,7 +1515,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "T-shirt, jeans, dictionary, exercise book, dishes(crockery), knife, plate, glass, fork(range), braid, pillow, brooms, basket, shovel",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Students' shop 44<br/><i>Source  MieuxTrierANantes 09/16</i>",
 		"cartePopuptext_en": "Students' shop 44<br/><i>Source : MieuxTrierANantes 09/16</i>"
 	}, {
@@ -1538,7 +1538,7 @@ var _structuresDatas = [{
 		"mots_cles_en": "happycash,nantes,centre,,happycash,nantes,centre,,,",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "HappyCash (Nantes Centre)<br/><i>Source  MieuxTrierANantes 08/15</i>",
 		"cartePopuptext_en": "HappyCash (Nantes Centre)<br/><i>Source : MieuxTrierANantes 08/15</i>"
 	}, {
@@ -1549,8 +1549,8 @@ var _structuresDatas = [{
 		"type": "Association de réemploi",
 		"statut": "Association",
 		"categorie": "vêtements, livres/bd/cd/dvd, divers",
-		"descr": "<img src='resources/images/nantes/logo_le_ressort_mini.jpg' /><br/>Le collectif d'associations CSF, CLCV,Ressourcerie de l'ïle, La Luna, abd) est à l'origine de ce projet. C'est désormais l'association d'insertion ABD qui porte le projet 'Le Ressort', dont l'un des aspects est la boutique solidaire des Dervallières.<br/><br/>Dans cette boutique de 80 m2 on trouve des vêtements, des jouets, des livres, des éléments de décoration.<br/>Il s'agit à la fois de rendre service aux familles à petit budget, et de sensibiliser au réemploi des objets qui ne servent plus.<br/><br/>Les dépôts ont lieu de 9h00 à 12H30 et de 13h30 à 17h00 du lundi au vendredi (pendant les vacances scolaires, mieux vaut appeler avant pour savolir si la structure est ouverte).<br/>La boutique est ouverte au public tous les mercredis, de 9h30 à 12h30 et de 14h à 17h.",
-		"descr_en": "<img src='resources/images/nantes/logo_le_ressort_mini.jpg' /><br/>We find diverse objects there. The collective of associations of the district of Nantes ' The Ressort', at the origin of the project, it is a question at the same time of doing a service to the low-budget families, and of making sensitive in the re-use of the objects which do not serve any more.<br/><br/>Deposits take place from 9:00 am to 12:30 pm and from 1:30 pm to 5:00 pm Monday to Friday (during the school holidays, it is better to call before to know if the structure is open.) <br/> The shop is open to the public every Wednesday, From 9.30 am to 12.30 pm and from 2 pm to 5 pm",
+		"descr": "<img src='assets/imgs/nantes/logo_le_ressort_mini.jpg' /><br/>Le collectif d'associations CSF, CLCV,Ressourcerie de l'ïle, La Luna, abd) est à l'origine de ce projet. C'est désormais l'association d'insertion ABD qui porte le projet 'Le Ressort', dont l'un des aspects est la boutique solidaire des Dervallières.<br/><br/>Dans cette boutique de 80 m2 on trouve des vêtements, des jouets, des livres, des éléments de décoration.<br/>Il s'agit à la fois de rendre service aux familles à petit budget, et de sensibiliser au réemploi des objets qui ne servent plus.<br/><br/>Les dépôts ont lieu de 9h00 à 12H30 et de 13h30 à 17h00 du lundi au vendredi (pendant les vacances scolaires, mieux vaut appeler avant pour savolir si la structure est ouverte).<br/>La boutique est ouverte au public tous les mercredis, de 9h30 à 12h30 et de 14h à 17h.",
+		"descr_en": "<img src='assets/imgs/nantes/logo_le_ressort_mini.jpg' /><br/>We find diverse objects there. The collective of associations of the district of Nantes ' The Ressort', at the origin of the project, it is a question at the same time of doing a service to the low-budget families, and of making sensitive in the re-use of the objects which do not serve any more.<br/><br/>Deposits take place from 9:00 am to 12:30 pm and from 1:30 pm to 5:00 pm Monday to Friday (during the school holidays, it is better to call before to know if the structure is open.) <br/> The shop is open to the public every Wednesday, From 9.30 am to 12.30 pm and from 2 pm to 5 pm",
 		"nom": "Le Ressort, boutique solidaire aux Dervallières",
 		"adresseTemp": " 7 Place des Dervallières  44100 NANTES",
 		"email": "contact@abd-asso.fr",
@@ -1566,7 +1566,7 @@ var _structuresDatas = [{
 		"photos": "www.mieuxtrieranantes.fr/docs/medias/VisiteLeRessort/VisiteLeRessort_DSC_0508.JPG,www.mieuxtrieranantes.fr/docs/medias/VisiteLeRessort/VisiteLeRessort_DSC_0509.JPG,www.mieuxtrieranantes.fr/docs/medias/VisiteLeRessort/VisiteLeRessort_DSC_0511.JPG,www.mieuxtrieranantes.fr/docs/medias/VisiteLeRessort/VisiteLeRessort_DSC_0512.JPG,www.mieuxtrieranantes.fr/docs/medias/VisiteLeRessort/VisiteLeRessort_DSC_0514.JPG",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Le Ressort, boutique solidaire aux Dervallières<br/><i>Source  Rencontre directeur association ABD et MieuxTrierANantes 11/16</i>",
 		"cartePopuptext_en": "Le Ressort, boutique solidaire aux Dervallières<br/><i>Source : Rencontre directeur association ABD et MieuxTrierANantes 11/16</i>"
 	}, {
@@ -1591,7 +1591,7 @@ var _structuresDatas = [{
 		"photos": "www.mieuxtrieranantes.fr/docs/medias/Visite60B/Visite60B_DSC_0576.JPG,www.mieuxtrieranantes.fr/docs/medias/Visite60B/Visite60B_DSC_0577.JPG,www.mieuxtrieranantes.fr/docs/medias/Visite60B/Visite60B_DSC_0579.JPG,www.mieuxtrieranantes.fr/docs/medias/Visite60B/Visite60B_DSC_0580.JPG,www.mieuxtrieranantes.fr/docs/medias/Visite60B/Visite60B_DSC_0581.JPG",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "60B<br/><i>Source  Mail envoyé à MieuxTrierANantes + rencontre 11/2016</i>",
 		"cartePopuptext_en": "60B<br/><i>Source : Mail envoyé à MieuxTrierANantes + rencontre 11/2016</i>"
 	}, {
@@ -1618,7 +1618,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "furnishings, furniture, toy, baby, crockery, trinket, frame, book, clothing, linens, tools, gardening, cycling, lighting, CD-DVD, video games, bedding, sports equipment, household appliances, sweater, pants, jacket",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Récup'Halvêque Beaujoire<br/><i>Source  Président de l'association Récup'Halvêque Beaujoire 10/16</i>",
 		"cartePopuptext_en": "Récup'Halvêque Beaujoire<br/><i>Source : Président de l'association Récup'Halvêque Beaujoire 10/16</i>"
 	}, {
@@ -1629,8 +1629,8 @@ var _structuresDatas = [{
 		"type": "Entreprise de réemploi",
 		"statut": "Entreprise",
 		"categorie": "Livres/BD/CD/DVD",
-		"descr": "<img src='resources/images/nantes/logo_recyclivre.png' /><br/>Attention, nous donnons une seconde vie aux livres en les réemployant afin d'accompagner des emplois en insertion et soutenir financièrement des programmes autour de la culture et de la préservation de l'environnement !<br/>Nous ne pouvons donc pas collecter les livres très abîmés ou aux contenus obsolètes (ex : manuels scolaires), les dictionnaires et encyclopédies, les livres clubs (ex : France Loisirs, Grand Livre du Mois, Sélection du Livre...) tout comme les revues et journaux et les guides de voyage.<br/> nous faisons de la collecte à domicile sur toutes les communes de Nantes Métopole à partir de 50 livres.",
-		"descr_en": "<img src='resources/images/nantes/logo_recyclivre.png' /><br/>Attention, we give a second life to books by re-employing them to accompany insertion jobs and financially support programs around culture and preservation of the environment !<br/> We can not collect very damaged books or obsolete contents (eg textbooks), dictionaries and encyclopaedias, books clubs (eg France Loisirs, Grand Livre du Mois, Sélection du Livre…) as well as Magazines and newspapers and travel guides.<br/>We do collection at home in all municipalities of Nantes Metopole from 50 books.",
+		"descr": "<img src='assets/imgs/nantes/logo_recyclivre.png' /><br/>Attention, nous donnons une seconde vie aux livres en les réemployant afin d'accompagner des emplois en insertion et soutenir financièrement des programmes autour de la culture et de la préservation de l'environnement !<br/>Nous ne pouvons donc pas collecter les livres très abîmés ou aux contenus obsolètes (ex : manuels scolaires), les dictionnaires et encyclopédies, les livres clubs (ex : France Loisirs, Grand Livre du Mois, Sélection du Livre...) tout comme les revues et journaux et les guides de voyage.<br/> nous faisons de la collecte à domicile sur toutes les communes de Nantes Métopole à partir de 50 livres.",
+		"descr_en": "<img src='assets/imgs/nantes/logo_recyclivre.png' /><br/>Attention, we give a second life to books by re-employing them to accompany insertion jobs and financially support programs around culture and preservation of the environment !<br/> We can not collect very damaged books or obsolete contents (eg textbooks), dictionaries and encyclopaedias, books clubs (eg France Loisirs, Grand Livre du Mois, Sélection du Livre…) as well as Magazines and newspapers and travel guides.<br/>We do collection at home in all municipalities of Nantes Metopole from 50 books.",
 		"nom": "RecycLivre",
 		"adresseTemp": "9, rue Nicolas Appert  44100 NANTES",
 		"url": "http://recyclivre.com/",
@@ -1649,7 +1649,7 @@ var _structuresDatas = [{
 		"photos": "www.mieuxtrieranantes.fr/docs/medias/VisiteRecycLivre/VisiteRecycLivre_DSC_0588.JPG,www.mieuxtrieranantes.fr/docs/medias/VisiteRecycLivre/VisiteRecycLivre_DSC_0592.JPG,www.mieuxtrieranantes.fr/docs/medias/VisiteRecycLivre/VisiteRecycLivre_DSC_0593.JPG",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "RecycLivre<br/><i>Source  Formulaire rempli par le directeur de RecycLivre 12/16</i>",
 		"cartePopuptext_en": "RecycLivre<br/><i>Source : Formulaire rempli par le directeur de RecycLivre 12/16</i>"
 	}, {
@@ -1671,7 +1671,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "Clothing, furniture, appliances, computer, dishware, trinket, book, CD, dvd, disc, childcare, toy, tool, hardware, paper, cork",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Trocantons Belligné<br/><i>Source  0</i>",
 		"cartePopuptext_en": "Trocantons Belligné<br/><i>Source : 0</i>"
 	}, {
@@ -1692,7 +1692,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "Clothing, furniture, appliances, computer, dishware, trinket, book, CD, dvd, disc, childcare, toy, tool, hardware, paper, cork",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Trocantons Le Cellier<br/><i>Source  0</i>",
 		"cartePopuptext_en": "Trocantons Le Cellier<br/><i>Source : 0</i>"
 	}, {
@@ -1713,7 +1713,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "Clothing, furniture, appliances, computer, dishware, trinket, book, CD, dvd, disc, childcare, toy, tool, hardware, paper, cork",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Trocantons Pannecé<br/><i>Source  0</i>",
 		"cartePopuptext_en": "Trocantons Pannecé<br/><i>Source : 0</i>"
 	}, {
@@ -1733,7 +1733,7 @@ var _structuresDatas = [{
 		"objets_recuperes": "Vêtement, mobilier, électroménager, ordinateur, vaisselle, bibelot, livre, CD, dvd, disque, puériculture, jouet, outil, quincaillerie,papier, bouchon",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Recyclerie Nord-Atlantique Savenay<br/><i>Source  0</i>",
 		"cartePopuptext_en": "Recyclerie Nord-Atlantique Savenay<br/><i>Source : 0</i>"
 	}, {
@@ -1753,7 +1753,7 @@ var _structuresDatas = [{
 		"mots_cles_en": "recyclerie,nord,atlantique,blain,recyclerie,nord,atlantique,blain,,",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Recyclerie Nord-Atlantique Blain<br/><i>Source  0</i>",
 		"cartePopuptext_en": "Recyclerie Nord-Atlantique Blain<br/><i>Source : 0</i>"
 	}, {
@@ -1772,7 +1772,7 @@ var _structuresDatas = [{
 		"mots_cles_en": "recyclerie,nord,atlantique,nort,sur,erdre,recyclerie,nord,atlantique,nort,sur,erdre,,",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Recyclerie Nord-Atlantique Nort-Sur-Erdre<br/><i>Source  0</i>",
 		"cartePopuptext_en": "Recyclerie Nord-Atlantique Nort-Sur-Erdre<br/><i>Source : 0</i>"
 	}, {
@@ -1781,8 +1781,8 @@ var _structuresDatas = [{
 		"type": "Association de réemploi",
 		"statut": "Association",
 		"categorie": "divers",
-		"descr": "<IMG SRC='resources/images/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b>Les bouchons suivant sont acceptés</b> : eau, lait, soda, huile, vinaigre, vin, compote, crème fraîche, liquide vaisselle, produits d'entretien, lessive, assouplissants, aérosols, déodorants, laque, parfum, dentifrice, shampooing,  produits douche, couvercle en plastique du chocolat, couvercle en plastique du café en poudre, couvercle en plastique de la moutarde, couvercle plastique épices.<br/><br/><b>Bouchons refusés</b> : produits toxiques, détergents.",
-		"descr_en": "<IMG src='resources/images/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b> The following plugs are accepted </b>: water, milk, soda, oil, vinegar, wine, sauce, cream, dishwashing liquid, cleaning products, laundry softeners, aerosols, deodorants, hairspray, perfume, toothpaste, shampoo, shower products, plastic cover chocolate, powdered coffee plastic cover, plastic cover mustard.<BR/><BR/><b> Stoppers denied </b>: toxic products, detergents<BR/>More. <a href='http: //www.bouchonsdamour.com/les -bons-caps' target = '_ blank' id = 'bouchons_amour_link'> http://www.bouchonsdamour.com/les-bons-bouchons </a>",
+		"descr": "<IMG SRC='assets/imgs/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b>Les bouchons suivant sont acceptés</b> : eau, lait, soda, huile, vinaigre, vin, compote, crème fraîche, liquide vaisselle, produits d'entretien, lessive, assouplissants, aérosols, déodorants, laque, parfum, dentifrice, shampooing,  produits douche, couvercle en plastique du chocolat, couvercle en plastique du café en poudre, couvercle en plastique de la moutarde, couvercle plastique épices.<br/><br/><b>Bouchons refusés</b> : produits toxiques, détergents.",
+		"descr_en": "<IMG src='assets/imgs/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b> The following plugs are accepted </b>: water, milk, soda, oil, vinegar, wine, sauce, cream, dishwashing liquid, cleaning products, laundry softeners, aerosols, deodorants, hairspray, perfume, toothpaste, shampoo, shower products, plastic cover chocolate, powdered coffee plastic cover, plastic cover mustard.<BR/><BR/><b> Stoppers denied </b>: toxic products, detergents<BR/>More. <a href='http: //www.bouchonsdamour.com/les -bons-caps' target = '_ blank' id = 'bouchons_amour_link'> http://www.bouchonsdamour.com/les-bons-bouchons </a>",
 		"nom": "Bouchon d'Amour, Nantes 1",
 		"adresseTemp": "11, rue des 3 Rois  44000 NANTES",
 		"url": "http://www.bouchonsdamour.com/",
@@ -1798,7 +1798,7 @@ var _structuresDatas = [{
 		"photos": "www.mieuxtrieranantes.fr/docs/medias/Divers/affiche_bouchondamour_2017.png",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Bouchon d'Amour, Nantes 1<br/><i>Source  Rencontre responsable Bouchon d’Amour et MieuxTrierANantes 01/2017</i>",
 		"cartePopuptext_en": "Bouchon d'Amour, Nantes 1<br/><i>Source : Rencontre responsable Bouchon d’Amour et MieuxTrierANantes 01/2017</i>"
 	}, {
@@ -1807,8 +1807,8 @@ var _structuresDatas = [{
 		"type": "Association de réemploi",
 		"statut": "Association",
 		"categorie": "divers",
-		"descr": "<IMG SRC='resources/images/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b>Les bouchons suivant sont acceptés</b> : eau, lait, soda, huile, vinaigre, vin, compote, crème fraîche, liquide vaisselle, produits d'entretien, lessive, assouplissants, aérosols, déodorants, laque, parfum, dentifrice, shampooing,  produits douche, couvercle en plastique du chocolat, couvercle en plastique du café en poudre, couvercle en plastique de la moutarde, couvercle plastique épices.<br/><br/><b>Bouchons refusés</b> : produits toxiques, détergents.",
-		"descr_en": "<IMG src='resources/images/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b> The following plugs are accepted </b>: water, milk, soda, oil, vinegar, wine, sauce, cream, dishwashing liquid, cleaning products, laundry softeners, aerosols, deodorants, hairspray, perfume, toothpaste, shampoo, shower products, plastic cover chocolate, powdered coffee plastic cover, plastic cover mustard.<BR/><BR/><b> Stoppers denied </b>: toxic products, detergents<BR/>More. <a href='http: //www.bouchonsdamour.com/les -bons-caps' target = '_ blank' id = 'bouchons_amour_link'> http://www.bouchonsdamour.com/les-bons-bouchons </a>",
+		"descr": "<IMG SRC='assets/imgs/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b>Les bouchons suivant sont acceptés</b> : eau, lait, soda, huile, vinaigre, vin, compote, crème fraîche, liquide vaisselle, produits d'entretien, lessive, assouplissants, aérosols, déodorants, laque, parfum, dentifrice, shampooing,  produits douche, couvercle en plastique du chocolat, couvercle en plastique du café en poudre, couvercle en plastique de la moutarde, couvercle plastique épices.<br/><br/><b>Bouchons refusés</b> : produits toxiques, détergents.",
+		"descr_en": "<IMG src='assets/imgs/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b> The following plugs are accepted </b>: water, milk, soda, oil, vinegar, wine, sauce, cream, dishwashing liquid, cleaning products, laundry softeners, aerosols, deodorants, hairspray, perfume, toothpaste, shampoo, shower products, plastic cover chocolate, powdered coffee plastic cover, plastic cover mustard.<BR/><BR/><b> Stoppers denied </b>: toxic products, detergents<BR/>More. <a href='http: //www.bouchonsdamour.com/les -bons-caps' target = '_ blank' id = 'bouchons_amour_link'> http://www.bouchonsdamour.com/les-bons-bouchons </a>",
 		"nom": "Bouchon d'Amour, Nantes 2",
 		"adresseTemp": "14, Avenue Jacques AUNEAU  44300 NANTES",
 		"url": "http://www.bouchonsdamour.com/",
@@ -1824,7 +1824,7 @@ var _structuresDatas = [{
 		"photos": "www.mieuxtrieranantes.fr/docs/medias/Divers/affiche_bouchondamour_2017.png",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Bouchon d'Amour, Nantes 2<br/><i>Source  Rencontre responsable Bouchon d’Amour et MieuxTrierANantes 01/2017</i>",
 		"cartePopuptext_en": "Bouchon d'Amour, Nantes 2<br/><i>Source : Rencontre responsable Bouchon d’Amour et MieuxTrierANantes 01/2017</i>"
 	}, {
@@ -1833,8 +1833,8 @@ var _structuresDatas = [{
 		"type": "Association de réemploi",
 		"statut": "Association",
 		"categorie": "divers",
-		"descr": "<IMG SRC='resources/images/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b>Les bouchons suivant sont acceptés</b> : eau, lait, soda, huile, vinaigre, vin, compote, crème fraîche, liquide vaisselle, produits d'entretien, lessive, assouplissants, aérosols, déodorants, laque, parfum, dentifrice, shampooing,  produits douche, couvercle en plastique du chocolat, couvercle en plastique du café en poudre, couvercle en plastique de la moutarde, couvercle plastique épices.<br/><br/><b>Bouchons refusés</b> : produits toxiques, détergents.",
-		"descr_en": "<IMG src='resources/images/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b> The following plugs are accepted </b>: water, milk, soda, oil, vinegar, wine, sauce, cream, dishwashing liquid, cleaning products, laundry softeners, aerosols, deodorants, hairspray, perfume, toothpaste, shampoo, shower products, plastic cover chocolate, powdered coffee plastic cover, plastic cover mustard.<BR/><BR/><b> Stoppers denied </b>: toxic products, detergents<BR/>More. <a href='http: //www.bouchonsdamour.com/les -bons-caps' target = '_ blank' id = 'bouchons_amour_link'> http://www.bouchonsdamour.com/les-bons-bouchons </a>",
+		"descr": "<IMG SRC='assets/imgs/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b>Les bouchons suivant sont acceptés</b> : eau, lait, soda, huile, vinaigre, vin, compote, crème fraîche, liquide vaisselle, produits d'entretien, lessive, assouplissants, aérosols, déodorants, laque, parfum, dentifrice, shampooing,  produits douche, couvercle en plastique du chocolat, couvercle en plastique du café en poudre, couvercle en plastique de la moutarde, couvercle plastique épices.<br/><br/><b>Bouchons refusés</b> : produits toxiques, détergents.",
+		"descr_en": "<IMG src='assets/imgs/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b> The following plugs are accepted </b>: water, milk, soda, oil, vinegar, wine, sauce, cream, dishwashing liquid, cleaning products, laundry softeners, aerosols, deodorants, hairspray, perfume, toothpaste, shampoo, shower products, plastic cover chocolate, powdered coffee plastic cover, plastic cover mustard.<BR/><BR/><b> Stoppers denied </b>: toxic products, detergents<BR/>More. <a href='http: //www.bouchonsdamour.com/les -bons-caps' target = '_ blank' id = 'bouchons_amour_link'> http://www.bouchonsdamour.com/les-bons-bouchons </a>",
 		"nom": "Bouchon d'Amour, Nantes 3",
 		"adresseTemp": "6, Avenue José maria de HEREDIA  44300 NANTES",
 		"url": "http://www.bouchonsdamour.com/",
@@ -1850,7 +1850,7 @@ var _structuresDatas = [{
 		"photos": "www.mieuxtrieranantes.fr/docs/medias/Divers/affiche_bouchondamour_2017.png",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Bouchon d'Amour, Nantes 3<br/><i>Source  Rencontre responsable Bouchon d’Amour et MieuxTrierANantes 01/2017</i>",
 		"cartePopuptext_en": "Bouchon d'Amour, Nantes 3<br/><i>Source : Rencontre responsable Bouchon d’Amour et MieuxTrierANantes 01/2017</i>"
 	}, {
@@ -1859,8 +1859,8 @@ var _structuresDatas = [{
 		"type": "Association de réemploi",
 		"statut": "Association",
 		"categorie": "divers",
-		"descr": "<IMG SRC='resources/images/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b>Les bouchons suivant sont acceptés</b> : eau, lait, soda, huile, vinaigre, vin, compote, crème fraîche, liquide vaisselle, produits d'entretien, lessive, assouplissants, aérosols, déodorants, laque, parfum, dentifrice, shampooing,  produits douche, couvercle en plastique du chocolat, couvercle en plastique du café en poudre, couvercle en plastique de la moutarde, couvercle plastique épices.<br/><br/><b>Bouchons refusés</b> : produits toxiques, détergents.",
-		"descr_en": "<IMG src='resources/images/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b> The following plugs are accepted </b>: water, milk, soda, oil, vinegar, wine, sauce, cream, dishwashing liquid, cleaning products, laundry softeners, aerosols, deodorants, hairspray, perfume, toothpaste, shampoo, shower products, plastic cover chocolate, powdered coffee plastic cover, plastic cover mustard.<BR/><BR/><b> Stoppers denied </b>: toxic products, detergents<BR/>More. <a href='http: //www.bouchonsdamour.com/les -bons-caps' target = '_ blank' id = 'bouchons_amour_link'> http://www.bouchonsdamour.com/les-bons-bouchons </a>",
+		"descr": "<IMG SRC='assets/imgs/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b>Les bouchons suivant sont acceptés</b> : eau, lait, soda, huile, vinaigre, vin, compote, crème fraîche, liquide vaisselle, produits d'entretien, lessive, assouplissants, aérosols, déodorants, laque, parfum, dentifrice, shampooing,  produits douche, couvercle en plastique du chocolat, couvercle en plastique du café en poudre, couvercle en plastique de la moutarde, couvercle plastique épices.<br/><br/><b>Bouchons refusés</b> : produits toxiques, détergents.",
+		"descr_en": "<IMG src='assets/imgs/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b> The following plugs are accepted </b>: water, milk, soda, oil, vinegar, wine, sauce, cream, dishwashing liquid, cleaning products, laundry softeners, aerosols, deodorants, hairspray, perfume, toothpaste, shampoo, shower products, plastic cover chocolate, powdered coffee plastic cover, plastic cover mustard.<BR/><BR/><b> Stoppers denied </b>: toxic products, detergents<BR/>More. <a href='http: //www.bouchonsdamour.com/les -bons-caps' target = '_ blank' id = 'bouchons_amour_link'> http://www.bouchonsdamour.com/les-bons-bouchons </a>",
 		"nom": "Bouchon d'Amour, Ancenis",
 		"adresseTemp": "101, Rue des Hauts Pavés  44150 ANCENIS",
 		"url": "http://www.bouchonsdamour.com/",
@@ -1875,7 +1875,7 @@ var _structuresDatas = [{
 		"photos": "www.mieuxtrieranantes.fr/docs/medias/Divers/affiche_bouchondamour_2017.png",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Bouchon d'Amour, Ancenis<br/><i>Source  Rencontre responsable Bouchon d’Amour et MieuxTrierANantes 01/2017</i>",
 		"cartePopuptext_en": "Bouchon d'Amour, Ancenis<br/><i>Source : Rencontre responsable Bouchon d’Amour et MieuxTrierANantes 01/2017</i>"
 	}, {
@@ -1884,8 +1884,8 @@ var _structuresDatas = [{
 		"type": "Association de réemploi",
 		"statut": "Association",
 		"categorie": "divers",
-		"descr": "<IMG SRC='resources/images/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b>Les bouchons suivant sont acceptés</b> : eau, lait, soda, huile, vinaigre, vin, compote, crème fraîche, liquide vaisselle, produits d'entretien, lessive, assouplissants, aérosols, déodorants, laque, parfum, dentifrice, shampooing,  produits douche, couvercle en plastique du chocolat, couvercle en plastique du café en poudre, couvercle en plastique de la moutarde, couvercle plastique épices.<br/><br/><b>Bouchons refusés</b> : produits toxiques, détergents.",
-		"descr_en": "<IMG src='resources/images/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b> The following plugs are accepted </b>: water, milk, soda, oil, vinegar, wine, sauce, cream, dishwashing liquid, cleaning products, laundry softeners, aerosols, deodorants, hairspray, perfume, toothpaste, shampoo, shower products, plastic cover chocolate, powdered coffee plastic cover, plastic cover mustard.<BR/><BR/><b> Stoppers denied </b>: toxic products, detergents<BR/>More. <a href='http: //www.bouchonsdamour.com/les -bons-caps' target = '_ blank' id = 'bouchons_amour_link'> http://www.bouchonsdamour.com/les-bons-bouchons </a>",
+		"descr": "<IMG SRC='assets/imgs/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b>Les bouchons suivant sont acceptés</b> : eau, lait, soda, huile, vinaigre, vin, compote, crème fraîche, liquide vaisselle, produits d'entretien, lessive, assouplissants, aérosols, déodorants, laque, parfum, dentifrice, shampooing,  produits douche, couvercle en plastique du chocolat, couvercle en plastique du café en poudre, couvercle en plastique de la moutarde, couvercle plastique épices.<br/><br/><b>Bouchons refusés</b> : produits toxiques, détergents.",
+		"descr_en": "<IMG src='assets/imgs/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b> The following plugs are accepted </b>: water, milk, soda, oil, vinegar, wine, sauce, cream, dishwashing liquid, cleaning products, laundry softeners, aerosols, deodorants, hairspray, perfume, toothpaste, shampoo, shower products, plastic cover chocolate, powdered coffee plastic cover, plastic cover mustard.<BR/><BR/><b> Stoppers denied </b>: toxic products, detergents<BR/>More. <a href='http: //www.bouchonsdamour.com/les -bons-caps' target = '_ blank' id = 'bouchons_amour_link'> http://www.bouchonsdamour.com/les-bons-bouchons </a>",
 		"nom": "Bouchon d'Amour, Nort-Sur-Erdre",
 		"adresseTemp": "11 rue François Dupas   44390 NORT SUR ERDRE",
 		"url": "http://www.bouchonsdamour.com/",
@@ -1900,7 +1900,7 @@ var _structuresDatas = [{
 		"photos": "www.mieuxtrieranantes.fr/docs/medias/Divers/affiche_bouchondamour_2017.png",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Bouchon d'Amour, Nort-Sur-Erdre<br/><i>Source  Rencontre responsable Bouchon d’Amour et MieuxTrierANantes 01/2017</i>",
 		"cartePopuptext_en": "Bouchon d'Amour, Nort-Sur-Erdre<br/><i>Source : Rencontre responsable Bouchon d’Amour et MieuxTrierANantes 01/2017</i>"
 	}, {
@@ -1909,8 +1909,8 @@ var _structuresDatas = [{
 		"type": "Association de réemploi",
 		"statut": "Association",
 		"categorie": "divers",
-		"descr": "<IMG SRC='resources/images/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b>Les bouchons suivant sont acceptés</b> : eau, lait, soda, huile, vinaigre, vin, compote, crème fraîche, liquide vaisselle, produits d'entretien, lessive, assouplissants, aérosols, déodorants, laque, parfum, dentifrice, shampooing,  produits douche, couvercle en plastique du chocolat, couvercle en plastique du café en poudre, couvercle en plastique de la moutarde, couvercle plastique épices.<br/><br/><b>Bouchons refusés</b> : produits toxiques, détergents.",
-		"descr_en": "<IMG src='resources/images/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b> The following plugs are accepted </b>: water, milk, soda, oil, vinegar, wine, sauce, cream, dishwashing liquid, cleaning products, laundry softeners, aerosols, deodorants, hairspray, perfume, toothpaste, shampoo, shower products, plastic cover chocolate, powdered coffee plastic cover, plastic cover mustard.<BR/><BR/><b> Stoppers denied </b>: toxic products, detergents<BR/>More. <a href='http: //www.bouchonsdamour.com/les -bons-caps' target = '_ blank' id = 'bouchons_amour_link'> http://www.bouchonsdamour.com/les-bons-bouchons </a>",
+		"descr": "<IMG SRC='assets/imgs/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b>Les bouchons suivant sont acceptés</b> : eau, lait, soda, huile, vinaigre, vin, compote, crème fraîche, liquide vaisselle, produits d'entretien, lessive, assouplissants, aérosols, déodorants, laque, parfum, dentifrice, shampooing,  produits douche, couvercle en plastique du chocolat, couvercle en plastique du café en poudre, couvercle en plastique de la moutarde, couvercle plastique épices.<br/><br/><b>Bouchons refusés</b> : produits toxiques, détergents.",
+		"descr_en": "<IMG src='assets/imgs/images_non_libres/logo_bouchonamour.png' width='150px' /><br/><b> The following plugs are accepted </b>: water, milk, soda, oil, vinegar, wine, sauce, cream, dishwashing liquid, cleaning products, laundry softeners, aerosols, deodorants, hairspray, perfume, toothpaste, shampoo, shower products, plastic cover chocolate, powdered coffee plastic cover, plastic cover mustard.<BR/><BR/><b> Stoppers denied </b>: toxic products, detergents<BR/>More. <a href='http: //www.bouchonsdamour.com/les -bons-caps' target = '_ blank' id = 'bouchons_amour_link'> http://www.bouchonsdamour.com/les-bons-bouchons </a>",
 		"nom": "Bouchon d'Amour, Saint Sébastien Sur Loire",
 		"adresseTemp": "4 rue de la Commune de 1871  44230 SAINT-SÉBASTIEN-SUR-LOIRE",
 		"url": "http://www.bouchonsdamour.com/",
@@ -1925,7 +1925,7 @@ var _structuresDatas = [{
 		"photos": "www.mieuxtrieranantes.fr/docs/medias/Divers/affiche_bouchondamour_2017.png",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Bouchon d'Amour, Saint Sébastien Sur Loire<br/><i>Source  Rencontre responsable Bouchon d’Amour et MieuxTrierANantes 01/2017</i>",
 		"cartePopuptext_en": "Bouchon d'Amour, Saint Sébastien Sur Loire<br/><i>Source : Rencontre responsable Bouchon d’Amour et MieuxTrierANantes 01/2017</i>"
 	}, {
@@ -1954,7 +1954,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "cork",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Boutique Nicolas Talensac récupération bouchon liège<br/><i>Source  MieuxTrierANantes 09/16</i>",
 		"cartePopuptext_en": "Boutique Nicolas Talensac récupération bouchon liège<br/><i>Source : MieuxTrierANantes 09/16</i>"
 	}, {
@@ -1983,7 +1983,7 @@ var _structuresDatas = [{
 		"objets_recuperes_en": "cork",
 		"image": "icon-go-home.png",
 		"carteMarqueur": "1",
-		"carteIcon": "resources/icons/marker-icon-green.png",
+		"carteIcon": "assets/icons/marker-icon-green.png",
 		"cartePopuptext": "Boutique Nicolas récupération bouchon liège<br/><i>Source  MieuxTrierANantes 09/16</i>",
 		"cartePopuptext_en": "Boutique Nicolas récupération bouchon liège<br/><i>Source : MieuxTrierANantes 09/16</i>"
 	}, {
@@ -2008,7 +2008,7 @@ var _structuresDatas = [{
 		"produits_en": "bread",
 		"image": "paperbag.png",
 		"carteMarqueur": "6",
-		"carteIcon": "resources/icons/marker-icon-yellow.png",
+		"carteIcon": "assets/icons/marker-icon-yellow.png",
 		"cartePopuptext": "Boulangerie L'arbre à pain (Saint-Aignan de Grand Lieu<br/><i>Source : MieuxTrierANantes 12/2016</i>",
 		"cartePopuptext_en": "Boulangerie L'arbre à pain (Saint-Aignan de Grand Lieu<br/><i>Source : MieuxTrierANantes 12/2016</i>"
 	}, {
@@ -2036,7 +2036,7 @@ var _structuresDatas = [{
 		"produits_en": "cereal ",
 		"image": "paperbag.png",
 		"carteMarqueur": "6",
-		"carteIcon": "resources/icons/marker-icon-yellow.png",
+		"carteIcon": "assets/icons/marker-icon-yellow.png",
 		"cartePopuptext": "Chlorophylle Beauséjour<br/><i>Source : MieuxTrierANantes 12/2016</i>",
 		"cartePopuptext_en": "Chlorophylle Beauséjour<br/><i>Source : MieuxTrierANantes 12/2016</i>"
 	}, {
@@ -2064,7 +2064,7 @@ var _structuresDatas = [{
 		"produits_en": "chlorophylle,beaujoire",
 		"image": "paperbag.png",
 		"carteMarqueur": "6",
-		"carteIcon": "resources/icons/marker-icon-yellow.png",
+		"carteIcon": "assets/icons/marker-icon-yellow.png",
 		"cartePopuptext": "Chlorophylle Beaujoire<br/><i>Source : MieuxTrierANantes 12/2016</i>",
 		"cartePopuptext_en": "Chlorophylle Beaujoire<br/><i>Source : MieuxTrierANantes 12/2016</i>"
 	}, {
@@ -2092,7 +2092,7 @@ var _structuresDatas = [{
 		"produits_en": "chlorophylle,beaucéane",
 		"image": "paperbag.png",
 		"carteMarqueur": "6",
-		"carteIcon": "resources/icons/marker-icon-yellow.png",
+		"carteIcon": "assets/icons/marker-icon-yellow.png",
 		"cartePopuptext": "Chlorophylle Beaucéane<br/><i>Source : MieuxTrierANantes 12/2016</i>",
 		"cartePopuptext_en": "Chlorophylle Beaucéane<br/><i>Source : MieuxTrierANantes 12/2016</i>"
 	}, {
@@ -2120,7 +2120,7 @@ var _structuresDatas = [{
 		"produits_en": "chlorophylle,beausud",
 		"image": "paperbag.png",
 		"carteMarqueur": "6",
-		"carteIcon": "resources/icons/marker-icon-yellow.png",
+		"carteIcon": "assets/icons/marker-icon-yellow.png",
 		"cartePopuptext": "Chlorophylle Beausud<br/><i>Source : MieuxTrierANantes 12/2016</i>",
 		"cartePopuptext_en": "Chlorophylle Beausud<br/><i>Source : MieuxTrierANantes 12/2016</i>"
 	}, {
@@ -2148,7 +2148,7 @@ var _structuresDatas = [{
 		"produits_en": "chlorophyll,bio,goulaine",
 		"image": "paperbag.png",
 		"carteMarqueur": "6",
-		"carteIcon": "resources/icons/marker-icon-yellow.png",
+		"carteIcon": "assets/icons/marker-icon-yellow.png",
 		"cartePopuptext": "Chlorophylle Bio Goulaine<br/><i>Source : MieuxTrierANantes 12/2016</i>",
 		"cartePopuptext_en": "Chlorophylle Bio Goulaine<br/><i>Source : MieuxTrierANantes 12/2016</i>"
 	}, {
@@ -2177,7 +2177,7 @@ var _structuresDatas = [{
 		"produits_en": "biocoop,halles",
 		"image": "paperbag.png",
 		"carteMarqueur": "6",
-		"carteIcon": "resources/icons/marker-icon-yellow.png",
+		"carteIcon": "assets/icons/marker-icon-yellow.png",
 		"cartePopuptext": "Biocoop les Halles Nantes Ouest<br/><i>Source : MieuxTrierANantes 12/2016</i>",
 		"cartePopuptext_en": "Biocoop les Halles Nantes Ouest<br/><i>Source : MieuxTrierANantes 12/2016</i>"
 	}, {
@@ -2206,7 +2206,7 @@ var _structuresDatas = [{
 		"produits_en": "biocoop,halles",
 		"image": "paperbag.png",
 		"carteMarqueur": "6",
-		"carteIcon": "resources/icons/marker-icon-yellow.png",
+		"carteIcon": "assets/icons/marker-icon-yellow.png",
 		"cartePopuptext": "Biocoop les Halles Nantes Nord<br/><i>Source : MieuxTrierANantes 12/2016</i>",
 		"cartePopuptext_en": "Biocoop les Halles Nantes Nord<br/><i>Source : MieuxTrierANantes 12/2016</i>"
 	}, {
@@ -2235,7 +2235,7 @@ var _structuresDatas = [{
 		"produits_en": "biocoop,halles",
 		"image": "paperbag.png",
 		"carteMarqueur": "6",
-		"carteIcon": "resources/icons/marker-icon-yellow.png",
+		"carteIcon": "assets/icons/marker-icon-yellow.png",
 		"cartePopuptext": "Biocoop les Halles Nantes Sud<br/><i>Source : MieuxTrierANantes 12/2016</i>",
 		"cartePopuptext_en": "Biocoop les Halles Nantes Sud<br/><i>Source : MieuxTrierANantes 12/2016</i>"
 	}, {
@@ -2263,7 +2263,7 @@ var _structuresDatas = [{
 		"produits_en": "horizon,vert",
 		"image": "paperbag.png",
 		"carteMarqueur": "6",
-		"carteIcon": "resources/icons/marker-icon-yellow.png",
+		"carteIcon": "assets/icons/marker-icon-yellow.png",
 		"cartePopuptext": "Horizon Vert Ile Beaulieu<br/><i>Source : MieuxTrierANantes 12/2016</i>",
 		"cartePopuptext_en": "Horizon Vert Ile Beaulieu<br/><i>Source : MieuxTrierANantes 12/2016</i>"
 	}, {
@@ -2291,7 +2291,7 @@ var _structuresDatas = [{
 		"produits_en": "horizon,vert",
 		"image": "paperbag.png",
 		"carteMarqueur": "6",
-		"carteIcon": "resources/icons/marker-icon-yellow.png",
+		"carteIcon": "assets/icons/marker-icon-yellow.png",
 		"cartePopuptext": "Horizon Vert Nantes<br/><i>Source : MieuxTrierANantes 12/2016</i>",
 		"cartePopuptext_en": "Horizon Vert Nantes<br/><i>Source : MieuxTrierANantes 12/2016</i>"
 	}, {
@@ -2320,7 +2320,7 @@ var _structuresDatas = [{
 		"produits_en": "day,sakaide,bag",
 		"image": "paperbag.png",
 		"carteMarqueur": "6",
-		"carteIcon": "resources/icons/marker-icon-yellow.png",
+		"carteIcon": "assets/icons/marker-icon-yellow.png",
 		"cartePopuptext": "Day by Day<br/><i>Source : MieuxTrierANantes 12/2016</i>",
 		"cartePopuptext_en": "Day by Day<br/><i>Source : MieuxTrierANantes 12/2016</i>"
 	}, {
@@ -2349,7 +2349,7 @@ var _structuresDatas = [{
 		"produits_en": "fleuronbio,fleuronbio44",
 		"image": "paperbag.png",
 		"carteMarqueur": "6",
-		"carteIcon": "resources/icons/marker-icon-yellow.png",
+		"carteIcon": "assets/icons/marker-icon-yellow.png",
 		"cartePopuptext": "FleuronBio<br/><i>Source : MieuxTrierANantes 12/2016</i>",
 		"cartePopuptext_en": "FleuronBio<br/><i>Source : MieuxTrierANantes 12/2016</i>"
 	}, {
@@ -2377,7 +2377,7 @@ var _structuresDatas = [{
 		"produits_en": "fermier,coin",
 		"image": "paperbag.png",
 		"carteMarqueur": "6",
-		"carteIcon": "resources/icons/marker-icon-yellow.png",
+		"carteIcon": "assets/icons/marker-icon-yellow.png",
 		"cartePopuptext": "Les Fermiers du coin<br/><i>Source : MieuxTrierANantes 12/2016</i>",
 		"cartePopuptext_en": "Les Fermiers du coin<br/><i>Source : MieuxTrierANantes 12/2016</i>"
 	}, {
@@ -2404,7 +2404,7 @@ var _structuresDatas = [{
 		"produits_en": "diapers,washable,childcare",
 		"image": "paperbag.png",
 		"carteMarqueur": "6",
-		"carteIcon": "resources/icons/marker-icon-yellow.png",
+		"carteIcon": "assets/icons/marker-icon-yellow.png",
 		"cartePopuptext": "Bientôt Maman<br/><i>Source : MieuxTrierANantes 12/2016</i>",
 		"cartePopuptext_en": "Bientôt Maman<br/><i>Source : MieuxTrierANantes 12/2016</i>"
 	}, {
@@ -2427,7 +2427,7 @@ var _structuresDatas = [{
 		"produits_en": "diapers,washable,childcare",
 		"image": "paperbag.png",
 		"carteMarqueur": "6",
-		"carteIcon": "resources/icons/marker-icon-yellow.png",
+		"carteIcon": "assets/icons/marker-icon-yellow.png",
 		"cartePopuptext": "Les Petites Ailes<br/><i>Source : MieuxTrierANantes 12/2016</i>",
 		"cartePopuptext_en": "Les Petites Ailes<br/><i>Source : MieuxTrierANantes 12/2016</i>"
 	}, {
@@ -2455,7 +2455,7 @@ var _structuresDatas = [{
 		"produits_en": "jar, flour, sugar, pulp, seed, bright, biscuit, cereal, cheese, dried fruit, shampoo, soap, shower gel, dishwashing liquid, laundry, wipe",
 		"image": "paperbag.png",
 		"carteMarqueur": "6",
-		"carteIcon": "resources/icons/marker-icon-yellow.png",
+		"carteIcon": "assets/icons/marker-icon-yellow.png",
 		"cartePopuptext": "O'Bocal<br/><i>Source : MieuxTrierANantes 12/2016</i>",
 		"cartePopuptext_en": "O'Bocal<br/><i>Source : MieuxTrierANantes 12/2016</i>"
 	}, {
@@ -2474,7 +2474,7 @@ var _structuresDatas = [{
 		"descr": "Réservé aux particuliers habitant Nantes Métropole.<br/><br/><b>Déchets admis</b> : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-j",
 		"descr_en": "Reserved for individuals living in Nantes Métropole.Déchets admitted: batteries, wood, cardboard, debris and rubble from the family crafts, waste electrical and electronic equipment, various household bulky, scrap metal, motor oil, paper, newspapers, books, household plastic, tires, textiles, mowing lawn-products garden-pruning branches (eligible production for a household, and length of branches less than 1 meter), verre.Déchets prohibited: dead animals, debris-debris other than those from family crafts, anatomical or infectious waste, hospital waste, whole car body parts or truck, medicines, household waste, explosives, flammable, radioactive products, industrielle.Déchets manufacturing residues allowed with conditions: ask at the recycling center FRONT deposits: asbestos waste linked products, grass clippings, garden pruning branches in large quantities.",
 		"carteMarqueur": "3",
-		"carteIcon": "resources/icons/marker-icon-pink.png",
+		"carteIcon": "assets/icons/marker-icon-pink.png",
 		"cartePopuptext": "Déchèterie de La Prairie de Mauves<br/><i>Source : OpenDataNantes 09/2016</i>",
 		"cartePopuptext_en": "Déchèterie de La Prairie de Mauves<br/><i>Source : OpenDataNantes 09/2016</i>"
 	}, {
@@ -2493,7 +2493,7 @@ var _structuresDatas = [{
 		"descr": "Réservé aux particuliers habitant Nantes Métropole.<br/><br/><b>Déchets admis</b> : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-j",
 		"descr_en": "Reserved for individuals living in Nantes Métropole.Déchets admitted: batteries, wood, cardboard, debris and rubble from the family crafts, waste electrical and electronic equipment, various household bulky, scrap metal, motor oil, paper, newspapers, books, household plastic, textiles, mowing lawn-products garden-pruning branches (eligible production for a household, and length of branches less than 1 meter), verre.Déchets prohibited: dead animals, debris-debris other than those from DIY family, anatomical or infectious waste, hospital waste, whole car body parts or truck, medicines, household waste, tires, explosives, flammable, radioactive products, industrielle.Déchets manufacturing residues allowed with conditions: ask at the recycling center FRONT deposits: asbestos waste linked products, grass clippings, garden pruning branches in large quantities.",
 		"carteMarqueur": "3",
-		"carteIcon": "resources/icons/marker-icon-pink.png",
+		"carteIcon": "assets/icons/marker-icon-pink.png",
 		"cartePopuptext": "Ecopoint Chantenay<br/><i>Source : OpenDataNantes 09/2016</i>",
 		"cartePopuptext_en": "Ecopoint Chantenay<br/><i>Source : OpenDataNantes 09/2016</i>"
 	}, {
@@ -2512,7 +2512,7 @@ var _structuresDatas = [{
 		"descr": "Réservé aux particuliers habitant Nantes Métropole.<br/><br/><b>Déchets admis</b> : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-j",
 		"descr_en": "Reserved for individuals living in Nantes Métropole.Déchets admitted: batteries, wood, cardboard, debris and rubble from the family crafts, waste electrical and electronic equipment, various household bulky, scrap metal, motor oil, paper, newspapers, books, household plastic, textiles, mowing lawn-products garden-pruning branches (eligible production for a household, and length of branches less than 1 meter), verre.Déchets prohibited: dead animals, debris-debris other than those from DIY family, anatomical or infectious waste, hospital waste, whole car body parts or truck, medicines, household waste, tires, explosives, flammable, radioactive products, industrielle.Déchets manufacturing residues allowed with conditions: ask at the recycling center FRONT deposits: asbestos waste linked products, grass clippings, garden pruning branches in large quantities.",
 		"carteMarqueur": "3",
-		"carteIcon": "resources/icons/marker-icon-pink.png",
+		"carteIcon": "assets/icons/marker-icon-pink.png",
 		"cartePopuptext": "Ecopoint La Beaujoire<br/><i>Source : OpenDataNantes 09/2016</i>",
 		"cartePopuptext_en": "Ecopoint La Beaujoire<br/><i>Source : OpenDataNantes 09/2016</i>"
 	}, {
@@ -2531,7 +2531,7 @@ var _structuresDatas = [{
 		"descr": "Réservé aux particuliers habitant Nantes Métropole.<br/><br/><b>Déchets admis</b> : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-j",
 		"descr_en": "Reserved for individuals living in Nantes Métropole.Déchets admitted: batteries, wood, cardboard, debris and rubble from the family crafts, waste electrical and electronic equipment, various household bulky, scrap metal, motor oil, paper, newspapers, books, household plastic, textiles, mowing lawn-products garden-pruning branches (eligible production for a household, and length of branches less than 1 meter), verre.Déchets prohibited: dead animals, debris-debris other than those from DIY family, anatomical or infectious waste, hospital waste, whole car body parts or truck, medicines, household waste, tires, explosives, flammable, radioactive products, industrielle.Déchets manufacturing residues allowed with conditions: ask at the recycling center FRONT deposits: asbestos waste linked products, grass clippings, garden pruning branches in large quantities.",
 		"carteMarqueur": "3",
-		"carteIcon": "resources/icons/marker-icon-pink.png",
+		"carteIcon": "assets/icons/marker-icon-pink.png",
 		"cartePopuptext": "Ecopoint Dervallières<br/><i>Source : OpenDataNantes 09/2016</i>",
 		"cartePopuptext_en": "Ecopoint Dervallières<br/><i>Source : OpenDataNantes 09/2016</i>"
 	}, {
@@ -2550,7 +2550,7 @@ var _structuresDatas = [{
 		"descr": "Réservé aux particuliers habitant Nantes Métropole.<br/><br/><b>Déchets admis</b> : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-j",
 		"descr_en": "Reserved for individuals living in Nantes Métropole.Déchets admitted: batteries, wood, cardboard, debris and rubble from the family crafts, waste electrical and electronic equipment, various household bulky, scrap metal, motor oil, paper, newspapers, books, household plastic, textiles, mowing lawn-products garden-pruning branches (eligible production for a household, and length of branches less than 1 meter), verre.Déchets prohibited: dead animals, debris-debris other than those from DIY family, anatomical or infectious waste, hospital waste, whole car body parts or truck, medicines, household waste, tires, explosives, flammable, radioactive products, industrielle.Déchets manufacturing residues allowed with conditions: ask at the recycling center FRONT deposits: asbestos waste linked products, grass clippings, garden pruning branches in large quantities.",
 		"carteMarqueur": "3",
-		"carteIcon": "resources/icons/marker-icon-pink.png",
+		"carteIcon": "assets/icons/marker-icon-pink.png",
 		"cartePopuptext": "Ecopoint Viarme<br/><i>Source : OpenDataNantes 09/2016</i>",
 		"cartePopuptext_en": "Ecopoint Viarme<br/><i>Source : OpenDataNantes 09/2016</i>"
 	}, {
@@ -2569,7 +2569,7 @@ var _structuresDatas = [{
 		"descr": "Réservé aux particuliers habitant Nantes Métropole.<br/><br/><b>Déchets admis</b> : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-j",
 		"descr_en": "Reserved for individuals living in Nantes Métropole.Déchets admitted: batteries, wood, cardboard, debris and rubble from the family crafts, waste electrical and electronic equipment, various household bulky, scrap metal, motor oil, paper, newspapers, books, household plastic, textiles, mowing lawn-products garden-pruning branches (eligible production for a household, and length of branches less than 1 meter), verre.Déchets prohibited: dead animals, debris-debris other than those from DIY family, anatomical or infectious waste, hospital waste, whole car body parts or truck, medicines, household waste, tires, explosives, flammable, radioactive products, industrielle.Déchets manufacturing residues allowed with conditions: ask at the recycling center FRONT deposits: asbestos waste linked products, grass clippings, garden pruning branches in large quantities.",
 		"carteMarqueur": "3",
-		"carteIcon": "resources/icons/marker-icon-pink.png",
+		"carteIcon": "assets/icons/marker-icon-pink.png",
 		"cartePopuptext": "Déchèterie de Saint Sébastien<br/><i>Source : OpenDataNantes 09/2016</i>",
 		"cartePopuptext_en": "Déchèterie de Saint Sébastien<br/><i>Source : OpenDataNantes 09/2016</i>"
 	}, {
@@ -2588,7 +2588,7 @@ var _structuresDatas = [{
 		"descr": "Réservé aux particuliers habitant Nantes Métropole.<br/><br/><b>Déchets admis</b> : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-j",
 		"descr_en": "Reserved for individuals living in Nantes Métropole.Déchets admitted: batteries, wood, cardboard, debris and rubble from the family crafts, waste electrical and electronic equipment, various household bulky, scrap metal, motor oil, paper, newspapers, books, household plastic, textiles, mowing lawn-products garden-pruning branches (eligible production for a household, and length of branches less than 1 meter), verre.Déchets prohibited: dead animals, debris-debris other than those from DIY family, anatomical or infectious waste, hospital waste, whole car body parts or truck, medicines, household waste, tires, explosives, flammable, radioactive products, industrielle.Déchets manufacturing residues allowed with conditions: ask at the recycling center FRONT deposits: asbestos waste linked products, grass clippings, garden pruning branches in large quantities.",
 		"carteMarqueur": "3",
-		"carteIcon": "resources/icons/marker-icon-pink.png",
+		"carteIcon": "assets/icons/marker-icon-pink.png",
 		"cartePopuptext": "Déchèterie de Saint Herblain<br/><i>Source : OpenDataNantes 09/2016</i>",
 		"cartePopuptext_en": "Déchèterie de Saint Herblain<br/><i>Source : OpenDataNantes 09/2016</i>"
 	}, {
@@ -2607,7 +2607,7 @@ var _structuresDatas = [{
 		"descr": "Réservé aux particuliers habitant Nantes Métropole.<br/><br/><b>Déchets admis</b> : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-j",
 		"descr_en": "Reserved for individuals living in Nantes Métropole.Déchets admitted: batteries, wood, cardboard, debris and rubble from the family crafts, waste electrical and electronic equipment, various household bulky, scrap metal, motor oil, paper, newspapers, books, household plastic, textiles, mowing lawn-products garden-pruning branches (eligible production for a household, and length of branches less than 1 meter), verre.Déchets prohibited: dead animals, debris-debris other than those from DIY family, anatomical or infectious waste, hospital waste, whole car body parts or truck, medicines, household waste, tires, explosives, flammable, radioactive products, industrielle.Déchets manufacturing residues allowed with conditions: ask at the recycling center FRONT deposits: asbestos waste linked products, grass clippings, garden pruning branches in large quantities.",
 		"carteMarqueur": "3",
-		"carteIcon": "resources/icons/marker-icon-pink.png",
+		"carteIcon": "assets/icons/marker-icon-pink.png",
 		"cartePopuptext": "Déchèterie de Carquefou<br/><i>Source : OpenDataNantes 09/2016</i>",
 		"cartePopuptext_en": "Déchèterie de Carquefou<br/><i>Source : OpenDataNantes 09/2016</i>"
 	}, {
@@ -2626,7 +2626,7 @@ var _structuresDatas = [{
 		"descr": "Réservé aux particuliers habitant Nantes Métropole.<br/><br/><b>Déchets admis</b> : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-j",
 		"descr_en": "Reserved for individuals living in Nantes Métropole.Déchets admitted: batteries, wood, cardboard, debris and rubble from the family crafts, waste electrical and electronic equipment, various household bulky, scrap metal, motor oil, paper, newspapers, books, household plastic, textiles, mowing lawn-products garden-pruning branches (eligible production for a household, and length of branches less than 1 meter), verre.Déchets prohibited: dead animals, debris-debris other than those from DIY family, anatomical or infectious waste, hospital waste, whole car body parts or truck, medicines, household waste, tires, explosives, flammable, radioactive products, industrielle.Déchets manufacturing residues allowed with conditions: ask at the recycling center FRONT deposits: asbestos waste linked products, grass clippings, garden pruning branches in large quantities.",
 		"carteMarqueur": "3",
-		"carteIcon": "resources/icons/marker-icon-pink.png",
+		"carteIcon": "assets/icons/marker-icon-pink.png",
 		"cartePopuptext": "Déchèterie de Saint Jean de Boiseau<br/><i>Source : OpenDataNantes 09/2016</i>",
 		"cartePopuptext_en": "Déchèterie de Saint Jean de Boiseau<br/><i>Source : OpenDataNantes 09/2016</i>"
 	}, {
@@ -2645,7 +2645,7 @@ var _structuresDatas = [{
 		"descr": "Réservé aux particuliers habitant Nantes Métropole.<br/><br/><b>Déchets admis</b> : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-j",
 		"descr_en": "Reserved for individuals living in Nantes Métropole.Déchets admitted: batteries, wood, cardboard, debris and rubble from the family crafts, waste electrical and electronic equipment, various household bulky, scrap metal, motor oil, paper, newspapers, books, household plastic, textiles, mowing lawn-products garden-pruning branches (eligible production for a household, and length of branches less than 1 meter), verre.Déchets prohibited: dead animals, debris-debris other than those from DIY family, anatomical or infectious waste, hospital waste, whole car body parts or truck, medicines, household waste, tires, explosives, flammable, radioactive products, industrielle.Déchets manufacturing residues allowed with conditions: ask at the recycling center FRONT deposits: asbestos waste linked products, grass clippings, garden pruning branches in large quantities.",
 		"carteMarqueur": "3",
-		"carteIcon": "resources/icons/marker-icon-pink.png",
+		"carteIcon": "assets/icons/marker-icon-pink.png",
 		"cartePopuptext": "Déchèterie de La Chapelle sur Erdre<br/><i>Source : OpenDataNantes 09/2016</i>",
 		"cartePopuptext_en": "Déchèterie de La Chapelle sur Erdre<br/><i>Source : OpenDataNantes 09/2016</i>"
 	}, {
@@ -2664,7 +2664,7 @@ var _structuresDatas = [{
 		"descr": "Réservé aux particuliers habitant Nantes Métropole.<br/><br/><b>Déchets admis</b> : batteries, bois, cartons, déblais et gravats issus du bricolage familial, encombrants ménagers divers, huiles moteur, papiers-journaux-livres, plastiques ménagers, textiles, tontes de pelo",
 		"descr_en": "Reserved for individuals living in Nantes Métropole.Déchets admitted: batteries, wood, cardboard, debris and rubble from the family crafts, waste electrical and electronic equipment, various household bulky, scrap metal, motor oil, paper, newspapers, books, household plastic, textiles, mowing lawn-products garden-pruning branches (eligible production for a household, and length of branches less than 1 meter), verre.Déchets prohibited: dead animals, debris-debris other than those from DIY family, anatomical or infectious waste, hospital waste, whole car body parts or truck, medicines, household waste, tires, explosives, flammable, radioactive products, industrielle.Déchets manufacturing residues allowed with conditions: ask at the recycling center FRONT deposits: asbestos waste linked products, grass clippings, garden pruning branches in large quantities.",
 		"carteMarqueur": "3",
-		"carteIcon": "resources/icons/marker-icon-pink.png",
+		"carteIcon": "assets/icons/marker-icon-pink.png",
 		"cartePopuptext": "Déchèterie de La Montagne<br/><i>Source : OpenDataNantes 09/2016</i>",
 		"cartePopuptext_en": "Déchèterie de La Montagne<br/><i>Source : OpenDataNantes 09/2016</i>"
 	}, {
@@ -2683,7 +2683,7 @@ var _structuresDatas = [{
 		"descr": "Réservé aux particuliers habitant Nantes Métropole.<br/><br/><b>Déchets admis</b> : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-j",
 		"descr_en": "Reserved for individuals living in Nantes Métropole.Déchets admitted: batteries, wood, cardboard, debris and rubble from the family crafts, waste electrical and electronic equipment, various household bulky, scrap metal, motor oil, paper, newspapers, books, household plastic, textiles, mowing lawn-products garden-pruning branches (eligible production for a household, and length of branches less than 1 meter), verre.Déchets prohibited: dead animals, debris-debris other than those from DIY family, anatomical or infectious waste, hospital waste, whole car body parts or truck, medicines, household waste, tires, explosives, flammable, radioactive products, industrielle.Déchets manufacturing residues allowed with conditions: ask at the recycling center FRONT deposits: asbestos waste linked products, grass clippings, garden pruning branches in large quantities.",
 		"carteMarqueur": "3",
-		"carteIcon": "resources/icons/marker-icon-pink.png",
+		"carteIcon": "assets/icons/marker-icon-pink.png",
 		"cartePopuptext": "Déchèterie d'Orvault<br/><i>Source : OpenDataNantes 09/2016</i>",
 		"cartePopuptext_en": "Déchèterie d'Orvault<br/><i>Source : OpenDataNantes 09/2016</i>"
 	}, {
@@ -2702,7 +2702,7 @@ var _structuresDatas = [{
 		"descr": "Réservé aux particuliers habitant Nantes Métropole.<br/><br/><b>Déchets admis</b> : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-j",
 		"descr_en": "Reserved for individuals living in Nantes Métropole.Déchets admitted: batteries, wood, cardboard, debris and rubble from the family crafts, waste electrical and electronic equipment, various household bulky, scrap metal, motor oil, paper, newspapers, books, household plastic, textiles, mowing lawn-products garden-pruning branches (eligible production for a household, and length of branches less than 1 meter), verre.Déchets prohibited: dead animals, debris-debris other than those from DIY family, anatomical or infectious waste, hospital waste, whole car body parts or truck, medicines, household waste, tires, explosives, flammable, radioactive products, industrielle.Déchets manufacturing residues allowed with conditions: ask at the recycling center FRONT deposits: asbestos waste linked products, grass clippings, garden pruning branches in large quantities.",
 		"carteMarqueur": "3",
-		"carteIcon": "resources/icons/marker-icon-pink.png",
+		"carteIcon": "assets/icons/marker-icon-pink.png",
 		"cartePopuptext": "Déchèterie de Saint Aignan Grand Lieu<br/><i>Source : OpenDataNantes 09/2016</i>",
 		"cartePopuptext_en": "Déchèterie de Saint Aignan Grand Lieu<br/><i>Source : OpenDataNantes 09/2016</i>"
 	}, {
@@ -2721,7 +2721,7 @@ var _structuresDatas = [{
 		"descr": "Réservé aux particuliers habitant Nantes Métropole.<br/><br/><b>Déchets admis</b> : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-j",
 		"descr_en": "Reserved for individuals living in Nantes Métropole.Déchets admitted: batteries, wood, cardboard, debris and rubble from the family crafts, waste electrical and electronic equipment, various household bulky, scrap metal, motor oil, paper, newspapers, books, household plastic, textiles, mowing lawn-products garden-pruning branches (eligible production for a household, and length of branches less than 1 meter), verre.Déchets prohibited: dead animals, debris-debris other than those from DIY family, anatomical or infectious waste, hospital waste, whole car body parts or truck, medicines, household waste, tires, explosives, flammable, radioactive products, industrielle.Déchets manufacturing residues allowed with conditions: ask at the recycling center FRONT deposits: asbestos waste linked products, grass clippings, garden pruning branches in large quantities.",
 		"carteMarqueur": "3",
-		"carteIcon": "resources/icons/marker-icon-pink.png",
+		"carteIcon": "assets/icons/marker-icon-pink.png",
 		"cartePopuptext": "Déchèterie de Rezé<br/><i>Source : OpenDataNantes 09/2016</i>",
 		"cartePopuptext_en": "Déchèterie de Rezé<br/><i>Source : OpenDataNantes 09/2016</i>"
 	}, {
@@ -2740,7 +2740,7 @@ var _structuresDatas = [{
 		"descr": "Réservé aux particuliers habitant Nantes Métropole.<br/><br/><b>Déchets admis</b> : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-j",
 		"descr_en": "Reserved for individuals living in Nantes Métropole.Déchets admitted: batteries, wood, cardboard, debris and rubble from the family crafts, waste electrical and electronic equipment, various household bulky, scrap metal, motor oil, paper, newspapers, books, household plastic, textiles, mowing lawn-products garden-pruning branches (eligible production for a household, and length of branches less than 1 meter), verre.Déchets prohibited: dead animals, debris-debris other than those from DIY family, anatomical or infectious waste, hospital waste, whole car body parts or truck, medicines, household waste, tires, explosives, flammable, radioactive products, industrielle.Déchets manufacturing residues allowed with conditions: ask at the recycling center FRONT deposits: asbestos waste linked products, grass clippings, garden pruning branches in large quantities.",
 		"carteMarqueur": "3",
-		"carteIcon": "resources/icons/marker-icon-pink.png",
+		"carteIcon": "assets/icons/marker-icon-pink.png",
 		"cartePopuptext": "Déchèterie de Vertou<br/><i>Source : OpenDataNantes 09/2016</i>",
 		"cartePopuptext_en": "Déchèterie de Vertou<br/><i>Source : OpenDataNantes 09/2016</i>"
 	}, {
@@ -2759,7 +2759,7 @@ var _structuresDatas = [{
 		"descr": "Réservé aux particuliers habitant Nantes Métropole.<br/><br/><b>Déchets admis</b> : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-j",
 		"descr_en": "Reserved for individuals living in Nantes Métropole.Déchets admitted: batteries, wood, cardboard, debris and rubble from the family crafts, waste electrical and electronic equipment, various household bulky, scrap metal, motor oil, paper, newspapers, books, household plastic, textiles, mowing lawn-products garden-pruning branches (eligible production for a household, and length of branches less than 1 meter), verre.Déchets prohibited: dead animals, debris-debris other than those from DIY family, anatomical or infectious waste, hospital waste, whole car body parts or truck, medicines, household waste, tires, explosives, flammable, radioactive products, industrielle.Déchets manufacturing residues allowed with conditions: ask at the recycling center FRONT deposits: asbestos waste linked products, grass clippings, garden pruning branches in large quantities.",
 		"carteMarqueur": "3",
-		"carteIcon": "resources/icons/marker-icon-pink.png",
+		"carteIcon": "assets/icons/marker-icon-pink.png",
 		"cartePopuptext": "Déchèterie de Mauves sur Loire<br/><i>Source : OpenDataNantes 09/2016</i>",
 		"cartePopuptext_en": "Déchèterie de Mauves sur Loire<br/><i>Source : OpenDataNantes 09/2016</i>"
 	},
@@ -2778,7 +2778,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -2796,7 +2796,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -2814,7 +2814,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -2832,7 +2832,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -2850,7 +2850,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -2868,7 +2868,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -2885,7 +2885,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -2903,7 +2903,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -2921,7 +2921,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -2939,7 +2939,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -2956,7 +2956,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -2974,7 +2974,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -2992,7 +2992,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3010,7 +3010,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3028,7 +3028,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3046,7 +3046,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3063,7 +3063,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3081,7 +3081,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3099,7 +3099,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3117,7 +3117,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3134,7 +3134,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3152,7 +3152,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3170,7 +3170,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3187,7 +3187,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3204,7 +3204,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3222,7 +3222,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>",
 		"descr": "consulter les horaires dans les piscines"
@@ -3242,7 +3242,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3260,7 +3260,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3278,7 +3278,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3296,7 +3296,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3315,7 +3315,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3334,7 +3334,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3353,7 +3353,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3370,7 +3370,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3388,7 +3388,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3406,7 +3406,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3423,7 +3423,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3441,7 +3441,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>",
 		"descr": "ouvert les lundis uniquement si férié"
@@ -3460,7 +3460,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3478,7 +3478,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3496,7 +3496,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3514,7 +3514,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3532,7 +3532,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3550,7 +3550,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3567,7 +3567,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3585,7 +3585,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3603,7 +3603,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3621,7 +3621,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3638,7 +3638,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3657,7 +3657,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3676,7 +3676,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>",
 		"descr": "ouvert les lundis uniquement si férié"
@@ -3696,7 +3696,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3714,7 +3714,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3732,7 +3732,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3750,7 +3750,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3768,7 +3768,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3787,7 +3787,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3806,7 +3806,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3825,7 +3825,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3844,7 +3844,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3863,7 +3863,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3882,7 +3882,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3899,7 +3899,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3917,7 +3917,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3935,7 +3935,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3953,7 +3953,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3971,7 +3971,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -3989,7 +3989,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4007,7 +4007,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4025,7 +4025,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>",
 		"descr": "Juillet/Août fermeture entre 12h30 et 14h30"
@@ -4045,7 +4045,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4064,7 +4064,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4083,7 +4083,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4101,7 +4101,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4118,7 +4118,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4136,7 +4136,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4153,7 +4153,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4171,7 +4171,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4189,7 +4189,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4207,7 +4207,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4225,7 +4225,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4243,7 +4243,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4261,7 +4261,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4279,7 +4279,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4298,7 +4298,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4316,7 +4316,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4334,7 +4334,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4352,7 +4352,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4370,7 +4370,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4388,7 +4388,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4406,7 +4406,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4424,7 +4424,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4442,7 +4442,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4460,7 +4460,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4478,7 +4478,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4496,7 +4496,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4514,7 +4514,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4532,7 +4532,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4550,7 +4550,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4568,7 +4568,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4585,7 +4585,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4603,7 +4603,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4620,7 +4620,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4638,7 +4638,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4656,7 +4656,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4674,7 +4674,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4692,7 +4692,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4710,7 +4710,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4728,7 +4728,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4746,7 +4746,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4764,7 +4764,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4782,7 +4782,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4800,7 +4800,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4818,7 +4818,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4836,7 +4836,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4854,7 +4854,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4872,7 +4872,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4889,7 +4889,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4907,7 +4907,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {
@@ -4925,7 +4925,7 @@ var _structuresDatas = [{
 		"src": "OpenDataNantes 11/2015",
 		"image": "relais_trisac.jpg",
 		"carteMarqueur": "7",
-		"carteIcon": "resources/icons/marker-icon-red.png",
+		"carteIcon": "assets/icons/marker-icon-red.png",
 		"cartePopuptext": "<br/><i>Source OpenDataNantes 11/2015</i>",
 		"cartePopuptext_en": "<br/><i>Source : OpenDataNantes 11/2015</i>"
 	}, {

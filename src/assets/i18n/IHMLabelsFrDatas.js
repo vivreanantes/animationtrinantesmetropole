@@ -42,6 +42,7 @@ var _ihmLabelsFrDatas = {
 	"modco_encombrants": "Encombrant",
 	"modco_encombrants_resume": "Encombrant",
 	"smco_conteneurlerelais": "Conteneur Le Relais",
+	"smco_reemp": "Réemploi",
 	"smco_reempelectromenag": "Récup. électroménager",
 	"smco_reempcartouchetoner": "Récup. cartouches d'encres/tuners imprimantes",
 	"smco_reempjouet": "Récup. de jouets",

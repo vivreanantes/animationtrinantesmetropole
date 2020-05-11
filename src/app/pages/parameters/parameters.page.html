@@ -1,0 +1,98 @@
+<div id="background"></div>
+
+<ion-content>
+  <button-menu></button-menu>
+  <div class="mt-content">
+    <div class="block">
+      <div class="titre">
+        <h2>{{"langue_de_lapplication" | translate}}</h2>
+      </div>
+      <div class="body">
+        <div class="list">
+          <div
+            class="item"
+            *ngFor="let lang of langues"
+            (click)="setLangue(lang)"
+            [ngClass]="{'selected':currentLang === lang}"
+          >
+            <img
+              src="{{ 'assets/imgs/flags/fl_'+lang+'.png'}}"
+              alt=""
+              class="flag"
+            />
+            <div class="title">
+              {{ "lang_"+lang| translate }}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="block" *ngIf="homeCollectModsList && setHomeCollectMods">
+      <div class="titre">
+        <h2>{{"modes_de_collecte" | translate}}</h2>
+      </div>
+      <div class="body">
+        <p>
+          <strong>Sélection : </strong>{{ currentHomeCollectMods.mco|translate
+          }}
+        </p>
+        <div class="list">
+          <div
+            class="item"
+            *ngFor="let collect of homeCollectModsList;let i = index"
+            (click)="setHomeCollectMods(collect)"
+            [ngClass]="{'selected':currentHomeCollectMods.label === collect.label}"
+          >
+            <div class="radio">
+              <ion-icon
+                name="checkmark-circle"
+                *ngIf="currentHomeCollectMods.label === collect.label"
+              ></ion-icon>
+              <ion-icon
+                name="radio-button-off"
+                *ngIf="currentHomeCollectMods.label !== collect.label"
+              ></ion-icon>
+            </div>
+            <div class="title">
+              <span
+                >{{ collect.label|translate }} - {{ collect.type|translate
+                }}</span
+              >
+            </div>
+          </div>
+          <div
+            class="item tri-address"
+            *ngIf="currentHomeCollectMods.canAddress === true && currentHomeCollectMods.address.mco"
+          >
+            <div class="icon">
+              <ion-icon name="information-circle"></ion-icon>
+            </div>
+            <div class="txt">
+              <div class="name">
+                {{ currentHomeCollectMods.address.dcv }}
+              </div>
+              <div
+                class="tri"
+                [innerHTML]="currentHomeCollectMods.address.mco|translate"
+              ></div>
+            </div>
+            <div class="button">
+              <button ion-button color="info" (click)="collectSearch()">
+                <ion-icon name="create"></ion-icon>
+              </button>
+            </div>
+          </div>
+          <div
+            class="item"
+            *ngIf="currentHomeCollectMods.canAddress === true && !currentHomeCollectMods.address.mco"
+          >
+            <button ion-button color="info" block (click)="collectSearch()">
+              {{ 'donnez_votre_rue' | translate }}
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</ion-content>

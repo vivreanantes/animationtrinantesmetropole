@@ -1,0 +1,111 @@
+<ion-content>
+  <div class="mt-content fiche">
+    <div class="close" (click)="close()">
+      <ion-icon name="close"></ion-icon>
+    </div>
+    <div class="header">
+      <div class="img" *ngIf="item.logo">
+        <img src="assets/imgs/{{ item.logo }}" />
+      </div>
+      <h1>{{ item | lang:"nom"}}</h1>
+
+      <div class="contacts">
+        <div class="contact" *ngIf="item.latitude&&item.longitude">
+          <a (click)="openMap(item.latitude,item.longitude)">
+            <ion-icon name="location"></ion-icon>
+          </a>
+        </div>
+
+        <div class="contact" *ngIf="item.tel">
+          <a (click)="openTel(item.tel)">
+            <ion-icon name="call"></ion-icon>
+          </a>
+        </div>
+
+        <div class="contact" *ngIf="item.fax">
+          <a href="fax:{{ item.fax }}">
+            Fax
+          </a>
+        </div>
+
+        <div class="contact" *ngIf="item.url">
+          <a href="{{ item.url }}" target="_blank">
+            <ion-icon name="link"></ion-icon>
+          </a>
+        </div>
+
+        <div class="contact" *ngIf="item.facebook">
+          <a href="{{ item.facebook }}" target="_blank">
+            <ion-icon name="logo-facebook"></ion-icon>
+          </a>
+        </div>
+
+        <div class="contact" *ngIf="item.googleplus">
+          <a href="{{ item.googleplus }}" target="_blank">
+            <ion-icon name="logo-google"></ion-icon>
+          </a>
+        </div>
+
+        <div class="contact" *ngIf="item.twitter">
+          <a href="{{ item.twitter }}" target="_blank">
+            <ion-icon name="logo-twitter"></ion-icon>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="body">
+      <div class="block">
+        <div class="titre">
+          <h2>Details</h2>
+        </div>
+        <div class="body">
+          <div>
+            <strong>{{'type'|translate}} : </strong>{{ item | lang:"type"
+            |translate}}
+          </div>
+          <div *ngIf="item.statut">
+            <strong>{{'statut'|translate}} : </strong>{{item.statut|translate}}
+          </div>
+          <div *ngIf="item.objets_recupere">
+            <strong>{{'objets_recuperes'|translate}} : </strong>
+            {{item.objets_recuperes}}
+          </div>
+          <div *ngIf="item.src">
+            <strong>{{'Source'|translate}} : </strong>
+            {{item.src}}
+          </div>
+          <osm-horaire [horaires]="item.opening_hours"></osm-horaire>
+
+          <div class="adresse" *ngIf="item.adresseTemp">
+            <strong>{{'adresse'|translate}} :</strong> {{ item.adresseTemp }}
+          </div>
+
+          <div class="description" [innerHtml]="( item | lang:'descr')"></div>
+
+          <ngu-carousel
+            #myCarousel
+            [inputs]="carouselConfig"
+            [dataSource]="item.images"
+            *ngIf="item.images&&item.images.length > 0"
+          >
+            <ngu-tile *nguCarouselDef="let image;let i = index">
+              <img src="{{image}}" alt="Image" />
+            </ngu-tile>
+            <button NguCarouselPrev class="leftRs">
+              <ion-icon name="arrow-back"></ion-icon>
+            </button>
+            <button NguCarouselNext class="rightRs">
+              <ion-icon name="arrow-forward"></ion-icon>
+            </button>
+          </ngu-carousel>
+
+          <hr *ngIf="item.cons" />
+          <div class="info">
+            <h5>{{ item.cons | lang:"nom"}}</h5>
+            <div class="inner" [innerHtml]="(item.cons | lang:'descr')"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</ion-content>

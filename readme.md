@@ -30,7 +30,7 @@
 - Installer Android Studio
 
 - Installer Android SDK Tools
-  Bien choisir "SDK Tools Only" (exemple : installer_r24.3.3-windows.exe )
+  Bien choisir "SDK Tools Only" (exemple : installer_r24.3.3-windows.exe )
   http://developer.android.com/sdk/index.html#download
 
 

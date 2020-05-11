@@ -1,0 +1,36 @@
+@import "../../../theme/theme";
+:host {
+  > #background {
+    $quiz_bg_blur: 10px;
+    position: absolute;
+    top: -$quiz_bg_blur;
+    left: -$quiz_bg_blur;
+    right: -$quiz_bg_blur;
+    bottom: -$quiz_bg_blur;
+    background-image: url(/assets/imgs/contact_bg.jpg);
+    background-size: cover;
+    @include prefix(filter, blur($quiz_bg_blur), webkit ms moz o);
+
+    &:after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: #000;
+      opacity: 0;
+      @include prefix(transition, opacity 0.3s ease-in-out, webkit);
+    }
+  }
+  .mt-content {
+    .title {
+      width: 100%;
+      > h1 {
+        @include fonts("h1", bold);
+        text-align: center;
+        color: #fff;
+      }
+    }
+  }
+}

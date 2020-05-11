@@ -177,8 +177,8 @@ var _advicesDatas = [{
     "code": "cons_distrisac_piecesobligatoires",
     "nom": "Amener carte retrait pour  'dépôt' et  'rendez-vous'",
     "nom_en": "Bring card withdrawal for 'deposit' and 'go'",
-    "descr": "Pour le retrait, munissez-vous de votre carte de retrait, envoyée par courrier.<br/><IMG SRC='resources/images/carte_retrait_trisacs.png' />",
-    "descr_en": "For removal, please have your ATM card, sent by mail. <br/> <IMG SRC='resources/images/carte_retrait_trisacs.png' />"
+    "descr": "Pour le retrait, munissez-vous de votre carte de retrait, envoyée par courrier.<br/><IMG SRC='assets/imgs/carte_retrait_trisacs.png' />",
+    "descr_en": "For removal, please have your ATM card, sent by mail. <br/> <IMG SRC='assets/imgs/carte_retrait_trisacs.png' />"
   },
   {
     "code": "cons_distrisac_relais",

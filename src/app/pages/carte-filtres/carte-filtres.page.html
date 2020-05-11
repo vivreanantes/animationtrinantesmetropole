@@ -1,0 +1,23 @@
+<ion-content>
+  <div id="content">
+    <div class="header">
+      {{ "carte_filter" | translate}}
+    </div>
+    <div class="body">
+      <div class="list">
+        <div
+          class="item"
+          [ngClass]="{'selected':item.selected}"
+          *ngFor="let item of filtres"
+          (click)="select(item)"
+        >
+          <img src="{{ item.image }}" />
+          <ion-label>{{ item|lang:"nom" }}</ion-label>
+        </div>
+      </div>
+    </div>
+    <div class="footer">
+      <button (click)="valide()">{{ 'ok' | translate }}</button>
+    </div>
+  </div>
+</ion-content>

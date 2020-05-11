@@ -73,56 +73,55 @@ var _paramFilterTypeMapDatas = [{
 		"code": "smco_reemp",
 		"nom": "Réemploi (77)",
 		"nom_en": "Re-use (77)",
-		"image": "resources/icons/marker-icon-blue.png"
+		"image": "assets/icons/marker-icon-blue.png"
 	}, {
 		"id": "2",
 		"code": "modco_contmpb,modco_contverre,modco_contembjournmag,modco_contomr,modco_dechetssecs",
 		"nom": "Conteneurs (1580)",
 		"nom_en": "Containers (1580)",
-		"image": "resources/icons/marker-icon-brown.png"
+		"image": "assets/icons/marker-icon-brown.png"
 //	}, {
 //		"id": "3",
 //		"code": "modco_ecopoint,modco_decheterie",
 //		"nom": "Déchèteries / Ecopoints (16)",
 //		"nom_en": "Déchèteries / Ecopoints (16)",
-//		"image": "resources/icons/marker-icon-green.png"
+//		"image": "assets/icons/marker-icon-green.png"
 	}, {
 		"id": "4",
 		"code": "modco_compostage",
 		"nom": "Composteurs (156)",
 		"nom_en": "Composting (156)",
-		"image": "resources/icons/marker-icon-yellow.png"
+		"image": "assets/icons/marker-icon-yellow.png"
 	}, {
 		"id": "5",
 		"code": "smco_conteneurlerelais",
 		"nom": "Conteneurs vêtements (53)",
 		"nom_en": "Containers clothes (53)",
-		"image": "resources/icons/marker-icon-pink.png"
+		"image": "assets/icons/marker-icon-pink.png"
 	}, {
 		"id": "6",
 		"code": "ventevracstruct,ventevracpoints",
 		"nom": "Vente vrac (105)",
 		"nom_en": "No packaging shops (83)",
-		"image": "resources/icons/marker-icon-red.png"
+		"image": "assets/icons/marker-icon-red.png"
 //	}, {
 //		"id": "7",
 //		"code": "trisacs",
 //		"nom": "Trisac (116)",
 //		"nom_en": "Trisac (116)",
-//		"image": "resources/icons/marker-icon-purple.png"
+//		"image": "assets/icons/marker-icon-purple.png"
 //	}, {
 //		"id": "8",
 //		"code": "modco_bouchons",
 //		"nom": "Collecteurs bouchons (38)",
 //		"nom_en": "Collector corks (38)",
-//		"image": "resources/icons/marker-icon-grey.png"
-	}
-		}, {
+//		"image": "assets/icons/marker-icon-grey.png"
+	}, {
 		"id": "9",
 		"code": "coreparation",
 		"nom": "Ateliers co-réparations",
 		"nom_en": "Self repair workshop",
-		"image": "resources/icons/marker-icon-grey.png"
+		"image": "assets/icons/marker-icon-grey.png"
 	}
 ];
 var paramAllPlaces = 'smco_reemp|modco_decheterie|modco_ecopoint|modco_encombrants_resume|ventevracstruct';
@@ -130,27 +129,27 @@ var paramAllPlaces = 'smco_reemp|modco_decheterie|modco_ecopoint|modco_encombran
 var paramIconsMap = {
 			default_icon: {},
 			reemploi: {
-				iconUrl: "resources/icons/marker-icon-blue.png"
+				iconUrl: "assets/icons/marker-icon-blue.png"
 			},
 			conteneurs: {
-				iconUrl: "resources/icons/marker-icon-brown.png"
+				iconUrl: "assets/icons/marker-icon-brown.png"
 			},
 			decheterie: {
-				iconUrl: "resources/icons/marker-icon-green.png"
+				iconUrl: "assets/icons/marker-icon-green.png"
 			},
 			composteurs: {
-				iconUrl: "resources/icons/marker-icon-yellow.png"
+				iconUrl: "assets/icons/marker-icon-yellow.png"
 			},
 			conteneurlerelais: {
-				iconUrl: "resources/icons/marker-icon-pink.png"
+				iconUrl: "assets/icons/marker-icon-pink.png"
 			},
 			ventevrac: {
-				iconUrl: "resources/icons/marker-icon-red.png"
+				iconUrl: "assets/icons/marker-icon-red.png"
 			},
 			trisac: {
-				iconUrl: "resources/icons/marker-icon-purple.png"
+				iconUrl: "assets/icons/marker-icon-purple.png"
 			},
 			collectors: {
-				iconUrl: "resources/icons/marker-icon-grey.png"
+				iconUrl: "assets/icons/marker-icon-grey.png"
 			}
 		};

@@ -1,0 +1,27 @@
+@import "../../../theme/theme";
+:host {
+  ion-content {
+    background-color: var(--mt-color-vert) !important;
+    hr {
+      margin: 2vh 0;
+    }
+    .info {
+      .inner {
+        display: flex;
+      }
+    }
+    .buttons {
+      display: flex;
+      width: 100%;
+      margin-top: 5vh;
+      button {
+        margin: auto;
+        width: 80vw;
+        padding: 1vh 2vw;
+        background-color: var(--ion-color-primary);
+        @include fonts("button");
+        color: #fff;
+      }
+    }
+  }
+}

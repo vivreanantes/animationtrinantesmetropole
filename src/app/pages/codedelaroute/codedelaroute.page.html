@@ -1,0 +1,199 @@
+<div
+  id="background"
+  [ngClass]="{ 'on-select': onSelect === true, 'on-advise': onAdvise === true }"
+></div>
+<ion-content no-scroll>
+  <button-menu></button-menu>
+  <div class="mt-content">
+    <div
+      id="list"
+      [ngClass]="{
+      'on-list': onList === true,
+      'on-select': onSelect === true,
+      'on-advise': onAdvise === true,
+      'on-over': onOver === true
+    }"
+    >
+      <div class="title">
+        <h1>{{ "cdlr_list_title" | translate }}</h1>
+      </div>
+      <div class="items">
+        <div class="item" *ngFor="let item of list">
+          <button (click)="initQuestion(item)">
+            {{ item | lang: "name" }}
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div
+      id="game"
+      *ngIf="questions.length > 0"
+      [ngClass]="{
+      'on-list': onList === true,
+      'on-select': onSelect === true,
+      'on-advise': onAdvise === true,
+      'on-over': onOver === true
+    }"
+    >
+      <div id="garbage">
+        <div class="img">
+          <img
+            src="assets/imgs/codedelaroute/{{ questions[questionIndex].image }}"
+            *ngIf="questions[questionIndex].image"
+            onerror="this.remove()"
+          />
+        </div>
+        <div class="title">{{ questions[questionIndex] | lang: "descr" }}</div>
+        <div class="descr">{{ questions[questionIndex] | lang: "resume" }}</div>
+      </div>
+      <div class="reponses">
+        <div
+          class="reponse"
+          id="reponse-{{ reponse.id }}"
+          *ngFor="let reponse of questions[questionIndex].reponses; let i = index"
+          (click)="clickReponse($event, reponse.id)"
+          [ngClass]="{ 'is-true': reponse.isTrue === true }"
+          #rep
+        >
+          {{ i + 1 + ". " + (reponse | lang: "name") }}
+        </div>
+      </div>
+      <div class="confirm">
+        <button
+          (click)="confirm()"
+          [disabled]="!questions[questionIndex].userReponse"
+        >
+          {{ "cdlr_valid" | translate }}
+        </button>
+      </div>
+    </div>
+
+    <div
+      id="restart"
+      [ngClass]="{ 'on-list': onList === true, 'on-over': onOver === true }"
+    >
+      <button (click)="restart()"><ion-icon name="refresh"></ion-icon></button>
+    </div>
+
+    <div
+      id="progress-block"
+      *ngIf="questions.length > 0"
+      [ngClass]="{ 'on-list': onList === true, 'on-over': onOver === true }"
+    >
+      <div class="bar">
+        <div
+          class="background"
+          [ngStyle]="{ 'width.%': (questionIndex / questions.length) * 100 }"
+        ></div>
+        <div
+          class="step"
+          [ngClass]="{
+          'is-true': question.isTrue === true,
+          'is-false': question.isTrue === false,
+          current: i === questionIndex
+        }"
+          *ngFor="let question of questions; let i = index"
+        >
+          <ion-icon
+            class="is-true"
+            *ngIf="question.isTrue===true"
+            name="checkmark-outline"
+          ></ion-icon>
+          <ion-icon
+            class="is-false"
+            *ngIf="question.isTrue===false"
+            name="close-outline"
+          ></ion-icon>
+          <div class="number">{{ i + 1 }}</div>
+        </div>
+      </div>
+    </div>
+
+    <div id="difficult" [ngClass]="{ 'on-over': onOver === true }">
+      <button (click)="changeDifficult()">
+        <ion-icon name="settings"></ion-icon>
+      </button>
+    </div>
+
+    <div
+      id="result"
+      [ngClass]="{
+      show: onAdvise === true,
+      'is-true': questions[questionIndex].isTrue === true
+    }"
+      *ngIf="questions[questionIndex]"
+    >
+      <div class="body">
+        <div class="row title">
+          <div class="col">
+            {{ questions[questionIndex].isTrue === true ? "Gagné" : "Perdu" }}
+          </div>
+        </div>
+        <div class="row content">
+          <div class="col">{{ questions[questionIndex] | lang: "advice" }}</div>
+        </div>
+        <div class="row button">
+          <div class="col">
+            <button ion-button color="info" block (click)="nextQuestion()">
+              {{ "quiz_next" | translate }}
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="finish" [ngClass]="{ show: onOver === true }">
+      <div class="title">
+        <h1>{{ "votre_score" | translate }}</h1>
+      </div>
+      <stars [score]="score"></stars>
+      <div
+        class="legend"
+        [translate]="'quiz_finish_text'"
+        [translateParams]="{ reponses: goodAnswers, questions: questions.length }"
+      ></div>
+
+      <ngu-carousel
+        #myCarousel
+        [inputs]="carouselConfig"
+        [dataSource]="questions"
+        *ngIf="questions"
+      >
+        <ngu-tile *nguCarouselDef="let question;let j = index">
+          <div class="header">
+            <div class="image">
+              <ion-icon
+                name="checkmark"
+                *ngIf="question.isTrue===true"
+              ></ion-icon>
+              <ion-icon name="close" *ngIf="question.isTrue!==true"></ion-icon>
+            </div>
+            <h2 [ngClass]="{'is-true':question.isTrue===true}">
+              {{ question|lang:'descr' }}
+            </h2>
+          </div>
+          <div class="body">
+            <p [innerHtml]="(question|lang:'advice')"></p>
+          </div>
+        </ngu-tile>
+        <button NguCarouselPrev class="leftRs">
+          <ion-icon name="arrow-back"></ion-icon>
+        </button>
+        <button NguCarouselNext class="rightRs">
+          <ion-icon name="arrow-forward"></ion-icon>
+        </button>
+      </ngu-carousel>
+
+      <div class="button">
+        <button (click)="init()">
+          {{ "rejouer" | translate }}
+        </button>
+        <div>{{ "ou" | translate }}</div>
+        <button (click)="contact()">
+          {{ "contact_me" | translate }}
+        </button>
+      </div>
+    </div>
+  </div>
+</ion-content>

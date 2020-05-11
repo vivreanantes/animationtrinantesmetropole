@@ -1,0 +1,15 @@
+@import "../../../theme/theme";
+:host {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  > .star {
+    font-size: 44px;
+    color: var(--mt-color-jaune);
+    > ion-icon {
+      &[name="star-outline"] {
+        opacity: 0.5;
+      }
+    }
+  }
+}
