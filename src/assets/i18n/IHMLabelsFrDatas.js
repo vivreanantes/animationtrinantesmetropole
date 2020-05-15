@@ -85,6 +85,7 @@ var _ihmLabelsFrDatas = {
 	"scu_toxiqueparasite": "Parasite",
 	"scu_toxiquedivers": "Divers",
 	"concerne_aussi": "Concerne",
+	"detail": "Détail",
 	"sponsor_kkbb": "Cette ressource est parrainée par le donateur KissKissBankBank",
 	"resultat_recherche": "Résultat de la recherche",
 	"structure_template_detail": "<B>{type}</B> - {soustype} <BR/>{description_fr} <BR/><BR/><B>Horaires</B> : plagesHoraires2} {ouvertAujourdhuiEtDemain} <BR/><B>Adresse</B> : adresseTemp} '+ ' <BR/>Téléphone : telephoneTemp} '+ ' <BR/>TEMPO HORAIRES {horaires}",
@@ -258,5 +259,6 @@ var _ihmLabelsFrDatas = {
 	"votre_score":"Votre score",
 	"rejouer":"Rejouer",
 	"option_du_quiz":"Option du quiz",
-	"ventevracstruct":"Magasin de vracs"
+	"ventevracstruct":"Magasin de vracs",
+	"coreparation":"Co-réparation"
 }

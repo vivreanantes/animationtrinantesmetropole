@@ -83,6 +83,7 @@ var _ihmLabelsEnDatas = {
 	"scu_toxiqueparasite": "",
 	"scu_toxiquedivers": "",
 	"concerne_aussi": "Concern",
+	"detail": "Details",
 	"sponsor_kkbb": "This resource is sponsored by this KissKissBankBank contributor",
 	"resultat_recherche": "Search result",
 	"structure_template_detail": "<B>{type}</B> - {soustype} <BR/>{description_fr} <BR/><B>Schedules</B> : plagesHoraires2} {ouvertAujourdhuiEtDemain} <BR/>Address : adresseTemp} '+ ' <BR/><B>Phone</B> : telephoneTemp} '+ ' <BR/>TEMPO HORAIRES {horaires}",
@@ -257,5 +258,6 @@ var _ihmLabelsEnDatas = {
 	"votre_score":"Your score",
 	"rejouer":"Replay",
 	"option_du_quiz":"Option of the quiz",
-	"ventevracstruct":"No-packaging shop"
+	"ventevracstruct":"No-packaging shop",
+	"coreparation":"Co-repair"
 };
