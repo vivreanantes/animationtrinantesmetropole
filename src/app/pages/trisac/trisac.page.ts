@@ -109,6 +109,8 @@ export class TrisacPage implements OnInit {
     if (value) {
       let trisacs = [];
       Object.keys(this.trisacsRaw).map((zone, index) => {
+
+        // TODO : il faudrait zone et lieu_distribution
         if (zone.toLowerCase().indexOf(value) > -1) {
           trisacs[zone] = this.trisacsRaw[zone];
         }

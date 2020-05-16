@@ -133,8 +133,8 @@ export class TrierPage implements OnInit {
           if (
             !value ||
             value === "" ||
-            item.nom.toLowerCase().indexOf(value) > -1 ||
-            item.nom_en.toLowerCase().indexOf(value) > -1
+            item.mots_cles.toLowerCase().indexOf(value) > -1 ||
+            item.mots_cles_en.toLowerCase().indexOf(value) > -1
           ) {
             if (!categories[key])
               categories[key] = this.copyCategorie(this.categoriesRaw[key]);

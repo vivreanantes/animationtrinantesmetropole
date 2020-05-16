@@ -63,7 +63,7 @@ var _usualCategoriesData = [{
     "bouton": "cu"
   },
   {
-    "code": "scu_medicament",
+    "code": "cu_toxique",
     "nom": "Médicament",
     "nom_en": "Drug",
     "sous_cat": "true",
