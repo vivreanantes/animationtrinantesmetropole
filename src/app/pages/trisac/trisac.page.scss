@@ -3,43 +3,50 @@
   ion-content {
     background-color: var(--mt-color-vert) !important;
 
+    .mt-content{
+      &:not(.selected){
+        .block{
+          border-bottom-left-radius: 10px;
+          border-bottom-right-radius: 10px;
+          margin: 50% auto ;
+          @include prefix(transform,translateY(-50%),moz webkit);
+
+          .body{
+            padding: 5vw;
+            text-align: center;
+            select{
+              margin-top:3vh;
+              border: 2px solid #000;
+            }
+
+          }
+        }
+      }
+    }
+    select {
+      height: 10vw;
+      width: 90%;
+      padding: 10px;
+      margin: auto;
+      border: none;
+      border-radius: 10vw;
+      @include fonts("p", bold);
+      text-align: center;
+      text-align-last:center;
+      outline: none;
+
+      @include tablet {
+        height: 7vw;
+      }
+      @include desktop {
+        height: 3vw;
+      }
+    }
+
     .search {
       display: flex;
       width: 100%;
       margin-top: 3vh;
-      .input-field {
-        position: relative;
-        display: flex;
-        width: 100%;
-        margin: auto;
-        input {
-          height: 10vw;
-          width: 90%;
-          padding: 10px;
-          margin: auto;
-          border: none;
-          border-radius: 10vw;
-          @include fonts("p", bold);
-          text-align: center;
-          outline: none;
-          &::placeholder {
-            color: var(--mt-color-gris);
-          }
-          @include tablet {
-            height: 7vw;
-          }
-          @include desktop {
-            height: 3vw;
-          }
-        }
-        ion-icon {
-          position: absolute;
-          top: 50%;
-          right: 5vw;
-          padding: 5vw;
-          @include prefix(transform, translateY(-50%), moz webkit);
-        }
-      }
     }
 
     .block {
