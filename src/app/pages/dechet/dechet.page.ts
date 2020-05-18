@@ -1,11 +1,9 @@
-import { Component, OnInit, ViewEncapsulation } from "@angular/core";
-import { NavParams, ModalController } from "@ionic/angular";
+import { Component, OnInit, ViewEncapsulation, Input } from "@angular/core";
+import { ActivatedRoute } from '@angular/router';
+import { NavController, ModalController } from "@ionic/angular";
 import { NguCarouselConfig } from "@ngu/carousel";
-
-import { DataService } from "../../services/data.service";
 import { CollectePage } from "../collecte/collecte.page";
 import { FichePage } from "../fiche/fiche.page";
-
 import { HomeCollectModsHandler } from "../../handlers/home-collect-mods.handler";
 
 @Component({
@@ -15,6 +13,7 @@ import { HomeCollectModsHandler } from "../../handlers/home-collect-mods.handler
   encapsulation: ViewEncapsulation.ShadowDom,
 })
 export class DechetPage implements OnInit {
+  @Input('dechet') dechet;
   item: any = {};
   carouselConfig: NguCarouselConfig = {
     grid: { xs: 3, sm: 3, md: 3, lg: 6, all: 0 },
@@ -29,83 +28,18 @@ export class DechetPage implements OnInit {
     easing: "cubic-bezier(0, 0, 0.2, 1)",
   };
   constructor(
-    public navParams: NavParams,
-    private dataService: DataService,
     public modalController: ModalController,
-    public homeCollectModsHandler: HomeCollectModsHandler
-  ) {}
+    public homeCollectModsHandler: HomeCollectModsHandler,
+    private activatedRoute: ActivatedRoute,
+    private navController: NavController
+  ) { }
 
   ngOnInit() {
-    this._init(this.navParams.get("dechet")).then((item: any) => {
-      item.recyc = `recyclable_${item.recyc.toLowerCase()}`;
-      this.item = item;
+    this.activatedRoute.data.subscribe((data: { dechet: any }) => {
+      this.item = data.dechet;
     });
   }
 
-  private _init(item) {
-    let Promises: Array<any> = [];
-    let getCatUsuel = new Promise((resolve, reject) => {
-      if (typeof item.cat_usuel !== "object") {
-        this.dataService
-          .find("nantes/UsualCategoriesDatas.js", (categorie) => {
-            return categorie.code === item.cat_usuel;
-          })
-          .then((categorie) => {
-            item.cat_usuel = categorie;
-            resolve();
-          })
-          .catch(reject);
-      } else {
-        resolve();
-      }
-    });
-    Promises.push(getCatUsuel);
-
-    if (typeof item.modco === "string") {
-      let homeCollectMods = this.homeCollectModsHandler.get();
-      homeCollectMods = homeCollectMods ? homeCollectMods.mco.split(",") : [];
-      let modco = item.modco.split(",");
-      let getModCo = new Promise((resolve, reject) => {
-        this.dataService
-          .find("nantes/CollectModsDatas.js", undefined, (mod) => {
-            return (
-              modco.indexOf(mod.code) > -1 &&
-              homeCollectMods.indexOf(mod.code) === -1
-            );
-          })
-          .then((mods) => {
-            item.modco = mods;
-            resolve();
-          })
-          .catch(reject);
-      });
-
-      Promises.push(getModCo);
-    }
-
-    if (typeof item.cons === "string") {
-      let cons = item.cons.split(",");
-      let getCons = new Promise((resolve, reject) => {
-        this.dataService
-          .find("nantes/AdvicesDatas.js", undefined, (adv) => {
-            return cons.indexOf(adv.code) > -1;
-          })
-          .then((advices) => {
-            item.cons = advices;
-            resolve();
-          })
-          .catch(reject);
-      });
-
-      Promises.push(getCons);
-    }
-
-    return new Promise((resolve) => {
-      Promise.all(Promises).then(() => {
-        resolve(item);
-      });
-    });
-  }
   /**
    * Affiche la fiche du la collecte
    */
@@ -135,7 +69,7 @@ export class DechetPage implements OnInit {
     return false;
   }
 
-  close() {
-    this.modalController.dismiss();
+  back() {
+    this.navController.back();
   }
 }

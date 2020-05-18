@@ -4,7 +4,6 @@ import { FormsModule } from "@angular/forms";
 import { IonicModule } from "@ionic/angular";
 import { TrierPageRoutingModule } from "./trier-routing.module";
 import { NguCarouselModule } from "@ngu/carousel";
-import { DechetPageModule } from "../dechet/dechet.module";
 import { TranslateModule } from "@ngx-translate/core";
 import { PipesModule } from "../../pipes/pipe.module";
 import { ComponentsModule } from "../../components/components.module";
@@ -18,11 +17,10 @@ import { TrierPage } from "./trier.page";
     FormsModule,
     TranslateModule,
     NguCarouselModule,
-    DechetPageModule,
     PipesModule,
     ComponentsModule,
     TrierPageRoutingModule,
   ],
   declarations: [TrierPage],
 })
-export class TrierPageModule {}
+export class TrierPageModule { }

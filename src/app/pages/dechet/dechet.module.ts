@@ -7,18 +7,21 @@ import { CollectePageModule } from "../collecte/collecte.module";
 import { FichePageModule } from "../fiche/fiche.module";
 import { PipesModule } from "../../pipes/pipe.module";
 import { DechetPage } from "./dechet.page";
+import { DechetPageRoutingModule } from "./dechet-routing.module"
+import { ComponentsModule } from "../../components/components.module"
 
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
+    DechetPageRoutingModule,
     TranslateModule,
-    CollectePageModule,
-    FichePageModule,
     PipesModule,
+    ComponentsModule,
+    CollectePageModule,
+    FichePageModule
   ],
-  declarations: [DechetPage],
-  entryComponents: [DechetPage],
+  declarations: [DechetPage]
 })
-export class DechetPageModule {}
+export class DechetPageModule { }

@@ -4,44 +4,39 @@
   <div class="mt-content">
     <div class="search">
       <div class="input-field">
-        <input
-          type="text"
-          placeholder="{{ 'dechet_placeholder'|translate }}"
-          [(ngModel)]="input"
-          (ngModelChange)="onChangeFiltre(input)"
-        />
+        <input type="text" placeholder="{{ 'dechet_placeholder'|translate }}" [(ngModel)]="input"
+          (ngModelChange)="onChangeFiltre(input)" />
         <ion-icon name="close" (click)="cleanFiltre()"></ion-icon>
       </div>
     </div>
 
-    <div class="categories" *ngIf="categories">
-      <div class="categorie" *ngFor="let categorie of categories | values">
-        <div class="title" *ngIf="categorie.items && categorie.items.length >0">
-          <h2>{{ categorie | lang: "nom" }}</h2>
+    <div class="categories" *ngIf="onSearch===false && categories.length > 0">
+      <div class="categorie" *ngFor="let categorie of categories" routerLink="/categorie-dechet/{{categorie.code}}"
+        routerDirection="root">
+        <img src="assets/imgs/{{ categorie.image}}">
+        <div class="title">
+          {{ categorie | lang: "nom" }}
         </div>
+      </div>
+    </div>
 
-        <ngu-carousel
-          #myCarousel
-          [inputs]="carouselConfig"
-          [dataSource]="categorie.items"
-          class="items"
-          *ngIf="categorie.items && categorie.items.length >0"
-        >
-          <ngu-tile
-            *nguCarouselDef="let item;"
-            class="item"
-            (click)="voirDechet(item)"
-          >
-            <img src="assets/imgs/{{ item.image }}" alt="Image" />
-            <h4>{{ item|lang:'nom' }}</h4>
-          </ngu-tile>
-          <button NguCarouselPrev class="leftRs">
-            <ion-icon name="arrow-back"></ion-icon>
-          </button>
-          <button NguCarouselNext class="rightRs">
-            <ion-icon name="arrow-forward"></ion-icon>
-          </button>
-        </ngu-carousel>
+    <div class="block" *ngIf="onSearch === true">
+      <div class="titre">
+        <h2>{{('results'|translate)+' ('+search.length+')'}}</h2>
+      </div>
+      <div class="body">
+        <ul>
+          <li *ngFor="let item of search; let i = index"
+            routerLink="/categorie-dechet/{{item.cat_usuel}}/dechet/{{item.code}}" routerDirection="root">
+            <img src="assets/imgs/{{item.image}}">
+            <h5>{{ item | lang:"nom"}}</h5>
+            <div class="buttons">
+              <button>
+                <ion-icon name="information-circle-outline"></ion-icon>
+              </button>
+            </div>
+          </li>
+        </ul>
       </div>
     </div>
   </div>

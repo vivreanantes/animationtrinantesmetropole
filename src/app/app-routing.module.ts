@@ -61,6 +61,15 @@ const routes: Routes = [
         (m) => m.StructurePageModule
       ),
   },
+  {
+    path: 'categorie-dechet/:categorie',
+    loadChildren: () => import('./pages/categorie-dechet/categorie-dechet.module').then(m => m.CategorieDechetPageModule)
+  },
+  {
+    path: 'categorie-dechet/:categorie/dechet/:dechet',
+    loadChildren: () => import('./pages/dechet/dechet.module').then(m => m.DechetPageModule),
+  },
+
 ];
 
 @NgModule({
@@ -69,4 +78,4 @@ const routes: Routes = [
   ],
   exports: [RouterModule],
 })
-export class AppRoutingModule {}
+export class AppRoutingModule { }

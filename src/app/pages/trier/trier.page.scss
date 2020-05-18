@@ -46,67 +46,73 @@
     }
 
     .categories {
+      display:flex;
+      flex-wrap: wrap;
+      width: 100%;
+      margin-top: 4vh;
       .categorie {
-        margin-top: 3vh;
+        display: flex;
+        flex-direction: column;
+        width: 30vw;
+        height: 30vw;
+        margin: 0 auto 4vw auto;
+        border-radius: 10px;
+        background-color:#fff;
+        justify-content: space-evenly;
+        img{
+          margin: 1vh auto 0 auto;
+          width: 50%;
+          height: auto;
+        }
         .title {
-          padding: 0 5vw;
-          h2 {
-            margin: 0;
-            color: #fff;
+          text-align: center;
+          font-weight: bold;
+          @include tablet {
+            top: 15px;
+          }
+          @include desktop {
+            top: 15px;
           }
         }
 
-        ngu-carousel {
+      }
+    }
+
+    .block{
+      margin: 2vh auto 0 auto;
+      width: 95%;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+      overflow: hidden;
+      background-color: #fff;
+      ul {
+        margin: 0;
+        padding-left: 3vw;
+        li {
           display: flex;
           flex-direction: row;
-          .ngucarousel {
-            width: 100%;
+          justify-content: space-between;
+          width: 100%;
+          padding: 2vh 0;
+          &:not(:last-child) {
+            border-bottom: 1px solid var(--ion-color-light-shade);
           }
-
-          .leftRs,
-          .rightRs {
-            display: none !important;
+          img{
+            height:8vh;
           }
-        }
-        ngu-tile {
-          .tile {
+          .buttons {
             display: flex;
-            flex-direction: column;
-            justify-content: center;
-            width: 100%;
-            height: 100%;
-            text-align: center;
-            background-color: #fff;
-
-            img {
-              width: 70%;
-              height: auto;
-              margin: 0 auto;
-              @include tablet {
-                width: 50%;
-              }
-              @include desktop {
-                width: 40%;
-              }
-            }
-            h4 {
-              color: #000;
-              margin: 0;
-            }
-          }
-        }
-
-        .ngucarouselPointDefault {
-          .ngucarouselPoint {
-            li {
-              background: #fff;
-              &.active {
-                background: #fff;
-              }
+            align-items: center;
+            button {
+              background-color: transparent;
+              border: none;
+              outline: none;
+              font-size: 2rem;
             }
           }
         }
       }
     }
+
   }
 }
