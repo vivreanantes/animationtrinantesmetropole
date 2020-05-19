@@ -69,50 +69,60 @@ export class CartePage implements OnInit {
       this.translate = t;
     });
     this.showFiltres();
-    this.geolocationsubscribe = navigator.geolocation.watchPosition(
-      function (position) {
-        if (!t.userMarker) {
-          t.userMarker = marker(
-            latLng(position.coords.latitude, position.coords.longitude),
-            {
-              icon: icon({
-                iconSize: [30, 30],
-                iconAnchor: [15, 15],
-                iconUrl: "assets/icons/marker-cible.png",
-              }),
-            }
-          );
-          t.markers.push(t.userMarker);
-        } else {
-          t.userMarker.setLatLng(
-            latLng(position.coords.latitude, position.coords.longitude)
-          );
-        }
-
-        localStorage.setItem("latitude", position.coords.latitude.toString());
-        localStorage.setItem("longitude", position.coords.longitude.toString());
-        t.currentPosition = {
-          latitude: position.coords.latitude,
-          longitude: position.coords.longitude,
-        };
-        if (t.isDrag === false) {
-          t.map.panTo(
-            latLng(position.coords.latitude, position.coords.longitude)
-          );
-        }
-      },
-      function (error) { },
-      {
-        maximumAge: 0,
-        timeout: 10000,
-        enableHighAccuracy: true,
-      }
-    );
+    this._startGeolocation();
   }
 
   ionViewDidLeave() {
     if (this.geolocationsubscribe)
       navigator.geolocation.clearWatch(this.geolocationsubscribe);
+  }
+
+  private _startGeolocation() {
+    var t = this;
+    return new Promise((resolve, reject) => {
+      t.geolocationsubscribe = navigator.geolocation.watchPosition(
+        position => {
+          resolve();
+          if (!t.userMarker) {
+            t.userMarker = marker(
+              latLng(position.coords.latitude, position.coords.longitude),
+              {
+                icon: icon({
+                  iconSize: [30, 30],
+                  iconAnchor: [15, 15],
+                  iconUrl: "assets/icons/marker-cible.png",
+                }),
+              }
+            );
+            t.markers.push(t.userMarker);
+          } else {
+            t.userMarker.setLatLng(
+              latLng(position.coords.latitude, position.coords.longitude)
+            );
+          }
+
+          localStorage.setItem("latitude", position.coords.latitude.toString());
+          localStorage.setItem("longitude", position.coords.longitude.toString());
+          t.currentPosition = {
+            latitude: position.coords.latitude,
+            longitude: position.coords.longitude,
+          };
+          if (t.isDrag === false) {
+            t.map.panTo(
+              latLng(position.coords.latitude, position.coords.longitude)
+            );
+          }
+        },
+        error => {
+          t.geolocationsubscribe = false;
+        },
+        {
+          maximumAge: 0,
+          timeout: 10000,
+          enableHighAccuracy: true,
+        }
+      );
+    });
   }
 
   async showFiltres() {
@@ -234,11 +244,12 @@ export class CartePage implements OnInit {
   }
 
   recenter() {
-    if (this.currentPosition.latitude) {
-      this.map.panTo(
-        latLng(this.currentPosition.latitude, this.currentPosition.longitude)
+    var t = this;
+    if (this.geolocationsubscribe && this.currentPosition.latitude) {
+      t.map.panTo(
+        latLng(t.currentPosition.latitude, t.currentPosition.longitude)
       );
-      this.isDrag = false;
+      t.isDrag = false
     }
   }
 }

@@ -4,7 +4,7 @@
     (leafletMapMove)="onMapMove($event)"></div>
   <div class="buttons">
     <button class="filtre" (click)="showFiltres()">Filtres</button>
-    <button class="position" (click)="recenter()" *ngIf="isDrag">
+    <button class="position" (click)="recenter()" *ngIf="geolocationsubscribe && isDrag">
       <ion-icon name="locate-outline"></ion-icon>
     </button>
   </div>
