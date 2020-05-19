@@ -12,14 +12,16 @@ export class TrisacsResolver implements Resolve<any> {
       this.dataService.get("nantes/TrisacsData.js").then((trisacs) => {
         let trisacFiltrer = [];
         trisacs._structuresDatas.map((trisac, index) => {
-          if (!trisacFiltrer[trisac.zone]) trisacFiltrer[trisac.zone] = [];
+          if (trisac.zone) {
+            if (!trisacFiltrer[trisac.zone]) trisacFiltrer[trisac.zone] = [];
 
-          if (!trisacFiltrer[trisac.zone][trisac.type_lieu])
-            trisacFiltrer[trisac.zone][trisac.type_lieu] = [];
+            if (!trisacFiltrer[trisac.zone][trisac.type_lieu])
+              trisacFiltrer[trisac.zone][trisac.type_lieu] = [];
 
-          trisacFiltrer[trisac.zone][trisac.type_lieu].push(
-            this._formatTrisac(trisac)
-          );
+            trisacFiltrer[trisac.zone][trisac.type_lieu].push(
+              this._formatTrisac(trisac)
+            );
+          }
           if (index === trisacs._structuresDatas.length - 1) {
             let newTrisacFiltrer = [];
             let trisacFiltrerLabel = Object.keys(trisacFiltrer);
