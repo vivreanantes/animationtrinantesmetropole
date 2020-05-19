@@ -8,7 +8,6 @@ import {
 } from "@angular/core";
 import { ModalController } from "@ionic/angular";
 import { latLng, tileLayer, Map, marker, icon } from "leaflet";
-import { CarteFiltresPage } from "../carte-filtres/carte-filtres.page";
 import { DataService } from "../../services/data.service";
 import { LangageService } from "../../services/langage.service";
 import { StructurePage } from "../structure/structure.page";
@@ -24,7 +23,9 @@ export class CartePage implements OnInit {
   @ViewChildren("btnMarker") btnMarkers: QueryList<ElementRef>;
   items: Array<any> = [];
   markers: Array<any> = [];
-  filtres: Array<any> = [];
+  filtres: Array<any> = _paramFilterTypeMapDatas;
+  filtresSelected: Array<any> = [];
+  filtresShowed: boolean = false;
   userMarker: any = null;
   map: Map;
   currentPosition: any;
@@ -58,7 +59,8 @@ export class CartePage implements OnInit {
     private modalController: ModalController,
     private dataService: DataService,
     private langageService: LangageService
-  ) {}
+  ) { }
+
 
   ngOnInit() {
     const t = this;
@@ -66,7 +68,7 @@ export class CartePage implements OnInit {
     this.langageService.translate(["voir_fiche"]).then((t) => {
       this.translate = t;
     });
-    this.setFiltre();
+    this.showFiltres();
     this.geolocationsubscribe = navigator.geolocation.watchPosition(
       function (position) {
         if (!t.userMarker) {
@@ -99,7 +101,7 @@ export class CartePage implements OnInit {
           );
         }
       },
-      function (error) {},
+      function (error) { },
       {
         maximumAge: 0,
         timeout: 10000,
@@ -113,20 +115,16 @@ export class CartePage implements OnInit {
       navigator.geolocation.clearWatch(this.geolocationsubscribe);
   }
 
-  async setFiltre() {
-    let t = this;
-    const modal = await this.modalController.create({
-      component: CarteFiltresPage,
-      componentProps: {
-        filtres: _paramFilterTypeMapDatas,
-        onChange: this.onFiltreChange.bind(t),
-      },
-      cssClass: "is-popup",
-    });
-    return await modal.present();
+  async showFiltres() {
+    this.filtresShowed = true;
+  }
+
+  selectFiltre(item) {
+    item.selected = !item.selected;
   }
 
   onFiltreChange(filtres: Array<any>) {
+    this.filtresShowed = false;
     let filtresKey = [];
     let filtresSelected = filtres.filter((item) => {
       if (item.selected === true) {
@@ -140,7 +138,7 @@ export class CartePage implements OnInit {
       return false;
     });
     filtresSelected.map((filtre) => {
-      this.filtres[filtre.id] = filtre;
+      this.filtresSelected[filtre.id] = filtre;
     });
 
     let structurePromise = new Promise((resolve, reject) => {
@@ -180,7 +178,7 @@ export class CartePage implements OnInit {
                 icon: icon({
                   iconSize: [25, 41],
                   iconAnchor: [13, 41],
-                  iconUrl: this.filtres[item.carteMarqueur].image,
+                  iconUrl: this.filtresSelected[item.carteMarqueur].image,
                 }),
               }
             );

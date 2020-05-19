@@ -5,7 +5,6 @@ import { LeafletModule } from "@asymmetrik/ngx-leaflet";
 import { IonicModule } from "@ionic/angular";
 import { TranslateModule } from "@ngx-translate/core";
 import { PipesModule } from "../../pipes/pipe.module";
-import { CarteFiltresPageModule } from "../carte-filtres/carte-filtres.module";
 import { StructurePageModule } from "../structure/structure.module";
 import { ComponentsModule } from "../../components/components.module";
 
@@ -20,7 +19,6 @@ import { CartePage } from "./carte.page";
     IonicModule,
     CartePageRoutingModule,
     LeafletModule,
-    CarteFiltresPageModule,
     StructurePageModule,
     TranslateModule,
     PipesModule,
@@ -28,4 +26,4 @@ import { CartePage } from "./carte.page";
   ],
   declarations: [CartePage],
 })
-export class CartePageModule {}
+export class CartePageModule { }

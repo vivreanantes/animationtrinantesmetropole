@@ -1,16 +1,29 @@
 <ion-content>
   <button-menu></button-menu>
-  <div
-    leaflet
-    [leafletOptions]="options"
-    [leafletLayers]="markers"
-    (leafletMapReady)="onMapLoaded($event)"
-    (leafletMapMove)="onMapMove($event)"
-  ></div>
+  <div leaflet [leafletOptions]="options" [leafletLayers]="markers" (leafletMapReady)="onMapLoaded($event)"
+    (leafletMapMove)="onMapMove($event)"></div>
   <div class="buttons">
-    <button class="filtre" (click)="setFiltre()">Filtres</button>
+    <button class="filtre" (click)="showFiltres()">Filtres</button>
     <button class="position" (click)="recenter()" *ngIf="isDrag">
       <ion-icon name="locate-outline"></ion-icon>
     </button>
+  </div>
+
+  <div class="filtres" [ngClass]="{'show':filtresShowed===true}">
+    <div class="header">
+      {{ "carte_filter" | translate}}
+    </div>
+    <div class="body">
+      <div class="list">
+        <div class="item" [ngClass]="{'selected':item.selected}" *ngFor="let item of filtres"
+          (click)="selectFiltre(item)">
+          <img src="{{ item.image }}" />
+          <ion-label>{{ item|lang:"nom" }}</ion-label>
+        </div>
+      </div>
+    </div>
+    <div class="footer">
+      <button (click)="onFiltreChange(filtres)">{{ 'ok' | translate }}</button>
+    </div>
   </div>
 </ion-content>
