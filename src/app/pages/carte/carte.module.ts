@@ -7,6 +7,7 @@ import { TranslateModule } from "@ngx-translate/core";
 import { PipesModule } from "../../pipes/pipe.module";
 import { StructurePageModule } from "../structure/structure.module";
 import { ComponentsModule } from "../../components/components.module";
+import { Geolocation } from '@ionic-native/geolocation/ngx';
 
 import { CartePageRoutingModule } from "./carte-routing.module";
 
@@ -24,6 +25,7 @@ import { CartePage } from "./carte.page";
     PipesModule,
     ComponentsModule,
   ],
+  providers: [Geolocation],
   declarations: [CartePage],
 })
 export class CartePageModule { }

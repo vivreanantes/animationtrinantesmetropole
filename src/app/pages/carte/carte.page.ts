@@ -6,11 +6,13 @@ import {
   ElementRef,
   HostListener,
 } from "@angular/core";
+import { Geolocation } from '@ionic-native/geolocation/ngx';
 import { ModalController } from "@ionic/angular";
 import { latLng, tileLayer, Map, marker, icon } from "leaflet";
 import { DataService } from "../../services/data.service";
 import { LangageService } from "../../services/langage.service";
 import { StructurePage } from "../structure/structure.page";
+import { Subscription } from 'rxjs';
 
 declare var _paramFilterTypeMapDatas: Array<any>;
 
@@ -29,7 +31,8 @@ export class CartePage implements OnInit {
   userMarker: any = null;
   map: Map;
   currentPosition: any;
-  geolocationsubscribe: any;
+  geolocationsubscribe: Subscription;
+  geolocationFailed: boolean = false;
   defaultGeo: any = {
     latitude: localStorage.getItem("geo.defaultLat")
       ? localStorage.getItem("geo.defaultLat")
@@ -58,7 +61,8 @@ export class CartePage implements OnInit {
   constructor(
     private modalController: ModalController,
     private dataService: DataService,
-    private langageService: LangageService
+    private langageService: LangageService,
+    private geolocation: Geolocation
   ) { }
 
 
@@ -74,14 +78,21 @@ export class CartePage implements OnInit {
 
   ionViewDidLeave() {
     if (this.geolocationsubscribe)
-      navigator.geolocation.clearWatch(this.geolocationsubscribe);
+      this.geolocationsubscribe.unsubscribe();
   }
 
   private _startGeolocation() {
     var t = this;
     return new Promise((resolve, reject) => {
-      t.geolocationsubscribe = navigator.geolocation.watchPosition(
-        position => {
+      t.geolocationsubscribe = this.geolocation.watchPosition(
+        {
+          maximumAge: 0,
+          timeout: 10000,
+          enableHighAccuracy: true,
+        }
+      ).subscribe((position: any) => {
+        if (position.coords) {
+          t.geolocationFailed = false;
           resolve();
           if (!t.userMarker) {
             t.userMarker = marker(
@@ -112,16 +123,11 @@ export class CartePage implements OnInit {
               latLng(position.coords.latitude, position.coords.longitude)
             );
           }
-        },
-        error => {
-          t.geolocationsubscribe = false;
-        },
-        {
-          maximumAge: 0,
-          timeout: 10000,
-          enableHighAccuracy: true,
+        } else if (position.code) {
+          t.geolocationsubscribe.unsubscribe();
+          t.geolocationFailed = true;
         }
-      );
+      })
     });
   }
 
