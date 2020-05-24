@@ -6,7 +6,7 @@ var _ihmLabelsFrDatas = {
 	"recyclable_oui": "oui",
 	"recyclable_non": "non",
 	"modes_de_collecte": "Collecte",
-	"pas_poubelle": ", mais <br/>ne pas mettre à la poubelle",
+	"PAS_POUBELLE": ", mais <br/>ne pas mettre à la poubelle",
 	"comment": "Commentez",
 	"sauf_ferie": "sauf jours fériés",
 	"uniqferiessuivant": "uniquement les jours fériés suivant",
