@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.MieuxVivreANantes.AnimationTriNantesMetropole" version="0.0.5" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.MieuxVivreANantes.AnimationTriNantesMetropole" version="0.0.6" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Animation Tri Nantes Métropole</name>
     <description>Application libre (et gratuite) pour aider les habitants de Nantes Métropole à trier.</description>
     <author email="mieuxtrieranantes@gmail.com" href="http://mieuxtrieranantes.fr">Association Mieux trier à Nantes</author>
@@ -49,4 +49,5 @@
     <plugin name="cordova-plugin-splashscreen" spec="5.0.2" />
     <plugin name="cordova-plugin-ionic-webview" spec="^2.0.0" />
     <plugin name="cordova-plugin-ionic-keyboard" spec="^2.0.5" />
+    <engine name="android" spec="8.1.0" />
 </widget>
