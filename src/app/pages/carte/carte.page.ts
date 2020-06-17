@@ -6,13 +6,14 @@ import {
   ElementRef,
   HostListener,
 } from "@angular/core";
-import { Geolocation } from '@ionic-native/geolocation/ngx';
+import { Geolocation } from "@ionic-native/geolocation/ngx";
 import { ModalController } from "@ionic/angular";
-import { latLng, tileLayer, Map, marker, icon } from "leaflet";
+import * as Leaflet from "leaflet";
+import { layerGroup, latLng, tileLayer, Map, marker, icon } from "leaflet";
 import { DataService } from "../../services/data.service";
 import { LangageService } from "../../services/langage.service";
 import { StructurePage } from "../structure/structure.page";
-import { Subscription } from 'rxjs';
+import { Subscription } from "rxjs";
 
 declare var _paramFilterTypeMapDatas: Array<any>;
 
@@ -48,12 +49,17 @@ export class CartePage implements OnInit {
   langage: string;
   translate: any;
 
+  markersLayer: any = layerGroup();
+  playerLayer: any = layerGroup();
+
   options: any = {
     layers: [
       tileLayer("http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
         maxZoom: 18,
         attribution: "Openstreetmap",
       }),
+      this.markersLayer,
+      this.playerLayer,
     ],
     zoom: this.defaultGeo.zoom,
     center: latLng(this.defaultGeo.latitude, this.defaultGeo.longitude),
@@ -63,8 +69,7 @@ export class CartePage implements OnInit {
     private dataService: DataService,
     private langageService: LangageService,
     private geolocation: Geolocation
-  ) { }
-
+  ) {}
 
   ngOnInit() {
     const t = this;
@@ -72,62 +77,94 @@ export class CartePage implements OnInit {
     this.langageService.translate(["voir_fiche"]).then((t) => {
       this.translate = t;
     });
+  }
+
+  ionViewDidEnter() {
+    this._initMap();
     this.showFiltres();
     this._startGeolocation();
   }
 
   ionViewDidLeave() {
-    if (this.geolocationsubscribe)
-      this.geolocationsubscribe.unsubscribe();
+    if (this.geolocationsubscribe) this.geolocationsubscribe.unsubscribe();
+    this.map.remove();
+  }
+
+  private _initMap() {
+    this.map = new Leaflet.Map("leaflet").setView(
+      this.options.center,
+      this.options.zoom
+    );
+
+    this.options.layers.map((layer) => {
+      this.map.addLayer(layer);
+    });
+  }
+
+  private _setPlayer(latitude: number, longitude: number) {
+    if (!this.userMarker) {
+      this.userMarker = marker(latLng(latitude, longitude), {
+        icon: icon({
+          iconSize: [30, 30],
+          iconAnchor: [15, 15],
+          iconUrl: "assets/icons/marker-cible.png",
+        }),
+      });
+      this.userMarker.addTo(this.playerLayer);
+    } else {
+      this.userMarker.setLatLng(latLng(latitude, longitude));
+    }
+  }
+
+  private _setMarkers(markers: Array<any>) {
+    this.markersLayer.clearLayers();
+    setTimeout(() => {
+      markers.map((marker) => {
+        marker.addTo(this.markersLayer);
+      });
+    }, 500);
   }
 
   private _startGeolocation() {
     var t = this;
     return new Promise((resolve, reject) => {
-      t.geolocationsubscribe = this.geolocation.watchPosition(
-        {
+      t.geolocationsubscribe = this.geolocation
+        .watchPosition({
           maximumAge: 0,
           timeout: 10000,
           enableHighAccuracy: true,
-        }
-      ).subscribe((position: any) => {
-        if (position.coords) {
-          t.geolocationFailed = false;
-          resolve();
-          if (!t.userMarker) {
-            t.userMarker = marker(
-              latLng(position.coords.latitude, position.coords.longitude),
-              {
-                icon: icon({
-                  iconSize: [30, 30],
-                  iconAnchor: [15, 15],
-                  iconUrl: "assets/icons/marker-cible.png",
-                }),
-              }
+        })
+        .subscribe((position: any) => {
+          if (position.coords) {
+            t.geolocationFailed = false;
+            resolve();
+            this._setPlayer(
+              position.coords.latitude,
+              position.coords.longitude
             );
-            t.markers.push(t.userMarker);
-          } else {
-            t.userMarker.setLatLng(
-              latLng(position.coords.latitude, position.coords.longitude)
-            );
-          }
 
-          localStorage.setItem("latitude", position.coords.latitude.toString());
-          localStorage.setItem("longitude", position.coords.longitude.toString());
-          t.currentPosition = {
-            latitude: position.coords.latitude,
-            longitude: position.coords.longitude,
-          };
-          if (t.isDrag === false) {
-            t.map.panTo(
-              latLng(position.coords.latitude, position.coords.longitude)
+            localStorage.setItem(
+              "latitude",
+              position.coords.latitude.toString()
             );
+            localStorage.setItem(
+              "longitude",
+              position.coords.longitude.toString()
+            );
+            t.currentPosition = {
+              latitude: position.coords.latitude,
+              longitude: position.coords.longitude,
+            };
+            if (t.isDrag === false) {
+              t.map.panTo(
+                latLng(position.coords.latitude, position.coords.longitude)
+              );
+            }
+          } else if (position.code) {
+            t.geolocationsubscribe.unsubscribe();
+            t.geolocationFailed = true;
           }
-        } else if (position.code) {
-          t.geolocationsubscribe.unsubscribe();
-          t.geolocationFailed = true;
-        }
-      })
+        });
     });
   }
 
@@ -182,7 +219,7 @@ export class CartePage implements OnInit {
         return false;
       }
     );
-    this.markers = [this.userMarker];
+    let markers = [];
     Promise.all([structurePromise, ContainerPromise]).then((resolves) => {
       resolves.map((resolve, indexResolve) => {
         this.items = this.items.concat(resolve);
@@ -209,7 +246,8 @@ export class CartePage implements OnInit {
                 autoPan: true,
               }
             );
-            this.markers.push(newMarker);
+            markers.push(newMarker);
+            this._setMarkers(markers);
           }
         });
       });
@@ -255,7 +293,7 @@ export class CartePage implements OnInit {
       t.map.panTo(
         latLng(t.currentPosition.latitude, t.currentPosition.longitude)
       );
-      t.isDrag = false
+      t.isDrag = false;
     }
   }
 }
