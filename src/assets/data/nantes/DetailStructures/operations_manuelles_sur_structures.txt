@@ -1,0 +1,89 @@
+
+https://overpass-turbo.eu/
+(
+node["second_hand"="only"]["charity"="yes"](46.269,-2.55,47.833,-0.4667);
+way["second_hand"="only"]["charity"="yes"](46.269,-2.55,47.833,-0.4667);
+node["bulk_purchase"="yes"](46.269,-2.55,47.833,-0.4667);
+node["bulk_purchase"="only"](46.269,-2.55,47.833,-0.4667);
+node["repair"="assisted_self_service"](46.269,-2.55,47.833,-0.4667);
+);
+out center body;
+
+
+---- REMPLACEMENTS EXPRESSION REGULIERE
+
+
+^(          46\.)([0-9]*)$
+\"latitude\"\:\"46.\2\",
+
+^(          47\.)([0-9]*)$
+\"latitude\"\:\"47.\2\",
+
+^(          -1\.)([0-9]*)(\,)$
+,\"longitude\"\:\"\-1\.\2\",
+
+^(          -2\.)([0-9]*)(\,)$
+,\"longitude\"\:\"\-2\.\2\",
+
+^(					0\.)([0-9]*)(\,)$
+,\"longitude\"\:\"\ 0\.\2\",
+
+^(          \"name\": \")(.)*(\"\,)$
+^(			)(\"nom\": \")(.*)(\"\,)$
+\1\2\3\4\"cartePopupText\":\"\3\4
+
+^(			)(\"mapillary\": \")(.*)(\"\,)$
+\1"photos\":\"https\:\/\/d1cuyjsrcm0gby\.cloudfront\.net\/\3\/thumb-640\.jpg\4
+Ca donne par exemple : https://d1cuyjsrcm0gby.cloudfront.net/{mapillary}/thumb-640.jpg
+
+---- REMPLACEMENTS SIMPLES
+
+"second_hand": "only",
+"second_hand": "only","type": "smco_reemp","carteMarqueur": "1",
+
+"bulk_purchase": "only",
+"bulk_purchase": "only","type": "ventevracstruct",
+
+"repair": "assisted_self_service",
+"repair": "assisted_self_service","type": "coreparation","carteMarqueur": "9",
+
+"@id": "node/
+"code": "osm_
+
+"id":
+"id_osm":
+
+"description"
+"desc"
+
+"name"
+"nom"
+
+"phone"
+"tel"
+
+"image"
+"photos"
+
+"vending"
+"mots_cles"
+
+"website"
+"url"
+
+"source"
+"src"
+
+---- REMPLACEMENTS PAR VIDE
+
+        "type": "Point",
+      "geometry": {
+        "coordinates": [
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+  ]
+"@geometry": "center" 
+addr:
+contact:

@@ -1,0 +1,38 @@
+@import "../../../theme/theme";
+:host {
+  ion-content {
+    background-color: var(--mt-color-vert) !important;
+
+    ul {
+      margin: 0;
+      padding-left: 3vw;
+      li {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 100%;
+        padding: 2vh 0;
+        &:not(:last-child) {
+          border-bottom: 1px solid var(--ion-color-light-shade);
+        }
+        img{
+          height:8vh;
+        }
+
+        h5 {
+  
+        }
+        .buttons {
+          display: flex;
+          align-items: center;
+          button {
+            background-color: transparent;
+            border: none;
+            outline: none;
+            font-size: 2rem;
+          }
+        }
+      }
+    }
+  }
+}

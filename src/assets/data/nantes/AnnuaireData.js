@@ -7,6 +7,7 @@ var _annuaireData = [{
     "secteur_geographique": "Vignoble clissonnais et sud Nantes",
     "url": "https://www.monrepairshop.fr/,",
     "email": "contact@monrepairshop.fr",
+    "facebook": "https://www.facebook.com/MonRepair/?ref=bookmarks",
     "adresseTemp": "Rue de la clairière 44190 Saint Hilaire de Clisson",
     "objets_recuperes": "appareils électriques ou électroniques",
     "mots_cles": "appareils électriques ou électroniques"
@@ -20,6 +21,7 @@ var _annuaireData = [{
     "secteur_geographique": "Pays de la Loire, France entière",
     "url": "https://www.reseau-eco-evenement.net/,",
     "email": "bonjour@reseau-eco-evenement.net",
+    "facebook": "https://www.facebook.com/reseauecoevenements/",
     "adresseTemp": "4 rue René Viviani 44200 Nantes",
     "objets_recuperes": "__toutes les matières habituelles d'un particulier_toutes les matières d'une entreprise non spécialiséevaisselle jetable",
     "mots_cles": "__toutes les matières habituelles d'un particulier_toutes les matières d'une entreprise non spécialiséevaisselle jetable"
@@ -31,6 +33,7 @@ var _annuaireData = [{
     "description": "La Vie claire est une entreprise française de distribution spécialisée dans la vente de produits biologiques. ",
     "statut": "Entreprise privée ",
     "email": "lavieclairenantes@gmail.com",
+    "facebook": "https://www.facebook.com/LaVieClaireNantes/",
     "tel": "251845761",
     "adresseTemp": "  ",
     "objets_recuperes": "bocaux",
@@ -45,6 +48,7 @@ var _annuaireData = [{
     "secteur_geographique": "France entière",
     "url": "https://ateliers-du-bocage.fr,Les Ateliers du Bocage et sa Bootique",
     "email": "contact@adb-emmaus.com",
+    "facebook": "https://www.facebook.com",
     "tel": "549810972",
     "adresseTemp": "La Cantine numérique - 11 rue de la Noue bras de fer 44000 Nantes",
     "objets_recuperes": "bois (hors meubles)livresmégotmeubleordinateurs",
@@ -60,6 +64,7 @@ var _annuaireData = [{
     "secteur_geographique": "Loire-Atlantique",
     "url": "https://www.amusebouche-nantes.fr/traiteur-saint-sebastien-sur-loire,L'Amuse-Bouche",
     "email": "contact@amusebouche-nantes.fr",
+    "facebook": "https://www.facebook.com/lamusebouchenantes",
     "tel": "650924159",
     "adresseTemp": " 44230 44230",
     "objets_recuperes": "vaisselle jetable",
@@ -102,6 +107,7 @@ var _annuaireData = [{
     "secteur_geographique": "Grand Bellevue",
     "url": "https://www.environnements-solidaires.org/,",
     "email": "anne.durand@environnements-solidaires.org",
+    "facebook": "https://www.facebook.com/assoenvironnementssolidaires/",
     "tel": "667752969",
     "adresseTemp": "1 rue de Cahors 44800 Saint Herblain",
     "objets_recuperes": "__toutes les matières habituelles d'un particulierarticles puériculture (poussettes, vêtements...)déchets organiques riches (restes alimentaires...)déchets verts (pelousedéchets verts (pelouse, taille de haie...)encombrantjouetlivresmeuble",
@@ -116,6 +122,7 @@ var _annuaireData = [{
     "secteur_geographique": "Nantes et plus largement Pays de La Loire et Morbihan",
     "url": "https://www.primesautier.com,",
     "email": "annelaure@primesautier.com",
+    "facebook": "https://www.facebook.com/primesautier.cuisinevegetale/",
     "adresseTemp": " 44240 La Chapelle sur Erdre",
     "objets_recuperes": "bocauxbouteilles de verredéchets organiques riches (restes alimentaires...)",
     "mots_cles": "bocauxbouteilles de verredéchets organiques riches (restes alimentaires...)"
@@ -127,6 +134,7 @@ var _annuaireData = [{
     "statut": "Entreprise privée ",
     "secteur_geographique": "Couëron",
     "email": "contact@epicerie-leptitpoids.fr",
+    "facebook": "https://www.facebook.com/epicerie.leptitpoids/",
     "tel": "983028722",
     "adresseTemp": "8 rue Alcide Charles d'Orbigny 44220 Couëron",
     "objets_recuperes": "bocaux",
@@ -140,6 +148,7 @@ var _annuaireData = [{
     "statut": "Entreprise privée ",
     "secteur_geographique": "Pays de Retz",
     "email": "vracenretz@gmail.com",
+    "facebook": "https://m.me/vracenretz?fbclid=IwAR11C09ni_tMKBmseMTzv8zDCPUv6HpUrXtUufaICPiExI3vh5LqRFHLyeQ",
     "tel": "06 83 72 47 39",
     "adresseTemp": "  "
   },
@@ -151,6 +160,7 @@ var _annuaireData = [{
     "secteur_geographique": "REZE",
     "url": "http://alterboutik.wordpress.com,",
     "email": "alterboutik@gmail.com",
+    "facebook": "https://www.facebook.com/AlterBoutikReze",
     "adresseTemp": "3 square du Jaunais  44400 REZE",
     "objets_recuperes": "__toutes les matières habituelles d'un particulierbocauxjouetordinateurstissus et vêtements",
     "mots_cles": "__toutes les matières habituelles d'un particulierbocauxjouetordinateurstissus et vêtements"
@@ -167,7 +177,8 @@ var _annuaireData = [{
     "tel": "02 85 52 31 22",
     "adresseTemp": "17 chemin fontaine LAUNAY 44400 Rezé",
     "objets_recuperes": "ordinateurs",
-    "mots_cles": "ordinateurs"
+    "mots_cles": "ordinateurs",
+    "openstreetmap": "https://www.openstreetmap.org/node/4185626789,"
   },
   {
     "code": "annuaire_014",
@@ -177,6 +188,7 @@ var _annuaireData = [{
     "statut": "Association",
     "secteur_geographique": "Nantes métropole",
     "email": "bonjour.biduleschouettes@gmail.com",
+    "facebook": "https://www.facebook.com/biduleschouettes",
     "tel": "670303920",
     "adresseTemp": "  ",
     "objets_recuperes": "articles puériculture (poussettes, vêtements...)jouetlivres",
@@ -189,6 +201,7 @@ var _annuaireData = [{
     "statut": "Association",
     "secteur_geographique": "quartier BREIL BARBERIE",
     "email": "laboitearecup@gmail.com",
+    "facebook": "la boite à récup",
     "tel": "06.99.62.12.45",
     "adresseTemp": "60 avenue Courteline  44800 SAINT HERBLAIN",
     "objets_recuperes": "anciens bijouxjouetlivresmeubletissus et vêtements",
@@ -203,6 +216,7 @@ var _annuaireData = [{
     "secteur_geographique": "Nantes Métropole",
     "url": "http://www.ecopole.com/,",
     "email": "contact@ecopole.com",
+    "facebook": "https://www.facebook.com/ecopole.cpie/",
     "tel": "02.40.48.54.54",
     "adresseTemp": "17 rue de Bouillé  44000 NANTES",
     "objets_recuperes": "__toutes les matières habituelles d'un particulier",
@@ -217,6 +231,7 @@ var _annuaireData = [{
     "secteur_geographique": "Nantes et agglomération",
     "url": "https://www.latelierdubocal.com/,",
     "email": "contact@latelierdubocal.com",
+    "facebook": "https://www.facebook.com/Latelier-du-bocal-392818371580363/",
     "tel": "240973417",
     "adresseTemp": "14 rue des halles  44430 Le loroux bottereau"
   },
@@ -229,6 +244,7 @@ var _annuaireData = [{
     "secteur_geographique": "100km",
     "url": "https://www.unik-market.com/boutique/julie-audureau,",
     "email": "julieaudureau.creatrice@gmail.com",
+    "facebook": "https://www.facebook.com/julieaudureaucreatrice/",
     "tel": "619538509",
     "adresseTemp": "218 rue des Hêtres 85560 Longeville sur Mer",
     "objets_recuperes": "__toutes les matières habituelles d'un particulier",
@@ -243,6 +259,7 @@ var _annuaireData = [{
     "secteur_geographique": "Nantes Métropole, Départementn région - Blog : monde",
     "url": "https://lesboitesvertes.fr,",
     "email": "contact@lesboitesvertes.fr",
+    "facebook": "https://www.facebook.com/Boites.Vertes/",
     "tel": "681149611",
     "adresseTemp": "25 avenue Joliot-Curie 44400 Rezé",
     "objets_recuperes": "cheveuxdéchets organiques riches (restes alimentaires...)déchets verts (pelousedéchets verts (pelouse, taille de haie...)papier et cartonnette",
@@ -257,6 +274,7 @@ var _annuaireData = [{
     "secteur_geographique": "PAYS DE LA LOIRE ET FRANCE",
     "url": "http://www.icilebonheurestfaitmaison.fr,",
     "email": "contact@icilebonheurestfaitmaison.fr",
+    "facebook": "https://www.facebook.com/icilebonheurestfaitmaison/",
     "tel": "670733309",
     "adresseTemp": "  ",
     "objets_recuperes": "__toutes les matières habituelles d'un particulier",
@@ -272,6 +290,7 @@ var _annuaireData = [{
     "secteur_geographique": "Région pays de la Loire et prochainement Bretagne",
     "url": "http://www.boutabout.org/,",
     "email": "contact@boutabout.org",
+    "facebook": "https://www.facebook.com/boutaboutconsigne/",
     "adresseTemp": "  ",
     "objets_recuperes": "bocauxbouteilles de verrefuts de bière",
     "mots_cles": "bocauxbouteilles de verrefuts de bière"
@@ -285,6 +304,7 @@ var _annuaireData = [{
     "secteur_geographique": "Nantes",
     "url": "https://lesautrespossibles.fr/,",
     "email": "redaction@lesautrespossibles.fr",
+    "facebook": "https://www.facebook.com/lemapnantes/",
     "adresseTemp": "4 place du 51e régiment d'artillerie 44000 Nantes"
   },
   {
@@ -296,6 +316,7 @@ var _annuaireData = [{
     "secteur_geographique": "Nantes Métropole et alentours",
     "url": "https://zerowastenantes.fr/,",
     "email": "info@zerowastenantes.fr",
+    "facebook": "https://www.facebook.com/zerowastenantes/",
     "adresseTemp": "  "
   },
   {
@@ -307,6 +328,7 @@ var _annuaireData = [{
     "secteur_geographique": "Nantes métropole, Nantes à Nort-sur-Erdre",
     "url": "http://www.federation-des-amis-de-l-erdre.org/,",
     "email": "contact@fdamiserdre.fr",
+    "facebook": "https://www.facebook.com/fdamis.delerdre/",
     "tel": "02 40 49 01 33",
     "adresseTemp": "80, rue du Port Boyer\n 44300 Nantes"
   },
@@ -318,6 +340,7 @@ var _annuaireData = [{
     "secteur_geographique": "Loire Atlantique",
     "url": "http://atelierszerodechet.fr/,",
     "email": "contact@atelierszerodechet.fr",
+    "facebook": "https://www.facebook.com/atelierszerodechet/?modal=admin_todo_tour",
     "tel": "06 33 28 52 75",
     "adresseTemp": "  "
   },
@@ -330,6 +353,7 @@ var _annuaireData = [{
     "secteur_geographique": "Nantes",
     "url": "https://www.nousandco.fr/,",
     "email": "contact@nousandco.fr",
+    "facebook": "https://www.facebook.com/AssoNousandCo/",
     "tel": "634396386",
     "adresseTemp": "09 rue Jules Noël 44100 Nantes",
     "objets_recuperes": "__toutes les matières habituelles d'un particulier",
@@ -344,6 +368,7 @@ var _annuaireData = [{
     "secteur_geographique": "Région Pays de la Loire",
     "url": "http://www.oasis-environnement.org/,",
     "email": "contact@oasis-environnement.org",
+    "facebook": "https://www.facebook.com/OASISenvironnement/",
     "tel": "07 69 49 90 17",
     "adresseTemp": "6 bis rue Léon Jost 44300 NANTES",
     "objets_recuperes": "_toutes les matières d'une entreprise non spécialisée",
@@ -358,6 +383,7 @@ var _annuaireData = [{
     "secteur_geographique": "Nantes",
     "url": "https://www.edeni.fr/,https://www.facebook.com/bootcampedenipaysdelaloire/",
     "email": "contact@edeni.fr",
+    "facebook": "https://www.facebook.com/bootcampedenipaysdelaloire/",
     "adresseTemp": "  ",
     "objets_recuperes": "__toutes les matières habituelles d'un particulier",
     "mots_cles": "__toutes les matières habituelles d'un particulier"
@@ -370,6 +396,7 @@ var _annuaireData = [{
     "secteur_geographique": "Nantes et sa métropole, département, région Pays de la Loire",
     "url": "http://www.supporterre.fr/,",
     "email": "contact@supporterre.fr",
+    "facebook": " www.facebook.com/supporterre",
     "adresseTemp": "29 rue Corentin Bourveau 44100 Nantes",
     "objets_recuperes": "tissus et vêtements",
     "mots_cles": "tissus et vêtements"
@@ -383,6 +410,7 @@ var _annuaireData = [{
     "secteur_geographique": "Agglomération nantaise (44)",
     "url": "https://www.vracfacile.fr,",
     "email": "nicolas@vracfacile.fr",
+    "facebook": "https://www.facebook.com/Vracfacile",
     "tel": "06 83 45 56 13",
     "adresseTemp": "  ",
     "video": "https://www.facebook.com/Vracfacile/videos/470476810250532,"
@@ -394,6 +422,7 @@ var _annuaireData = [{
     "description": "Le Drive en Bocal propose des produits sans emballage jetable, en vrac, locaux et ou bio, alimentaire et non alimentaire. Ils sont pré-conditionnés dans des bocaux consignés. Il suffit de se connecter sur www.ledriveenbocal.com pour passer sa commande, choisir le jour et l'heure auxquels on souhaite la récupérer et ensuite passer la chercher sur place dans la zone Pôle Sud à Vertou.",
     "url": "http://www.ledriveenbocal.com,",
     "email": "contact@ledriveenbocal.com",
+    "facebook": "www.facebook.com/ledriveenbocal",
     "tel": "06-30-20-17-34",
     "adresseTemp": "ZAC LE chêne ferré 44120 Vertou"
   },
@@ -405,6 +434,7 @@ var _annuaireData = [{
     "statut": "Association",
     "secteur_geographique": "Principalement le quartier Nantes Sud et quartiers avoisinants",
     "email": "bricoLowtech@gmail.com",
+    "facebook": "https://www.facebook.com/BricoLowtech/",
     "tel": "695918724",
     "adresseTemp": "4, place du muguet Nantais (à la Maison des Confluences)\n 44200 Nantes",
     "objets_recuperes": "__toutes les matières habituelles d'un particulierdéchets organiques riches (restes alimentaires...)",
@@ -419,6 +449,7 @@ var _annuaireData = [{
     "secteur_geographique": "Agglomération nantaise principalement, mais aussi dans toute la France.",
     "url": "http://www.latelierdufuroshiki.fr,",
     "email": "contact@latelierdufuroshiki.fr",
+    "facebook": "https://www.facebook.com/latelierdufuroshiki/?ref=bookmarks",
     "tel": "06 83 71 59 41",
     "adresseTemp": "L'Atelier du Furoshiki n'a pas de local. Il intervient au sein de structures : écoles, collectivités, musées, médiathèques, entreprises, etc.  ",
     "objets_recuperes": "tissus et vêtements",
@@ -433,6 +464,7 @@ var _annuaireData = [{
     "secteur_geographique": "Pays de la Loire",
     "url": "http://lezesteenplus.com/,",
     "email": "contact@lezesteenplus.com",
+    "facebook": "https://www.facebook.com/LeZesteenPlus/",
     "tel": "679058919",
     "adresseTemp": "8 rue St Domingue 44200 NANTES"
   },
@@ -444,6 +476,7 @@ var _annuaireData = [{
     "secteur_geographique": "Région Nantaise et littoral atlantique proche",
     "url": "http://www.plastic-pickup.fr,",
     "email": "contact@plastic-pickup.fr",
+    "facebook": "www.facebook.com/ppnantes",
     "adresseTemp": "  "
   },
   {
@@ -455,6 +488,7 @@ var _annuaireData = [{
     "secteur_geographique": "Bordeaux, Nantes, Paris",
     "url": "http://autruchesutopistes.com/,",
     "email": "autruches.utopistes@ecomail-asso.com",
+    "facebook": "https://www.facebook.com/autruchesutopistes/",
     "adresseTemp": "  ",
     "objets_recuperes": "__toutes les matières habituelles d'un particulier",
     "mots_cles": "__toutes les matières habituelles d'un particulier",
@@ -468,6 +502,7 @@ var _annuaireData = [{
     "secteur_geographique": "Pays de la Loire, France entière",
     "url": "http://uq3r!q!hkIt@5en%EFVdRjlI,",
     "email": "herve.fournier@terra21.fr",
+    "facebook": "https://www.facebook.com/terra21sarl/",
     "tel": "689981628",
     "adresseTemp": "  ",
     "objets_recuperes": "_toutes les matières d'une entreprise non spécialisée",
@@ -482,6 +517,7 @@ var _annuaireData = [{
     "secteur_geographique": "Loire-Atlantique",
     "url": "https://compostinsitu.fr/,",
     "email": "direction.nantes@compostinsitu.fr",
+    "facebook": "https://www.facebook.com/compostinsitu/",
     "tel": "02 40 77 85 21",
     "adresseTemp": "7, rue Louis Blériot 44700 Orvault",
     "objets_recuperes": "déchets organiques riches (restes alimentaires...)déchets verts (pelousetaille de haie...)vaisselle jetable",
@@ -496,6 +532,7 @@ var _annuaireData = [{
     "secteur_geographique": "National dont antenne régionale Grand Ouest basée à Nantes (puis Ile de France, Sud Ouest, Sud Est, Auvergne Rhône Alpes)",
     "url": "https://aremacs.com/,",
     "email": "nantes@aremacs.com",
+    "facebook": "https://www.facebook.com/AremacsPaysDeLaLoire/",
     "tel": "601011593",
     "adresseTemp": "8 rue de Saint Domingue  44200 Nantes",
     "video": "https://www.youtube.com/watch?v=0nJkdqj4vEY,"
@@ -508,6 +545,7 @@ var _annuaireData = [{
     "secteur_geographique": "Bassin nantais",
     "url": "http://www.rebelote.co,",
     "email": "equipe.rebelote@gmail.com",
+    "facebook": "https://www.facebook.com/rebelote.co/",
     "adresseTemp": "  "
   },
   {
@@ -519,6 +557,7 @@ var _annuaireData = [{
     "secteur_geographique": "Uniquement à la Galerie",
     "url": "http://lagalerieduzerodechet.fr,",
     "email": "contact@lagalerieduzerodechet.fr",
+    "facebook": "https://facebook.com/LaGalerieDuZeroDechet",
     "adresseTemp": "5 rue Fénelon (entrée place Dulcie September) 44000 Nantes",
     "objets_recuperes": "__toutes les matières habituelles d'un particulier",
     "mots_cles": "__toutes les matières habituelles d'un particulier"
@@ -532,6 +571,7 @@ var _annuaireData = [{
     "secteur_geographique": "Nantes et les environs.",
     "url": "https://mieuxtrieranantes.wordpress.com/,",
     "email": "mieuxtrieranantes@gmail.com",
+    "facebook": "https://www.facebook.com/Mieux-trier-%C3%A0-Nantes-266725983531595/",
     "adresseTemp": "  ",
     "objets_recuperes": "__toutes les matières habituelles d'un particulier",
     "mots_cles": "__toutes les matières habituelles d'un particulier"

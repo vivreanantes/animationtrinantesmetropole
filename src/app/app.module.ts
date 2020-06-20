@@ -1,97 +1,50 @@
+import { NgModule } from "@angular/core";
 import { BrowserModule } from "@angular/platform-browser";
-import { ErrorHandler, NgModule } from "@angular/core";
-import { IonicApp, IonicErrorHandler, IonicModule } from "ionic-angular";
-import { SplashScreen } from "@ionic-native/splash-screen";
-import { StatusBar } from "@ionic-native/status-bar";
-import { HttpModule } from "@angular/http";
-import { NguCarouselModule } from "@ngu/carousel";
-
-import { MyApp } from "./app.component";
-import { HomePage } from "../pages/home/home";
-import { QuizPage } from "../pages/quiz/quiz";
-import { CodedelaroutePage } from "../pages/codedelaroute/codedelaroute";
-import { ContactPage } from "../pages/contact/contact";
-import { ParametersPage } from "../pages/parameters/parameters";
-import { DomicileModalPage } from "../pages/domicile-modal/domicile-modal";
-import { DifficultModalPage } from "../pages/difficult-modal/difficult-modal";
-
-import { LangageService } from "../services/langage.service";
-import { DebugService } from "../services/debug.service";
-import { DataService } from "../services/data.service";
-
-import { HomeCollectModsHandler } from "../handlers/homeCollectMods.handler";
-import { DifficultHandler } from "../handlers/difficult.handler";
-
-import { PipesModule } from "../pipes/pipes.module";
-import { ComponentsModule } from "../components/components.module";
-
+import { RouteReuseStrategy } from "@angular/router";
 import { HttpClient, HttpClientModule } from "@angular/common/http";
+import { NguCarouselModule } from "@ngu/carousel";
+import { ServicesModule } from "./services/services.module";
+import { HandlersModule } from "./handlers/handlers.module";
+
+import { IonicModule, IonicRouteStrategy } from "@ionic/angular";
+import { SplashScreen } from "@ionic-native/splash-screen/ngx";
+import { StatusBar } from "@ionic-native/status-bar/ngx";
 import { TranslateLoader, TranslateModule } from "@ngx-translate/core";
 import { TranslateHttpLoader } from "@ngx-translate/http-loader";
 
+import { AppComponent } from "./app.component";
+import { AppRoutingModule } from "./app-routing.module";
+
+import { DifficultModalPageModule } from "./pages/difficult-modal/difficult-modal.module";
+
 @NgModule({
-  declarations: [
-    MyApp,
-    HomePage,
-    QuizPage,
-    CodedelaroutePage,
-    ContactPage,
-    ParametersPage,
-    DomicileModalPage,
-    DifficultModalPage
-  ],
+  declarations: [AppComponent],
+  entryComponents: [],
   imports: [
     BrowserModule,
-    IonicModule.forRoot(
-      MyApp,
-      {},
-      {
-        links: [
-          { component: HomePage, segment: "home" },
-          { component: QuizPage, segment: "quiz" },
-          { component: CodedelaroutePage, segment: "code_de_la_route" },
-          { component: ContactPage, segment: "contact" },
-          { component: ParametersPage, segment: "parametres" }
-        ]
-      }
-    ),
+    IonicModule.forRoot(),
+    AppRoutingModule,
     HttpClientModule,
-    HttpModule,
+    NguCarouselModule,
+    ServicesModule,
+    HandlersModule,
     TranslateModule.forRoot({
       loader: {
         provide: TranslateLoader,
         useFactory: HttpLoaderFactory,
-        deps: [HttpClient]
-      }
+        deps: [HttpClient],
+      },
     }),
-    PipesModule,
-    ComponentsModule,
-    NguCarouselModule
-  ],
-  bootstrap: [IonicApp],
-  entryComponents: [
-    MyApp,
-    HomePage,
-    QuizPage,
-    CodedelaroutePage,
-    ContactPage,
-    ParametersPage,
-    DomicileModalPage,
-    DifficultModalPage
+    DifficultModalPageModule,
   ],
   providers: [
     StatusBar,
     SplashScreen,
-    { provide: ErrorHandler, useClass: IonicErrorHandler },
-    LangageService,
-    DebugService,
-    DataService,
-    HomeCollectModsHandler,
-    DifficultHandler
-  ]
+    { provide: RouteReuseStrategy, useClass: IonicRouteStrategy },
+  ],
+  bootstrap: [AppComponent],
 })
 export class AppModule {}
-
 export function HttpLoaderFactory(http: HttpClient) {
   return new TranslateHttpLoader(http, "./assets/i18n/", ".json");
 }

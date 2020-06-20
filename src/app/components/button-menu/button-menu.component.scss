@@ -1,0 +1,16 @@
+:host {
+  --background: transparent !important;
+  background-color: var(--background);
+  border-color: var(--background);
+  z-index: 2;
+  button {
+    --background: transparent !important;
+    background-color: var(--background);
+    border-color: var(--background);
+    outline: none;
+  }
+  ion-icon {
+    font-size: 1.7rem;
+    color: #fff;
+  }
+}

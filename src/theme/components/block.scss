@@ -1,0 +1,156 @@
+.block {
+  margin-top: 0;
+  > .titre {
+    background-color: #d8e0e4;
+    h2 {
+      padding: 2vh 3vw;
+      margin: 0;
+    }
+  }
+  > .body {
+    padding: 2vh 3vw;
+    p,
+    div {
+      margin: 0.5vh;
+      strong {
+        text-transform: capitalize;
+      }
+    }
+    &.collects {
+      display: flex;
+      flex-wrap: wrap;
+      .collect {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        flex: 1 0 calc(25% - 1vw);
+        margin: 1vw;
+        padding: 1vw;
+        background-color: #fff;
+        border: 1px solid #d1d1d1;
+
+        img {
+          max-width: 15vw;
+          height: auto;
+          margin: auto;
+        }
+        h4 {
+          margin: 1vh auto 0 auto;
+          text-align: center;
+        }
+        .plus {
+          position: absolute;
+          right: 2%;
+          top: 2%;
+          font-size: 1.7rem;
+        }
+      }
+    }
+
+    &.infos {
+      .info {
+        position: relative;
+        &.plus {
+          padding-right: 10%;
+          .plus {
+            position: absolute;
+            right: 2%;
+            top: 50%;
+            @include prefix(transform, translateY(-50%), webkit ms moz o);
+            font-size: 1.7rem;
+          }
+        }
+      }
+    }
+
+    .list {
+      > .item {
+        display: flex;
+        height: 90px;
+        width: 100%;
+        padding: 7px 10px;
+
+        &.selected {
+          > .title {
+            font-weight: bold;
+          }
+        }
+        &:not(.selected) {
+          > .flag {
+            opacity: 0.3;
+            -webkit-filter: grayscale(100%);
+            filter: grayscale(100%);
+          }
+          > .title {
+            color: rgba(#000, 0.5);
+          }
+          > .radio {
+            color: rgba(#000, 0.5);
+          }
+        }
+
+        &.tri-address {
+          display: flex;
+          height: auto;
+          margin-top: 20px;
+          padding: 7px 10px;
+          border-top: 1px solid var(--ion-color-primary);
+          > .icon {
+            display: flex;
+            margin-right: 20px;
+            font-size: 28px;
+            > ion-icon {
+              margin: auto;
+            }
+          }
+          > .txt {
+            display: flex;
+            flex-direction: column;
+            width: 80%;
+            margin-right: 10px;
+            > .name,
+            > .tri {
+              width: 100%;
+              margin: auto;
+              @include fonts("p");
+              line-height: 150%;
+            }
+            > .name {
+              font-weight: bold;
+            }
+          }
+          > .button {
+            display: flex;
+            width: 20%;
+            > button {
+              margin: auto;
+            }
+          }
+        }
+        > .radio {
+          display: flex;
+          font-size: 22px;
+          margin-right: 20px;
+          > ion-icon {
+            margin: auto;
+          }
+        }
+        > .flag {
+          height: 100%;
+          width: auto;
+          margin: auto 20px;
+        }
+        > .title {
+          margin: auto 20px;
+          display: flex;
+          color: #000;
+          @include fonts("p");
+          line-height: 20px;
+          > span {
+            margin: auto;
+          }
+        }
+      }
+    }
+  }
+}

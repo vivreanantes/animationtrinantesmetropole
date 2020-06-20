@@ -1,0 +1,6 @@
+@import "../../../theme/theme";
+:host {
+  ion-content {
+    background-color: var(--mt-color-vert) !important;
+  }
+}

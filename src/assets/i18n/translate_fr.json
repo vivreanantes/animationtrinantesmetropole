@@ -7,7 +7,7 @@
   "choisir": "choisir",
   "quiz_confirm": "Vous déposez {{reponse}} dans {{question}} ?",
   "quiz_restart_confirm_title": "Recommencer",
-  "quiz_restart_confirm_txt": "Êtes-vous certains de vouloir reccommencer ?",
+  "quiz_restart_confirm_txt": "Êtes-vous certains de vouloir recommencer ?",
   "quiz_restart_confirm_yes": "recommencer",
   "difficult_title": "Choisissez la difficulté",
   "quiz_next": "Question suivante",
@@ -49,5 +49,7 @@
   "contact_me": "Formulaire de contact",
   "tri_normal": "Tri normal",
   "tri_extension": "Extension de tri",
-  "home": "Accueil"
+  "home": "Accueil",
+  "voir_fiche": "Voir fiche",
+  "select_quartier": "Selectionnez un quartier"
 }

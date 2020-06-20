@@ -1,0 +1,9 @@
+@import "../../../theme/theme";
+:host {
+  ion-list-header {
+    @include fonts("h2");
+  }
+  ion-icon {
+    margin-right: 2vw;
+  }
+}

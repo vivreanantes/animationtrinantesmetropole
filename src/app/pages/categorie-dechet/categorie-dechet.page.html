@@ -1,0 +1,34 @@
+<ion-content>
+  <div class="mt-content fiche" *ngIf="categorie">
+    <div class="back" (click)="back()">
+      <ion-icon name="arrow-back-outline"></ion-icon>
+    </div>
+    <div class="header">
+      <div class="img" *ngIf="categorie.image">
+        <img src="assets/imgs/{{ categorie.image }}" />
+      </div>
+      <h1>{{ categorie | lang:"nom"}}</h1>
+    </div>
+    <div class="body">
+      <div class="block" *ngIf="categorie.items && categorie.items.length > 0">
+        <div class="titre">
+          <h2>{{'informations'|translate}}</h2>
+        </div>
+        <div class="body">
+          <ul>
+            <li *ngFor="let item of categorie.items; let i = index"
+              routerLink="/categorie-dechet/{{categorie.code}}/dechet/{{item.code}}" routerDirection="root">
+              <img src="assets/imgs/{{item.image}}">
+              <h5>{{ item | lang:"nom"}}</h5>
+              <div class="buttons">
+                <button>
+                  <ion-icon name="information-circle-outline"></ion-icon>
+                </button>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</ion-content>

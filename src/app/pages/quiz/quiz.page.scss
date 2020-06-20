@@ -1,0 +1,655 @@
+@import "../../../theme/theme";
+:host {
+  #background {
+    $quiz_bg_blur: 10px;
+    position: absolute;
+    top: -$quiz_bg_blur;
+    left: -$quiz_bg_blur;
+    right: -$quiz_bg_blur;
+    bottom: -$quiz_bg_blur;
+    background-image: url(/assets/imgs/quiz_bg.jpg);
+    background-size: cover;
+    @include prefix(filter, blur($quiz_bg_blur), webkit ms moz o);
+
+    &:after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: #000;
+      opacity: 0;
+      @include prefix(transition, opacity 0.3s ease-in-out, webkit);
+    }
+
+    &.on-drag,
+    &.on-select,
+    &.on-advise {
+      &:after {
+        opacity: 0.5;
+      }
+    }
+  }
+  .mt-content {
+    height: 10vh;
+    width: 100vw;
+    overflow: hidden;
+    background-color: transparent;
+    #restart {
+      display: flex;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 85vw;
+      height: 8vh;
+      &.on-over {
+        opacity: 0;
+        pointer-events: none;
+      }
+
+      > button {
+        font-size: 2em;
+        margin: auto;
+        background-color: transparent;
+        border: none;
+        color: #fff;
+      }
+    }
+    #difficult {
+      display: flex;
+      position: absolute;
+      bottom: 0;
+      left: 85vw;
+      right: 0;
+      height: 8vh;
+      &.on-over {
+        opacity: 0;
+        pointer-events: none;
+      }
+      > button {
+        font-size: 2em;
+        margin: auto;
+        background-color: transparent;
+        border: none;
+        color: #fff;
+      }
+    }
+
+    #progress-block {
+      position: absolute;
+      bottom: 0;
+      left: 15vw;
+      right: 15vw;
+      height: 8vh;
+      border-top-left-radius: 4vh;
+      border-top-right-radius: 4vh;
+      background-color: transparent;
+      @include prefix(transition, opacity 0.3s ease-in-out, webkit);
+
+      &.on-over {
+        opacity: 0;
+        pointer-events: none;
+      }
+
+      > .bar {
+        display: flex;
+        position: absolute;
+        top: 25%;
+        left: 0;
+        right: 0;
+        height: 50%;
+        border-radius: 50px;
+        background-color: #fff;
+        overflow: hidden;
+        @include prefix(box-shadow, 0px 0px 2px 0px #656565, webkit ms moz o);
+
+        > .background {
+          content: "";
+          position: absolute;
+          top: 0;
+          bottom: 0;
+          left: 0;
+          @include gradient-vertical(
+            var(--ion-color-warning-tint),
+            var(--ion-color-warning)
+          );
+          @include prefix(transition, width 0.3s ease-in-out, webkit);
+          z-index: 1;
+        }
+        > .step {
+          position: relative;
+          flex: 1;
+          text-align: center;
+          z-index: 2;
+          ion-icon {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            font-size: 1.8rem;
+            @include prefix(
+              transform,
+              translateY(-50%) translateX(-50%),
+              webkit
+            );
+            &.is-true {
+              color: var(--ion-color-success);
+            }
+            &.is-false {
+              color: var(--ion-color-danger);
+            }
+          }
+
+          > img {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            height: 80%;
+            width: auto;
+            @include prefix(
+              transform,
+              translateY(-50%) translateX(-50%),
+              webkit
+            );
+            opacity: 0.3;
+            z-index: 4;
+          }
+
+          &.current,
+          &.is-true,
+          &.is-false {
+            > img {
+              opacity: 1;
+            }
+          }
+        }
+      }
+    }
+
+    #title {
+      @include fonts("h1", bold);
+      color: #fff;
+      text-align: center;
+    }
+
+    #title2 {
+      @include fonts("h4", bold);
+      color: #fff;
+      text-align: center;
+    }
+    #game {
+      display: block;
+      position: absolute;
+      top: 5vh;
+      left: 0;
+      bottom: 8vh;
+      right: 0;
+      background-color: transparent;
+      @include prefix(transition, all 0.3s ease-in-out, webkit);
+
+      &.on-select {
+        > #garbage {
+          display: none;
+        }
+        > .reponse:not(.selected) {
+          opacity: 0.1;
+        }
+      }
+      &.on-over {
+        opacity: 0;
+        pointer-events: none;
+      }
+
+      #garbage {
+        position: absolute;
+        top: 10vh;
+        left: 50%;
+        @include prefix(transform, translateX(-50%), webkit);
+        width: 45vw;
+        height: 45vw;
+        background: rgba(#fff, 0.8);
+        border-radius: 20px;
+        cursor: pointer;
+        touch-action: none;
+        @include prefix(transform-origin, 50% 50%, webkit);
+        @include prefix(
+          box-shadow,
+          2px 2px 5px 0px rgba(#000, 0.5),
+          webkit moz o
+        );
+        @include tablet {
+          width: 30vw;
+          height: 30vw;
+        }
+
+        @include desktop {
+          width: 10vw;
+          height: 10vw;
+        }
+
+        > img {
+          position: absolute;
+          left: 25%;
+          top: 50%;
+          @include prefix(transform, translateY(-80%), webkit);
+          width: 50%;
+          height: auto;
+          pointer-events: none;
+        }
+        > div {
+          position: absolute;
+          bottom: 20px;
+          left: 10px;
+          right: 10px;
+          text-align: center;
+          @include fonts("p", bold);
+          > span {
+            display: block;
+            margin-top: 5px;
+            @include fonts("small");
+            color: var(--ion-color-dark);
+          }
+        }
+      }
+      > .reponses {
+        display: flex;
+        flex-wrap: wrap;
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        > .reponse {
+          position: relative;
+          width: 25vw;
+          height: 25vw;
+          margin: 0 auto 4vw auto;
+          border: 1px dashed #ccc;
+          background-color: #fff;
+          opacity: 0.5;
+          border-radius: 10px;
+          @include prefix(transition, all 0.3s ease-in-out, webkit);
+          @include fonts("p");
+
+          @include desktop {
+            width: 10vw;
+            height: 10vw;
+            margin: 0 3% 4% 3%;
+          }
+
+          &.on-drag-enter {
+            opacity: 1;
+          }
+          &.selected {
+            @include prefix(transform, scale(1.2, 1.2), webkit);
+            border: 2px solid var(--ion-color-success);
+            opacity: 1;
+
+            > .question {
+              opacity: 1;
+            }
+            > ion-icon {
+              opacity: 1;
+            }
+
+            > .reponse-img {
+              left: 65%;
+              width: 20%;
+            }
+          }
+
+          > .question {
+            position: absolute;
+            top: 50%;
+            left: 10%;
+            width: 25%;
+            height: auto;
+            opacity: 0;
+            @include prefix(transform, translateY(-50%), webkit);
+            @include prefix(transition, opacity 0.3s ease-in-out 0.3s, webkit);
+          }
+          > ion-icon {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            opacity: 0;
+            @include prefix(transform, translateY(-50%), webkit);
+            @include prefix(transition, opacity 0.3s ease-in-out 0.3s, webkit);
+          }
+          > .reponse-img {
+            position: absolute;
+            top: 50%;
+            left: 25%;
+            width: 50%;
+            height: auto;
+            @include prefix(transform, translateY(-50%), webkit);
+            @include prefix(transition, all 0.3s ease-in-out, webkit);
+          }
+          > div {
+            position: absolute;
+            left: 0;
+            right: 0;
+            text-align: center;
+
+            &.title {
+              top: 5px;
+              font-weight: bold;
+              @include tablet {
+                top: 15px;
+              }
+              @include desktop {
+                top: 15px;
+              }
+            }
+
+            &.resume {
+              bottom: 5px;
+              @include fonts("small");
+              color: var(--ion-color-dark);
+              @include tablet {
+                bottom: 20px;
+              }
+              @include desktop {
+                bottom: 20px;
+              }
+            }
+          }
+        }
+      }
+    }
+    #confirm {
+      display: block;
+      position: absolute;
+      top: -54px;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      opacity: 0;
+      pointer-events: none;
+      @include prefix(transition, all 0.3s ease-in-out 0.3s, webkit);
+
+      &.show {
+        opacity: 1;
+        pointer-events: initial;
+        > .body {
+          @include prefix(transform, scale(1, 1) translateY(-50%), webkit);
+        }
+      }
+      > .body {
+        position: absolute;
+        top: 50%;
+        left: 15vw;
+        right: 15vw;
+        padding: 15px 20px;
+        background-color: #fff;
+        @include prefix(transform-origin, 50% 50%, webkit);
+        @include prefix(transform, scale(0, 0) translateY(-50%), webkit);
+        @include prefix(transition, transform 0.3s ease-in-out, webkit);
+        @include prefix(box-shadow, 0px 0px 5px 0px #220c0c, webkit ms moz o);
+
+        @include desktop {
+          top: 40%;
+          left: 30vw;
+          right: 30vw;
+        }
+
+        img {
+          width: 100%;
+          height: auto;
+        }
+        .ion-ios-arrow-forward {
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          @include prefix(transform, translateY(-50%) translateX(-50%), webkit);
+        }
+        > .content {
+          @include fonts("p");
+          text-align: center;
+        }
+        > .button {
+          margin-top: 30px;
+          button {
+            @include fonts("button");
+          }
+        }
+      }
+    }
+
+    #result {
+      display: block;
+      position: absolute;
+      top: -54px;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      opacity: 0;
+      pointer-events: none;
+      @include prefix(transition, opacity 0.3s ease-in-out, webkit);
+
+      &.show {
+        pointer-events: initial;
+        opacity: 1;
+        > .body {
+          @include prefix(transform, scale(1, 1) translateY(-50%), webkit);
+        }
+      }
+
+      &.is-true {
+        > .body {
+          background-color: var(--ion-color-success);
+          > .button {
+            button {
+              color: var(--ion-color-success);
+            }
+          }
+        }
+      }
+
+      > .body {
+        position: absolute;
+        top: 50%;
+        left: 15vw;
+        right: 15vw;
+        padding: 15px 20px;
+        background-color: var(--ion-color-danger);
+        @include prefix(transform-origin, 50% 50%, webkit);
+        @include prefix(transform, scale(0, 0) translateY(-50%), webkit);
+        @include prefix(transition, transform 0.3s ease-in-out, webkit);
+        @include prefix(box-shadow, 0px 0px 5px 0px #220c0c, webkit ms moz o);
+
+        > .title {
+          > .col {
+            @include fonts("h1", bold);
+            text-align: center;
+            color: #fff;
+          }
+        }
+        > .content {
+          margin-top: 20px;
+          > .col {
+            @include fonts("p");
+            text-align: center;
+            color: #fff;
+          }
+        }
+        > .button {
+          margin-top: 30px;
+          button {
+            width: 100%;
+            height: 5vh;
+            border: none;
+            color: var(--ion-color-danger);
+            background-color: #fff;
+            @include fonts("button", bold);
+            outline: none;
+          }
+        }
+      }
+    }
+
+    #finish {
+      display: flex;
+      flex-direction: column;
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      opacity: 0;
+      pointer-events: none;
+      @include prefix(transition, opacity 0.3s ease-in-out, webkit);
+
+      &.show {
+        pointer-events: initial;
+        opacity: 1;
+      }
+
+      > .title {
+        width: 100%;
+        margin: auto;
+        margin-top: 30px;
+        > h1 {
+          @include fonts("h1", bold);
+          text-align: center;
+          color: #fff;
+        }
+      }
+      > stars {
+        margin-top: 10px;
+      }
+      > .legend {
+        width: 100%;
+        margin: auto;
+        margin-top: 30px;
+        @include fonts("p");
+        text-align: center;
+        color: #fff;
+      }
+
+      > ngu-carousel {
+        margin-top: 30px;
+        > .ngucarousel {
+          > button {
+            position: absolute;
+            top: 50%;
+            width: 10vw;
+            height: 10vw;
+            border: none;
+            background-color: #fff;
+            color: #000;
+            z-index: 2;
+            cursor: pointer;
+            border-radius: 10vw;
+            @include prefix(
+              box-shadow,
+              0px 0px 5px 0px rgba(0, 0, 0, 0.75),
+              webkit moz
+            );
+            @include prefix(transform, translateY(-50%), webkit moz);
+
+            @include tablet {
+              width: 5vw;
+              height: 5vw;
+            }
+            @include desktop {
+              width: 5vw;
+              height: 5vw;
+            }
+
+            &.leftRs {
+              left: 0;
+            }
+            &.rightRs {
+              right: 0;
+            }
+            > ion-icon {
+              font-size: 30px;
+            }
+          }
+        }
+      }
+      ngu-tile {
+        .tile {
+          display: flex;
+          flex-direction: column;
+          justify-content: space-evenly;
+          background-color: #fff;
+          padding: 1vh 10vw;
+          height: 100%;
+
+          @include tablet {
+            padding: 1vh 5vw;
+          }
+          @include desktop {
+            padding: 1vh 1vw;
+          }
+          .header {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            .image {
+              position: relative;
+              width: 30%;
+              img {
+                width: 100%;
+                height: auto;
+              }
+              ion-icon {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                @include prefix(transform-origin, 50% 50%, webkit);
+                @include prefix(
+                  transform,
+                  translateY(-50%) translateX(-50%),
+                  webkit
+                );
+                font-size: 45px;
+                font-weight: bold;
+                @include tablet {
+                  font-size: 70px;
+                }
+                @include desktop {
+                  font-size: 70px;
+                }
+                &[name="checkmark"] {
+                  color: var(--ion-color-success);
+                }
+                &[name="close"] {
+                  color: var(--ion-color-danger);
+                }
+              }
+            }
+          }
+          .body {
+            p {
+              text-align: center;
+            }
+          }
+        }
+      }
+
+      > .button {
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin: auto;
+        order: 4;
+        > button {
+          width: 50%;
+          margin: auto;
+          @include fonts("button", bold);
+          background-color: #fff;
+          border: none;
+        }
+        > div {
+          @include fonts("p");
+          color: #fff;
+          text-align: center;
+        }
+      }
+    }
+  }
+}

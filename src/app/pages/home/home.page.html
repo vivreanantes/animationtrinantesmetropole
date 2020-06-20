@@ -1,0 +1,13 @@
+<div id="background"></div>
+
+<ion-content no-scroll>
+  <div id="logo">
+    <img src="assets/imgs/logo.png" />
+  </div>
+  <div id="menu">
+    <div class="page" *ngFor="let page of pages" routerLink="/{{page.link}}" routerDirection="root">
+      <ion-icon name="{{ page.icon }}"></ion-icon>
+      <span>{{ page.title | translate }}</span>
+    </div>
+  </div>
+</ion-content>

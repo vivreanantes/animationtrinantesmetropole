@@ -1,0 +1,7 @@
+<ion-list>
+  <ion-list-header>{{ "telephoner"|translate}}</ion-list-header>
+  <ion-item button *ngFor="let phone of phones; let i = index">
+    <ion-icon name="call"></ion-icon>
+    <a href="tel:{{ phone }}">{{ phone }}</a>
+  </ion-item>
+</ion-list>

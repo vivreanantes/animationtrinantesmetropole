@@ -1,0 +1,6 @@
+<div class="horaires" *ngIf="horaires">
+  <strong>{{ "horaire" | translate }} :</strong>
+  <p *ngFor="let horaire of horaireString">
+    {{ horaire }}
+  </p>
+</div>
