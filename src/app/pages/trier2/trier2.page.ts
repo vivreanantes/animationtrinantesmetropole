@@ -124,6 +124,7 @@ export class Trier2Page implements OnInit {
    */
   filtre(value?: any) {
     let categories: any = {};
+    value = value.toLowerCase();
     Object.keys(this.categoriesRaw).map((key, index) => {
       if (
         this.categoriesRaw[key].items &&
