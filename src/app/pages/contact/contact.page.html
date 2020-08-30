@@ -6,117 +6,6 @@
       <h1>{{ "contact" | translate }}</h1>
     </div>
     <div class="mt-form">
-      <div class="form-group">
-        <label for="">{{ "contact_how" | translate }}</label>
-        <ion-select
-          [interfaceOptions]="{header:('contact_how' | translate)}"
-          interface="alert"
-          [(ngModel)]="form.how"
-          (ngModelChange)="howChange($event)"
-          multiple="true"
-          okText="{{ 'ok' | translate }}"
-          cancelText="{{ 'cancel' | translate }}"
-        >
-          <ion-select-option
-            >{{ "contact_how_choice_0" | translate }}</ion-select-option
-          >
-          <ion-select-option
-            >{{ "contact_how_choice_1" | translate }}</ion-select-option
-          >
-          <ion-select-option
-            >{{ "contact_how_choice_2" | translate }}</ion-select-option
-          >
-          <ion-select-option
-            >{{ "contact_how_choice_3" | translate }}</ion-select-option
-          >
-          <ion-select-option
-            >{{ "contact_how_choice_4" | translate }}</ion-select-option
-          >
-          <ion-select-option
-            >{{ "contact_how_choice_5" | translate }}</ion-select-option
-          >
-          <ion-select-option
-            >{{ "contact_how_choice_6" | translate }}</ion-select-option
-          >
-          <ion-select-option
-            >{{ "contact_how_choice_7" | translate }}</ion-select-option
-          >
-          <ion-select-option
-            >{{ "contact_how_choice_8" | translate }}</ion-select-option
-          >
-          <ion-select-option
-            >{{ "contact_how_choice_9" | translate }}</ion-select-option
-          >
-        </ion-select>
-        <textarea
-          [(ngModel)]="form.how_other"
-          *ngIf="showHowOther === true"
-          placeholder="{{ 'contact_how_choice_9' | translate }}"
-        ></textarea>
-      </div>
-
-      <div class="form-group">
-        <label>{{ "contact_think" | translate }}</label>
-        <ion-select
-          class="mt-select"
-          [interfaceOptions]="{header:('contact_think' | translate)}"
-          [(ngModel)]="form.think"
-          okText="{{ 'ok' | translate }}"
-          cancelText="{{ 'cancel' | translate }}"
-        >
-          <ion-select-option
-            >{{ "contact_think_choice_0" | translate }}</ion-select-option
-          >
-          <ion-select-option
-            >{{ "contact_think_choice_1" | translate }}</ion-select-option
-          >
-          <ion-select-option
-            >{{ "contact_think_choice_2" | translate }}</ion-select-option
-          >
-          <ion-select-option
-            >{{ "contact_think_choice_3" | translate }}</ion-select-option
-          >
-        </ion-select>
-        <textarea
-          [(ngModel)]="form.think_other"
-          *ngIf="form.think === ('contact_think_choice_2' | translate) ||
-        form.think === ('contact_think_choice_3' | translate)"
-          placeholder="{{'contact_think_other'|translate}}"
-        ></textarea>
-      </div>
-
-      <div class="form-group">
-        <label>{{ "contact_info" | translate }}</label>
-        <ion-select
-          class="mt-select"
-          [interfaceOptions]="{header:('contact_info' | translate)}"
-          [(ngModel)]="form.info"
-          okText="{{ 'ok' | translate }}"
-          cancelText="{{ 'cancel' | translate }}"
-        >
-          <ion-select-option
-            >{{ "contact_info_choice_0" | translate }}</ion-select-option
-          >
-          <ion-select-option
-            >{{ "contact_info_choice_1" | translate }}</ion-select-option
-          >
-          <ion-select-option
-            >{{ "contact_info_choice_2" | translate }}</ion-select-option
-          >
-          <ion-select-option
-            >{{ "contact_info_choice_3" | translate }}</ion-select-option
-          >
-        </ion-select>
-
-        <textarea
-          [(ngModel)]="form.info_other"
-          *ngIf="
-        form.info === ('contact_info_choice_2' | translate) ||
-        form.info === ('contact_info_choice_3' | translate)
-      "
-          placeholder="{{ 'contact_think_other' | translate }}"
-        ></textarea>
-      </div>
 
       <div class="form-group">
         <label>{{ "contact_advice" | translate }}</label>
@@ -140,5 +29,13 @@
         </button>
       </div>
     </div>
+
   </div>
+
+      <div class="mt-content">
+        <div class="titre">
+          <h1>A propos</h1>
+        </div>
+        <div>Cette application est développée par les membres de l'association "Mieux trier à Nantes".</div>
+      </div>
 </ion-content>
