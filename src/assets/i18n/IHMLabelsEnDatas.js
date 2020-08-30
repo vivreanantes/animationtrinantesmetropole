@@ -166,7 +166,7 @@ var _ihmLabelsEnDatas = {
 	"tout_faux": "Any forgery !",
 	"plus_bonnes": "More the good ones than of bad answers.",
 	"menu": "Menu",
-	"accueil": "Welcome",
+	"accueil": "Home / news",
 	"langue_actuelle": "English",
 	"jeux": "Games",
 	"config": "Params",

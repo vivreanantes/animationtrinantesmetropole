@@ -169,7 +169,7 @@ var _ihmLabelsFrDatas = {
 	"tout_faux": "Tout faux !",
 	"plus_bonnes": "Plus de bonnes que de mauvaises réponses.",
 	"menu": "Menu",
-	"accueil": "Accueil",
+	"accueil": "Accueil / actus",
 	"langue_actuelle": "Français",
 	"jeux": "Jeux",
 	"config": "Paramètres",
