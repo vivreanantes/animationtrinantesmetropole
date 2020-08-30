@@ -70,10 +70,10 @@ var _advicesDatas = [{
   },
   {
     "code": "cons_bouchonamour",
-    "nom": "Bouchon d'amour récupère les bouchons plastiques",
+    "nom": "Bouchon d'amour récupère les bouchons des bouteilles plastique",
     "nom_en": "Love stopper recovers plastic plugs",
-    "descr": "Bouchons acceptés : eau, lait, soda, huile, vinaigre, vin, compote, crème fraîche, liquide vaisselle, aérosols, dentifrice, shampooing...<br/>Bouchons refusés : produits toxiques, détergents, liège.",
-    "descr_en": "Plugs accepted: water, milk, soda, oil, vinegar, wine, sauce, cream, dishwashing liquid, aerosols, toothpaste, shampoo ... <br/> plugs refused: toxic chemicals, detergents, cork.",
+    "descr": "Bouchons acceptés : eau, lait, soda, huile, vinaigre, shampooing...<br/>Bouchons refusés : produits toxiques, détergents, liège, vin, compote, crème fraîche, liquide vaisselle, aérosols, dentifrice.",
+    "descr_en": "Plugs accepted: water, milk, soda, oil, vinegar, shampoo ... <br/> plugs refused: toxic chemicals, detergents, cork, wine, sauce, cream, dishwashing liquid, aerosols, toothpaste.",
     "fiche": "fiche_bouchon_amour"
   },
   {
