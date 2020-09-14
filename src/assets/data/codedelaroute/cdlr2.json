@@ -1,15 +1,13 @@
-[
-  {
+[{
     "name": "portable",
     "descr": "Matériaux des téléphones portables",
     "descr_en": "Materials of mobile phones",
-    "resume": "Quel poids de terres rares non recycblages sont utilisées pour un téléphone portable ?",
-    "resume_en": "What weights of non-recycage rare earths are used for a mobile phone ?",
+    "resume": "Quel poids de terres rares non recyclables sont utilisées pour un téléphone portable ?",
+    "resume_en": "What weights of non-recyclable rare earths are used for a mobile phone ?",
     "advice": "Un téléphone portable est remplacé en moyenne tous les 20 mois et correspond à 70 kilos de matières premières rares non récupérables. Pensez à protégrer votre téléphone, à acheter un FairPhone, à le faire réparer... ou à vous en passer !",
     "advice_en": "A mobile phone is replaced on average every 20 months and corresponds to 70 kilograms of rare raw materials that can not be recovered. Remember to protect your phone, buy a FairPhone, have it repaired ... or do without!",
     "image": "gaspillage_alimentaire.jpg",
-    "reponses": [
-      {
+    "reponses": [{
         "id": 1,
         "name": "1 kilo",
         "name_en": "1 kilogram"
@@ -39,8 +37,7 @@
     "resume": "Pour re-fabriquer des bouteilles à partir du verre.",
     "resume_en": "To re-make bottles from the glass.",
     "image": "BoutABout04.jpg",
-    "reponses": [
-      {
+    "reponses": [{
         "id": 1,
         "name": "Il suffit de nettoyer la bouteille.",
         "name_en": "Just clean the bottle."
@@ -65,8 +62,7 @@
     "resume": "Quelle quantité d'eau un mégot pollue t'il ?",
     "resume_en": "How much water does a cigarette butt pollute ?",
     "image": "megot.jpg",
-    "reponses": [
-      {
+    "reponses": [{
         "id": 1,
         "name": "10 litres.",
         "name_en": "10 liters."
