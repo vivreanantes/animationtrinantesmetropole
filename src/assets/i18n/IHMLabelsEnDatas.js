@@ -232,6 +232,7 @@ var _ihmLabelsEnDatas = {
 	"companiesadvices_type2": "Specific recycling",
 	"companiesadvices_type3": "Advices",
 	"carte_filter": "Filter (points to show)",
+	"carte_filtres": "Filters",
 	"carte_afficher": "Filter",
 	"debug_mots_cles": "DEBUG MOD ONLY : keywords to find this page ",
 	"toutletemps": "allways",
