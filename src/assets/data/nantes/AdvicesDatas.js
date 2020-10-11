@@ -297,11 +297,18 @@ var _advicesDatas = [{
   {
     "code": "cons_pasuniquementbouteilleflacon",
     "nom": "Tous les emballages se trient pour certaines villes de Nantes Métropole.",
-    "nom_en": "All packaging is sort for certain cities of Nantes Métropole.",
-    "descr": "Plusieurs villes (Nantes, La Montagne, le Pellerin, Saint Jean de Boiseau ou une partie de Carquefou ou une partie de Orvault) sont en extension de tri : vous pouvez mettre tous les emballages : barquettes, films, couvercles, tubes, capsules, pots... mais aussi les capsules métallique de café, le papier aluminium.<br/>Pour les autres villes, aucune changement pour l'instant.</b>.",
-    "descr_en": "Several cities (Nantes, La Montagne, Pellerin, Saint Jean de Boiseau or part of Carquefou or part of Orvault) are in sorting extension: you can put all the packaging: trays, films, lids, tubes, capsules, jars ... but also metallic coffee capsules, aluminum foil. <br/> For the other cities, no changes for the moment.",
+    "nom_en": "All packaging is sorted for certain cities of Nantes Métropole.",
+    "descr": "Plusieurs villes (Nantes, La Montagne, le Pellerin, Saint Jean de Boiseau ou une partie de Carquefou ou une partie de Orvault) sont en extension de tri : vous pouvez mettre tous les emballages : barquettes, films, couvercles, tubes, capsules, pots... mais aussi les capsules métallique de café, le papier aluminium.<br/>Pour les autres villes, aucun changement pour l'instant.</b>.",
+    "descr_en": "Several cities (Nantes, La Montagne, le Pellerin, Saint Jean de Boiseau or part of Carquefou or part of Orvault) are in the sorting extension: you can put all the packaging: trays, films, lids, tubes, capsules, jars ... but also metallic coffee capsules, aluminum foil. <br/> For other cities, no change for the moment. </b>.",
     "fiche": "fiche_pet"
   },
+  {
+   "code":"cons_tripasrecyclage",
+   "nom":"Ne pas confondre tri et recyclage",
+   "nom_en":"Do not confuse sorting and recycling",
+   "descr":"Beaucoup de plastiques ne sont pas suffisamment rentables pour être recyclés. Ils sont souvent incinérés (parfois enfouis) mais très rarement recyclés… car les filières n’existent pas !",
+   "descr_en":"Many plastics are not profitable enough to be recycled. They are often incinerated (sometimes buried) but very rarely recycled ... because the channels do not exist!"
+},
   {
     "code": "cons_pilerechargeable",
     "nom": "Pile rechargeable",
@@ -422,9 +429,9 @@ var _advicesDatas = [{
   {
     "code": "cons_trop_petit",
     "nom": "Trop petit pour être trié",
-    "nom_en": "Too small to be sorted",
-    "descr": "Ce matériau pourrait être récyclé, mais étant trop petit (ou ne représentant pas assez de matières) il doit être mis avec les ordures ménagères.",
-    "descr_en": "This material could be recycled, but is too small (or not representative enough materials) it must be put in household waste."
+    "nom_en": "Not too small to be sorted",
+    "descr": "Avant ce matériau était considéré trop petit pour être récyclé (ne représentant pas assez de matières) mais désormais ils peuvent être recyclés.",
+    "descr_en": "Before this material was considered too small to be recycled (not representing enough material) but now it can be recycled."
   },
   {
     "code": "cons_vaissellebiodegradable",
