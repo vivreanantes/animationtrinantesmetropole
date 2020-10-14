@@ -1,0 +1,32 @@
+<ion-content>
+  <div class="mt-content fiche">
+    <div class="close" (click)="close()">
+      <ion-icon name="close"></ion-icon>
+    </div>
+    <div class="header">
+      <h1>{{ item.nom_}}</h1>
+    </div>
+    <div class="body">
+      <div class="block">
+        <div class="titre">
+          <h2>{{'informations'|translate}}</h2>
+        </div>
+        <div class="body infos">
+          <p>
+            <strong>{{'select_categories_acteur'|translate}} :</strong> {{ item.categorie_principale }}
+          </p>
+          <p>
+            {{ item.breve_description_ }}
+            <br /><br /><br />
+            {{ item.description_complete }}
+          </p>
+          <div class="buttons">
+            <button (click)="openUrl(item.url)">
+              {{'plus_d_infos'|translate}}
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</ion-content>
