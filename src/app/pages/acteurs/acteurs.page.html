@@ -5,7 +5,7 @@
   <div class="mt-content" [ngClass]="{'selected':input}">
     <div class="block" *ngIf="!input">
       <div class="body">
-        <h2>{{"select_quartier"| translate}}</h2>
+        <h2>{{"select_categories_acteur"| translate}}</h2>
 
         <select [(ngModel)]="input">
           <option *ngFor="let filtre of filtres">{{filtre}}</option>
@@ -22,13 +22,15 @@
     <div class="block" *ngIf="input">
       <div class="titre">
         <h2>
-          {{ ("quartier"| translate)+ " "+input }}
+          {{ input }}
         </h2>
       </div>
       <div class="body">
         <div class="list">
-          <div *ngFor="let type of trisacs[input] | values">
-            <h3>{{ type[0].type_lieu?type[0].type_lieu:"Divers" }} :</h3>
+          <div *ngFor="let type of acteurs[input] | values">
+            <h3>{{ type[0].categorie_principale_detail?type[0].categorie_principale_detail:"Divers" }} :</h3>
+            <h4>{{ type[0].nom_}}</h4>
+            {{ type[0].breve_description_}}
 
             <ul>
               <li *ngFor="let t of type" (click)="details(t)">

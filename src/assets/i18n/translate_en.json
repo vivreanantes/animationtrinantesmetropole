@@ -15,7 +15,7 @@
   "cdlr_valid": "Validate",
   "cdlr": "QCM",
   "cdlr_list_title": "Choose survey",
-  "contact": "Contact\nAbout",
+  "contact": "Contact / About",
   "contact_advice": "Your question ?",
   "contact_mail": "E-mail",
   "contact_send": "Envoyer",
@@ -29,5 +29,6 @@
   "tri_extension": "Extension",
   "home": "Home / news",
   "voir_fiche": "Show more",
-  "select_quartier": "Choose district"
+  "select_quartier": "Choose district",
+  "select_categories_acteur": "Choose activity"
 }

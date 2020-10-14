@@ -48,10 +48,22 @@ const routes: Routes = [
       import("./pages/trisac/trisac.module").then((m) => m.TrisacPageModule),
   },
   {
+    path: "acteurs",
+    loadChildren: () =>
+      import("./pages/acteurs/acteurs.module").then((m) => m.ActeursPageModule),
+  },
+  {
     path: "trisac-details",
     loadChildren: () =>
       import("./pages/trisac-details/trisac-details.module").then(
         (m) => m.TrisacDetailsPageModule
+      ),
+  },
+  {
+    path: "acteurs-details",
+    loadChildren: () =>
+      import("./pages/acteurs-details/acteurs-details.module").then(
+        (m) => m.ActeursDetailsPageModule
       ),
   },
   {

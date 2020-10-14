@@ -1,0 +1,102 @@
+@import "../../../theme/theme";
+:host {
+  ion-content {
+    background-color: var(--mt-color-vert) !important;
+
+    .mt-content{
+      &:not(.selected){
+        .block{
+          border-bottom-left-radius: 10px;
+          border-bottom-right-radius: 10px;
+          margin: 50% auto ;
+          @include prefix(transform,translateY(-50%),moz webkit);
+
+          .body{
+            padding: 5vw;
+            text-align: center;
+            select{
+              margin-top:3vh;
+              border: 2px solid #000;
+            }
+
+          }
+        }
+      }
+    }
+    select {
+      height: 10vw;
+      width: 90%;
+      padding: 10px;
+      margin: auto;
+      border: none;
+      border-radius: 10vw;
+      @include fonts("p", bold);
+      text-align: center;
+      text-align-last:center;
+      outline: none;
+
+      @include tablet {
+        height: 7vw;
+      }
+      @include desktop {
+        height: 3vw;
+      }
+    }
+
+    .search {
+      display: flex;
+      width: 100%;
+      margin-top: 3vh;
+    }
+
+    .block {
+      width: 95vw;
+      margin: 2vh auto 0 auto;
+      border-top-left-radius: 10px;
+      border-top-right-radius: 10px;
+      overflow: hidden;
+      .titre {
+        h2 {
+          text-transform: capitalize;
+        }
+      }
+      .body {
+        --background: #fff;
+        background-color: var(--background);
+
+        h3 {
+          margin: 0;
+          text-transform: capitalize;
+        }
+        ul {
+          margin: 0;
+          padding-left: 3vw;
+          li {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            width: 100%;
+            padding: 2vh 0;
+            &:not(:last-child) {
+              border-bottom: 1px solid var(--ion-color-light-shade);
+            }
+
+            h5 {
+              margin: 0;
+            }
+            .buttons {
+              display: flex;
+              align-items: center;
+              button {
+                background-color: transparent;
+                border: none;
+                outline: none;
+                font-size: 2rem;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
