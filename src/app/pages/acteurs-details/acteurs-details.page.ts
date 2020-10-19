@@ -43,7 +43,7 @@ export class ActeursDetailsPage implements OnInit {
   }
 
   openUrl(url) {
-    // var url = "http://lagalerieduzerodechet.fr/?wpbdp_listing=" + nom_.replace(/ /g, "-");
+    // var url = "http://lagalerieduzerodechet.fr/?wpbdp_listing=" + nom.replace(/ /g, "-");
     window.open(url, "_system");
   }
 
