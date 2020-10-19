@@ -1,6 +1,6 @@
 [{
     "activites_": "\"Fabrication de produits zéro déchet\"",
-    "breve_description_": "\"produits entièrement issus du végétal dont nous couvrons l’ensemble du cycle de vie. \"",
+    "descr": "\"produits entièrement issus du végétal dont nous couvrons l’ensemble du cycle de vie. \"",
     "objets_ou_materiaux_concernes_": "\"vaisselle jetable\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"La structure est active.\"",
     "statut_juridique_": "\"Entreprise \"",
@@ -8,7 +8,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"0\"",
     "nombre_de_salaries": "\"2-5\"",
     "secteur_geographique_dintervention": "\"Vendée et la région\"",
-    "description_complete": "\" Conception",
+    "descr_long": "\" Conception",
     "site_internet": " la fabrication",
     "numero_de_telephone": " la commercialisation",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " jusqu’à la collecte et au recyclage de la matière biosourcée. \"",
@@ -45,7 +45,7 @@
     "nom_": "\"Kerhea\""
 }, {
     "activites_": "\"Information sur la réduction des déchets à la source (hors stand);Récupération articles puériculture",
-    "breve_description_": " jouets",
+    "descr": " jouets",
     "objets_ou_materiaux_concernes_": " livres ou vêtements enfants;Récupération des livres en bon état;Récupére des objets usagés",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " les vérifie/nettoie et les revends\"",
     "statut_juridique_": "\"Promeut le réemploi et la réutilisation d'objets",
@@ -53,7 +53,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"__toutes les matières habituelles d'un particulier;_toutes les matières d'une entreprise non spécialisée\"",
     "nombre_de_salaries": "\"La structure est active.\"",
     "secteur_geographique_dintervention": "\"Association\"",
-    "description_complete": "\"21-50\"",
+    "descr_long": "\"21-50\"",
     "site_internet": "\"21-50\"",
     "numero_de_telephone": "\"5-10\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"Nantes et les environs\"",
@@ -90,7 +90,7 @@
     "nom_": "\"La Ressourcerie de l'île\""
 }, {
     "activites_": "\"Récupère les déchets du bâtiment\"",
-    "breve_description_": "\"Société de conseil en économie circulaire et réemploi à Nantes",
+    "descr": "\"Société de conseil en économie circulaire et réemploi à Nantes",
     "objets_ou_materiaux_concernes_": " dans le domaine de la construction",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " rénovation et aménagement.\"",
     "statut_juridique_": "\"déchets du bâtiment\"",
@@ -98,7 +98,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"Entreprise \"",
     "nombre_de_salaries": "\"\"",
     "secteur_geographique_dintervention": "\"0\"",
-    "description_complete": "\"1-2\"",
+    "descr_long": "\"1-2\"",
     "site_internet": "\"Nantes et les environs\"",
     "numero_de_telephone": "\"Accompagne les acteurs du bâtiment",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " exploitants et occupants",
@@ -135,7 +135,7 @@
     "nom_": "\"La belle ère\""
 }, {
     "activites_": "\"Atelier de couture de tissus récupérés\"",
-    "breve_description_": "\"Couture éthique\"",
+    "descr": "\"Couture éthique\"",
     "objets_ou_materiaux_concernes_": "\"sacs en tissu;tissus et vêtements\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"La structure est active.\"",
     "statut_juridique_": "\"Association\"",
@@ -143,7 +143,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"0\"",
     "nombre_de_salaries": "\"1-2\"",
     "secteur_geographique_dintervention": "\"\"",
-    "description_complete": "\"- Animation textile ( recyclage",
+    "descr_long": "\"- Animation textile ( recyclage",
     "site_internet": " teinture naturelle",
     "numero_de_telephone": " accessoires de maison",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " ameublement...)\\n- Cours de couture et retouches atelier solidaire pour l'accès à la dignité vestimentaire (possibilité d'acquérir les techniques pour se confectionner ou réparer simplement ses vêtements et accessoires)\\n - Découverte / sensibilisation / valorisation de la nature et de ses bienfaits. Développement de la créativité par des balades photographiques. \\n- Rencontre intergénérationnelle ayant pour but la transmission de l'artisanat. Tricot",
@@ -180,7 +180,7 @@
     "nom_": "\"Kiem &amp; co\""
 }, {
     "activites_": "\"Accompagnement des professionnels sur la réduction des déchets dus à leurs métiers;Promotion des contenants réutilisables auprès des commerçants\"",
-    "breve_description_": "\"Une initiative citoyenne",
+    "descr": "\"Une initiative citoyenne",
     "objets_ou_materiaux_concernes_": " reconnue qui mobilise une communauté de citoyens et de commerçants pour engager de plus en plus de personnes dans une consommation zéro déchet.\\nRejoindre la communauté",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " c’est s’engager dans une démarche de réduction des emballages du quotidien en offrant la possibilité aux clients d’apporter leurs propres contenants.\"",
     "statut_juridique_": "\"bouteilles de verre;papier et cartonnette;sacs en tissu\"",
@@ -188,7 +188,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"Association\"",
     "nombre_de_salaries": "\"1-10\"",
     "secteur_geographique_dintervention": "\"0\"",
-    "description_complete": "\"0\"",
+    "descr_long": "\"0\"",
     "site_internet": "\"Loire- Atlantique\"",
     "numero_de_telephone": "\"L’association J’aime tes bocaux et tes sacs aussi",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " est une initiative citoyenne inspirante qui mobilise une communauté de citoyens et de commerçants ayant pour objet d’engager de plus en plus de personnes dans la réduction des déchets du quotidien.  \\nSa mission est de promouvoir et d’accompagner l’utilisation des contenants réutilisables dans le commerce alimentaire (de proximité)",
@@ -225,7 +225,7 @@
     "nom_": "\"J'aime tes bocaux et tes sacs aussi\""
 }, {
     "activites_": "\"Information sur la réduction des déchets à la source (hors stand);Plateforme d'échange de matériaux ou d'objets entre professionnels\"",
-    "breve_description_": "\"Plateforme de l'économie collaborative et circulaire de l'artisanat du bâtiment.\\nWeb-magazine pédagogique pour les acteurs du bâtiment\\nEntrepôt de stockage de matériaux neuf et réemploi\"",
+    "descr": "\"Plateforme de l'économie collaborative et circulaire de l'artisanat du bâtiment.\\nWeb-magazine pédagogique pour les acteurs du bâtiment\\nEntrepôt de stockage de matériaux neuf et réemploi\"",
     "objets_ou_materiaux_concernes_": "\"bois (hors meubles);déchets du bâtiment\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"La structure est active.\"",
     "statut_juridique_": "\"Entreprise \"",
@@ -233,7 +233,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"plus de 50\"",
     "nombre_de_salaries": "\"1-2\"",
     "secteur_geographique_dintervention": "\"de la Région nantaise à la presqu'ile guérandaise\"",
-    "description_complete": "\"Articonnex est une plateforme de services créée par des artisans pour les artisans.\\nSon objectif est de développer la coopération et les échanges entre artisans tout en favorisant les économies et la réduction des déchets.\\nAfin de détourner de la benne aux matériaux encore utilisable",
+    "descr_long": "\"Articonnex est une plateforme de services créée par des artisans pour les artisans.\\nSon objectif est de développer la coopération et les échanges entre artisans tout en favorisant les économies et la réduction des déchets.\\nAfin de détourner de la benne aux matériaux encore utilisable",
     "site_internet": " Articonnex produit des articles et cas concrets sur le réemploi et la gestion de bon sens des entreprises artisanales via le web-magazine magazine.articonnex.com\\nEnfin pour accompagner les acteurs du bâtiment",
     "numero_de_telephone": " Articonnex a ouvert un premier entrepôt test de récupération et stockage des matériaux à la place des artisans (gain de temps et d'espace pour eux).\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"https://www.articonnex.com/",
@@ -270,7 +270,7 @@
     "nom_": "\"Articonnex\""
 }, {
     "activites_": "\"Récupération des livres en bon état\"",
-    "breve_description_": "\"site internet de vente de livres d’occasion original qui créé un lien solidaire entre ses clients et les populations défavorisées.\"",
+    "descr": "\"site internet de vente de livres d’occasion original qui créé un lien solidaire entre ses clients et les populations défavorisées.\"",
     "objets_ou_materiaux_concernes_": "\"livres\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"La structure est active.\"",
     "statut_juridique_": "\"Entreprise à mission d'intérêt général\"",
@@ -278,7 +278,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"0\"",
     "nombre_de_salaries": "\"10-25\"",
     "secteur_geographique_dintervention": "\"Antenne nantaise récupère sur Nantes et les environ; revente partout via le site internet\"",
-    "description_complete": "\"Nous collectons vos livres gratuitement à domicile. Les livres sont ensuite vendus sur internet et 10% sont reversés à des associations œuvrant pour la culture ou l'environnement ! \"",
+    "descr_long": "\"Nous collectons vos livres gratuitement à domicile. Les livres sont ensuite vendus sur internet et 10% sont reversés à des associations œuvrant pour la culture ou l'environnement ! \"",
     "site_internet": "\"http://www.RecycLivre.com",
     "numero_de_telephone": "\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"+33 (0)2 85 52 45 19;\"",
@@ -315,7 +315,7 @@
     "nom_": "\"RecycLivre\""
 }, {
     "activites_": "\"Ateliers produits zéro \"\"déchet\"\";Organise des collectes citoyenne de déchets;Organise des espaces de gratuité (inclus boîtes à don et boîtes à livres);Organise ou tient des conférences;Propose ou loue de la vaisselle non jetable;Récupére des objets usagés",
-    "breve_description_": " les vérifie/nettoie et les revends;Stand sensibilisation réduction \"\"déchets\"\";Vente de produits d'occasion\"",
+    "descr": " les vérifie/nettoie et les revends;Stand sensibilisation réduction \"\"déchets\"\";Vente de produits d'occasion\"",
     "objets_ou_materiaux_concernes_": "\"Sensibilisation à la réduction des déchets et Recyclerie conviviale et éco-citoyenne (La Chapelle Sur Erdre)\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"__toutes les matières habituelles d'un particulier\"",
     "statut_juridique_": "\"La structure est active.\"",
@@ -323,7 +323,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"21-50\"",
     "nombre_de_salaries": "\"0\"",
     "secteur_geographique_dintervention": "\"0\"",
-    "description_complete": "\"La Chapelle Sur Erdre\"",
+    "descr_long": "\"La Chapelle Sur Erdre\"",
     "site_internet": "\"Depuis sa création en 2016",
     "numero_de_telephone": " le TransiStore mène des actions en faveur d'une consommation plus responsable. \\nPour préserver les ressources de la planète et offrir une alternative aux objets neufs",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " l'association propose  divers leviers : \\n- des ateliers « faire soi-même »: produits ménagers",
@@ -360,7 +360,7 @@
     "nom_": "\"Le TransiStore\""
 }, {
     "activites_": "\"Éditeur de magazine papier ou vidéo\"",
-    "breve_description_": "\"Inspirer le changement positif",
+    "descr": "\"Inspirer le changement positif",
     "objets_ou_materiaux_concernes_": " et des habitudes de consommation plus respectueuses et éthiques par la valorisation des initiatives positives",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " notamment en Région Pays de la Loire.\\n\\nEnsemble le Mag est un magazine mensuel diffusé sur Télénantes",
     "statut_juridique_": " Youtube et les réseaux sociaux.\"",
@@ -368,7 +368,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"La structure est active.\"",
     "nombre_de_salaries": "\"Entreprise \"",
     "secteur_geographique_dintervention": "\"\"",
-    "description_complete": "\"0\"",
+    "descr_long": "\"0\"",
     "site_internet": "\"1-2\"",
     "numero_de_telephone": "\"Nantes et les environs",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " et Région Pays de la Loire\"",
@@ -405,7 +405,7 @@
     "nom_": "\"ENSEMBLE Le Mag des Eco-solutions\""
 }, {
     "activites_": "\"Créateur d'objets du mode de vie zéro déchet (cosmétiques",
-    "breve_description_": " lingettes",
+    "descr": " lingettes",
     "objets_ou_materiaux_concernes_": " couches....)\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"Créations d'accessoires zéro déchet... et mille et un autres projets coutures\"",
     "statut_juridique_": "\"sacs en tissu;tissus et vêtements\"",
@@ -413,7 +413,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"Entreprise \"",
     "nombre_de_salaries": "\"1-10\"",
     "secteur_geographique_dintervention": "\"1-2\"",
-    "description_complete": "\"0\"",
+    "descr_long": "\"0\"",
     "site_internet": "\"Nantes et les environs\"",
     "numero_de_telephone": "\"Camzel vous aide à avancer dans votre démarche vers le zéro déchet que vous soyez novice ou expert.\\n \\nEntreprise nantaise déclarée",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " Camzel confectionne des accessoires textiles",
@@ -450,7 +450,7 @@
     "nom_": "\"Camzel\""
 }, {
     "activites_": "\"Stand sensibilisation réduction \"\"déchets\"\"\"",
-    "breve_description_": "\"Organisation de rencontres et d'événements autour des modes de vie durables et responsables : zéro déchet",
+    "descr": "\"Organisation de rencontres et d'événements autour des modes de vie durables et responsables : zéro déchet",
     "objets_ou_materiaux_concernes_": " circuits courts...\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"__toutes les matières habituelles d'un particulier\"",
     "statut_juridique_": "\"L'activité de la structure est en SOMMEIL.\"",
@@ -458,7 +458,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"1-10\"",
     "nombre_de_salaries": "\"0\"",
     "secteur_geographique_dintervention": "\"0\"",
-    "description_complete": "\"communes de l'Ouest de Nantes tel que Couëron",
+    "descr_long": "\"communes de l'Ouest de Nantes tel que Couëron",
     "site_internet": " Indre",
     "numero_de_telephone": " Saint Etienne de Montluc etc\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"\"",
@@ -495,7 +495,7 @@
     "nom_": "\"Collectif Idée Vertes\""
 }, {
     "activites_": "\"Ateliers produits zéro \"\"déchet\"\"\"",
-    "breve_description_": "\"Ateliers pour apprendre à fabriquer vos cosmétiques maison (crème",
+    "descr": "\"Ateliers pour apprendre à fabriquer vos cosmétiques maison (crème",
     "objets_ou_materiaux_concernes_": " shampoing",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " savons...) Ateliers aromatherapie et zéro déchet sur la région nantaise.\"",
     "statut_juridique_": "\"produits cosmétiques\"",
@@ -503,7 +503,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"Entreprise \"",
     "nombre_de_salaries": "\"\"",
     "secteur_geographique_dintervention": "\"0\"",
-    "description_complete": "\"1-2\"",
+    "descr_long": "\"1-2\"",
     "site_internet": "\"Nantes et les environs.\"",
     "numero_de_telephone": "\"Des ateliers cosmétiques ludiques",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " créatifs",
@@ -540,7 +540,7 @@
     "nom_": "\"Aurélie au naturel\""
 }, {
     "activites_": "\"Accompagnement des professionnels sur la réduction des déchets dus à leurs métiers;Formations (zéro déchet ou économie circulaire",
-    "breve_description_": " transition énergétique...);Prête ou loue des biens au lieu de les posséder;Stand de conseil sur le recyclage;Stand sensibilisation réduction \"\"déchets\"\";Tri des déchets sur événements\"",
+    "descr": " transition énergétique...);Prête ou loue des biens au lieu de les posséder;Stand de conseil sur le recyclage;Stand sensibilisation réduction \"\"déchets\"\";Tri des déchets sur événements\"",
     "objets_ou_materiaux_concernes_": "\" Depuis 2003",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " Les Connexions accompagnent les organisateurs dans leur démarche de réduction et de recyclage des déchets ...\"",
     "statut_juridique_": "\"__toutes les matières habituelles d'un particulier;_toutes les matières d'une entreprise non spécialisée;déchets du bâtiment\"",
@@ -548,7 +548,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"Association\"",
     "nombre_de_salaries": "\"plus de 100\"",
     "secteur_geographique_dintervention": "\"11-20\"",
-    "description_complete": "\"10-25\"",
+    "descr_long": "\"10-25\"",
     "site_internet": "\"France métropolitaine - DOM-TOM - Benelux\"",
     "numero_de_telephone": "\"L’association ‘Les Connexions’ travaille à l’amélioration du recyclage des déchets des ménages français grâce au montage d’actions opérationnelles de gestion des déchets par le tri sélectif sur évènementiel.\\n\\nDe la réalisation d’audits",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " en passant par des ateliers de sensibilisation et d’éducation au recyclage",
@@ -585,7 +585,7 @@
     "nom_": "\"Les Connexions\""
 }, {
     "activites_": "\"Accompagnement des professionnels sur la réduction des déchets dus à leurs métiers;Ateliers produits zéro \"\"déchet\"\";Blog (ou chaîne utube) sur le zéro déchet;Box cadeau zéro déchet;Organise ou tient des conférences;Vente de produits zéro déchet\"",
-    "breve_description_": "\"Les Nanas Zéro Déchet vous accompagnent vers le mode de vie zéro déchet grâce une box tous les 2 mois. Lucie",
+    "descr": "\"Les Nanas Zéro Déchet vous accompagnent vers le mode de vie zéro déchet grâce une box tous les 2 mois. Lucie",
     "objets_ou_materiaux_concernes_": " la fondatrice accompagnent aussi les entreprises avec conférences",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " ateliers",
     "statut_juridique_": " audit pour les aider à réduire leurs déchets. \"",
@@ -593,7 +593,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"La structure est active.\"",
     "nombre_de_salaries": "\"Entreprise \"",
     "secteur_geographique_dintervention": "\"11-20\"",
-    "description_complete": "\"0\"",
+    "descr_long": "\"0\"",
     "site_internet": "\"0\"",
     "numero_de_telephone": "\"Produit sélectionnés depuis la région nantaise",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " vendus partout (France)\"",
@@ -630,7 +630,7 @@
     "nom_": "\"Les Nanas Zéro Déchet\""
 }, {
     "activites_": "\"Blog (ou chaîne utube) sur le zéro déchet;Créateur d'objets du mode de vie zéro déchet (cosmétiques",
-    "breve_description_": " lingettes",
+    "descr": " lingettes",
     "objets_ou_materiaux_concernes_": " couches....);Fabrication de produits zéro déchet;Vente de produits zéro déchet\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"L'atelier de Léa vous propose de nombreux produits zéro déchet et bien-être 100% fait mai",
     "statut_juridique_": " en France",
@@ -638,7 +638,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": " des éponges lavables en tissus",
     "nombre_de_salaries": " des sacs à vrac",
     "secteur_geographique_dintervention": " des coussins de relaxation pour les yeux ! \"",
-    "description_complete": "\"sacs en tissu;tissus et vêtements\"",
+    "descr_long": "\"sacs en tissu;tissus et vêtements\"",
     "site_internet": "\"La structure est active.\"",
     "numero_de_telephone": "\"Entreprise \"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"1-10\"",
@@ -675,7 +675,7 @@
     "nom_": "\"L’atelier de Léa\""
 }, {
     "activites_": "\"Ateliers produits zéro \"\"déchet\"\";Vente de produits en vrac;Vente de produits zéro déchet\"",
-    "breve_description_": "\"Drive d'épicerie Vrac à Saint Herblain dans des contenants consignés",
+    "descr": "\"Drive d'épicerie Vrac à Saint Herblain dans des contenants consignés",
     "objets_ou_materiaux_concernes_": " favorisant le local",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " le bio et le zéro déchet. Livraison en entreprise. Lieu d'échange et de partage (ateliers",
     "statut_juridique_": " conférences",
@@ -683,7 +683,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"bocaux;sacs en tissu\"",
     "nombre_de_salaries": "\"La structure est active.\"",
     "secteur_geographique_dintervention": "\"Entreprise \"",
-    "description_complete": "\"1-10\"",
+    "descr_long": "\"1-10\"",
     "site_internet": "\"1-2\"",
     "numero_de_telephone": "\"1-2\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"Saint-herblain / Coüeron / Sautron / Nantes Ouest / Vigneux de bretagne / Orvault\"",
@@ -720,7 +720,7 @@
     "nom_": "\"La Fabrik A Vrac\""
 }, {
     "activites_": "\"Accompagnement des professionnels sur la réduction des déchets dus à leurs métiers;Collecte globale (5 flux) des \"\"déchets\"\" en entreprise;Sensibilisation au gaspillage alimentaire;Solutions de récupération des matières organiques (compostage...)\"",
-    "breve_description_": "\" La collecte des déchets organiques en vélo",
+    "descr": "\" La collecte des déchets organiques en vélo",
     "objets_ou_materiaux_concernes_": " pour un compostage local !\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"déchets organiques riches (restes alimentaires...)\"",
     "statut_juridique_": "\"La structure est active.\"",
@@ -728,7 +728,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"51-100\"",
     "nombre_de_salaries": "\"plus de 50\"",
     "secteur_geographique_dintervention": "\"5-10\"",
-    "description_complete": "\"Nantes\"",
+    "descr_long": "\"Nantes\"",
     "site_internet": "\"La Tricyclerie vise à répondre à cet enjeu clé du territoire: la gestion et la valorisation écologique des biodéchets en zone urbaine et l’impulsion des mobilités douces comme logistique urbaine de territoire. Nous collectons à vélo-remorques les déchets organiques des professionnels (restaurants et bureaux) et particuliers dans le but de les valoriser localement.\\n\\nNous travaillons parallèlement à l’éducation à la réduction des déchets et au compostage tant pour les scolaires que pour les adultes",
     "numero_de_telephone": " à travers différents formats d’animation.\\n\\nActions principales :\\n    Travail de terrain: Collecte à vélo auprès des restaurants et bureaux de leurs déchets organiques et valorisation écologique locale (compost). Distribution de la matière produite pour les jardins",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " écoles et agriculteurs intéressés.\\n    Animations et activités de sensibilisation sur la réduction des déchets.\\n    Conseil et accompagnement de porteurs de projets et villes intéressés par dupliquer le processus.\"",
@@ -765,7 +765,7 @@
     "nom_": "\"La Tricyclerie\""
 }, {
     "activites_": "\"Collecte des meubles des professionnels;Collecte globale (5 flux) des \"\"déchets\"\" en entreprise;Collecte le bois (hors meubles);Recyclage de tissu/vêtement (hors atelier couture);Recyclage des ordinateurs / téléphones portables\"",
-    "breve_description_": "\" Solution Recyclage propose aux entreprises des services innovants leur permettant de recycler une très grande variété de déchets.\"",
+    "descr": "\" Solution Recyclage propose aux entreprises des services innovants leur permettant de recycler une très grande variété de déchets.\"",
     "objets_ou_materiaux_concernes_": "\"\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"La structure est active.\"",
     "statut_juridique_": "\"Entreprise \"",
@@ -773,7 +773,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"0\"",
     "nombre_de_salaries": "\"10-25\"",
     "secteur_geographique_dintervention": "\"\"",
-    "description_complete": "\"\\nNous sommes convaincus que le tri ne peut fonctionner que s’il est basé sur des méthodes simples qui favorisent l’adhésion des salariés. C’est pourquoi",
+    "descr_long": "\"\\nNous sommes convaincus que le tri ne peut fonctionner que s’il est basé sur des méthodes simples qui favorisent l’adhésion des salariés. C’est pourquoi",
     "site_internet": " nous concevons nos services sur-mesure pour apporter à nos clients le meilleur confort dans le fonctionnement du tri.\\n\\nNous garantissons enfin une traçabilité des déchets que nous collectons",
     "numero_de_telephone": " ce qui permet à nos clients de communiquer vers leurs salariés pour donner du sens à leur action",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " mais aussi de se mettre en conformité avec les normes qui leur sont imposées.\"",
@@ -810,7 +810,7 @@
     "nom_": "\"Solution Recyclage\""
 }, {
     "activites_": "\"Ateliers produits zéro \"\"déchet\"\";Vente de produits en vrac;Vente de produits zéro déchet\"",
-    "breve_description_": "\"Marché bio",
+    "descr": "\"Marché bio",
     "objets_ou_materiaux_concernes_": " sans emballage",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " en circuit court à Rezé Pont Rousseau",
     "statut_juridique_": " à quelques minutes de l'arrêt de tram Pirmil",
@@ -818,7 +818,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": " fruits et légumes",
     "nombre_de_salaries": " crèmerie",
     "secteur_geographique_dintervention": " ménager",
-    "description_complete": " cosmétique",
+    "descr_long": " cosmétique",
     "site_internet": " accessoires...). \"",
     "numero_de_telephone": "\"bocaux\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"La structure est active.\"",
@@ -855,7 +855,7 @@
     "nom_": "\"Colégram\""
 }, {
     "activites_": "\"Accompagnement des professionnels sur la réduction des déchets dus à leurs métiers;Atelier sur compostage ou lombricompostage;Ateliers produits zéro \"\"déchet\"\";Blog (ou chaîne utube) sur le zéro déchet;Gestion et/ou développement de contenants consignés;Information sur la réduction des déchets à la source (hors stand);Information sur le recyclage (hors stand);Organise des collectes citoyenne de déchets;Sensibilisation au gaspillage alimentaire;Solutions de récupération des matières organiques (compostage...)\"",
-    "breve_description_": "\"Ouivalo anime un réseau de points relais compost en magasin et entreprise pour les citoyens. En route pour le retour à la terre des épluchures.\"",
+    "descr": "\"Ouivalo anime un réseau de points relais compost en magasin et entreprise pour les citoyens. En route pour le retour à la terre des épluchures.\"",
     "objets_ou_materiaux_concernes_": "\"déchets organiques riches (restes alimentaires...)\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"La structure est active.\"",
     "statut_juridique_": "\"Entreprise à mission d'intérêt général\"",
@@ -863,7 +863,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"0\"",
     "nombre_de_salaries": "\"2-5\"",
     "secteur_geographique_dintervention": "\"Retrouvez des points relais compost actifs sur Nantes. Possibilité de se pré-inscrire pour activer le tri sur le plan nationnal.\"",
-    "description_complete": "\"\"",
+    "descr_long": "\"\"",
     "site_internet": "\"https://ouivalo.fr/",
     "numero_de_telephone": "\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"07 49 02 85 36\"",
@@ -900,7 +900,7 @@
     "nom_": "\"Ouivalo\""
 }, {
     "activites_": "\"Ateliers produits zéro \"\"déchet\"\";Créateur d'objets du mode de vie zéro déchet (cosmétiques",
-    "breve_description_": " lingettes",
+    "descr": " lingettes",
     "objets_ou_materiaux_concernes_": " couches....)\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"Le Grimoire de Sandrine vous propose des ateliers pour apprendre à réaliser vos cosmétiques au naturel et bio",
     "statut_juridique_": " respectueux de votre peau",
@@ -908,7 +908,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"produits cosmétiques\"",
     "nombre_de_salaries": "\"La structure est active.\"",
     "secteur_geographique_dintervention": "\"Entreprise \"",
-    "description_complete": "\"1-10\"",
+    "descr_long": "\"1-10\"",
     "site_internet": "\"0\"",
     "numero_de_telephone": "\"1-2\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"\"",
@@ -945,7 +945,7 @@
     "nom_": "\"Le Grimoire de Sandrine\""
 }, {
     "activites_": "\"Ateliers produits zéro \"\"déchet\"\";Blog (ou chaîne utube) sur le zéro déchet\"",
-    "breve_description_": "\"Ateliers de Cosmétique",
+    "descr": "\"Ateliers de Cosmétique",
     "objets_ou_materiaux_concernes_": " Savons &amp; Produits ménagers « faits maison » à Nantes\\n\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"__toutes les matières habituelles d'un particulier\"",
     "statut_juridique_": "\"La structure est active.\"",
@@ -953,7 +953,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"1-10\"",
     "nombre_de_salaries": "\"0\"",
     "secteur_geographique_dintervention": "\"1-2\"",
-    "description_complete": "\"\"",
+    "descr_long": "\"\"",
     "site_internet": "\"\"",
     "numero_de_telephone": "\"https://lesformulesdeleslie.fr/",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"",
@@ -990,7 +990,7 @@
     "nom_": "\"Les formules de Leslie\""
 }, {
     "activites_": "\"Box cadeau zéro déchet;Créations artisanales autour de matériaux réemployés (upcycling);Formations (zéro déchet ou économie circulaire",
-    "breve_description_": " transition énergétique...)\"",
+    "descr": " transition énergétique...)\"",
     "objets_ou_materiaux_concernes_": "\"La boutique en ligne dédiée à l'Upcycling et à ses créateurs.\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"\"",
     "statut_juridique_": "\"La structure est active.\"",
@@ -998,7 +998,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"1-10\"",
     "nombre_de_salaries": "\"0\"",
     "secteur_geographique_dintervention": "\"1-2\"",
-    "description_complete": "\"\"",
+    "descr_long": "\"\"",
     "site_internet": "\"Pirouette est la première boutique en ligne dédiée à l’upcycling\\nL’Upcycling c’est valoriser les matériaux réemployés par la création artisanale",
     "numero_de_telephone": " rendre beau",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " utile et durable ce que nous jetons.\"",
@@ -1035,7 +1035,7 @@
     "nom_": "\"PIROUETTE!\""
 }, {
     "activites_": "\"Créateur d'objets du mode de vie zéro déchet (cosmétiques",
-    "breve_description_": " lingettes",
+    "descr": " lingettes",
     "objets_ou_materiaux_concernes_": " couches....);Fabrication de produits zéro déchet;Vente de produits zéro déchet\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"Création et vente de contenants réutilisables",
     "statut_juridique_": " d'accessoires de voyage",
@@ -1043,7 +1043,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"\"",
     "nombre_de_salaries": "\"La structure est active.\"",
     "secteur_geographique_dintervention": "\"Entreprise \"",
-    "description_complete": "\"1-10\"",
+    "descr_long": "\"1-10\"",
     "site_internet": "\"1-2\"",
     "numero_de_telephone": "\"0\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"clisson\"",
@@ -1080,7 +1080,7 @@
     "nom_": "\"2 rubans verts\""
 }, {
     "activites_": "\"Groupe de pression (manifestes",
-    "breve_description_": " pétitions",
+    "descr": " pétitions",
     "objets_ou_materiaux_concernes_": " alertes...);Organise des rencontres entre acteurs pros du zéro déchet\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"Citoyens",
     "statut_juridique_": " associations et entrepreneurs de la métropole nantaise",
@@ -1088,7 +1088,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": " 100% ressources\"\".\\nNous organisons une rencontre entre les pros du zéro déchet (ou porteurs de projet)",
     "nombre_de_salaries": " le 8 de chaque mois à la Galerie du Zéro Déchet et sur zoom.\"",
     "secteur_geographique_dintervention": "\"__toutes les matières habituelles d'un particulier;_toutes les matières d'une entreprise non spécialisée\"",
-    "description_complete": "\"La structure est active.\"",
+    "descr_long": "\"La structure est active.\"",
     "site_internet": "\"Collectif de citoyen\"",
     "numero_de_telephone": "\"1-10\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"21-50\"",
@@ -1125,7 +1125,7 @@
     "nom_": "\"Collectif Zéro Déchet = 100 % Ressources\""
 }, {
     "activites_": "\"Créations artisanales autour de matériaux réemployés (upcycling)\"",
-    "breve_description_": "\"Créatrice qui récupère vos vieux boutons et vos perles",
+    "descr": "\"Créatrice qui récupère vos vieux boutons et vos perles",
     "objets_ou_materiaux_concernes_": " en les transformant en bijoux. Vente sur stands et internet.\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"anciens bijoux;bouton;perle\"",
     "statut_juridique_": "\"La structure est active.\"",
@@ -1133,7 +1133,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"1-10\"",
     "nombre_de_salaries": "\"0\"",
     "secteur_geographique_dintervention": "\"0\"",
-    "description_complete": "\"\"",
+    "descr_long": "\"\"",
     "site_internet": "\"Qui n'a pas dans ses tiroirs des bijoux fantaisie cassé",
     "numero_de_telephone": " démodé que l'on ne souhaite plus porter !\\nBijoux Toune les démonte et les utilise pour ses créations.\\nJ’aime donner une deuxième vie à tous ces vieux boutons et ces perles.\\nEt c’est un geste  pour la planète !\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"http://bijoux-toune.jimdo.com",
@@ -1170,7 +1170,7 @@
     "nom_": "\"Bijoux Toune\""
 }, {
     "activites_": "\"Réalise des activités culturelles en lien avec le zéro déchet\"",
-    "breve_description_": "\"Lechapus // Orchestre Plastique\\nLechapus fabrique de la musique avec des déchets plastiques",
+    "descr": "\"Lechapus // Orchestre Plastique\\nLechapus fabrique de la musique avec des déchets plastiques",
     "objets_ou_materiaux_concernes_": " il fait chanter les produits vaisselles",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " swinguer les sachets d'Emmental et les yaourts Reine des Neiges... L'idée étant d'exorciser par la musique et la danse notre gabegie plastique.\"",
     "statut_juridique_": "\"__toutes les matières habituelles d'un particulier;bouchons en plastique;déchets du bâtiment;futs de bière;vaisselle jetable\"",
@@ -1178,7 +1178,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"Association\"",
     "nombre_de_salaries": "\"1-10\"",
     "secteur_geographique_dintervention": "\"0\"",
-    "description_complete": "\"1-2\"",
+    "descr_long": "\"1-2\"",
     "site_internet": "\"Pays de la Loire et plus\"",
     "numero_de_telephone": "\"Lechapus propose une performance musicale d'une heure et aussi une action culturelle auprès du jeune public. L'idée de cette action culturelle est d'aller de la récolte de déchets dans la poubelle",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " sur la plage",
@@ -1215,7 +1215,7 @@
     "nom_": "\"Lechapus\""
 }, {
     "activites_": "\"Collecte le bois (hors meubles);Échange de matières premières entre professionnels;Prête ou loue des biens au lieu de les posséder;Sensibilisation ou ateliers avec des scolaires\"",
-    "breve_description_": "\"Propose : un atelier partagé de 360 m2 dédié au travail du bois",
+    "descr": "\"Propose : un atelier partagé de 360 m2 dédié au travail du bois",
     "objets_ou_materiaux_concernes_": " où sont mutualisés outils",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " machines et compétences ; des ateliers d'initiation pour créer des objets en bois ; des cours techniques sur le travail du bois ; des chantiers participatifs. Promeut le réemploi du bois.\"",
     "statut_juridique_": "\"bois (hors meubles)\"",
@@ -1223,7 +1223,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"Association\"",
     "nombre_de_salaries": "\"plus de 100\"",
     "secteur_geographique_dintervention": "\"3-5\"",
-    "description_complete": "\"0\"",
+    "descr_long": "\"0\"",
     "site_internet": "\"Agglomération de Nantes\"",
     "numero_de_telephone": "\"Projet associatif : \\nCréée en 2017",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " Gueules de Bois est née du désir de transmettre les savoir-faire liés au travail du bois à travers des actions collectives et responsables et de pouvoir proposer un atelier partagé dédié au travail du bois sur la ville de Nantes. \\nEn 2019",
@@ -1260,7 +1260,7 @@
     "nom_": "\"Gueules de Bois\""
 }, {
     "activites_": "\"Tourisme en mode zéro déchet\"",
-    "breve_description_": "\"Conciergerie pour vos locations de vacances",
+    "descr": "\"Conciergerie pour vos locations de vacances",
     "objets_ou_materiaux_concernes_": " en mode zéro déchet.\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"__toutes les matières habituelles d'un particulier\"",
     "statut_juridique_": "\"La structure est active.\"",
@@ -1268,7 +1268,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"1-10\"",
     "nombre_de_salaries": "\"plus de 50\"",
     "secteur_geographique_dintervention": "\"2-5\"",
-    "description_complete": "\"Nantes",
+    "descr_long": "\"Nantes",
     "site_internet": " Nantes sud\"",
     "numero_de_telephone": "\"Kerbnb est une société de service à la personne engagée",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " qui a pour but d'aider les hôtes à accueillir au mieux les voyageurs. Tout est penser pour réduire ses déchets pendant son séjour\"",
@@ -1305,7 +1305,7 @@
     "nom_": "\"Kerbnb\""
 }, {
     "activites_": "\"Récupération articles puériculture",
-    "breve_description_": " jouets",
+    "descr": " jouets",
     "objets_ou_materiaux_concernes_": " livres ou vêtements enfants;Vente articles puériculture",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " jouets",
     "statut_juridique_": " livres ou vêtements enfants\"",
@@ -1313,7 +1313,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": " l'association LE PETIT LIEU est une recyclerie spécialisée petite enfance. Elle collecte et valorise vêtements (enfants 0-5 ans & femmes enceintes)",
     "nombre_de_salaries": " matériel de puériculture",
     "secteur_geographique_dintervention": " jouets/jeux",
-    "description_complete": " livres...puis les revend à bas prix ou les redistribue gratuitement à des associations aidant les familles en difficultés.\"",
+    "descr_long": " livres...puis les revend à bas prix ou les redistribue gratuitement à des associations aidant les familles en difficultés.\"",
     "site_internet": "\"articles puériculture (poussettes",
     "numero_de_telephone": " vêtements...);jouet;livres;tissus et vêtements\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"La structure est active.\"",
@@ -1350,7 +1350,7 @@
     "nom_": "\"Le Petit Lieu\""
 }, {
     "activites_": "\"Accompagnement d'écoles dans une démarche zéro déchet;Accompagnement des professionnels sur la réduction des déchets dus à leurs métiers;Blog (ou chaîne utube) sur le zéro déchet;Groupe de pression (manifestes",
-    "breve_description_": " pétitions",
+    "descr": " pétitions",
     "objets_ou_materiaux_concernes_": " alertes...);Information sur la réduction des déchets à la source (hors stand);Organise des collectes citoyenne de déchets;Sensibilisation ou ateliers avec des scolaires\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"Surfrider Foundation Europe est une association à but non lucratif",
     "statut_juridique_": " chargée de la protection et de la mise en valeur des lacs",
@@ -1358,7 +1358,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": " de l’océan",
     "nombre_de_salaries": " des vagues et du littoral. Elle regroupe à ce jour plus de 13 000 adhérents et intervient sur 11 pays via ses antennes bénévoles.\"",
     "secteur_geographique_dintervention": "\"__toutes les matières habituelles d'un particulier;_toutes les matières d'une entreprise non spécialisée;vaisselle jetable\"",
-    "description_complete": "\"La structure est active.\"",
+    "descr_long": "\"La structure est active.\"",
     "site_internet": "\"Association\"",
     "numero_de_telephone": "\"plus de 100\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"1-2\"",
@@ -1395,7 +1395,7 @@
     "nom_": "\"Surfrider Foundation Loire-Atlantique\""
 }, {
     "activites_": "\"Fabrication de produits zéro déchet\"",
-    "breve_description_": "\"Nous vendons",
+    "descr": "\"Nous vendons",
     "objets_ou_materiaux_concernes_": " louons et lavons des gobelets personnalisés. \"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"vaisselle jetable\"",
     "statut_juridique_": "\"La structure est active.\"",
@@ -1403,7 +1403,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"1-10\"",
     "nombre_de_salaries": "\"1-2\"",
     "secteur_geographique_dintervention": "\"5-10\"",
-    "description_complete": "\"Toute la France",
+    "descr_long": "\"Toute la France",
     "site_internet": " Lavage sur Rennes et Nantes\"",
     "numero_de_telephone": "\"Notre entreprise est spécialisée dans le gobelet réutilisable et personnalisé. Nous pouvons en fabriquer mais aussi en louer et laver des gobelets. Appelez nous ! Nous avons deux stations de lavage",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " une à Rennes et une à Saint Herblain\"",
@@ -1440,7 +1440,7 @@
     "nom_": "\"Esprit Planète\""
 }, {
     "activites_": "\"Créations artisanales autour de matériaux réemployés (upcycling);Groupe de pression (manifestes",
-    "breve_description_": " pétitions",
+    "descr": " pétitions",
     "objets_ou_materiaux_concernes_": " alertes...);Promotion des contenants réutilisables auprès des commerçants\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"Collectif lié au Collectif Citoyens Pour Le Climat. Conduites d'actions citoyennes en faveur de la suppression des emballages inutiles dans les supermarchés.\"",
     "statut_juridique_": "\"\"",
@@ -1448,7 +1448,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"Collectif de citoyen\"",
     "nombre_de_salaries": "\"1-10\"",
     "secteur_geographique_dintervention": "\"0\"",
-    "description_complete": "\"0\"",
+    "descr_long": "\"0\"",
     "site_internet": "\"Loire-Atlantique\"",
     "numero_de_telephone": "\"Le collectif est composé de citoyen·nes qui souhaitent s'impliquer dans une démarche de sensibilisation auprès des consommateur·ices de grandes surfaces",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " ainsi que ces dernières",
@@ -1485,7 +1485,7 @@
     "nom_": "\"Plastic Attack Nantes\""
 }, {
     "activites_": "\"Atelier sur compostage ou lombricompostage;Formations (zéro déchet ou économie circulaire",
-    "breve_description_": " transition énergétique...);Information sur la réduction des déchets à la source (hors stand);Sensibilisation ou ateliers avec des scolaires;Solutions de récupération des matières organiques (compostage...);Stand sensibilisation réduction \"\"déchets\"\"\"",
+    "descr": " transition énergétique...);Information sur la réduction des déchets à la source (hors stand);Sensibilisation ou ateliers avec des scolaires;Solutions de récupération des matières organiques (compostage...);Stand sensibilisation réduction \"\"déchets\"\"\"",
     "objets_ou_materiaux_concernes_": "\"Promotion du compostage en particulier le compostage partagé\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"déchets organiques riches (restes alimentaires...);déchets verts (pelouse;déchets verts (pelouse",
     "statut_juridique_": " taille de haie...)\"",
@@ -1493,7 +1493,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"Association\"",
     "nombre_de_salaries": "\"21-50\"",
     "secteur_geographique_dintervention": "\"plus de 50\"",
-    "description_complete": "\"5-10\"",
+    "descr_long": "\"5-10\"",
     "site_internet": "\"Nantes Métropole principalement",
     "numero_de_telephone": " interventions sur des territoires limitrophes\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"L'association créée en 2007",
@@ -1530,7 +1530,7 @@
     "nom_": "\"COMPOSTRI\""
 }, {
     "activites_": "\"Accompagnement d'écoles dans une démarche zéro déchet;Box cadeau zéro déchet;Créations artisanales autour de matériaux réemployés (upcycling);Formations (zéro déchet ou économie circulaire",
-    "breve_description_": " transition énergétique...);Organise ou tient des conférences;Sensibilisation ou ateliers avec des scolaires;Vente de produits zéro déchet\"",
+    "descr": " transition énergétique...);Organise ou tient des conférences;Sensibilisation ou ateliers avec des scolaires;Vente de produits zéro déchet\"",
     "objets_ou_materiaux_concernes_": "\"Animation d'ateliers à partir de récup'",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " pour les particuliers et les scolaires\"",
     "statut_juridique_": "\"__toutes les matières habituelles d'un particulier;anciens bijoux;bouchons en liège;bouchons en plastique;papier et cartonnette\"",
@@ -1538,7 +1538,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"Entreprise privée \"",
     "nombre_de_salaries": "\"1-10\"",
     "secteur_geographique_dintervention": "\"1-2\"",
-    "description_complete": "\"0\"",
+    "descr_long": "\"0\"",
     "site_internet": "\"Loire Atlantique\"",
     "numero_de_telephone": "\"Animation sur la gestion et la prévention des déchets dans les écoles\\nAnimation/formation meubles en carton auprès des particuliers et des groupes\\nAnimation d'ateliers créatifs à partir de récup'",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " surtout en lien avec l'énergétique\\nAnimation d'une conférence \"\"le réemploi et l'énergétique",
@@ -1575,7 +1575,7 @@
     "nom_": "\"La Cabane D'Elo\""
 }, {
     "activites_": "\"Créateur d'objets du mode de vie zéro déchet (cosmétiques",
-    "breve_description_": " lingettes",
+    "descr": " lingettes",
     "objets_ou_materiaux_concernes_": " couches....);Fabrication de produits zéro déchet;Vente de produits zéro déchet\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"Créations colorées de produits zéro déchet utile pour toute la famille et dans toute la maison.\\nTissus certifiés bio et/ou oeko tex standard 100\"",
     "statut_juridique_": "\"__toutes les matières habituelles d'un particulier\"",
@@ -1583,7 +1583,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"Entreprise privée \"",
     "nombre_de_salaries": "\"1-10\"",
     "secteur_geographique_dintervention": "\"0\"",
-    "description_complete": "\"0\"",
+    "descr_long": "\"0\"",
     "site_internet": "\"toute la France grâce au site internet\"",
     "numero_de_telephone": "\"Entreprise de créations zéro déchet et de vêtements évolutifs pour enfants de 0 à 12 ans.\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"https://lespetiteschosesdejulia.fr/",
@@ -1620,7 +1620,7 @@
     "nom_": "\"Les petites choses de Julia\""
 }, {
     "activites_": "\"Conseils ou gestions des couches lavables\"",
-    "breve_description_": "\"Solutions de location simple et location avec collecte et entretien de couches lavables pour familles",
+    "descr": "\"Solutions de location simple et location avec collecte et entretien de couches lavables pour familles",
     "objets_ou_materiaux_concernes_": " professionnels de la petite enfance et professionnels de santé. Informations",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " conseils et accompagnement à l'utilisation des couches lavables.\"",
     "statut_juridique_": "\"couches lavables\"",
@@ -1628,7 +1628,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"Association\"",
     "nombre_de_salaries": "\"21-50\"",
     "secteur_geographique_dintervention": "\"1-2\"",
-    "description_complete": "\"0\"",
+    "descr_long": "\"0\"",
     "site_internet": "\"Aire urbaine de Nantes\"",
     "numero_de_telephone": "\"Le but de l'association est de favoriser l'utilisation des couches lavables dans un but écologique et sanitaire. De sa naissance à sa propreté",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " un enfant va utiliser en moyenne entre 4000 et 5000 couches. En jetable",
@@ -1665,7 +1665,7 @@
     "nom_": "\"L'Atelier des Langes\""
 }, {
     "activites_": "\"Ateliers produits zéro \"\"déchet\"\";Créateur d'objets du mode de vie zéro déchet (cosmétiques",
-    "breve_description_": " lingettes",
+    "descr": " lingettes",
     "objets_ou_materiaux_concernes_": " couches....);Vente de produits zéro déchet\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"Créatrice d'articles zéro dechets",
     "statut_juridique_": " en tissu bio",
@@ -1673,7 +1673,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"couches lavables;tissus et vêtements\"",
     "nombre_de_salaries": "\"La structure est active.\"",
     "secteur_geographique_dintervention": "\"Entreprise privée \"",
-    "description_complete": "\"1-10\"",
+    "descr_long": "\"1-10\"",
     "site_internet": "\"1-2\"",
     "numero_de_telephone": "\"1-2\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"Corcoue sur logne\"",
@@ -1710,7 +1710,7 @@
     "nom_": "\"Manou pelote &amp; tissu\""
 }, {
     "activites_": "\"Réparation et revente\"",
-    "breve_description_": "\"Mon Repair'Shop est une conciergerie de la réparation d'équipements électriques et électroniques. Nous vendons également des appareils ainsi que des pièces détachées d'occasion.\"",
+    "descr": "\"Mon Repair'Shop est une conciergerie de la réparation d'équipements électriques et électroniques. Nous vendons également des appareils ainsi que des pièces détachées d'occasion.\"",
     "objets_ou_materiaux_concernes_": "\"appareils électriques ou électroniques\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"La structure est active.\"",
     "statut_juridique_": "\"Association\"",
@@ -1718,7 +1718,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"0\"",
     "nombre_de_salaries": "\"2-5\"",
     "secteur_geographique_dintervention": "\"Vignoble clissonnais et sud Nantes\"",
-    "description_complete": "\"Mon Repair'Shop est une conciergerie de la réparation d'équipements électriques et électroniques. Nous vendons également des appareils ainsi que des pièces détachées d'occasion.\"",
+    "descr_long": "\"Mon Repair'Shop est une conciergerie de la réparation d'équipements électriques et électroniques. Nous vendons également des appareils ainsi que des pièces détachées d'occasion.\"",
     "site_internet": "\"https://www.monrepairshop.fr/",
     "numero_de_telephone": "\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"\"",
@@ -1755,7 +1755,7 @@
     "nom_": "\"Mon Repair'Shop\""
 }, {
     "activites_": "\"Accompagnement d'écoles dans une démarche zéro déchet;Accompagnement des professionnels sur la réduction des déchets dus à leurs métiers;Formations (zéro déchet ou économie circulaire",
-    "breve_description_": " transition énergétique...);Information sur la réduction des déchets à la source (hors stand);Sensibilisation au gaspillage alimentaire;Tri des déchets sur événements\"",
+    "descr": " transition énergétique...);Information sur la réduction des déchets à la source (hors stand);Sensibilisation au gaspillage alimentaire;Tri des déchets sur événements\"",
     "objets_ou_materiaux_concernes_": "\"Le Réseau éco-événement (REEVE) est une association basée à Nantes et dont les actions s’étendent sur la région des Pays de la Loire. Son objectif est d’accompagner les acteurs de la filière événementiel dans la mise en place de démarches éco-responsables (formations",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " groupes de travail",
     "statut_juridique_": " label événement éco-engagé",
@@ -1763,7 +1763,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"__toutes les matières habituelles d'un particulier;_toutes les matières d'une entreprise non spécialisée;vaisselle jetable\"",
     "nombre_de_salaries": "\"La structure est active.\"",
     "secteur_geographique_dintervention": "\"Association\"",
-    "description_complete": "\"plus de 100\"",
+    "descr_long": "\"plus de 100\"",
     "site_internet": "\"plus de 50\"",
     "numero_de_telephone": "\"0\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"Pays de la Loire",
@@ -1800,7 +1800,7 @@
     "nom_": "\"Réseau éco-événement (REEVE)\""
 }, {
     "activites_": "\"Vente de produits zéro déchet\"",
-    "breve_description_": "\"Épicerie/Magasin bio à Nantes. Vente de produits en vrac : épicerie",
+    "descr": "\"Épicerie/Magasin bio à Nantes. Vente de produits en vrac : épicerie",
     "objets_ou_materiaux_concernes_": " fruits et légumes",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " droguerie écologique...\"",
     "statut_juridique_": "\"bocaux\"",
@@ -1808,7 +1808,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"Entreprise privée \"",
     "nombre_de_salaries": "\"\"",
     "secteur_geographique_dintervention": "\"0\"",
-    "description_complete": "\"5-10\"",
+    "descr_long": "\"5-10\"",
     "site_internet": "\"\"",
     "numero_de_telephone": "\"La Vie claire est une entreprise française de distribution spécialisée dans la vente de produits biologiques. \"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"\"",
@@ -1845,7 +1845,7 @@
     "nom_": "\"La Vie Claire Nantes\""
 }, {
     "activites_": "\"Accompagnement des professionnels sur la réduction des déchets dus à leurs métiers;Collecte des meubles des professionnels;Collecte des ordinateurs chez les professionnels;Collecte globale (5 flux) des \"\"déchets\"\" en entreprise;Information sur le recyclage (hors stand);Recyclage des ordinateurs / téléphones portables;Stand sensibilisation réduction \"\"déchets\"\";Vente de produits d'occasion\"",
-    "breve_description_": "\"Les Ateliers du Bocage est une entreprise d’insertion et entreprise adaptée",
+    "descr": "\"Les Ateliers du Bocage est une entreprise d’insertion et entreprise adaptée",
     "objets_ou_materiaux_concernes_": " membre du mouvement Emmaüs. Son expertise est reconnue sur plusieurs activités",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " notamment de tri et réemploi de téléphones",
     "statut_juridique_": " livres",
@@ -1853,7 +1853,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"bois (hors meubles);livres;mégot;meuble;ordinateurs\"",
     "nombre_de_salaries": "\"La structure est active.\"",
     "secteur_geographique_dintervention": "\"SCOP\"",
-    "description_complete": "\"plus de 100\"",
+    "descr_long": "\"plus de 100\"",
     "site_internet": "\"plus de 50\"",
     "numero_de_telephone": "\"plus\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"France entière\"",
@@ -1890,7 +1890,7 @@
     "nom_": "\"Ateliers du Bocage\""
 }, {
     "activites_": "\"Restauration zéro déchet\"",
-    "breve_description_": "\"Traiteur événementiel en livraison",
+    "descr": "\"Traiteur événementiel en livraison",
     "objets_ou_materiaux_concernes_": " spécialisé en cocktails . Installation en jolie vaisselle lavable. Zéro plastique\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"vaisselle jetable\"",
     "statut_juridique_": "\"La structure est active.\"",
@@ -1898,7 +1898,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"1-10\"",
     "nombre_de_salaries": "\"1-2\"",
     "secteur_geographique_dintervention": "\"0\"",
-    "description_complete": "\"Loire-Atlantique\"",
+    "descr_long": "\"Loire-Atlantique\"",
     "site_internet": "\"Traiteur événementiel en livraison",
     "numero_de_telephone": " spécialisé dans les cocktails apéritifs",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " déjeunatoires et dînatoires pour professionnels et particuliers. Cuisine 100% maison",
@@ -1935,7 +1935,7 @@
     "nom_": "\"L'AMUSE-BOUCHE\""
 }, {
     "activites_": "\"Atelier de couture de tissus récupérés;Vente de produits zéro déchet\"",
-    "breve_description_": "\"Confection artisanale d'articles Zéro Déchet à partir de tissus recyclés : Serviettes hygiéniques",
+    "descr": "\"Confection artisanale d'articles Zéro Déchet à partir de tissus recyclés : Serviettes hygiéniques",
     "objets_ou_materiaux_concernes_": " Protège-slip",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " Coussinets d'allaitement",
     "statut_juridique_": " Cotons démaquillants",
@@ -1943,7 +1943,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": " Sacs à pain",
     "nombre_de_salaries": " Essuie-tout",
     "secteur_geographique_dintervention": " Tawashi",
-    "description_complete": " Mouchoirs",
+    "descr_long": " Mouchoirs",
     "site_internet": " Serviettes de table",
     "numero_de_telephone": " ...\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"tissus et vêtements\"",
@@ -1980,7 +1980,7 @@
     "nom_": "\"Epilogue\""
 }, {
     "activites_": "\"Récupération de mégots;Tri des déchets sur événements\"",
-    "breve_description_": "\"MéGO! est un service de tri et de recyclage matière de mégots de cigarettes (filtres usagés)",
+    "descr": "\"MéGO! est un service de tri et de recyclage matière de mégots de cigarettes (filtres usagés)",
     "objets_ou_materiaux_concernes_": " solution unique en France.\\nL’objectif de ce service national est donc de récupérer les mégots de cigarettes au sein de vos locaux afin de les recycler.\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"mégot\"",
     "statut_juridique_": "\"La structure est active.\"",
@@ -1988,7 +1988,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"1-10\"",
     "nombre_de_salaries": "\"3-5\"",
     "secteur_geographique_dintervention": "\"5-10\"",
-    "description_complete": "\"France / Luxembourg / Belgique\"",
+    "descr_long": "\"France / Luxembourg / Belgique\"",
     "site_internet": "\"Collecte et revalorisation des mégots.\\nConception de mobilier à base de mégots\"",
     "numero_de_telephone": "\"https://encova.fr/",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"",
@@ -2025,7 +2025,7 @@
     "nom_": "\"MéGO! par Encova\""
 }, {
     "activites_": "\"Collecte des encombrants ou gestion déménagements;Information sur la réduction des déchets à la source (hors stand);Information sur le recyclage (hors stand);Organise des espaces de gratuité (inclus boîtes à don et boîtes à livres);Récupération articles puériculture",
-    "breve_description_": " jouets",
+    "descr": " jouets",
     "objets_ou_materiaux_concernes_": " livres ou vêtements enfants;Récupération des livres en bon état;Sensibilisation au gaspillage alimentaire;Solutions de récupération des matières organiques (compostage...);Stand sensibilisation réduction \"\"déchets\"\";Tri des déchets sur événements\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"Amélioration du cadre de vie des habitants du Grand Bellevue  en répondant de manière participative à la problématique des dépôts d’encombrants dans le parc de logements sociaux en favorisant le réemploi sur le quartier",
     "statut_juridique_": " le lien social et l’insertion socioprofessionnelle des habitants.\"",
@@ -2033,7 +2033,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": " vêtements...);déchets organiques riches (restes alimentaires...);déchets verts (pelouse;déchets verts (pelouse",
     "nombre_de_salaries": " taille de haie...);encombrant;jouet;livres;meuble\"",
     "secteur_geographique_dintervention": "\"La structure est active.\"",
-    "description_complete": "\"Association\"",
+    "descr_long": "\"Association\"",
     "site_internet": "\"21-50\"",
     "numero_de_telephone": "\"6-10\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"5-10\"",
@@ -2070,7 +2070,7 @@
     "nom_": "\"Environnements Solidaires\""
 }, {
     "activites_": "\"Restauration zéro déchet\"",
-    "breve_description_": "\"Traiteur végétal",
+    "descr": "\"Traiteur végétal",
     "objets_ou_materiaux_concernes_": " je vous propose une cuisine locale et de saison à partir de produits exclusivement biologiques.\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"bocaux;bouteilles de verre;déchets organiques riches (restes alimentaires...)\"",
     "statut_juridique_": "\"La structure est active.\"",
@@ -2078,7 +2078,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"1-10\"",
     "nombre_de_salaries": "\"0\"",
     "secteur_geographique_dintervention": "\"0\"",
-    "description_complete": "\"Nantes et plus largement Pays de La Loire et Morbihan\"",
+    "descr_long": "\"Nantes et plus largement Pays de La Loire et Morbihan\"",
     "site_internet": "\"Primesautier c'est une cuisine 100% végétale créative et gourmande pour tous vos événements",
     "numero_de_telephone": " personnels ou professionnels à Nantes et ses environs.\\nMon offre est basée sur des produits exclusivement biologiques",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " locaux au maximum et adaptés au rythme des saisons. Ma démarche se veut raisonnée et orientée vers le zéro déchet.  \\nJe n'utilise aucun contenant jetable mais de la jolie céramique réalisée par des artisans ; je travaille au maximum les produits et composte mes matières organiques ; j'ai une consommation raisonnée de l'eau et de l'énergie ; je suis adhérente Enercoop et je privilégie les boissons en bouteilles consignées. \\nJe serais ravie de vous faire découvrir ma cuisine et de vous montrer que traiteur peut très bien rimer avec consommation raisonnée ! \"",
@@ -2115,7 +2115,7 @@
     "nom_": "\"Primesautier\""
 }, {
     "activites_": "\"Atelier de couture de tissus récupérés;Ateliers produits zéro \"\"déchet\"\";Vente de produits en vrac;Vente de produits zéro déchet\"",
-    "breve_description_": "\"Epicerie vrac",
+    "descr": "\"Epicerie vrac",
     "objets_ou_materiaux_concernes_": " locale et bio. Organisation d'ateliers zéro déchet",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " couture",
     "statut_juridique_": " nathuro.\"",
@@ -2123,7 +2123,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"La structure est active.\"",
     "nombre_de_salaries": "\"Entreprise privée \"",
     "secteur_geographique_dintervention": "\"1-10\"",
-    "description_complete": "\"0\"",
+    "descr_long": "\"0\"",
     "site_internet": "\"0\"",
     "numero_de_telephone": "\"Couëron\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"\"",
@@ -2160,7 +2160,7 @@
     "nom_": "\"Le P'tit Poids\""
 }, {
     "activites_": "\"Vente de produits en vrac;Vente de produits zéro déchet\"",
-    "breve_description_": "\"Épicerie Vrac ambulante du Pays de Retz - présente sur des marchés communaux",
+    "descr": "\"Épicerie Vrac ambulante du Pays de Retz - présente sur des marchés communaux",
     "objets_ou_materiaux_concernes_": " chez des producteurs (Maraîchers et Paysans Boulanger) en vente direct et dans des AMAPS\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"\"",
     "statut_juridique_": "\"La structure est active.\"",
@@ -2168,7 +2168,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"1-10\"",
     "nombre_de_salaries": "\"1-2\"",
     "secteur_geographique_dintervention": "\"1-2\"",
-    "description_complete": "\"Pays de Retz\"",
+    "descr_long": "\"Pays de Retz\"",
     "site_internet": "\"Qui suis-je ?\\n Fille de viticulteur Bio",
     "numero_de_telephone": " passionnée de cuisine et de bons produits",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " je suis aussi adepte du \"\"fait mains\"\". \\n Avec mon conjoint",
@@ -2205,7 +2205,7 @@
     "nom_": "\"Vrac en Retz\""
 }, {
     "activites_": "\"Organise des espaces de gratuité (inclus boîtes à don et boîtes à livres)\"",
-    "breve_description_": "\"Le but de l’association est de proposer à tout public",
+    "descr": "\"Le but de l’association est de proposer à tout public",
     "objets_ou_materiaux_concernes_": " un lieu de dons entre personnes",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " sans transaction d’argent ou de monnaie alternative",
     "statut_juridique_": " ni échange",
@@ -2213,7 +2213,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"__toutes les matières habituelles d'un particulier;bocaux;jouet;ordinateurs;tissus et vêtements\"",
     "nombre_de_salaries": "\"La structure est active.\"",
     "secteur_geographique_dintervention": "\"Association\"",
-    "description_complete": "\"11-20\"",
+    "descr_long": "\"11-20\"",
     "site_internet": "\"3-5\"",
     "numero_de_telephone": "\"0\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"REZE\"",
@@ -2250,7 +2250,7 @@
     "nom_": "\"Alterboutik\""
 }, {
     "activites_": "\"Auto-réparation;Collecte des ordinateurs chez les professionnels;Formations (zéro déchet ou économie circulaire",
-    "breve_description_": " transition énergétique...);Information sur la réduction des déchets à la source (hors stand);Information sur le recyclage (hors stand);Recyclage des ordinateurs / téléphones portables;Sites informatique ou applications (hors blogs)\"",
+    "descr": " transition énergétique...);Information sur la réduction des déchets à la source (hors stand);Information sur le recyclage (hors stand);Recyclage des ordinateurs / téléphones portables;Sites informatique ou applications (hors blogs)\"",
     "objets_ou_materiaux_concernes_": "\"Récupération d'ordinateurs",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " reconditionnement sous Linux et redistribution aux adhérent·e·s.\"",
     "statut_juridique_": "\"ordinateurs\"",
@@ -2258,7 +2258,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"Association\"",
     "nombre_de_salaries": "\"plus de 100\"",
     "secteur_geographique_dintervention": "\"11-20\"",
-    "description_complete": "\"1-2\"",
+    "descr_long": "\"1-2\"",
     "site_internet": "\"Nantes Métropole\"",
     "numero_de_telephone": "\"L'association a pour but de :\\nFavoriser l'accès à l'informatique (précarité numérique",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " associations",
@@ -2295,7 +2295,7 @@
     "nom_": "\"Nâga\""
 }, {
     "activites_": "\"Récupération articles puériculture",
-    "breve_description_": " jouets",
+    "descr": " jouets",
     "objets_ou_materiaux_concernes_": " livres ou vêtements enfants\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"Recyclerie de jouets et inclusion sociale. \\nAssociation à but non lucratif",
     "statut_juridique_": " qui collecte et valorise des jeux et des jouets de seconde main",
@@ -2303,7 +2303,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": " tout en développant des actions de solidarité. \\nNantes & alentours. \"",
     "nombre_de_salaries": "\"articles puériculture (poussettes",
     "secteur_geographique_dintervention": " vêtements...);jouet;livres\"",
-    "description_complete": "\"La structure est active.\"",
+    "descr_long": "\"La structure est active.\"",
     "site_internet": "\"Association\"",
     "numero_de_telephone": "\"11-20\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"0\"",
@@ -2340,7 +2340,7 @@
     "nom_": "\"Bidules chouettes\""
 }, {
     "activites_": "\"Éditeur de magazine papier ou vidéo;Récupération des livres en bon état;Récupére des objets usagés",
-    "breve_description_": " les vérifie/nettoie et les revends;Recyclage de tissu/vêtement (hors atelier couture);Recyclage des articles de sport;Vente de produits d'occasion\"",
+    "descr": " les vérifie/nettoie et les revends;Recyclage de tissu/vêtement (hors atelier couture);Recyclage des articles de sport;Vente de produits d'occasion\"",
     "objets_ou_materiaux_concernes_": "\"recyclerie de quartier ",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " récupère des objets en bon état (vinyls",
     "statut_juridique_": " jeux",
@@ -2348,7 +2348,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": " vêtements)pour revente à petit prix.\"",
     "nombre_de_salaries": "\"anciens bijoux;jouet;livres;meuble;tissus et vêtements\"",
     "secteur_geographique_dintervention": "\"La structure est active.\"",
-    "description_complete": "\"Association\"",
+    "descr_long": "\"Association\"",
     "site_internet": "\"11-20\"",
     "numero_de_telephone": "\"0\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"2-5\"",
@@ -2385,7 +2385,7 @@
     "nom_": "\"la boite à récup\""
 }, {
     "activites_": "\"Accompagnement d'écoles dans une démarche zéro déchet;Information sur la réduction des déchets à la source (hors stand);Information sur le recyclage (hors stand);Sensibilisation au gaspillage alimentaire;Sensibilisation ou ateliers avec des scolaires;Solution contre gaspillage alimentaire;Stand de conseil sur le recyclage;Stand sensibilisation réduction \"\"déchets\"\"\"",
-    "breve_description_": "\"Ecopôle",
+    "descr": "\"Ecopôle",
     "objets_ou_materiaux_concernes_": " association labellisée CPIE Pays de Nantes",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " est un réseau d'associations",
     "statut_juridique_": " d'entreprises",
@@ -2393,7 +2393,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": " de particuliers... agissant pour l'environnement et le développement durable dans l'agglomération nantaise. Comme tête de réseau",
     "nombre_de_salaries": " Ecopôle constitue un espace local d'information",
     "secteur_geographique_dintervention": " d'échange",
-    "description_complete": " de médiation et de coopération.\"",
+    "descr_long": " de médiation et de coopération.\"",
     "site_internet": "\"__toutes les matières habituelles d'un particulier\"",
     "numero_de_telephone": "\"La structure est active.\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"Association\"",
@@ -2430,7 +2430,7 @@
     "nom_": "\"Ecopôle - CPIE Pays de Nantes\""
 }, {
     "activites_": "\"Vente de produits en vrac;Vente de produits zéro déchet\"",
-    "breve_description_": "\"Epicerie zéro déchet en quelques clics livrée en point de retrait ou à domicile sur Nantes et son agglomération.\\nTous les contenants sont consignés.\"",
+    "descr": "\"Epicerie zéro déchet en quelques clics livrée en point de retrait ou à domicile sur Nantes et son agglomération.\\nTous les contenants sont consignés.\"",
     "objets_ou_materiaux_concernes_": "\"\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"La structure est active.\"",
     "statut_juridique_": "\"Entreprise privée \"",
@@ -2438,7 +2438,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"3-5\"",
     "nombre_de_salaries": "\"2-5\"",
     "secteur_geographique_dintervention": "\"Nantes et agglomération\"",
-    "description_complete": "\"L'Atelier du bocal est une épicerie zéro déchet en ligne basé sur le principe de la consigne et du clic & collect. Le client fait sa commande en ligne puis choisi son lieu",
+    "descr_long": "\"L'Atelier du bocal est une épicerie zéro déchet en ligne basé sur le principe de la consigne et du clic & collect. Le client fait sa commande en ligne puis choisi son lieu",
     "site_internet": " date et créneau de retrait pour être livré au plus près de chez lui => Les courses zéro déchet clé en main!\"",
     "numero_de_telephone": "\"https://www.latelierdubocal.com/",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"",
@@ -2475,7 +2475,7 @@
     "nom_": "\"l'Atelier du Bocal\""
 }, {
     "activites_": "\"Créations artisanales autour de matériaux réemployés (upcycling)\"",
-    "breve_description_": "\"Détournement d'objets anciens en objets décoratifs : luminaires",
+    "descr": "\"Détournement d'objets anciens en objets décoratifs : luminaires",
     "objets_ou_materiaux_concernes_": " miroirs",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " patères",
     "statut_juridique_": " cache pots...\"",
@@ -2483,7 +2483,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"La structure est active.\"",
     "nombre_de_salaries": "\"Entreprise privée \"",
     "secteur_geographique_dintervention": "\"1-10\"",
-    "description_complete": "\"1-2\"",
+    "descr_long": "\"1-2\"",
     "site_internet": "\"0\"",
     "numero_de_telephone": "\"100km\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"Avec ses créations insolites",
@@ -2520,7 +2520,7 @@
     "nom_": "\"Julie Audureau\""
 }, {
     "activites_": "\"Atelier sur compostage ou lombricompostage;Ateliers produits zéro \"\"déchet\"\";Blog (ou chaîne utube) sur le zéro déchet;Formations (zéro déchet ou économie circulaire",
-    "breve_description_": " transition énergétique...);Organise des espaces de gratuité (inclus boîtes à don et boîtes à livres);Organise ou tient des conférences;Sensibilisation au gaspillage alimentaire;Sensibilisation ou ateliers avec des scolaires;Solution contre gaspillage alimentaire;Solutions de récupération des matières organiques (compostage...);Vente de produits zéro déchet\"",
+    "descr": " transition énergétique...);Organise des espaces de gratuité (inclus boîtes à don et boîtes à livres);Organise ou tient des conférences;Sensibilisation au gaspillage alimentaire;Sensibilisation ou ateliers avec des scolaires;Solution contre gaspillage alimentaire;Solutions de récupération des matières organiques (compostage...);Vente de produits zéro déchet\"",
     "objets_ou_materiaux_concernes_": "\"Défis citoyens zéro déchet - Lombricompostage formation",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " sensibilisation - Plateforme d'entre-aide pour le lombricompostage\"",
     "statut_juridique_": "\"cheveux;déchets organiques riches (restes alimentaires...);déchets verts (pelouse;déchets verts (pelouse",
@@ -2528,7 +2528,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"La structure est active.\"",
     "nombre_de_salaries": "\"Association\"",
     "secteur_geographique_dintervention": "\"plus de 100\"",
-    "description_complete": "\"0\"",
+    "descr_long": "\"0\"",
     "site_internet": "\"1-2\"",
     "numero_de_telephone": "\"Nantes Métropole",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " Départementn région - Blog : monde\"",
@@ -2565,7 +2565,7 @@
     "nom_": "\"Les Boîtes Vertes\""
 }, {
     "activites_": "\"Ateliers produits zéro \"\"déchet\"\";Blog (ou chaîne utube) sur le zéro déchet;Box cadeau zéro déchet;Conseils ou gestions des couches lavables;Créateur d'objets du mode de vie zéro déchet (cosmétiques",
-    "breve_description_": " lingettes",
+    "descr": " lingettes",
     "objets_ou_materiaux_concernes_": " couches....);Fabrication de produits zéro déchet;Organise ou tient des conférences;Vente de produits zéro déchet\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"1ère marque de vente à domicile d'articles et accessoires zéro déchet ! \"",
     "statut_juridique_": "\"__toutes les matières habituelles d'un particulier\"",
@@ -2573,7 +2573,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"Entreprise privée \"",
     "nombre_de_salaries": "\"11-20\"",
     "secteur_geographique_dintervention": "\"1-2\"",
-    "description_complete": "\"0\"",
+    "descr_long": "\"0\"",
     "site_internet": "\"PAYS DE LA LOIRE ET FRANCE\"",
     "numero_de_telephone": "\"Vente à domicile d'articles et accessoires zéro déchet. Un conseiller vous accompagne",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " lors d'un atelier à votre domicile",
@@ -2610,7 +2610,7 @@
     "nom_": "\"ICI LE BONHEUR EST FAIT MAISON\""
 }, {
     "activites_": "\"Gestion et/ou développement de contenants consignés\"",
-    "breve_description_": "\"Association qui vise à développer une filière régionale de réemploi des contenants (bouteilles en verre",
+    "descr": "\"Association qui vise à développer une filière régionale de réemploi des contenants (bouteilles en verre",
     "objets_ou_materiaux_concernes_": " fûts de bière",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " bocaux",
     "statut_juridique_": " ...)\"",
@@ -2618,7 +2618,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"La structure est active.\"",
     "nombre_de_salaries": "\"Association\"",
     "secteur_geographique_dintervention": "\"51-100\"",
-    "description_complete": "\"3-5\"",
+    "descr_long": "\"3-5\"",
     "site_internet": "\"2-5\"",
     "numero_de_telephone": "\"Région pays de la Loire et prochainement Bretagne\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"L'association Bout' à Bout' est née de la volonté de réduire l’impact environnemental de nos bouteilles en verre. Elle vise à développer une filière régionale de réemploi de ces contenants",
@@ -2655,7 +2655,7 @@
     "nom_": "\"Bout' à Bout'\""
 }, {
     "activites_": "\"Éditeur de magazine papier ou vidéo\"",
-    "breve_description_": "\"Le magazine Les Autres Possibles informe les citoyens sur les solutions durables et solidaires du territoire nantais",
+    "descr": "\"Le magazine Les Autres Possibles informe les citoyens sur les solutions durables et solidaires du territoire nantais",
     "objets_ou_materiaux_concernes_": " autour de différentes thématiques : déchets",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " récup",
     "statut_juridique_": " biodiversité",
@@ -2663,7 +2663,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"\"",
     "nombre_de_salaries": "\"La structure est active.\"",
     "secteur_geographique_dintervention": "\"Association\"",
-    "description_complete": "\"21-50\"",
+    "descr_long": "\"21-50\"",
     "site_internet": "\"0\"",
     "numero_de_telephone": "\"2-5\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"Nantes\"",
@@ -2700,7 +2700,7 @@
     "nom_": "\"Les Autres Possibles\""
 }, {
     "activites_": "\"Accompagnement d'écoles dans une démarche zéro déchet;Ateliers produits zéro \"\"déchet\"\";Blog (ou chaîne utube) sur le zéro déchet;Formations (zéro déchet ou économie circulaire",
-    "breve_description_": " transition énergétique...);Groupe de pression (manifestes",
+    "descr": " transition énergétique...);Groupe de pression (manifestes",
     "objets_ou_materiaux_concernes_": " pétitions",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " alertes...);Information sur la réduction des déchets à la source (hors stand);Information sur le recyclage (hors stand);Propose ou loue de la vaisselle non jetable;Sensibilisation au gaspillage alimentaire;Sensibilisation ou ateliers avec des scolaires;Stand sensibilisation réduction \"\"déchets\"\"\"",
     "statut_juridique_": "\"Association citoyenne à Nantes et alentours pour la réduction des déchets et une meilleure gestion des ressources. Nous sommes un groupe local et relai des campagnes de l'association Zero Waste France.\"",
@@ -2708,7 +2708,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"La structure est active.\"",
     "nombre_de_salaries": "\"Association\"",
     "secteur_geographique_dintervention": "\"21-50\"",
-    "description_complete": "\"0\"",
+    "descr_long": "\"0\"",
     "site_internet": "\"0\"",
     "numero_de_telephone": "\"Nantes Métropole et alentours\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"Nous avons divers projets en cours : le plaidoyer et les municipales",
@@ -2745,7 +2745,7 @@
     "nom_": "\"ZERO WASTE NANTES\""
 }, {
     "activites_": "\"Organise des collectes citoyenne de déchets;Sensibilisation ou ateliers avec des scolaires\"",
-    "breve_description_": "\"La Fédération des Amis de l’Erdre est une association de protection et de valorisation de l'Erdre",
+    "descr": "\"La Fédération des Amis de l’Erdre est une association de protection et de valorisation de l'Erdre",
     "objets_ou_materiaux_concernes_": " ses affluents",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " ses marais et sa biodiversité.  \"",
     "statut_juridique_": "\"\"",
@@ -2753,7 +2753,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"Association\"",
     "nombre_de_salaries": "\"51-100\"",
     "secteur_geographique_dintervention": "\"6-10\"",
-    "description_complete": "\"1-2\"",
+    "descr_long": "\"1-2\"",
     "site_internet": "\"Nantes métropole",
     "numero_de_telephone": " Nantes à Nort-sur-Erdre\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"La Fédération des Amis de l’Erdre (FAE)",
@@ -2790,7 +2790,7 @@
     "nom_": "\"Fédération des Amis de l'Erdre\""
 }, {
     "activites_": "\"Accompagnement d'écoles dans une démarche zéro déchet;Accompagnement des professionnels sur la réduction des déchets dus à leurs métiers;Atelier de couture de tissus récupérés;Ateliers produits zéro \"\"déchet\"\";Créateur d'objets du mode de vie zéro déchet (cosmétiques",
-    "breve_description_": " lingettes",
+    "descr": " lingettes",
     "objets_ou_materiaux_concernes_": " couches....);Créations artisanales autour de matériaux réemployés (upcycling);Fabrication de produits zéro déchet;Formations (zéro déchet ou économie circulaire",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " transition énergétique...);Sensibilisation au gaspillage alimentaire;Sensibilisation ou ateliers avec des scolaires;Solution contre gaspillage alimentaire;Stand sensibilisation réduction \"\"déchets\"\"\"",
     "statut_juridique_": "\"Des ateliers pour apprendre à tout faire soi-même : cosmétiques",
@@ -2798,7 +2798,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": " accessoires lavables en couture...\"",
     "nombre_de_salaries": "\"\"",
     "secteur_geographique_dintervention": "\"La structure est active.\"",
-    "description_complete": "\"Entreprise privée \"",
+    "descr_long": "\"Entreprise privée \"",
     "site_internet": "\"1-10\"",
     "numero_de_telephone": "\"0\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"0\"",
@@ -2835,7 +2835,7 @@
     "nom_": "\"Ateliers zéro déchet\""
 }, {
     "activites_": "\"Organise des espaces de gratuité (inclus boîtes à don et boîtes à livres);Prête ou loue des biens au lieu de les posséder;Propose ou loue de la vaisselle non jetable;Récupération des livres en bon état\"",
-    "breve_description_": "\"Nous and Co développe des projets d'économie du partage : boîtes à dons",
+    "descr": "\"Nous and Co développe des projets d'économie du partage : boîtes à dons",
     "objets_ou_materiaux_concernes_": " Boutique du Partage (dons et prêts d'objets) à Nantes.\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"__toutes les matières habituelles d'un particulier\"",
     "statut_juridique_": "\"La structure est active.\"",
@@ -2843,7 +2843,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"51-100\"",
     "nombre_de_salaries": "\"0\"",
     "secteur_geographique_dintervention": "\"1-2\"",
-    "description_complete": "\"Nantes\"",
+    "descr_long": "\"Nantes\"",
     "site_internet": "\"\tNous and Co est une association spécialiste des pratiques de consommation non-marchandes : le don",
     "numero_de_telephone": " le prêt",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " l'échange",
@@ -2880,7 +2880,7 @@
     "nom_": "\"Nous and Co\""
 }, {
     "activites_": "\"Accompagnement des professionnels sur la réduction des déchets dus à leurs métiers;Formations (zéro déchet ou économie circulaire",
-    "breve_description_": " transition énergétique...)\"",
+    "descr": " transition énergétique...)\"",
     "objets_ou_materiaux_concernes_": "\"OASIS environnement accompagne les entreprises et leurs salariés vers un objectif ZERO déchet au bureau. Grâce à des diagnostics déchets",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " des formations et des défis",
     "statut_juridique_": " OASIS environnement apporte toutes les solutions pour réduire et mieux valoriser les déchets de bureau. \"",
@@ -2888,7 +2888,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"La structure est active.\"",
     "nombre_de_salaries": "\"Association\"",
     "secteur_geographique_dintervention": "\"21-50\"",
-    "description_complete": "\"0\"",
+    "descr_long": "\"0\"",
     "site_internet": "\"1-2\"",
     "numero_de_telephone": "\"Région Pays de la Loire\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"Plus de 130kg de déchets par salarié et par an",
@@ -2925,7 +2925,7 @@
     "nom_": "\"OASIS environnement\""
 }, {
     "activites_": "\"Formations (zéro déchet ou économie circulaire",
-    "breve_description_": " transition énergétique...)\"",
+    "descr": " transition énergétique...)\"",
     "objets_ou_materiaux_concernes_": "\"Le bootcamp Edeni transition écologique c'est une aventure collective pour passer des convictions à l'action sur le zéro déchet et la transition écologique. Concrètement : 6 soirées de formation",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " un accompagnement quotidien de 6 semaines et une base documentaire synthèse de 5 ans de recherches !\"",
     "statut_juridique_": "\"__toutes les matières habituelles d'un particulier\"",
@@ -2933,7 +2933,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"Porteur(s) de projet (sans statut particulier)\"",
     "nombre_de_salaries": "\"1-10\"",
     "secteur_geographique_dintervention": "\"0\"",
-    "description_complete": "\"0\"",
+    "descr_long": "\"0\"",
     "site_internet": "\"Nantes\"",
     "numero_de_telephone": "\"Edeni est un collectif qui forme les particuliers et les entreprises à un mode de vie plus sain",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " plus écologique et plus éthique",
@@ -2970,7 +2970,7 @@
     "nom_": "\"Bootcamp Edeni Nantes\""
 }, {
     "activites_": "\"Accompagnement des professionnels sur la réduction des déchets dus à leurs métiers;Formations (zéro déchet ou économie circulaire",
-    "breve_description_": " transition énergétique...);Information sur la réduction des déchets à la source (hors stand);Organise des collectes citoyenne de déchets;Organise ou tient des conférences;Récupére des objets usagés",
+    "descr": " transition énergétique...);Information sur la réduction des déchets à la source (hors stand);Organise des collectes citoyenne de déchets;Organise ou tient des conférences;Récupére des objets usagés",
     "objets_ou_materiaux_concernes_": " les vérifie/nettoie et les revends;Recyclage de tissu/vêtement (hors atelier couture);Recyclage des articles de sport;Réparation et revente;Sensibilisation ou ateliers avec des scolaires;Stand de conseil sur le recyclage;Stand sensibilisation réduction \"\"déchets\"\";Vente de produits d'occasion\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"L'association SupporTerre lie les enjeux du sport et du développement durable. Nous avons ouvert la première recyclerie du sport de la région = collecte",
     "statut_juridique_": " valorisation et vente des articles de sport inutilisés à des prix accessibles. \"",
@@ -2978,7 +2978,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"La structure est active.\"",
     "nombre_de_salaries": "\"Association\"",
     "secteur_geographique_dintervention": "\"11-20\"",
-    "description_complete": "\"1-2\"",
+    "descr_long": "\"1-2\"",
     "site_internet": "\"1-2\"",
     "numero_de_telephone": "\"Nantes et sa métropole",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " département",
@@ -3015,7 +3015,7 @@
     "nom_": "\"SupporTerre\""
 }, {
     "activites_": "\"Vente de produits en vrac;Vente de produits zéro déchet\"",
-    "breve_description_": "\"Epicerie bio",
+    "descr": "\"Epicerie bio",
     "objets_ou_materiaux_concernes_": " sans emaballage si possible local en livraison ou sur les marchés dans l'agglomération nantaise (44).\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"\"",
     "statut_juridique_": "\"La structure est active.\"",
@@ -3023,7 +3023,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"1-10\"",
     "nombre_de_salaries": "\"1-2\"",
     "secteur_geographique_dintervention": "\"1-2\"",
-    "description_complete": "\"Agglomération nantaise (44)\"",
+    "descr_long": "\"Agglomération nantaise (44)\"",
     "site_internet": "\"Livraison du lundi au jeudi de 15h à 19h dans les villes suivantes : Nantes",
     "numero_de_telephone": " Indre",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " Saint-herblain",
@@ -3060,7 +3060,7 @@
     "nom_": "\"Vrac Facile\""
 }, {
     "activites_": "\"\"",
-    "breve_description_": "\"\"",
+    "descr": "\"\"",
     "objets_ou_materiaux_concernes_": "\"\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"La structure est active.\"",
     "statut_juridique_": "\"\"",
@@ -3068,7 +3068,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"0\"",
     "nombre_de_salaries": "\"1-2\"",
     "secteur_geographique_dintervention": "\"\"",
-    "description_complete": "\"Le Drive en Bocal propose des produits sans emballage jetable",
+    "descr_long": "\"Le Drive en Bocal propose des produits sans emballage jetable",
     "site_internet": " en vrac",
     "numero_de_telephone": " locaux et ou bio",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " alimentaire et non alimentaire. Ils sont pré-conditionnés dans des bocaux consignés. Il suffit de se connecter sur www.ledriveenbocal.com pour passer sa commande",
@@ -3105,7 +3105,7 @@
     "nom_": "\"Le Drive en Bocal\""
 }, {
     "activites_": "\"Atelier de couture de tissus récupérés;Atelier sur compostage ou lombricompostage;Ateliers produits zéro \"\"déchet\"\";Fabrication de produits zéro déchet;Sensibilisation au gaspillage alimentaire;Solutions de récupération des matières organiques (compostage...);Stand sensibilisation réduction \"\"déchets\"\"\"",
-    "breve_description_": "\"La BricoLowtech a pour objectif de favoriser l'émergence et le partage de pratiques alternatives et écologiques pour répondre aux besoins essentiels du quotidien. L'association anime le partage de savoir-faire dans le quartier Nantes Sud",
+    "descr": "\"La BricoLowtech a pour objectif de favoriser l'émergence et le partage de pratiques alternatives et écologiques pour répondre aux besoins essentiels du quotidien. L'association anime le partage de savoir-faire dans le quartier Nantes Sud",
     "objets_ou_materiaux_concernes_": " expérimente les low-tech et propose une solution de \"\"compostage\"\" en appartement avec le seau bokashi.\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"__toutes les matières habituelles d'un particulier;déchets organiques riches (restes alimentaires...)\"",
     "statut_juridique_": "\"La structure est active.\"",
@@ -3113,7 +3113,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"21-50\"",
     "nombre_de_salaries": "\"0\"",
     "secteur_geographique_dintervention": "\"0\"",
-    "description_complete": "\"Principalement le quartier Nantes Sud et quartiers avoisinants\"",
+    "descr_long": "\"Principalement le quartier Nantes Sud et quartiers avoisinants\"",
     "site_internet": "\"La BricoLowtech est une association qui anime le partage de savoir-faire dans le quartier Nantes Sud afin d'apprendre ensemble à se débrouiller autrement dans tous les aspects de la vie quotidienne. Différents objets et solutions low-tech sont fabriquées et testées par les habitant.e.s (toilettes sèches",
     "numero_de_telephone": " point d'eau économe",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " marmite norvégienne",
@@ -3150,7 +3150,7 @@
     "nom_": "\"BricoLowtech\""
 }, {
     "activites_": "\"Ateliers produits zéro \"\"déchet\"\";Créateur d'objets du mode de vie zéro déchet (cosmétiques",
-    "breve_description_": " lingettes",
+    "descr": " lingettes",
     "objets_ou_materiaux_concernes_": " couches....);Créations artisanales autour de matériaux réemployés (upcycling);Fabrication de produits zéro déchet;Formations (zéro déchet ou économie circulaire",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " transition énergétique...);Information sur la réduction des déchets à la source (hors stand);Organise ou tient des conférences;Recyclage de tissu/vêtement (hors atelier couture);Sensibilisation ou ateliers avec des scolaires;Vente de produits d'occasion;Vente de produits zéro déchet\"",
     "statut_juridique_": "\"Depuis 10 ans",
@@ -3158,7 +3158,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": " technique japonaise du pliage et nouage de tissu utilisée pour emballer les cadeaux",
     "nombre_de_salaries": " le transport des objets de la vie quotidienne et qui permet de réduire ses déchets à la source. \"",
     "secteur_geographique_dintervention": "\"tissus et vêtements\"",
-    "description_complete": "\"La structure est active.\"",
+    "descr_long": "\"La structure est active.\"",
     "site_internet": "\"Entreprise privée \"",
     "numero_de_telephone": "\"1-10\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"1-2\"",
@@ -3195,7 +3195,7 @@
     "nom_": "\"L'Atelier du Furoshiki\""
 }, {
     "activites_": "\"Cours de cuisine zéro déchet zéro gaspi;Organise ou tient des conférences;Sensibilisation au gaspillage alimentaire;Stand sensibilisation réduction \"\"déchets\"\"\"",
-    "breve_description_": "\"Le Zeste en Plus accompagne les particuliers",
+    "descr": "\"Le Zeste en Plus accompagne les particuliers",
     "objets_ou_materiaux_concernes_": " les entreprises et les collectivités vers une alimentation durable. \"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"\"",
     "statut_juridique_": "\"La structure est active.\"",
@@ -3203,7 +3203,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"1-10\"",
     "nombre_de_salaries": "\"0\"",
     "secteur_geographique_dintervention": "\"1-2\"",
-    "description_complete": "\"Pays de la Loire\"",
+    "descr_long": "\"Pays de la Loire\"",
     "site_internet": "\"Le Zeste en Plus accompagne les organisations et les citoyens vers une alimentation durable",
     "numero_de_telephone": " respectueuse de la santé et la planète. A travers nos ateliers ludiques et interactifs",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " les participants découvrent des techniques simples et rapides pour mieux manger au quotidien et sont outillés pour changer leurs habitudes alimentaires “zeste” après “zeste”.\"",
@@ -3240,7 +3240,7 @@
     "nom_": "\"Le Zeste en Plus\""
 }, {
     "activites_": "\"Organise des collectes citoyenne de déchets\"",
-    "breve_description_": "\"Organise des collectes de déchets citoyens et des prestations auprès des écoles et entreprises pour sensibiliser sur les déchets dans l'environnement et nos océans. Sur les plages",
+    "descr": "\"Organise des collectes de déchets citoyens et des prestations auprès des écoles et entreprises pour sensibiliser sur les déchets dans l'environnement et nos océans. Sur les plages",
     "objets_ou_materiaux_concernes_": " dans le vignoble et en ville.\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"\"",
     "statut_juridique_": "\"La structure est active.\"",
@@ -3248,7 +3248,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"11-20\"",
     "nombre_de_salaries": "\"0\"",
     "secteur_geographique_dintervention": "\"0\"",
-    "description_complete": "\"Région Nantaise et littoral atlantique proche\"",
+    "descr_long": "\"Région Nantaise et littoral atlantique proche\"",
     "site_internet": "\"\"",
     "numero_de_telephone": "\"http://www.plastic-pickup.fr",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"",
@@ -3285,7 +3285,7 @@
     "nom_": "\"Plastic Pickup\""
 }, {
     "activites_": "\"Éditeur de magazine papier ou vidéo;Organise ou tient des conférences\"",
-    "breve_description_": "\"Association Loi 1901 créée en mars 2019",
+    "descr": "\"Association Loi 1901 créée en mars 2019",
     "objets_ou_materiaux_concernes_": " engagée dans la démarche zéro déchet. Avec notre projet de webdocumentaire « De l’autre côté » on souhaite promouvoir avec des outils médiatiques ce mouvement du zéro déchet comme une solution collective.\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"__toutes les matières habituelles d'un particulier\"",
     "statut_juridique_": "\"La structure est active.\"",
@@ -3293,7 +3293,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"1-10\"",
     "nombre_de_salaries": "\"0\"",
     "secteur_geographique_dintervention": "\"0\"",
-    "description_complete": "\"Bordeaux",
+    "descr_long": "\"Bordeaux",
     "site_internet": " Nantes",
     "numero_de_telephone": " Paris\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"Les autruches utopistes est une association loi 1901",
@@ -3330,7 +3330,7 @@
     "nom_": "\"Les autruches utopistes\""
 }, {
     "activites_": "\"Accompagnement des professionnels sur la réduction des déchets dus à leurs métiers;Information sur la réduction des déchets à la source (hors stand);Information sur le recyclage (hors stand);Organise ou tient des conférences;Sensibilisation au gaspillage alimentaire;Sensibilisation ou ateliers avec des scolaires;Stand sensibilisation réduction \"\"déchets\"\"\"",
-    "breve_description_": "\"Terra 21 est un bureau d'études installé à Nantes (bilan carbone",
+    "descr": "\"Terra 21 est un bureau d'études installé à Nantes (bilan carbone",
     "objets_ou_materiaux_concernes_": " gestion des déchets",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " management environnemental",
     "statut_juridique_": " sensibilisation)\"",
@@ -3338,7 +3338,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"La structure est active.\"",
     "nombre_de_salaries": "\"\"",
     "secteur_geographique_dintervention": "\"1-10\"",
-    "description_complete": "\"1-2\"",
+    "descr_long": "\"1-2\"",
     "site_internet": "\"1-2\"",
     "numero_de_telephone": "\"Pays de la Loire",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " France entière\"",
@@ -3375,7 +3375,7 @@
     "nom_": "\"Terra 21\""
 }, {
     "activites_": "\"Solutions de récupération des matières organiques (compostage...)\"",
-    "breve_description_": "\"Coopérative proposant des solutions clé en main de compostage local",
+    "descr": "\"Coopérative proposant des solutions clé en main de compostage local",
     "objets_ou_materiaux_concernes_": " par la collecte de vos bio-déchets et la gestion de silos de compostage\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"déchets organiques riches (restes alimentaires...);déchets verts (pelouse;taille de haie...);vaisselle jetable\"",
     "statut_juridique_": "\"La structure est active.\"",
@@ -3383,7 +3383,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"11-20\"",
     "nombre_de_salaries": "\"11-20\"",
     "secteur_geographique_dintervention": "\"2-5\"",
-    "description_complete": "\"Loire-Atlantique\"",
+    "descr_long": "\"Loire-Atlantique\"",
     "site_internet": "\"Compost In Situ regroupe des professionnels de la restauration",
     "numero_de_telephone": " des collectivités",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " des agriculteurs et des salariés autour de son projet de compostage.\\nSes activités sont :\\n- le compostage local",
@@ -3420,7 +3420,7 @@
     "nom_": "\"Compost In Situ\""
 }, {
     "activites_": "\"Sensibilisation au gaspillage alimentaire;Stand de conseil sur le recyclage;Stand sensibilisation réduction \"\"déchets\"\";Tri des déchets sur événements\"",
-    "breve_description_": "\"Association pour le respect de l'environnement lors de manifestations culturelles et sportives\\nConseil & gestion éco-responsable des déchets sur événements. Animation et stands de sensibilisation aux enjeux du tri",
+    "descr": "\"Association pour le respect de l'environnement lors de manifestations culturelles et sportives\\nConseil & gestion éco-responsable des déchets sur événements. Animation et stands de sensibilisation aux enjeux du tri",
     "objets_ou_materiaux_concernes_": " du zéro déchet et du gaspillage alimentaire. \"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"\"",
     "statut_juridique_": "\"La structure est active.\"",
@@ -3428,7 +3428,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"plus de 100\"",
     "nombre_de_salaries": "\"0\"",
     "secteur_geographique_dintervention": "\"10-25\"",
-    "description_complete": "\"National dont antenne régionale Grand Ouest basée à Nantes (puis Ile de France",
+    "descr_long": "\"National dont antenne régionale Grand Ouest basée à Nantes (puis Ile de France",
     "site_internet": " Sud Ouest",
     "numero_de_telephone": " Sud Est",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " Auvergne Rhône Alpes)\"",
@@ -3465,7 +3465,7 @@
     "nom_": "\"AREMACS\""
 }, {
     "activites_": "\"Sites informatique ou applications (hors blogs);Vente de produits d'occasion\"",
-    "breve_description_": "\"Rebelote",
+    "descr": "\"Rebelote",
     "objets_ou_materiaux_concernes_": " c'est la seconde main de vos boutiques",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " en un clic. Vous y trouverez de tout. Toujours de seconde main. Toujours près de chez vous. Toujours de vos boutiques : recycleries",
     "statut_juridique_": " friperies",
@@ -3473,7 +3473,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": " dépôts-ventes",
     "nombre_de_salaries": "...\"",
     "secteur_geographique_dintervention": "\"\"",
-    "description_complete": "\"La structure est active.\"",
+    "descr_long": "\"La structure est active.\"",
     "site_internet": "\"Porteur(s) de projet (sans statut particulier)\"",
     "numero_de_telephone": "\"21-50\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"11-20\"",
@@ -3510,7 +3510,7 @@
     "nom_": "\"Rebelote\""
 }, {
     "activites_": "\"Accompagnement d'écoles dans une démarche zéro déchet;Accompagnement des professionnels sur la réduction des déchets dus à leurs métiers;Atelier de couture de tissus récupérés;Atelier sur compostage ou lombricompostage;Ateliers produits zéro \"\"déchet\"\";Conseils ou gestions des couches lavables;Prête ou loue des biens au lieu de les posséder;Sensibilisation ou ateliers avec des scolaires\"",
-    "breve_description_": "\"Tiers lieux dédié à la réduction des déchets en hyper centre de Nantes.\\nOuvert au grand public.\\nPermanence les mercredis 14h-17h et samedi 14h-17h.\\nAteliers les autres jours de l'année.\"",
+    "descr": "\"Tiers lieux dédié à la réduction des déchets en hyper centre de Nantes.\\nOuvert au grand public.\\nPermanence les mercredis 14h-17h et samedi 14h-17h.\\nAteliers les autres jours de l'année.\"",
     "objets_ou_materiaux_concernes_": "\"__toutes les matières habituelles d'un particulier\"",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": "\"La structure est active.\"",
     "statut_juridique_": "\"Association\"",
@@ -3518,7 +3518,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"6-10\"",
     "nombre_de_salaries": "\"0\"",
     "secteur_geographique_dintervention": "\"Uniquement à la Galerie\"",
-    "description_complete": "\"<h3>En plein centre de Nantes",
+    "descr_long": "\"<h3>En plein centre de Nantes",
     "site_internet": " un tiers-lieu tenu dédié à la réduction des déchets. Tenu par une association.</h3>\\n<figure class=\"\"wp-block-image\"\"><img class=\"\"wp-image-567\"\" src=\"\"http://lagalerieduzerodechet.fr/wp-content/uploads/2019/05/galerie-erban2.jpg\"\" sizes=\"\"(max-width: 400px) 100vw",
     "numero_de_telephone": " 400px\"\" srcset=\"\"http://lagalerieduzerodechet.fr/wp-content/uploads/2019/05/galerie-erban2.jpg 400w",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": " http://lagalerieduzerodechet.fr/wp-content/uploads/2019/05/galerie-erban2-300x200.jpg 300w\"\" alt=\"\"\"\" /><figcaption>Ce projet citoyen a transformé la Galerie Dulcie (l’ancienne galerie des beaux arts",
@@ -3555,7 +3555,7 @@
     "nom_": "\"La Galerie du Zéro Déchet\""
 }, {
     "activites_": "\"Information sur la réduction des déchets à la source (hors stand);Information sur le recyclage (hors stand);Sites informatique ou applications (hors blogs)\"",
-    "breve_description_": "\"Création d'outils libres sur la réduction des déchets :\\n- application \"\"Mieux trier à Nantes\"\" : trier précisément",
+    "descr": "\"Création d'outils libres sur la réduction des déchets :\\n- application \"\"Mieux trier à Nantes\"\" : trier précisément",
     "objets_ou_materiaux_concernes_": "\\n- création de cartes sur la réduction des déchets : CartoVrac.fr ( magasins de vrac CoReparation.fr (Repairs Cafés...)",
     "lactivite_de_la_structure_est-elle_en_sommeil_ou_a_letat_de_projet__": " CartOccase.fr (produits d'occasion et dons)",
     "statut_juridique_": "\\n- jeu de carte \"\"apprendre à trier\"\".\"",
@@ -3563,7 +3563,7 @@
     "nombre_de_personnes_morales_adherentes_de_la_structure_": "\"La structure est active.\"",
     "nombre_de_salaries": "\"Association\"",
     "secteur_geographique_dintervention": "\"1-10\"",
-    "description_complete": "\"0\"",
+    "descr_long": "\"0\"",
     "site_internet": "\"0\"",
     "numero_de_telephone": "\"Nantes et les environs.\"",
     "e-mail_en_fait_ils_ne_sont_pas_affiches_sur_le_site_pour_eviter_les_spams": "\"<strong><a href=\"\"http://lagalerieduzerodechet.fr/wp-content/uploads/2020/02/mieuxtrieranantes-dossierpresentationcomplet_201502.pdf\"\">mieuxtrieranantes-dossierpresentationcomplet_201502 </a>Application sur les sites de tri des déchets et de réemploi</strong>\\n\\nNous avons créé l’association « Mieux trier à Nantes ». Nous avons développé l’application Android / IPhone « Mieux trier à Nantes » (gratuite) et un site http://mieuxtrieranantes.fr (qui présente le même contenu que l’application) pour les habitants de Nantes Métropole.\\nL’objectif est d’aider à trier :\\n– savoir si un déchet est recyclable et les façons dont il peut être valorisé (avec des conseils spécifiques à chaque déchet)",

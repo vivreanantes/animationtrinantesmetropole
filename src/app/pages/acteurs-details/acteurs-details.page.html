@@ -4,7 +4,7 @@
       <ion-icon name="close"></ion-icon>
     </div>
     <div class="header">
-      <h1>{{ item.nom_}}</h1>
+      <h1>{{ item.nom}}</h1>
     </div>
     <div class="body">
       <div class="block">
@@ -13,13 +13,19 @@
         </div>
         <div class="body infos">
           <p>
-            <strong>{{'select_categories_acteur'|translate}} :</strong> {{ item.categorie_principale }}
+            <strong>{{'select_categories_acteur'|translate}} : </strong>{{ item.categorie_principale|
+              translate}}
           </p>
           <p>
-            {{ item.breve_description_ }}
-            <br /><br /><br />
-            {{ item.description_complete }}
+            <strong style='text-transform:none;'>{{'statut'|translate}} : </strong>{{ item.statut_juridique |
+            translate }}
           </p>
+            <strong>{{'resume'|translate}} : </strong>
+            <div class="description" [innerHtml]="( item | lang:'descr')"></div>
+
+          <strong>{{'detail'|translate}} : </strong>
+          <div class="description" [innerHtml]="( item | lang:'descr_long')"></div>
+          
           <div class="buttons">
             <button (click)="openUrl(item.url)">
               {{'plus_d_infos'|translate}}

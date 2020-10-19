@@ -242,6 +242,7 @@ var _ihmLabelsFrDatas = {
 	"objets_recuperes": "Objets récupérés",
 	"ecrire": "Envoyer un message",
 	"y_aller": "Y aller",
+	"resume":"Résumé",
 	"telephoner": "Téléphoner",
 	"aller_sur_page":"Aller sur la page",
 	"homecollect_intro" : "Pour les habitants de la ville de Nantes, trouver les jours de collecte et le mode de collecte, selon le nom de votre rue",

@@ -29,8 +29,8 @@
         <div class="list">
           <div *ngFor="let type of acteurs[input] | values">
             <h3>{{ type[0].categorie_principale_detail?type[0].categorie_principale_detail:"Divers" }} :</h3>
-            <h4>{{ type[0].nom_}}</h4>
-            {{ type[0].breve_description_}}
+            <h4>{{ type[0].nom}}</h4>
+            <div class="description" [innerHtml]="( type[0] | lang:'descr')"></div>
 
             <ul>
               <li *ngFor="let t of type" (click)="details(t)">
