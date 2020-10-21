@@ -12,8 +12,8 @@
         <div class="body" *ngIf="showBlock">
             <div class="list">
                 <div *ngIf="loading">{{"chargement" | translate}}</div>
-                <div *ngIf="!loading && news.length === 0">{{"aucune_actualité" | translate}}</div>
-                <button class="item" *ngFor="let new of news" (click)="showNewsDetail(new)">
+                <div *ngIf="!loading && get().length === 0">{{"aucune_actualité" | translate}}</div>
+                <button class="item" *ngFor="let new of get()" (click)="showNewsDetail(new)">
                     {{ new.icon }}
                     <p class="new_title">
                         {{ new.title }}

@@ -16,7 +16,6 @@ export class NewsComponent {
 
 	newsUrl = "https://raw.githubusercontent.com/vivreanantes/animationtrinantesmetropole/MieuxTrierANantesV3_News/src/assets/data/News.json"
 
-	news = [];
 	updatedAt = null;
 	lastCheck = null;
 	showBlock = false;
@@ -46,13 +45,12 @@ export class NewsComponent {
 				this.loading = false;
 				this.lastCheck = new Date();
 				if (response["news"] !== undefined) {
-					this.news = response["news"];
+					this.set(response["news"]);
 					if (response["updated_at"] !== undefined) {
 						var date = response["updated_at"];
 						try {
 							// Multiplied by 1000 so that the argument is in milliseconds, not seconds.
 							this.updatedAt = new Date(date * 1000)
-							console.error(this.updatedAt)
 						} catch (error) {
 							console.error(error)
 							this.updatedAt = new Date();
@@ -80,5 +78,25 @@ export class NewsComponent {
 			}]
 		});
 		alert.present();
+	};
+
+	get() {
+		if (!localStorage.getItem("news")) {
+			this.set([]);
+			return [];
+		} else {
+			var jsonNews = localStorage.getItem("news");
+			var news = [];
+			try {
+				news = JSON.parse(jsonNews);
+			} catch (error) {
+				console.error(news)
+			}
+			return news;
+		}
+	};
+
+	set(news: Object) {
+		return localStorage.setItem("news", JSON.stringify(news));
 	};
 }
