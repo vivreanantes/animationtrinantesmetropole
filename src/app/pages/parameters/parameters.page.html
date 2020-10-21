@@ -10,7 +10,7 @@
       <div class="body">
         <div class="list">
           <div
-            class="item"
+            class="item clickable"
             *ngFor="let lang of langues"
             (click)="setLangue(lang)"
             [ngClass]="{'selected':currentLang === lang}"
@@ -39,7 +39,7 @@
         </p>
         <div class="list">
           <div
-            class="item"
+            class="item clickable"
             *ngFor="let collect of homeCollectModsList;let i = index"
             (click)="setHomeCollectMods(collect)"
             [ngClass]="{'selected':currentHomeCollectMods.label === collect.label}"

@@ -10,7 +10,7 @@
           [(ngModel)]="input"
           (ngModelChange)="onChangeFiltre(input)"
         />
-        <ion-icon name="close" (click)="cleanFiltre()"></ion-icon>
+        <ion-icon name="close" class="clickable" (click)="cleanFiltre()"></ion-icon>
       </div>
     </div>
 
@@ -29,7 +29,7 @@
         >
           <ngu-tile
             *nguCarouselDef="let item;"
-            class="item"
+            class="item clickable"
             (click)="voirDechet(item)"
           >
             <img src="assets/imgs/{{ item.image }}" alt="Image" />

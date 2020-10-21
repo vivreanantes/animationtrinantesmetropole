@@ -1,6 +1,6 @@
 <ion-content>
   <div class="mt-content fiche">
-    <div class="close" (click)="close()">
+    <div class="close clickable" (click)="close()">
       <ion-icon name="close"></ion-icon>
     </div>
     <div class="header">
@@ -42,7 +42,7 @@
         <div class="body collects">
           <div
             *ngFor="let modco of item.modco; let i = index"
-            class="collect"
+            class="collect clickable"
             (click)="voirCollec(modco)"
           >
             <img src="assets/imgs/{{ modco.image }}" alt="Image" />
@@ -60,7 +60,7 @@
         </div>
         <div class="body infos">
           <div
-            class="info"
+            class="info clickable"
             *ngFor="let con of item.cons; let i = index"
             [ngClass]="{'plus':con.fiche}"
             (click)="voirAdvice(con)"

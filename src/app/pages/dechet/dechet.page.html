@@ -1,6 +1,6 @@
 <ion-content>
   <div class="mt-content fiche">
-    <div class="back" (click)="back()">
+    <div class="back clickable" (click)="back()">
       <ion-icon name="arrow-back-outline"></ion-icon>
     </div>
     <div class="header">
@@ -38,7 +38,7 @@
           <h2>{{'modes_de_collecte'|translate}}</h2>
         </div>
         <div class="body collects">
-          <div *ngFor="let modco of item.modco; let i = index" class="collect" (click)="voirCollec(modco)">
+          <div *ngFor="let modco of item.modco; let i = index" class="collect clickable" (click)="voirCollec(modco)">
             <img src="assets/imgs/{{ modco.image }}" alt="Image" />
             <h4>{{ modco | lang:"nom"}}</h4>
             <div class="plus">
@@ -53,7 +53,7 @@
           <h2>{{'informations'|translate}}</h2>
         </div>
         <div class="body infos">
-          <div class="info" *ngFor="let con of item.cons; let i = index" [ngClass]="{'plus':con.fiche}"
+          <div class="info clickable" *ngFor="let con of item.cons; let i = index" [ngClass]="{'plus':con.fiche}"
             (click)="voirAdvice(con)">
             <h5>{{ con | lang:"nom"}}</h5>
             <div [innerHtml]="(con | lang:'descr')"></div>

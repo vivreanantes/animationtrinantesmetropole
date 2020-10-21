@@ -31,7 +31,7 @@
             <h3>{{ type[0].type_lieu?type[0].type_lieu:"Divers" }} :</h3>
 
             <ul>
-              <li *ngFor="let t of type" (click)="details(t)">
+              <li class="clickable" *ngFor="let t of type" (click)="details(t)">
                 <div class="info">
                   <h5>{{t.lieu_distribution}}</h5>
                   <div class="horaires" *ngIf="t.horaires">
