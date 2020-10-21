@@ -11,12 +11,18 @@
         </button>
         <div class="body" *ngIf="showBlock">
             <div class="list">
+                <div *ngIf="loading">{{"chargement" | translate}}</div>
+                <div *ngIf="!loading && news.length === 0">{{"aucune_actualité" | translate}}</div>
                 <button class="item" *ngFor="let new of news" (click)="showNewsDetail(new)">
                     {{ new.icon }}
                     <p class="new_title">
                         {{ new.title }}
                     </p>
                 </button>
+            </div>
+            <div class="footer" *ngIf="updatedAt !== null && lastCheck !== null">
+                <p>{{ "mis_a_jour_le" | translate }} : {{ updatedAt.toLocaleString(langageService.get()) }}</p>
+                <p>{{ "verifie_le" | translate }} : {{ lastCheck.toLocaleString(langageService.get()) }}</p>
             </div>
         </div>
     </div>

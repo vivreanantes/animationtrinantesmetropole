@@ -1,5 +1,7 @@
 import { AlertController } from '@ionic/angular';
 import { Component } from "@angular/core";
+import { HttpClient } from "@angular/common/http";
+import { LangageService } from "../../services/langage.service";
 
 @Component({
 	selector: "news",
@@ -7,10 +9,18 @@ import { Component } from "@angular/core";
 	styleUrls: ["./news.component.scss"],
 })
 export class NewsComponent {
-	constructor(public alertController: AlertController) {}
+	constructor(
+		private langageService: LangageService,
+		private http: HttpClient,
+		public alertController: AlertController) {}
+
+	newsUrl = "https://raw.githubusercontent.com/vivreanantes/animationtrinantesmetropole/MieuxTrierANantesV3_News/src/assets/data/News.json"
 
 	news = [];
+	updatedAt = null;
+	lastCheck = null;
 	showBlock = false;
+	loading = false;
 
 	toggleShowBlock = () => {
 		this.showBlock = !this.showBlock;
@@ -24,19 +34,38 @@ export class NewsComponent {
 		if (evt) {
 			evt.stopPropagation();
 		}
-		this.news = [{
-			icon: "👍",
-			title: "Nouvelle version de l'application en cours de développement",
-			description: "Une nouvelle application est en cours de développement par l'équipe Mieux Trier à Nantes.\nAttendez vous à plein de nouveautés 😉"
-		}, {
-			icon: "😲",
-			title: "Regardez les nouveautés via ce lien",
-			description: "Les nouveautés sont listées ici : <a href='https://mieuxtrieranantes.fr' target='_blank'>https://mieuxtrieranantes.fr</a>"
-		}, {
-			icon: "😢",
-			title: "Le titre est vraiment trop long et doit être coupé afin qu'il ne prenne pas trop de place sur l'écran d'un téléphone qui serait trop petit pour tout afficher.",
-			description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-		}];
+		if (!this.showBlock) {
+			return;
+		}
+
+		this.loading = true;
+		this.http
+			.get(this.newsUrl)
+			.toPromise()
+			.then((response) => {
+				this.loading = false;
+				this.lastCheck = new Date();
+				if (response["news"] !== undefined) {
+					this.news = response["news"];
+					if (response["updated_at"] !== undefined) {
+						var date = response["updated_at"];
+						try {
+							// Multiplied by 1000 so that the argument is in milliseconds, not seconds.
+							this.updatedAt = new Date(date * 1000)
+							console.error(this.updatedAt)
+						} catch (error) {
+							console.error(error)
+							this.updatedAt = new Date();
+						}
+					} else {
+						console.error("No updated_at field in json")
+						this.updatedAt = new Date();
+					}
+				}
+			})
+			.catch((error) => {
+				console.error(error)
+			});
 	};
 
 	showNewsDetail = async (aNews) => {
