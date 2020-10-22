@@ -16,7 +16,7 @@
   		"site": "http://www.laloustikerie.com,",
   		"statut_juridique": "Entreprise ",
   		"email": "contact@laloustikerie.com",
-  		"image": "data/nantes/logo_la_loustikerie.png"
+  		"image": "nantes/logo_la_loustikerie.png"
   	},
   	{
   		"nom_du_premier_contact": "Johanna",
@@ -33,7 +33,7 @@
   		"site": "http://obocal.com/,",
   		"statut_juridique": "Entreprise ",
   		"email": "contact@obocal.com",
-  		"image": "data/nantes/logo_o_bocal-1.jpg"
+  		"image": "nantes/logo_o_bocal-1.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Claire Poirier",
@@ -50,7 +50,7 @@
   		"site": "https://www.sakaide.fr/,",
   		"statut_juridique": "Entreprise ",
   		"email": "contact@sakaide.fr",
-  		"image": "data/nantes/logo_sakaide.png"
+  		"image": "nantes/logo_sakaide.png"
   	},
   	{
   		"nom_du_premier_contact": "Manuella",
@@ -67,7 +67,7 @@
   		"site": "http://www.k-ba.fr,",
   		"statut_juridique": "Entreprise ",
   		"email": "manuella@k-ba.fr",
-  		"image": "data/nantes/logo_k-ba.png"
+  		"image": "nantes/logo_k-ba.png"
   	},
   	{
   		"nom_du_premier_contact": "Sonia Sellin",
@@ -84,7 +84,7 @@
   		"site": "https://kerhea.com/,",
   		"statut_juridique": "Entreprise ",
   		"email": "sonia.sellin@kerhea.com",
-  		"image": "data/nantes/Logo-kerhea.png"
+  		"image": "nantes/Logo-kerhea.png"
   	},
   	{
   		"nom_du_premier_contact": "Josselin Evrard",
@@ -101,7 +101,7 @@
   		"site": "",
   		"statut_juridique": "Association",
   		"email": "contact@laressourceriedelile.com",
-  		"image": "data/nantes/la_ressourcerie_de_lile-1.png"
+  		"image": "nantes/la_ressourcerie_de_lile-1.png"
   	},
   	{
   		"nom_du_premier_contact": "Charlène Beaudaire",
@@ -118,7 +118,7 @@
   		"site": "https://labelleere.com/,",
   		"statut_juridique": "Entreprise ",
   		"email": "contact@labelleere.com",
-  		"image": "data/nantes/la_belle_ere-1.png"
+  		"image": "nantes/la_belle_ere-1.png"
   	},
   	{
   		"nom_du_premier_contact": "Fanny NGUYEN VAN",
@@ -151,7 +151,7 @@
   		"site": "https://www.facebook.com/jaimetesbocaux/,",
   		"statut_juridique": "Association",
   		"email": "jaimetesbocaux@gmail.com",
-  		"image": "data/nantes/jaimetesbocaux-2-1-scaled.jpg"
+  		"image": "nantes/jaimetesbocaux-2-1-scaled.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Emmanuel",
@@ -168,7 +168,7 @@
   		"site": "https://www.articonnex.com/,",
   		"statut_juridique": "Entreprise ",
   		"email": "contact@articonnex.com",
-  		"image": "data/nantes/logo-articonnex.jpg"
+  		"image": "nantes/logo-articonnex.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Vincent Gillet",
@@ -185,7 +185,7 @@
   		"site": "http://www.RecycLivre.com,",
   		"statut_juridique": "Entreprise à mission d'intérêt général",
   		"email": "nantes@recyclivre.com",
-  		"image": "data/nantes/logo_recyclivre.png"
+  		"image": "nantes/logo_recyclivre.png"
   	},
   	{
   		"nom_du_premier_contact": "Gaëlle",
@@ -202,7 +202,7 @@
   		"site": "http://www.letransistore.org,",
   		"statut_juridique": "Association",
   		"email": "contact@letransistore.org",
-  		"image": "data/nantes/logoTransiStoreBleu.png"
+  		"image": "nantes/logoTransiStoreBleu.png"
   	},
   	{
   		"nom_du_premier_contact": "Caroline Gabaut",
@@ -219,7 +219,7 @@
   		"site": "https://www.ensemble-lemag.com/,",
   		"statut_juridique": "Entreprise ",
   		"email": "ensemble.lemag44@gmail.com",
-  		"image": "data/nantes/ensemble_le_mag.png"
+  		"image": "nantes/ensemble_le_mag.png"
   	},
   	{
   		"nom_du_premier_contact": "Véronique Ducourant",
@@ -236,7 +236,7 @@
   		"site": "https://www.facebook.com/camzel/,",
   		"statut_juridique": "Entreprise ",
   		"email": "veroniqueducourant@yahoo.fr",
-  		"image": "data/nantes/Camzel_Logo_typo.png"
+  		"image": "nantes/Camzel_Logo_typo.png"
   	},
   	{
   		"nom_du_premier_contact": "Camille",
@@ -253,7 +253,7 @@
   		"site": "https://collectifideesvertes.fr/,",
   		"statut_juridique": "Association",
   		"email": "contact@collectifideesvertes.fr",
-  		"image": "data/nantes/LOGO_collectif_idees_vertes.png"
+  		"image": "nantes/LOGO_collectif_idees_vertes.png"
   	},
   	{
   		"nom_du_premier_contact": "Aurélie Le Guen",
@@ -270,7 +270,7 @@
   		"site": "https://www.aurelieaunaturel.fr/,",
   		"statut_juridique": "Entreprise ",
   		"email": "contact@aurelieaunaturel.fr",
-  		"image": "data/nantes/Screenshot_20200902-023838-1.jpg"
+  		"image": "nantes/Screenshot_20200902-023838-1.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Amélie Orfila",
@@ -287,7 +287,7 @@
   		"site": "http://www.lesconnexions.org/,",
   		"statut_juridique": "Association",
   		"email": "contact@lesconnexions.org",
-  		"image": "data/nantes/Logo_Connex_webmini.jpg"
+  		"image": "nantes/Logo_Connex_webmini.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Lucie",
@@ -304,7 +304,7 @@
   		"site": "https://lesnanaszerodechet.com/,",
   		"statut_juridique": "Entreprise ",
   		"email": "bonjour@lesnanaszerodechet.com",
-  		"image": "data/nantes/LNZD_logo_HD-web-24_12-2018-scaled.jpg"
+  		"image": "nantes/LNZD_logo_HD-web-24_12-2018-scaled.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Léa CECCOTTO",
@@ -321,7 +321,7 @@
   		"site": "https://www.latelier-de-lea.com/,",
   		"statut_juridique": "Entreprise ",
   		"email": "contact@latelier-de-lea.com",
-  		"image": "data/nantes/picto-latelier-de-lea-beige.png"
+  		"image": "nantes/picto-latelier-de-lea-beige.png"
   	},
   	{
   		"nom_du_premier_contact": "Charlotte Gambier",
@@ -338,7 +338,7 @@
   		"site": "http://www.lafabrikavrac.fr,",
   		"statut_juridique": "Entreprise ",
   		"email": "drivenantaiszd@gmail.com",
-  		"image": "data/nantes/logo-lafabrik-1.png"
+  		"image": "nantes/logo-lafabrik-1.png"
   	},
   	{
   		"nom_du_premier_contact": "Coline BILLON",
@@ -355,7 +355,7 @@
   		"site": "https://www.latricyclerie.fr/,",
   		"statut_juridique": "Association",
   		"email": "hello@latricyclerie.fr",
-  		"image": "data/nantes/logo_tricylerie-1.png"
+  		"image": "nantes/logo_tricylerie-1.png"
   	},
   	{
   		"nom_du_premier_contact": "Olivier Humeau",
@@ -372,7 +372,7 @@
   		"site": "http://www.solution-recyclage.fr/,",
   		"statut_juridique": "Entreprise ",
   		"email": "olivier.humeau@solution-recyclage.com",
-  		"image": "data/nantes/logo_fond_blanc-scaled.jpg"
+  		"image": "nantes/logo_fond_blanc-scaled.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Elise",
@@ -389,7 +389,7 @@
   		"site": "https://colegram.bio,",
   		"statut_juridique": "Entreprise ",
   		"email": "contact@colegram.bio",
-  		"image": "data/nantes/logo-wood.jpg"
+  		"image": "nantes/logo-wood.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Camille MARHADOUR-SAVARY",
@@ -406,7 +406,7 @@
   		"site": "https://ouivalo.fr/,",
   		"statut_juridique": "Entreprise à mission d'intérêt général",
   		"email": "hello@ouivalo.fr",
-  		"image": "data/nantes/Déclinaison-logo-07.png"
+  		"image": "nantes/Déclinaison-logo-07.png"
   	},
   	{
   		"nom_du_premier_contact": "Sandrine",
@@ -423,7 +423,7 @@
   		"site": "",
   		"statut_juridique": "Entreprise ",
   		"email": "contact@legrimoiredesandrine.fr",
-  		"image": "data/nantes/cropped-Bannière-page-web2.png"
+  		"image": "nantes/cropped-Bannière-page-web2.png"
   	},
   	{
   		"nom_du_premier_contact": "Leslie",
@@ -440,7 +440,7 @@
   		"site": "https://lesformulesdeleslie.fr/,",
   		"statut_juridique": "Entreprise ",
   		"email": "leslie.thevenot@gmail.com",
-  		"image": "data/nantes/6ED8C512-0D22-4E08-8BA9-8A490542FBC6.jpeg"
+  		"image": "nantes/6ED8C512-0D22-4E08-8BA9-8A490542FBC6.jpeg"
   	},
   	{
   		"nom_du_premier_contact": "Véronic Durand",
@@ -457,7 +457,7 @@
   		"site": "https://wearepirouette.fr/,",
   		"statut_juridique": "Entreprise à mission d'intérêt général",
   		"email": "pirouette@boutique-pirouette.fr",
-  		"image": "data/nantes/logo_pirouette.jpg"
+  		"image": "nantes/logo_pirouette.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Valentine",
@@ -474,7 +474,7 @@
   		"site": "https://www.2rubansverts.fr,",
   		"statut_juridique": "Entreprise ",
   		"email": "2rubansverts@gmail.com",
-  		"image": "data/nantes/logo-2rubanverts.png"
+  		"image": "nantes/logo-2rubanverts.png"
   	},
   	{
   		"nom_du_premier_contact": "Renate Schäfer",
@@ -491,7 +491,7 @@
   		"site": "",
   		"statut_juridique": "Collectif de citoyen",
   		"email": "grand.defi.nantes@gmail.com",
-  		"image": "data/nantes/logo_collectif.png"
+  		"image": "nantes/logo_collectif.png"
   	},
   	{
   		"nom_du_premier_contact": "Chantal Caillebotte",
@@ -508,7 +508,7 @@
   		"site": "http://bijoux-toune.jimdo.com,",
   		"statut_juridique": "",
   		"email": "chantalcaillebotte@yahoo.fr",
-  		"image": "data/nantes/bijoux_toune_logo.jpg"
+  		"image": "nantes/bijoux_toune_logo.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Ben Lechapus",
@@ -541,7 +541,7 @@
   		"site": "https://gueulesdebois.fr/,",
   		"statut_juridique": "Association",
   		"email": "contact@gueulesdebois.fr",
-  		"image": "data/nantes/GDB.png"
+  		"image": "nantes/GDB.png"
   	},
   	{
   		"nom_du_premier_contact": "Didier Rayssiguier",
@@ -558,7 +558,7 @@
   		"site": "https://kerbnb.fr/,Kerbnb, conciergerie engagée",
   		"statut_juridique": "SCOP",
   		"email": "accueil@kerbnb.fr",
-  		"image": "data/nantes/2.png"
+  		"image": "nantes/2.png"
   	},
   	{
   		"nom_du_premier_contact": "Eugénie BRIERE",
@@ -575,7 +575,7 @@
   		"site": "",
   		"statut_juridique": "Association",
   		"email": "bonjour@lepetitlieu.org",
-  		"image": "data/nantes/LePetitLieu_LogoVert_RVB.jpg"
+  		"image": "nantes/LePetitLieu_LogoVert_RVB.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Tancrède",
@@ -592,7 +592,7 @@
   		"site": "https://surfrider.eu/,",
   		"statut_juridique": "Association",
   		"email": "antenne44@surfrider.eu",
-  		"image": "data/nantes/SFE_loire-atlantique_RGB_blue-1.jpg"
+  		"image": "nantes/SFE_loire-atlantique_RGB_blue-1.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Alice",
@@ -609,7 +609,7 @@
   		"site": "https://espritplanete.com/,Gobelets personnalisés réutilisables",
   		"statut_juridique": "Entreprise privée ",
   		"email": "contact@espritplanete.com",
-  		"image": "data/nantes/DEF_Logo_EP_2019_Def_Couleur_SansTexte-5.png"
+  		"image": "nantes/DEF_Logo_EP_2019_Def_Couleur_SansTexte-5.png"
   	},
   	{
   		"nom_du_premier_contact": "Marjorie",
@@ -626,7 +626,7 @@
   		"site": "https://www.facebook.com/plasticattacknantes/,Page Facebook",
   		"statut_juridique": "Collectif de citoyen",
   		"email": "CPLCNantes@protonmail.com",
-  		"image": "data/nantes/plastic-attack-nantes.jpg"
+  		"image": "nantes/plastic-attack-nantes.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Julie Corchero",
@@ -643,7 +643,7 @@
   		"site": "http://www.compostri.fr,",
   		"statut_juridique": "Association",
   		"email": "contact@compostri.fr",
-  		"image": "data/nantes/LOGO-COMPOSTRI-base-line-RVB.jpg"
+  		"image": "nantes/LOGO-COMPOSTRI-base-line-RVB.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Elodie Ballé",
@@ -660,7 +660,7 @@
   		"site": "http://www.lacabanedelo.com,",
   		"statut_juridique": "Entreprise privée ",
   		"email": "contact@lacabanedelo.com",
-  		"image": "data/nantes/logo-la-cabane-d-elo.jpg"
+  		"image": "nantes/logo-la-cabane-d-elo.jpg"
   	},
   	{
   		"nom_du_premier_contact": "RIPOTON Julia",
@@ -677,7 +677,7 @@
   		"site": "https://lespetiteschosesdejulia.fr/,www.lespetiteschosesdejulia.fr",
   		"statut_juridique": "Entreprise privée ",
   		"email": "lpcdjulia@gmail.com",
-  		"image": "data/nantes/Logo-Les-petites-choses-de-Julia.png"
+  		"image": "nantes/Logo-Les-petites-choses-de-Julia.png"
   	},
   	{
   		"nom_du_premier_contact": "Laëtitia Geneste",
@@ -694,7 +694,7 @@
   		"site": "http://www.latelierdeslanges.fr,",
   		"statut_juridique": "Association",
   		"email": "latelierdeslanges@gmail.com",
-  		"image": "data/nantes/logo-bleu-atelierdeslanges-base-line.jpeg"
+  		"image": "nantes/logo-bleu-atelierdeslanges-base-line.jpeg"
   	},
   	{
   		"nom_du_premier_contact": "Marina Huchet",
@@ -727,7 +727,7 @@
   		"site": "https://www.monrepairshop.fr/,",
   		"statut_juridique": "Association",
   		"email": "contact@monrepairshop.fr",
-  		"image": "data/nantes/LOGO-BLEU-ORANGE-2.png"
+  		"image": "nantes/LOGO-BLEU-ORANGE-2.png"
   	},
   	{
   		"nom_du_premier_contact": "Dominique Béhar",
@@ -744,7 +744,7 @@
   		"site": "https://www.reseau-eco-evenement.net/,",
   		"statut_juridique": "Association",
   		"email": "bonjour@reseau-eco-evenement.net",
-  		"image": "data/nantes/EEVE,logo-devis.png"
+  		"image": "nantes/EEVE,logo-devis.png"
   	},
   	{
   		"nom_du_premier_contact": "Anne de Montgolfier",
@@ -793,7 +793,7 @@
   		"site": "https://www.amusebouche-nantes.fr/traiteur-saint-sebastien-sur-loire,L'Amuse-Bouche",
   		"statut_juridique": "Entreprise privée ",
   		"email": "contact@amusebouche-nantes.fr",
-  		"image": "data/nantes/LOGO-1.jpg"
+  		"image": "nantes/LOGO-1.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Noémie Poudret",
@@ -810,7 +810,7 @@
   		"site": "https://epilogue-couture.jimdofree.com/,",
   		"statut_juridique": "Entreprise privée ",
   		"email": "epilogue.couture@gmail.com",
-  		"image": "data/nantes/logo-épilogue-1.jpg"
+  		"image": "nantes/logo-épilogue-1.jpg"
   	},
   	{
   		"nom_du_premier_contact": "ROSSIGNOL ARNAUD",
@@ -827,7 +827,7 @@
   		"site": "https://encova.fr/,",
   		"statut_juridique": "Entreprise privée ",
   		"email": "a.rossignol@encova.fr",
-  		"image": "data/nantes/LOGO.jpg"
+  		"image": "nantes/LOGO.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Anne DURAND",
@@ -844,7 +844,7 @@
   		"site": "https://www.environnements-solidaires.org/,",
   		"statut_juridique": "Association",
   		"email": "anne.durand@environnements-solidaires.org",
-  		"image": "data/nantes/LOGO-ES-1.png"
+  		"image": "nantes/LOGO-ES-1.png"
   	},
   	{
   		"nom_du_premier_contact": "Anne-Laure",
@@ -861,7 +861,7 @@
   		"site": "https://www.primesautier.com,",
   		"statut_juridique": "Entreprise privée ",
   		"email": "annelaure@primesautier.com",
-  		"image": "data/nantes/TRAITEUR-NANTES-44-PRIMESAUTIER.jpg"
+  		"image": "nantes/TRAITEUR-NANTES-44-PRIMESAUTIER.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Anaïs Pichon",
@@ -878,7 +878,7 @@
   		"site": "",
   		"statut_juridique": "Entreprise privée ",
   		"email": "contact@epicerie-leptitpoids.fr",
-  		"image": "data/nantes/Le-p-tit-poids-Ardoise-contour-blanc-RVB.png"
+  		"image": "nantes/Le-p-tit-poids-Ardoise-contour-blanc-RVB.png"
   	},
   	{
   		"nom_du_premier_contact": "Aline Blot",
@@ -895,7 +895,7 @@
   		"site": "",
   		"statut_juridique": "Entreprise privée ",
   		"email": "vracenretz@gmail.com",
-  		"image": "data/nantes/VRAC-EN-RETZ-Rond.jpg"
+  		"image": "nantes/VRAC-EN-RETZ-Rond.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Christine BANNIER",
@@ -912,7 +912,7 @@
   		"site": "http://alterboutik.wordpress.com,",
   		"statut_juridique": "Association",
   		"email": "alterboutik@gmail.com",
-  		"image": "data/nantes/AB-Logo.png"
+  		"image": "nantes/AB-Logo.png"
   	},
   	{
   		"nom_du_premier_contact": "Association",
@@ -929,7 +929,7 @@
   		"site": "https://www.naga44.org/,",
   		"statut_juridique": "Association",
   		"email": "contact@naga44.org",
-  		"image": "data/nantes/logo.png"
+  		"image": "nantes/logo.png"
   	},
   	{
   		"nom_du_premier_contact": "Diane BÉGARD",
@@ -946,7 +946,7 @@
   		"site": "",
   		"statut_juridique": "Association",
   		"email": "bonjour.biduleschouettes@gmail.com",
-  		"image": "data/nantes/LELOGO-BIDULESCHOUETTES_.jpg"
+  		"image": "nantes/LELOGO-BIDULESCHOUETTES_.jpg"
   	},
   	{
   		"nom_du_premier_contact": "chenais",
@@ -979,7 +979,7 @@
   		"site": "http://www.ecopole.com/,",
   		"statut_juridique": "Association",
   		"email": "contact@ecopole.com",
-  		"image": "data/nantes/logo-ecopole-CMJN.jpg"
+  		"image": "nantes/logo-ecopole-CMJN.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Justine MERIT",
@@ -996,7 +996,7 @@
   		"site": "https://www.latelierdubocal.com/,",
   		"statut_juridique": "Entreprise privée ",
   		"email": "contact@latelierdubocal.com",
-  		"image": "data/nantes/L_Atelier_du_Bocal_Reserve.jpg"
+  		"image": "nantes/L_Atelier_du_Bocal_Reserve.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Julie Audureau",
@@ -1013,7 +1013,7 @@
   		"site": "https://www.unik-market.com/boutique/julie-audureau,",
   		"statut_juridique": "Entreprise privée ",
   		"email": "julieaudureau.creatrice@gmail.com",
-  		"image": "data/nantes/Logo-Julie-Audureau.jpg"
+  		"image": "nantes/Logo-Julie-Audureau.jpg"
   	},
   	{
   		"nom_du_premier_contact": "David REGNIER GARNELO",
@@ -1030,7 +1030,7 @@
   		"site": "https://lesboitesvertes.fr,",
   		"statut_juridique": "Association",
   		"email": "contact@lesboitesvertes.fr",
-  		"image": "data/nantes/ogo les boites vertes,LBV_logo250x340.png"
+  		"image": "nantes/ogo les boites vertes,LBV_logo250x340.png"
   	},
   	{
   		"nom_du_premier_contact": "BOURRIGAULT Elodie",
@@ -1047,7 +1047,7 @@
   		"site": "http://www.icilebonheurestfaitmaison.fr,",
   		"statut_juridique": "Entreprise privée ",
   		"email": "contact@icilebonheurestfaitmaison.fr",
-  		"image": "data/nantes/ogo ici le bonheur est fait maison,ICI-LE-BONHEUR-EST-FAIT-MAISON-logo.jpg"
+  		"image": "nantes/ogo ici le bonheur est fait maison,ICI-LE-BONHEUR-EST-FAIT-MAISON-logo.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Emilie",
@@ -1064,7 +1064,7 @@
   		"site": "http://www.boutabout.org/,",
   		"statut_juridique": "Association",
   		"email": "contact@boutabout.org",
-  		"image": "data/nantes/logo-vert-1.png"
+  		"image": "nantes/logo-vert-1.png"
   	},
   	{
   		"nom_du_premier_contact": "Marie Le Douaran",
@@ -1081,7 +1081,7 @@
   		"site": "https://lesautrespossibles.fr/,",
   		"statut_juridique": "Association",
   		"email": "redaction@lesautrespossibles.fr",
-  		"image": "data/nantes/ogo Les Autres Possibles,LogoMAP.png"
+  		"image": "nantes/ogo Les Autres Possibles,LogoMAP.png"
   	},
   	{
   		"nom_du_premier_contact": "Amandine FEUPIER",
@@ -1098,7 +1098,7 @@
   		"site": "https://zerowastenantes.fr/,",
   		"statut_juridique": "Association",
   		"email": "info@zerowastenantes.fr",
-  		"image": "data/nantes/ZW-logo-horizontal.jpg"
+  		"image": "nantes/ZW-logo-horizontal.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Gwendoline Monnier",
@@ -1115,7 +1115,7 @@
   		"site": "http://www.federation-des-amis-de-l-erdre.org/,",
   		"statut_juridique": "Association",
   		"email": "contact@fdamiserdre.fr",
-  		"image": "data/nantes/logo-compessé.jpg"
+  		"image": "nantes/logo-compessé.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Joséphine Dabilly",
@@ -1132,7 +1132,7 @@
   		"site": "http://atelierszerodechet.fr/,",
   		"statut_juridique": "Entreprise privée ",
   		"email": "contact@atelierszerodechet.fr",
-  		"image": "data/nantes/Logo-ateliers-zéro-déchet.jpg"
+  		"image": "nantes/Logo-ateliers-zéro-déchet.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Emilie Le Goff",
@@ -1149,7 +1149,7 @@
   		"site": "https://www.nousandco.fr/,",
   		"statut_juridique": "Association",
   		"email": "contact@nousandco.fr",
-  		"image": "data/nantes/logo-NAC-couleurs-web_1.png"
+  		"image": "nantes/logo-NAC-couleurs-web_1.png"
   	},
   	{
   		"nom_du_premier_contact": "Cédric HENRAT",
@@ -1166,7 +1166,7 @@
   		"site": "http://www.oasis-environnement.org/,",
   		"statut_juridique": "Association",
   		"email": "contact@oasis-environnement.org",
-  		"image": "data/nantes/logo-sans-baseline-720x720-1.png"
+  		"image": "nantes/logo-sans-baseline-720x720-1.png"
   	},
   	{
   		"nom_du_premier_contact": "Mathilde BRES",
@@ -1183,7 +1183,7 @@
   		"site": "https://www.edeni.fr/,https://www.facebook.com/bootcampedenipaysdelaloire/",
   		"statut_juridique": "Porteur(s) de projet (sans statut particulier)",
   		"email": "contact@edeni.fr",
-  		"image": "data/nantes/Edeni-Pays-d-ela-Loire-logo-blanc.png"
+  		"image": "nantes/Edeni-Pays-d-ela-Loire-logo-blanc.png"
   	},
   	{
   		"nom_du_premier_contact": "SupporTerre",
@@ -1200,7 +1200,7 @@
   		"site": "http://www.supporterre.fr/,",
   		"statut_juridique": "Association",
   		"email": "contact@supporterre.fr",
-  		"image": "data/nantes/SupporTerre-Blanc-SF-.png"
+  		"image": "nantes/SupporTerre-Blanc-SF-.png"
   	},
   	{
   		"nom_du_premier_contact": "Nicolas Massé",
@@ -1217,7 +1217,7 @@
   		"site": "https://www.vracfacile.fr,",
   		"statut_juridique": "Entreprise privée ",
   		"email": "nicolas@vracfacile.fr",
-  		"image": "data/nantes/Logo-Vrac-Facile.jpg"
+  		"image": "nantes/Logo-Vrac-Facile.jpg"
   	},
   	{
   		"nom_du_premier_contact": "LEMENAND",
@@ -1234,7 +1234,7 @@
   		"site": "http://www.ledriveenbocal.com,",
   		"statut_juridique": "",
   		"email": "contact@ledriveenbocal.com",
-  		"image": "data/nantes/logojpg.jpg"
+  		"image": "nantes/logojpg.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Anne-Sophie Leroux",
@@ -1251,7 +1251,7 @@
   		"site": "",
   		"statut_juridique": "Association",
   		"email": "bricoLowtech@gmail.com",
-  		"image": "data/nantes/logo-XL.png"
+  		"image": "nantes/logo-XL.png"
   	},
   	{
   		"nom_du_premier_contact": "Le Marec Aurélie",
@@ -1284,7 +1284,7 @@
   		"site": "http://lezesteenplus.com/,",
   		"statut_juridique": "SCOP",
   		"email": "contact@lezesteenplus.com",
-  		"image": "data/nantes/LOGO-LZEP_web.png"
+  		"image": "nantes/LOGO-LZEP_web.png"
   	},
   	{
   		"nom_du_premier_contact": "Laurent Authier",
@@ -1301,7 +1301,7 @@
   		"site": "http://www.plastic-pickup.fr,",
   		"statut_juridique": "Association",
   		"email": "contact@plastic-pickup.fr",
-  		"image": "data/nantes/logo.jpg"
+  		"image": "nantes/logo.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Charlotte Muckensturm",
@@ -1318,7 +1318,7 @@
   		"site": "http://autruchesutopistes.com/,",
   		"statut_juridique": "Association",
   		"email": "autruches.utopistes@ecomail-asso.com",
-  		"image": "data/nantes/logo-AU-2900px-photo-scaled.jpg"
+  		"image": "nantes/logo-AU-2900px-photo-scaled.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Hervé Fournier",
@@ -1335,7 +1335,7 @@
   		"site": "http://uq3r!q!hkIt@5en%EFVdRjlI,",
   		"statut_juridique": "",
   		"email": "herve.fournier@terra21.fr",
-  		"image": "data/nantes/LogoT21-001.jpg"
+  		"image": "nantes/LogoT21-001.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Dana Pfeuty",
@@ -1352,7 +1352,7 @@
   		"site": "https://compostinsitu.fr/,",
   		"statut_juridique": "SCOP",
   		"email": "direction.nantes@compostinsitu.fr",
-  		"image": "data/nantes/logo-Compost-In-Situ-phrase.jpg"
+  		"image": "nantes/logo-Compost-In-Situ-phrase.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Fanny Garcia",
@@ -1369,7 +1369,7 @@
   		"site": "https://aremacs.com/,",
   		"statut_juridique": "Association",
   		"email": "nantes@aremacs.com",
-  		"image": "data/nantes/logo-aremacs-trieur-public.png"
+  		"image": "nantes/logo-aremacs-trieur-public.png"
   	},
   	{
   		"nom_du_premier_contact": "",
@@ -1386,7 +1386,7 @@
   		"site": "http://www.rebelote.co,",
   		"statut_juridique": "Porteur(s) de projet (sans statut particulier)",
   		"email": "equipe.rebelote@gmail.com",
-  		"image": "data/nantes/Rebelote-Logotype_Rebelote-Logo-Bleu-et-vert.png"
+  		"image": "nantes/Rebelote-Logotype_Rebelote-Logo-Bleu-et-vert.png"
   	},
   	{
   		"nom_du_premier_contact": "Christian Renoulin",
@@ -1403,7 +1403,7 @@
   		"site": "http://lagalerieduzerodechet.fr,",
   		"statut_juridique": "Association",
   		"email": "contact@lagalerieduzerodechet.fr",
-  		"image": "data/nantes/logo_grand.jpg"
+  		"image": "nantes/logo_grand.jpg"
   	},
   	{
   		"nom_du_premier_contact": "Christian Renoulin",
@@ -1420,7 +1420,7 @@
   		"site": "https://mieuxtrieranantes.wordpress.com/,",
   		"statut_juridique": "Association",
   		"email": "mieuxtrieranantes@gmail.com",
-  		"image": "data/nantes/mieux_trier_a_nantes-1.png"
+  		"image": "nantes/mieux_trier_a_nantes-1.png"
   	},
   	{
   		"nom": "",
