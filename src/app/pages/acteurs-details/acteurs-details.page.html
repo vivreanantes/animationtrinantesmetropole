@@ -4,6 +4,9 @@
       <ion-icon name="close"></ion-icon>
     </div>
     <div class="header">
+      <div class="img" *ngIf="item.image">
+        <img src="assets/imgs/{{ item.image }}" />
+      </div>
       <h1>{{ item.nom}}</h1>
     </div>
     <div class="body">
