@@ -9,6 +9,28 @@
       </div>
       <h1>{{ item.nom}}</h1>
     </div>
+
+
+    <div class="contacts">
+      <div class="contact" *ngIf="item.tel">
+        <a (click)="openTel(item.tel)">
+          <ion-icon name="call"></ion-icon>
+        </a>
+      </div>
+      <div class="contact" *ngIf="item.url">
+        <a href="{{ item.url }}" target="_blank">
+          <ion-icon name="link"></ion-icon>
+        </a>
+      </div>
+
+      <div class="contact" *ngIf="item.facebook">
+        <a href="{{ item.facebook }}" target="_blank">
+          <ion-icon name="logo-facebook"></ion-icon>
+        </a>
+      </div>
+    </div>
+  </div>
+
     <div class="body">
       <div class="block">
         <div class="titre">
