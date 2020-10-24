@@ -10,9 +10,13 @@
         <select [(ngModel)]="input">
           <option *ngFor="let filtre of filtres">{{filtre}}</option>
         </select>
+      </div>      
+      <div class="body" style="text-align:left">
+        <strong>Crédits : </strong>
+        <span>Le <a (click)="openUrl('http://lagalerieduzerodechet.fr/?page_id=1111')" target="_blank">catalogue des acteurs</a> a été réalisé par la Galerie du Zéro Déchet (licence "Creative Commons Paternity"). Il présente les acteurs de la réduction des déchets de Nantes et des environs (limite large Pays de la Loire). </span>
+        <a (click)="openUrl('http://lagalerieduzerodechet.fr/?page_id=1234')" target="_blank">{{'plus_d_infos'|translate}}.</a>
       </div>
     </div>
-
 
     <div class="search" *ngIf="input">
       <select [(ngModel)]="input">
@@ -47,5 +51,6 @@
         </div>
       </div>
     </div>
+
   </div>
 </ion-content>

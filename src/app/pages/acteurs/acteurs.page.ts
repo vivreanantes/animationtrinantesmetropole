@@ -26,6 +26,9 @@ export class ActeursPage implements OnInit {
     });
   }
 
+  openUrl(url) {
+    window.open(url, "_system");
+  }
   async details(item) {
     const modal = await this.modalController.create({
       component: ActeursDetailsPage,

@@ -1,7 +1,8 @@
 import { Component, OnInit, ViewEncapsulation } from "@angular/core";
-import { NavParams, ModalController, Platform } from "@ionic/angular";
+import { NavParams, ModalController, PopoverController, Platform } from "@ionic/angular";
 
 import { DataService } from "../../services/data.service";
+import { TelephoneModalPage } from "../telephone-modal/telephone-modal.page";
 @Component({
   selector: "app-acteurs-details",
   templateUrl: "./acteurs-details.page.html",
@@ -14,6 +15,7 @@ export class ActeursDetailsPage implements OnInit {
     private platform: Platform,
     private navParams: NavParams,
     private dataService: DataService,
+    private popoverController: PopoverController,
     private modalController: ModalController
   ) {}
 
@@ -45,6 +47,17 @@ export class ActeursDetailsPage implements OnInit {
   openUrl(url) {
     // var url = "http://lagalerieduzerodechet.fr/?wpbdp_listing=" + nom.replace(/ /g, "-");
     window.open(url, "_system");
+  }
+
+  async openTel(tel) {
+    const popover = await this.popoverController.create({
+      component: TelephoneModalPage,
+      componentProps: {
+        phones: tel.split(";"),
+      },
+      translucent: true,
+    });
+    return await popover.present();
   }
 
   close() {
