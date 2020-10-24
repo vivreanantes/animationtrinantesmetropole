@@ -28,7 +28,7 @@
           <ion-icon name="logo-facebook"></ion-icon>
         </a>
       </div>
-    </div>
+    
   </div>
 
     <div class="body">
@@ -51,6 +51,13 @@
           <strong>{{'detail'|translate}} : </strong>
           <div class="description" [innerHtml]="( item | lang:'descr_long')"></div>
           
+          <p>
+          <strong>{{'nom_contact'|translate}} : </strong>
+          {{ item.nom_du_premier_contact }} <i>{{ item.fonction_du_premier_contact }} </i>
+          <br/>
+          <strong>{{'moyen_de_joindre_le_premier_contact'|translate}} : </strong>
+          {{ item.moyen_de_joindre_le_premier_contact }}
+        </p>
           <div class="buttons">
             <button (click)="openUrl(item.url)">
               {{'plus_d_infos'|translate}}
