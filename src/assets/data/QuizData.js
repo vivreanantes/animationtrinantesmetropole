@@ -118,7 +118,7 @@ var _theGoodSortingData = {
       advice_en:
         "Waste bin: they are too small to be recycled. Tip: They are recovered by some charities. Educate yourself.",
       image: "bouchon_liege.png",
-      reponses: ["poubelle"],
+      reponses: ["poubelle", "reemploi"],
       exclude_filters: ["niveau_enfant"]
     },
     {
@@ -221,11 +221,21 @@ var _theGoodSortingData = {
       name: "dentifrice",
       descr: "Tube de dentifrice",
       descr_en: "Tube of toothpaste",
+      advice: "Recyclage : tous les emballages se trient en extension de tri.",
+      advice_en: "Recycling: all packages are sorted in sorting extension.",
+      image: "dentifrice.png",
+      reponses: ["jaune"],
+      exclude_filters: ["tri_normal", "niveau_enfant"]
+    },
+    {
+      name: "dentifrice",
+      descr: "Tube de dentifrice",
+      descr_en: "Tube of toothpaste",
       advice: "Poubelle.",
       advice_en: "Bin.",
       image: "dentifrice.png",
       reponses: ["poubelle"],
-      exclude_filters: ["niveau_expert"]
+      exclude_filters: ["tri_extension", "niveau_enfant"]
     },
     {
       name: "epeluchure_legumes",
@@ -345,23 +355,9 @@ var _theGoodSortingData = {
       name: "paille_trinormal",
       descr: "Paille en plastique",
       descr_en: "Plastics straw",
-      advice:
-        "Poubelle : dans les plastiques, seuls les bouteilles et flacons vont en recyclage.",
-      advice_en:
-        "Waste bin: in plastics, only bottles and bottles go into recycling.",
       image: "paille.png",
       reponses: ["poubelle"],
-      exclude_filters: ["tri_extension"]
-    },
-    {
-      name: "paille_extensiondetri",
-      descr: "Paille en plastique",
-      descr_en: "Plastics straw",
-      advice: "Recyclage : tout le plastique se recycle en extension de tri.",
-      advice_en: "Recycling: all the plastic is recycled in sorting extension.",
-      image: "paille.png",
-      reponses: ["jaune"],
-      exclude_filters: ["tri_normal"]
+      exclude_filters: ["niveau_enfant"]
     },
     {
       name: "palette_bois",
@@ -459,8 +455,8 @@ var _theGoodSortingData = {
       name: "yaourt_extensiondetri",
       descr: "Yaourt",
       descr_en: "Yogurt pot",
-      advice: "Recyclage : tout le plastique se recycle en extension de tri.",
-      advice_en: "Recycling: all the plastic is recycled in sorting extension.",
+      advice: "Recyclage : tous les emballages se trient en extension de tri.",
+      advice_en: "Recycling : all the package are sorted in sorting extension.",
       image: "yaourt.png",
       reponses: ["jaune"],
       exclude_filters: ["tri_normal"]
@@ -490,11 +486,11 @@ var _theGoodSortingData = {
       exclude_filters: ["tri_extension"]
     },
     {
-      name: "barquette_jambon__extensiondetri",
+      name: "barquette_jambon_extensiondetri",
       descr: "Barquette de jambon en plastique",
       descr_en: "Ham tray made of plastic",
-      advice: "Recyclage : tout le plastique se recycle en extension de tri.",
-      advice_en: "Recycling: all the plastic is recycled in sorting extension.",
+      advice: "Recyclage : tous les emballages se trient en extension de tri.",
+      advice_en: "Recycling : all the package are sorted in sorting extension.",
       image: "emballage_polystyrene.png",
       reponses: ["jaune"],
       exclude_filters: ["tri_normal"]
@@ -545,14 +541,24 @@ var _theGoodSortingData = {
       exclude_filters: ["niveau_expert"]
     },
     {
-      name: "emballage_compote_a_boire",
+      name: "emballage_compote_a_boire_normal",
       descr: "Emballage de compote à boire",
       descr_en: "Pack of compote to drink",
       advice: "Poubelle.",
       advice_en: "Bin.",
       image: "compote-boire.png",
       reponses: ["poubelle"],
-      exclude_filters: ["niveau_expert"]
+      exclude_filters: ["tri_extension", "niveau_enfant"]
+    },
+    {
+      name: "emballage_compote_a_boire_extensiondetri",
+      descr: "Emballage de compote à boire",
+      descr_en: "Pack of compote to drink",
+      advice: "Recyclage : tous les emballages se trient en extension de tri.",
+      advice_en: "Recycling: all packages are sorted in sorting extension.",
+      image: "compote-boire.png",
+      reponses: ["jaune"],
+      exclude_filters: ["tri_normal", "niveau_enfant"]
     },
     {
       name: "jouet_plastique",
