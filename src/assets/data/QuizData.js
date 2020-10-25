@@ -137,6 +137,7 @@ var _theGoodSortingData = {
       descr_en: "Toothbrush",
       advice: "Poubelle.",
       advice_en: "Bin.",
+      image: "brosse_a_dent.png",
       reponses: ["poubelle"],
       exclude_filters: ["tri_normal", "niveau_enfant", "niveau_expert"]
     },
