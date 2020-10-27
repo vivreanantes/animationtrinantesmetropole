@@ -32,7 +32,7 @@
       <div class="body">
         <div class="list">
           <div *ngFor="let type of acteurs[input] | values">
-            <h3>{{ type[0].categorie_principale_detail?type[0].categorie_principale_detail:"Divers" }} :</h3>
+            <h3 style="background-color:#DDDDDD;text-transform:none;">{{ type[0].categorie_principale_detail?type[0].categorie_principale_detail:"Divers" }} :</h3>
             <ul>
               <li *ngFor="let t of type" (click)="details(t)">
                 <div class="info">
