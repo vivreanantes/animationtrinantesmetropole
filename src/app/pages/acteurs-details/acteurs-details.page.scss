@@ -5,22 +5,76 @@
     hr {
       margin: 2vh 0;
     }
-    .info {
-      .inner {
+    .contacts {
+      margin: 2vh 0;
+      display: flex;
+      flex-flow: row wrap;
+      justify-content: center;
+
+      .contact {
         display: flex;
+        flex-basis: 20%;
+        -ms-flex: auto;
+        align-items: center;
+        justify-content: center;
+
+        a {
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          @include fonts("button");
+          height: 10vw;
+          width: 10vw;
+          color: #fff;
+          background-color: var(--ion-color-primary);
+          border: 1px solid var(--ion-color-primary);
+          border-radius: 10vw;
+
+          @include tablet {
+            width: 7vw;
+            height: 7vw;
+            border-radius: 7vw;
+          }
+          @include desktop {
+            width: 3vw;
+            height: 3vw;
+            border-radius: 3vw;
+          }
+        }
       }
     }
-    .buttons {
-      display: flex;
-      width: 100%;
-      margin-top: 5vh;
-      button {
-        margin: auto;
-        width: 80vw;
-        padding: 1vh 2vw;
-        background-color: var(--ion-color-primary);
-        @include fonts("button");
-        color: #fff;
+  }
+  .block {
+    .body {
+      > div {
+        strong {
+          text-transform: capitalize;
+        }
+      }
+      .description {
+        margin-top: 1vh;
+      }
+
+      .buttons {
+        display: flex;
+        width: 100%;
+        margin-top: 5vh;
+        button {
+          margin: auto;
+          width: 80vw;
+          padding: 1vh 2vw;
+          background-color: var(--ion-color-primary);
+          @include fonts("button");
+          color: #fff;
+        }
+      }
+      hr {
+        margin: 2vh 0;
+      }
+      .info {
+        .inner {
+          display: flex;
+        }
       }
     }
   }

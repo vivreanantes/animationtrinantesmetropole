@@ -1,4 +1,5 @@
 <ion-content>
+
   <div class="mt-content fiche">
     <div class="close" (click)="close()">
       <ion-icon name="close"></ion-icon>
@@ -8,28 +9,27 @@
         <img src="assets/imgs/{{ item.image }}" />
       </div>
       <h1>{{ item.nom}}</h1>
+
+      <div class="contacts">
+        <div class="contact" *ngIf="item.tel">
+          <a (click)="openTel(item.tel)">
+            <ion-icon name="call"></ion-icon>
+          </a>
+        </div>
+        <div class="contact" *ngIf="item.url">
+          <a href="{{ item.url }}" target="_blank">
+            <ion-icon name="link"></ion-icon>
+          </a>
+        </div>
+
+        <div class="contact" *ngIf="item.facebook">
+          <a href="{{ item.facebook }}" target="_blank">
+            <ion-icon name="logo-facebook"></ion-icon>
+          </a>
+        </div>
+
+      </div>
     </div>
-
-
-    <div class="contacts">
-      <div class="contact" *ngIf="item.tel">
-        <a (click)="openTel(item.tel)">
-          <ion-icon name="call"></ion-icon>
-        </a>
-      </div>
-      <div class="contact" *ngIf="item.url">
-        <a href="{{ item.url }}" target="_blank">
-          <ion-icon name="link"></ion-icon>
-        </a>
-      </div>
-
-      <div class="contact" *ngIf="item.facebook">
-        <a href="{{ item.facebook }}" target="_blank">
-          <ion-icon name="logo-facebook"></ion-icon>
-        </a>
-      </div>
-    
-  </div>
 
     <div class="body">
       <div class="block">
@@ -38,26 +38,26 @@
         </div>
         <div class="body infos">
           <p>
-            <strong>{{'select_categories_acteur'|translate}} : </strong>{{ item.categorie_principale|
+            <strong style='text-transform:none;'>{{'select_categories_acteur'|translate}} : </strong>{{ item.categorie_principale|
               translate}}
           </p>
           <p>
             <strong style='text-transform:none;'>{{'statut'|translate}} : </strong>{{ item.statut_juridique |
             translate }}
           </p>
-            <strong>{{'resume'|translate}} : </strong>
-            <div class="description" [innerHtml]="( item | lang:'descr')"></div>
+          <strong style='text-transform:none;'>{{'resume'|translate}} : </strong>
+          <div class="description" [innerHtml]="( item | lang:'descr')"></div>
 
-          <strong>{{'detail'|translate}} : </strong>
+          <strong style='text-transform:none;'>{{'detail'|translate}} : </strong>
           <div class="description" [innerHtml]="( item | lang:'descr_long')"></div>
-          
+
           <p>
-          <strong>{{'nom_contact'|translate}} : </strong>
-          {{ item.nom_du_premier_contact }} <i>{{ item.fonction_du_premier_contact }} </i>
-          <br/>
-          <strong>{{'moyen_de_joindre_le_premier_contact'|translate}} : </strong>
-          {{ item.moyen_de_joindre_le_premier_contact }}
-        </p>
+            <strong style='text-transform:none;'>{{'nom_contact'|translate}} : </strong>
+            {{ item.nom_du_premier_contact }} <i>{{ item.fonction_du_premier_contact }} </i>
+            <br />
+            <strong style='text-transform:none;'>{{'moyen_de_joindre_le_premier_contact'|translate}} : </strong>
+            {{ item.moyen_de_joindre_le_premier_contact }}
+          </p>
           <div class="buttons">
             <button (click)="openUrl(item.url)">
               {{'plus_d_infos'|translate}}
