@@ -56,7 +56,7 @@ export class CartePage implements OnInit {
     layers: [
       tileLayer("http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
         maxZoom: 18,
-        attribution: "Openstreetmap",
+        attribution: "Contributeurs OpenStreetMap",
       }),
       this.markersLayer,
       this.playerLayer,
