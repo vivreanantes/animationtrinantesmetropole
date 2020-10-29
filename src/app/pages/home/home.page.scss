@@ -60,6 +60,7 @@
             margin: auto;
             display: grid;
             width: 100%;
+            margin-top:10vh;
             cursor: pointer;
             grid-template-columns: repeat(auto-fill, minmax(45vw, 1fr));
             grid-auto-rows: 1fr;
