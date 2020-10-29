@@ -73,14 +73,15 @@
             flex-direction: column;
             width: 30%;
             text-align: center;
-            background-color: rgba(#fff, 0.8);
+            background-color: rgba(#fff, 0.7);
             border-radius: 0.8em;
             margin:1.5vw;
             padding-top: 1em;
 
             .content {
               img {
-                max-height: 11vh;
+                width: 70%;
+                height: auto;
                 margin: 0 auto;
                 @include tablet {
                   width: 50%;

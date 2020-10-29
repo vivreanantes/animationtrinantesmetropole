@@ -16,6 +16,9 @@
         bottom: -$quiz_bg_blur;
         @include mtnbackground();
 
+        background-image: url(/assets/imgs/quiz2.png);
+        background-size: cover;
+
         &:after {
             content: "";
             position: absolute;
