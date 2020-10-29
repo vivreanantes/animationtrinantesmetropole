@@ -56,7 +56,7 @@ export class CartePage implements OnInit {
     layers: [
       tileLayer("http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
         maxZoom: 18,
-        attribution: "Contributeurs OpenStreetMap",
+        attribution: "Données © <a href='http://openstreetmap.org' target=_new>Les contributeurs OpenStreetMap</a>, <a href='https://openstreetmap.org/copyright' target=_new>CC-BY-SA</a> | Tuiles © Mapbox",
       }),
       this.markersLayer,
       this.playerLayer,
