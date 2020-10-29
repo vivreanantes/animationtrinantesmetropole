@@ -5,6 +5,9 @@
     h2 {
       padding: 2vh 3vw;
       margin: 0;
+      background: $mt-box-header-background;
+      color: #3e5500;
+      font-size: 1.2em;
     }
   }
   > .body {
@@ -152,5 +155,12 @@
         }
       }
     }
+  }
+}
+
+.mt-content.fiche .header {
+  h1 {
+    text-shadow: 1px 1px 2px #1c310d;
+    margin:0.3em 0em;
   }
 }

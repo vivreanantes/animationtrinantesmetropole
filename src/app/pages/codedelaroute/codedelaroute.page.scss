@@ -10,8 +10,7 @@
     left: -$quiz_bg_blur;
     right: -$quiz_bg_blur;
     bottom: -$quiz_bg_blur;
-    background-image: url(/assets/imgs/quiz2.png);
-    background-size: cover;
+    @include mtnbackground();
     @include prefix(filter, blur($quiz_bg_blur), webkit ms moz o);
 
     &:after {
@@ -60,7 +59,7 @@
         margin: auto;
         background-color: transparent;
         border: none;
-        color: #fff;
+        color: #0a551d;
       }
     }
     #difficult {
@@ -222,13 +221,10 @@
             width: 100%;
             padding: 2.5vh 0;
             border-radius: 10px;
+            color: #063111;
             @include fonts("button", bold);
             background-color: rgba(#fff, 0.8);
-            @include prefix(
-              box-shadow,
-              0px 0px 2px 0px #656565,
-              webkit ms moz o
-            );
+            font-size: 1em;
           }
         }
       }
