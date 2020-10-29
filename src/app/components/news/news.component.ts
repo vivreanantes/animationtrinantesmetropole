@@ -16,7 +16,7 @@ export class NewsComponent {
 
 	newsUrl = "https://raw.githubusercontent.com/vivreanantes/animationtrinantesmetropole/MieuxTrierANantesV3/src/assets/data/News.json"
 
-	updatedAt = null;
+	updatedAt = undefined;
 	showBlock = false;
 	loading = false;
 
@@ -53,7 +53,6 @@ export class NewsComponent {
 	};
 
 	showNewsDetail = async (aNews) => {
-		console.log(aNews);
 		const alert = await this.alertController.create({
 			cssClass: 'my-custom-class',
 			header: aNews.title,
@@ -73,10 +72,14 @@ export class NewsComponent {
 		} else {
 			var jsonNews = localStorage.getItem("news");
 			var news = [];
+			if (this.updatedAt === undefined) {
+				this.updatedAt = new Date();
+			}
 			try {
 				news = JSON.parse(jsonNews);
 			} catch (error) {
-				console.error(news)
+				console.error(news);
+				this.updatedAt = null;
 			}
 			return news;
 		}
