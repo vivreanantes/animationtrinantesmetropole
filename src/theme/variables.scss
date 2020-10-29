@@ -83,7 +83,7 @@
   --mt-color-jaune: #fffd0d;
 }
 
-$font-family: "Roboto";
+$font-family: "Roboto", "Helvetica Neue", sans-serif;
 $fonts-ratio-tablet: 1.5;
 $fonts-ratio-desktop: 1.6;
 
@@ -97,3 +97,10 @@ $fonts: (
   p: 1rem,
   small: 0.8rem,
 );
+
+$mt-box-header-text: #333333;
+$mt-box-header-background: #f6fd30;
+$mt-box-list-background: #e9fddd;
+$mt-box-list-text: #333333;
+$mt-button-background: #78c61b;
+$mt-button-text: #f5ffe8;

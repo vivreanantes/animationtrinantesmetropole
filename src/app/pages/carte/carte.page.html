@@ -2,7 +2,7 @@
   <button-menu></button-menu>
   <div id="leaflet"></div>
   <div class="buttons">
-    <button class="filtre" (click)="showFiltres()">  {{ "carte_filtres" | translate}}</button>
+    <button class="filtre" (click)="showFiltres()" [ngClass]="{'hide':filtresShowed===true}"> {{ "carte_filtres" | translate}}</button>
     <button
       class="position"
       (click)="recenter()"
@@ -14,7 +14,7 @@
 
   <div class="filtres" [ngClass]="{'show':filtresShowed===true}">
     <div class="header">
-      {{ "carte_filter" | translate}}
+      <ion-icon name="map"></ion-icon> {{ "carte_filter" | translate}}
     </div>
     <div class="body">
       <div class="list">

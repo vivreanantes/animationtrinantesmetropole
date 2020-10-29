@@ -20,28 +20,15 @@
           <h2>{{ categorie | lang: "nom" }}</h2>
         </div>
 
-        <ngu-carousel
-          #myCarousel
-          [inputs]="carouselConfig"
-          [dataSource]="categorie.items"
-          class="items"
-          *ngIf="categorie.items && categorie.items.length >0"
-        >
-          <ngu-tile
-            *nguCarouselDef="let item;"
-            class="item"
-            (click)="voirDechet(item)"
-          >
-            <img src="assets/imgs/{{ item.image }}" alt="Image" />
-            <h4>{{ item|lang:'nom' }}</h4>
-          </ngu-tile>
-          <button NguCarouselPrev class="leftRs">
-            <ion-icon name="arrow-back"></ion-icon>
-          </button>
-          <button NguCarouselNext class="rightRs">
-            <ion-icon name="arrow-forward"></ion-icon>
-          </button>
-        </ngu-carousel>
+        <div class="carousel">
+        <div class="tile" *ngFor="let item of categorie.items">
+          <div class="content" (click)="voirDechet(item)">
+          <img src="assets/imgs/{{ item.image }}" alt="Image" />
+          <h4>{{ item|lang:'nom' }}</h4>
+          </div>
+        </div>
+        </div>
+        
       </div>
     </div>
   </div>

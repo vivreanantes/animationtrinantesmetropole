@@ -33,13 +33,16 @@
     z-index: 2;
     width: 50vw;
     padding: 1vh 2vw;
-    background-color: var(--ion-color-primary);
     @include fonts("button");
-    color: #fff;
+    background-color: $mt-button-background;
+    color: $mt-button-text;
     @include desktop {
       left: 37.5vw;
       z-index: 2;
       width: 25vw;
+    }
+    &.hide{
+      @include prefix(transform, translateY(150%), webkit moz);
     }
   }
   .position {
@@ -77,12 +80,11 @@
     top: 50%;
     left: 5%;
     width: 90%;
-    background-color: #fff;
     z-index: 3;
     @include prefix(transform-origin, 50% 50%, webkit moz);
     @include prefix(transform, translateY(100%), webkit moz);
     @include prefix(transition, transform 0.3s ease-in-out, webkit moz);
-    @include prefix(box-shadow, 0px 0px 5px 0px #656565, webkit moz);
+    //@include prefix(box-shadow, 0px 0px 5px 0px #656565, webkit moz);
     &.show{
       @include prefix(transform, translateY(-50%), webkit moz);
     }
@@ -90,9 +92,13 @@
     > .header {
       position: relative;
       padding: 15px 20px;
-      @include fonts("h3");
+      @include fonts("h4");
       text-align: center;
-      border-bottom: 2px solid #000;
+      border-bottom: 1px solid #555;
+      border-top-left-radius: 15px;
+      border-top-right-radius: 15px;
+      background: #cfff4a;;
+      color: $mt-box-header-text;
     }
     > .body {
       > .list {
@@ -109,6 +115,7 @@
               filter: grayscale(0);
               opacity: 1;
             }
+            background: darken($mt-box-list-background, 5);
           }
           img {
             position: absolute;
@@ -121,22 +128,21 @@
           .checkbox-icon {
             display: none;
           }
+          background: $mt-box-list-background
         }
       }
     }
     > .footer {
       position: relative;
       width: 100%;
-      background-color: #fff;
-      margin-top: 40px;
       > button {
         width: 100%;
         margin: 0;
         padding: 15px 20px;
         border-radius: 0;
-        background-color: var(--ion-color-primary);
+        background-color: $mt-button-background;
         @include fonts("button", bold);
-        color: #fff;
+        color: $mt-button-text;
       }
     }
   }
