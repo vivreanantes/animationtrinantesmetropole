@@ -1,6 +1,26 @@
 @import "../../../theme/theme";
 :host {
   ion-content {
-    background-color: var(--mt-color-vert) !important;
+    background-image: url(/assets/imgs/quiz2.png);
+    background-size: cover;
+    .mt-content.fiche .header {
+      .img {
+        background-color: rgba(#fff, 0.7);
+      }
+      h1 {
+        text-shadow: 1px 1px 2px #1c310d;
+        margin:0.3em 0em;
+      }
+    }
+    
+  }
+  .block > .titre h2
+  {
+    color: #3e5500;
+    background: #cfff4a;
+    font-size: 1.2em;
+  }
+  .block > .body {
+    padding: 0.5em;
   }
 }

@@ -29,6 +29,9 @@
                 rgba(64, 150, 238, 1) 100%);
         filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#7abcff', endColorstr='#4096ee', GradientType=1);
 
+        background-image: url(/assets/imgs/quiz2.png);
+        background-size: cover;
+
         &:after {
             content: "";
             position: absolute;
@@ -70,6 +73,7 @@
             margin: auto;
             display: grid;
             width: 100%;
+            margin-top:10vh;
             cursor: pointer;
             grid-template-columns: repeat(auto-fill, minmax(45vw, 1fr));
             grid-auto-rows: 1fr;
