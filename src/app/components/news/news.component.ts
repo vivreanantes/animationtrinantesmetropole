@@ -14,10 +14,9 @@ export class NewsComponent {
 		private http: HttpClient,
 		public alertController: AlertController) {}
 
-	newsUrl = "https://raw.githubusercontent.com/vivreanantes/animationtrinantesmetropole/MieuxTrierANantesV3_News/src/assets/data/News.json"
+	newsUrl = "https://raw.githubusercontent.com/vivreanantes/animationtrinantesmetropole/MieuxTrierANantesV3/src/assets/data/News.json"
 
 	updatedAt = null;
-	lastCheck = null;
 	showBlock = false;
 	loading = false;
 
@@ -43,22 +42,9 @@ export class NewsComponent {
 			.toPromise()
 			.then((response) => {
 				this.loading = false;
-				this.lastCheck = new Date();
+				this.updatedAt = new Date();
 				if (response["news"] !== undefined) {
 					this.set(response["news"]);
-					if (response["updated_at"] !== undefined) {
-						var date = response["updated_at"];
-						try {
-							// Multiplied by 1000 so that the argument is in milliseconds, not seconds.
-							this.updatedAt = new Date(date * 1000)
-						} catch (error) {
-							console.error(error)
-							this.updatedAt = new Date();
-						}
-					} else {
-						console.error("No updated_at field in json")
-						this.updatedAt = new Date();
-					}
 				}
 			})
 			.catch((error) => {
