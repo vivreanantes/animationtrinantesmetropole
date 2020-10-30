@@ -1,0 +1,74 @@
+@import "../../../theme/theme";
+
+:host {
+    --background: transparent !important;
+    background-color: var(--background);
+    border-color: var(--background);
+    z-index: 2;
+
+    button {
+        --background: transparent !important;
+        background-color: var(--background);
+        border-color: var(--background);
+        outline: none;
+    }
+
+    ion-icon {
+        font-size: 1.7rem;
+        color: #fff;
+    }
+
+    .flex-grow-1 {
+        flex-grow: 1;
+    }
+
+    .block {
+        width: 98%;
+        margin: 2vh auto 0 auto;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        overflow: hidden;
+        margin-left: 1%;
+        margin-right: 1%;
+
+        .titre {
+            display: flex;
+            align-items: center;
+            width: 100%;
+
+            .refresh {
+                margin-right: 2vw;
+            }
+        }
+
+        .body {
+            --background: #fff;
+            background-color: var(--background);
+
+            .list {
+                .item {
+                    height: auto;
+                    border-bottom: lightgray 1px solid;
+                    text-align: left;
+
+                    .new_title {
+                        margin-left: 1vw;
+                        white-space: nowrap;
+                        text-overflow: ellipsis;
+                        width: 100%;
+                        overflow: hidden;
+                    }
+                }
+
+                .item:last-child {
+                    border-bottom: unset;
+                }
+            }
+
+            .footer {
+                font-size: 0.8rem;
+                text-align: right;
+            }
+        }
+    }
+}

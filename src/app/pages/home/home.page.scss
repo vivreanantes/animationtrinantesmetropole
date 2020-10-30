@@ -132,11 +132,11 @@
 
                 >span {
                     margin: auto;
-                    margin-top: 20px;
+                    margin-top: 0.5vh;
                     color: #fff;
                     white-space: pre-line;
                     text-align: center;
-                    @include fonts("h4", bold);
+                    @include fonts("h5", bold);
 
                     @include desktop {
                         @include fonts("h5", bold);

@@ -49,7 +49,7 @@
       </div>
       <div class="reponses">
         <div
-          class="reponse"
+          class="reponse clickable"
           id="reponse-{{ reponse.id }}"
           *ngFor="let reponse of questions[questionIndex].reponses; let i = index"
           (click)="clickReponse($event, reponse.id)"

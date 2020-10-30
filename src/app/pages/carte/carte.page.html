@@ -19,7 +19,7 @@
     <div class="body">
       <div class="list">
         <div
-          class="item"
+          class="item clickable"
           [ngClass]="{'selected':item.selected}"
           *ngFor="let item of filtres"
           (click)="selectFiltre(item)"

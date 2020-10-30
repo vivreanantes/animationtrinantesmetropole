@@ -1,0 +1,28 @@
+<div class="mt-content mb-content">
+    <div class="block">
+        <button class="titre" (click)="toggleShowBlock()">
+            <ion-icon name="caret-down-outline" style="color: black;" *ngIf="showBlock"></ion-icon>
+            <ion-icon name="caret-forward-outline" style="color: black;" *ngIf="!showBlock"></ion-icon>
+            <h2>{{"actualités" | translate}}</h2>
+            <div class="flex-grow-1"></div>
+            <button class="refresh" (click)="refresh($event)">
+                <ion-icon name="refresh-outline" style="color: black;"></ion-icon>
+            </button>
+        </button>
+        <div class="body" *ngIf="showBlock">
+            <div class="list">
+                <div *ngIf="loading">{{"chargement" | translate}}</div>
+                <div *ngIf="!loading && get().length === 0">{{"aucune_actualité" | translate}}</div>
+                <button class="item" *ngFor="let new of get()" (click)="showNewsDetail(new)">
+                    {{ new.icon }}
+                    <p class="new_title">
+                        {{ new.title }}
+                    </p>
+                </button>
+            </div>
+            <div class="footer" *ngIf="updatedAt !== null">
+                <p>{{ "mis_a_jour_le" | translate }} : {{ updatedAt.toLocaleString(langageService.get()) }}</p>
+            </div>
+        </div>
+    </div>
+</div>

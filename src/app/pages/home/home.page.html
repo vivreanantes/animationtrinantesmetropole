@@ -2,6 +2,10 @@
 
 <ion-content no-scroll>
   <button-menu></button-menu>
+  <div id="logo">
+    <img src="assets/imgs/logo.png" />
+  </div>
+  <news></news>
   <div id="menu">
     <div class="page" *ngFor="let page of pages" routerLink="/{{page.link}}" routerDirection="root">
       <ion-icon name="{{ page.icon }}"></ion-icon>

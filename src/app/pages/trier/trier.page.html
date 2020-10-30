@@ -6,7 +6,7 @@
       <div class="input-field">
         <input type="text" placeholder="{{ 'dechet_placeholder'|translate }}" [(ngModel)]="input"
           (ngModelChange)="onChangeFiltre(input)" />
-        <ion-icon name="close" (click)="cleanFiltre()"></ion-icon>
+        <ion-icon name="close" class="clickable" (click)="cleanFiltre()"></ion-icon>
       </div>
     </div>
 
