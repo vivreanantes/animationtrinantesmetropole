@@ -1,0 +1,55 @@
+<div id="background"></div>
+
+<ion-content>
+  <button-menu></button-menu>
+  <div class="mt-content" [ngClass]="{'selected':input}">
+    <div class="block" *ngIf="!input">
+      <div class="body">
+        <h2>{{"select_recettes"| translate}}</h2>
+
+        <select [(ngModel)]="input">
+          <option *ngFor="let filtre of filtres">{{filtre}}</option>
+        </select>
+      </div>      
+      <div class="body" style="text-align:left">
+        <strong>Crédits : </strong>
+        <span>Ce document a été rédigé conjointement par Alice Martin-Demolon et l'association "La Galerie du Zéro Déchet".</span>
+          <a (click)="openUrl('http://lagalerieduzerodechet.fr/?page_id=2363')" target="_blank">{{'plus_d_infos'|translate}}.</a>
+        </div>
+    </div>
+
+    <div class="search" *ngIf="input">
+      <select [(ngModel)]="input">
+        <option *ngFor="let filtre of filtres">{{filtre}}</option>
+      </select>
+    </div>
+    <div class="block" *ngIf="input">
+      <div class="titre">
+        <h2>
+          {{ input }}
+        </h2>
+      </div>
+      <div class="body">
+        <div class="list">
+          <div *ngFor="let type of recettes[input] | values">
+            <h3 style="background-color:#DDDDDD;text-transform:none;">{{ type[0].categorie_principale_detail?type[0].categorie_principale_detail:"Divers" }} :</h3>
+            <ul>
+              <li *ngFor="let t of type" (click)="details(t)">
+                <div class="info">
+                  <h5 style='display: block'>{{t.nom}}</h5>
+                  <!--div class="description" [innerHtml]="(t.descr)"></div-->
+                </div>
+                <div class="buttons">
+                  <button>
+                    <ion-icon name="information-circle-outline"></ion-icon>
+                  </button>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</ion-content>

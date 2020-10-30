@@ -98,7 +98,18 @@ const routes: Routes = [
     path: 'categorie-dechet/:categorie/dechet/:dechet',
     loadChildren: () => import('./pages/dechet/dechet.module').then(m => m.DechetPageModule),
   },
-
+  {
+    path: "recettes",
+    loadChildren: () =>
+      import("./pages/recettes/recettes.module").then((m) => m.RecettesPageModule),
+  },
+  {
+    path: "Recettes-details",
+    loadChildren: () =>
+      import("./pages/recettes-details/recettes-details.module").then(
+        (m) => m.RecettesDetailsPageModule
+      ),
+  }
 ];
 
 @NgModule({

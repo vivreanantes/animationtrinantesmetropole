@@ -15,7 +15,7 @@ export class HomePage {
     { title: "collecteadomicile", icon: "trash", link: "collecteadomicile" },
     { title: "trisac", icon: "construct", link: "trisac" },
     { title: "acteurs", icon: "construct", link: "acteurs" },
-    { title: "recettes", icon: "construct", link: "acteurs" },
+    { title: "recettes", icon: "construct", link: "recettes" },
     { title: "config", icon: "construct", link: "parameters" },
     { title: "contact", icon: "person", link: "contact" }
   ];

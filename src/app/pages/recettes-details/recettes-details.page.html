@@ -1,0 +1,33 @@
+<ion-content>
+
+  <div class="mt-content fiche">
+    <div class="close" (click)="close()">
+      <ion-icon name="close"></ion-icon>
+    </div>
+    <div class="header">
+      <div class="img" *ngIf="item.image">
+        <img src="assets/imgs/{{ item.image }}" />
+      </div>
+      <h1>{{ item.nom}}</h1>
+
+    </div>
+
+    <div class="body">
+      <div class="block">
+        <div class="titre">
+          <h2>{{'informations'|translate}}</h2>
+        </div>
+        <div class="body infos">
+          <p>
+            <strong style='text-transform:none;'>{{'select_recettes'|translate}} : </strong>{{ item.categorie_principale|
+              translate}}
+          </p>
+        
+          <div class="description" [innerHtml]="( item | lang:'descr')"></div>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</ion-content>
