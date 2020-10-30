@@ -225,7 +225,7 @@ var _garbagesDatas = [{
     "mots_cles": "barquette,aluminium,barquette,quiche,",
     "mots_cles_en": "aluminum,tray,tray,pizza,quiche,tray,",
     "cons": "cons_allu",
-    "image": "barquette_aluminium_mini.png",
+    "image": "barquette_alu.png",
     "modco": "modco_decheterie,modco_ecopoint,modco_bacjaunehorsnantes,modco_sacjaune,modco_contembjournmag",
     "recyc": "recyclable_oui",
     "src": "MieuxTrierANantes 02/2015"
@@ -243,7 +243,7 @@ var _garbagesDatas = [{
     "mots_cles": "barquette,polystyrene,barquette,plastique,",
     "mots_cles_en": "polystyrene,plastic,tray,tray,",
     "cons": "cons_pasuniquementbouteilleflacon,cons_tripasrecyclage",
-    "image": "barquette_polystyrene_mini.png",
+    "image": "barquette_polystirene_mini.png",
     "modco": "modco_bacjaunenantes,modco_bacbleuhorsnantes,modco_sacjaune",
     "recyc": "recyclable_oui_et_non",
     "src": "MieuxTrierANantes 02/2015"
@@ -456,7 +456,7 @@ var _garbagesDatas = [{
     "mots_cles": "bouchon,liege,",
     "mots_cles_en": "cork,",
     "cons": "cons_bouchonliege,",
-    "image": "bouchon_liege_mini.png",
+    "image": "bouchon_liege.png",
     "modco": "modco_bacbleuhorsnantes,modco_bacbleunantes,modco_sacbleu",
     "recyc": "non_recyclable",
     "src": "MieuxTrierANantes 02/2015"

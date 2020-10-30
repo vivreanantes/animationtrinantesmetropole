@@ -64,8 +64,8 @@ var _usualCategoriesData = [{
   },
   {
     "code": "cu_toxique",
-    "nom": "Médicament",
-    "nom_en": "Drug",
+    "nom": "Toxique",
+    "nom_en": "Toxic",
     "sous_cat": "true",
     "image": "medicaments_mini.png",
     "bouton": "cu_toxique"

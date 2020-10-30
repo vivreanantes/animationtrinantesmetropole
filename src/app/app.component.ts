@@ -36,11 +36,12 @@ export class AppComponent {
       { title: "cdlr", icon: "help", link: "codedelaroute" },
       { title: "carte", icon: "trash", link: "carte" },
       { title: "trier2", icon: "trash", link: "trier2" },
-      { title: "contact", icon: "person", link: "contact" },
+	    { title: "collecteadomicile", icon: "trash", link: "collecteadomicile" },
       { title: "trisac", icon: "construct", link: "trisac" },
       { title: "acteurs", icon: "construct", link: "acteurs" },
+      { title: "recettes", icon: "construct", link: "acteurs" },
       { title: "config", icon: "construct", link: "parameters" },
-      { title: "trier", icon: "trash", link: "trier" },
+      { title: "contact", icon: "person", link: "contact" },
     ];
     this.initializeApp();
   }

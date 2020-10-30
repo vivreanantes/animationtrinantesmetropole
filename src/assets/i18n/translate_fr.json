@@ -13,7 +13,7 @@
   "quiz_next": "Question suivante",
   "quiz_finish_text": "Vous avez {{reponses}} bonne(s) réponse(s) sur {{questions}} questions.",
   "cdlr_valid": "Valider",
-  "cdlr": "QCM",
+  "cdlr": "Quiz",
   "cdlr_list_title": "Choisissez un questionnaire",
   "contact": "Contact / A propos",
   "contact_advice": "Quelle est votre question ?",

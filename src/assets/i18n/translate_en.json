@@ -13,7 +13,7 @@
   "quiz_next": "Next question",
   "quiz_finish_text": "You have {{reponses}} good answer(s) for {{questions}} questions.",
   "cdlr_valid": "Validate",
-  "cdlr": "QCM",
+  "cdlr": "Quiz",
   "cdlr_list_title": "Choose survey",
   "contact": "Contact / About",
   "contact_advice": "Your question ?",

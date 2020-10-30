@@ -43,6 +43,11 @@ const routes: Routes = [
       import("./pages/trier2/trier2.module").then((m) => m.Trier2PageModule),
   },
   {
+    path: "collecteadomicile",
+    loadChildren: () =>
+      import("./pages/collecteadomicile/collecteadomicile.module").then((m) => m.CollecteADomicilePageModule),
+  },
+  {
     path: "trisac",
     loadChildren: () =>
       import("./pages/trisac/trisac.module").then((m) => m.TrisacPageModule),
@@ -57,6 +62,13 @@ const routes: Routes = [
     loadChildren: () =>
       import("./pages/trisac-details/trisac-details.module").then(
         (m) => m.TrisacDetailsPageModule
+      ),
+  },
+  {
+    path: "jourdecollecte-modal",
+    loadChildren: () =>
+      import("./pages/jourdecollecte-modal/jourdecollecte-modal.module").then(
+        (m) => m.JourDeCollecteModalPageModule
       ),
   },
   {
