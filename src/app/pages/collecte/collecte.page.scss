@@ -1,6 +1,13 @@
 @import "../../../theme/theme";
 :host {
   ion-content {
-    background-color: var(--mt-color-vert) !important;
+    @include mtnbackground();
   }
+}
+
+.mt-content.fiche .header .img {
+  background: rgba(127, 200, 77, 0.7);
+  border-radius: 2em;
+  height: 18vh;
+  width: 18vh;
 }
