@@ -137,7 +137,7 @@ var _ihmLabelsFrDatas = {
 	"trisac": "Trisac",
 	"acteurs": "Acteurs ZD",
 	"recettes": "Recettes ZD",
-	"collecteadomicile" : "Collect at home",
+	"collecteadomicile" : "Collecte à domicile",
 	"tpl_aider": "<table border='0' padding='0'><tr><td valign='top'><img src='resources/images/nantes/logo_mieuxtrieranantes.png' width='50px'></td><td valign='top'><div align='center' style='font-size:14px;font-weight:bold'>Mieux trier à Nantes</div><div align='center'>Aider les habitants de Nantes Métropôle à trier.</div>",
 	"global_button_placeholder": "Ex : miroir, emmaüs, compostage...",
 	"quiz_janvier": "Quiz Janvier",
