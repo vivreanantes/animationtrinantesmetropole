@@ -6,6 +6,7 @@ import { Component } from "@angular/core";
   styleUrls: ["./home.page.scss"],
 })
 export class HomePage {
+  onOver: boolean = false;
   pages = [
     { title: "jeux", icon: "leaf", link: "quiz" },
     { title: "cdlr", icon: "help", link: "codedelaroute" },

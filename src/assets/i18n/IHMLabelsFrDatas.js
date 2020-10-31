@@ -174,7 +174,7 @@ var _ihmLabelsFrDatas = {
 	"menu": "Menu",
 	"accueil": "Accueil / actus",
 	"langue_actuelle": "Français",
-	"jeux": "Jeux",
+	"jeux": "Jeu du tri",
 	"config": "Paramètres",
 	"alert_collectmodsfilter": "Pensez à configurer votre adresse, pour avoir uniquement vos modes de collectes.",
 	"configurez_selon_votre_adresse": "Pensez à configurer selon votre adresse",

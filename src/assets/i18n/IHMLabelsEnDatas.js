@@ -133,6 +133,7 @@ var _ihmLabelsEnDatas = {
 	"lieux": "Places",
 	"a_domicile": "At home",
 	"trisac": "Trisac",
+	"collecteadomicile" : "Collecte à modicile"
 	"acteurs": "Actors ZW",
 	"recettes": "Recipes ZW",
 	"tpl_aider": "<table border='0' padding='0'><tr><td valign='top'><img src='resources/images/nantes/logo_mieuxtrieranantes.png' width='50px'></td><td valign='top'><div align='center' style='font-size:14px;font-weight:bold'>Mieux trier à Nantes</div><div align='center'>To help inhabitants of Nantes Métropole to sort.</div>",
@@ -170,7 +171,7 @@ var _ihmLabelsEnDatas = {
 	"menu": "Menu",
 	"accueil": "Home / news",
 	"langue_actuelle": "English",
-	"jeux": "Games",
+	"jeux": "Sorting game",
 	"config": "Params",
 	"alert_collectmodsfilter": "Remember to set your address for the collection modes you need.",
 	"configurez_selon_votre_adresse": "Configure depending your address",

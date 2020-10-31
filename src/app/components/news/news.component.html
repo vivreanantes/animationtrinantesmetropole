@@ -21,7 +21,7 @@
                 </button>
             </div>
             <div class="footer" *ngIf="updatedAt !== null">
-                <p>{{ "mis_a_jour_le" | translate }} :  updatedAt.toLocaleString(langageService.get()) </p>
+                <p>{{ "mis_a_jour_le" | translate }} : {{ updatedAt.toLocaleString(langageService.get()) }}</p>
             </div>
         </div>
     </div>

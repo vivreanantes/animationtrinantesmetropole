@@ -2,7 +2,7 @@
     "news": [{
         "icon": "👍",
         "title": "Nouvelle version de l'application en cours de développement",
-        "description": "Une nouvelle application est en cours de développement par l'équipe "Mieux trier à Nantes". Sortie prévue le 19 novembre.\nOn recherche des testeurs, et des développeurs 😉"
+        "description": "Une nouvelle application est en cours de développement par l'équipe 'Mieux trier à Nantes'. Sortie prévue le 19 novembre.\nOn recherche des testeurs, et des développeurs 😉"
     }, {
         "icon": "😉",
         "title": "Reconfinement. Les déchetteries restent ouvertes dans l’agglo nantaise",
@@ -10,6 +10,6 @@
     }, {
         "icon": "👀",
         "title": "Nantes Métropole : les chiffres clefs du tri",
-        "description": "Il y a quelque temps la métropole a mis en place une page animée très didactique, pour connaître (hors période de confidemment) la partie recyclée de la matière déposée (déchets ménagers + recyclage) : 19% de valorisation matière, et 11% de déchets verts compostés ou broyés (et 15% de "mâchefer", le reste de la combustion, qui sert de revêtement pour les routes).\nComme quoi la réduction a la source reste la clé. Mais merci la métropole pour ce travail de transparence.<a href='https://metropole.nantes.fr/actualites/2020/dechets-proprete-eau-energie/poubelle-recyclage/chiffres-tri' target="_blank">[Infographie] Les chiffres clefs du tri</a>."
+        "description": "Il y a quelque temps la métropole a mis en place une page animée très didactique, pour connaître (hors période de confidemment) la partie recyclée de la matière déposée (déchets ménagers + recyclage) : 19% de valorisation matière, et 11% de déchets verts compostés ou broyés (et 15% de 'mâchefer', le reste de la combustion, qui sert de revêtement pour les routes).\nComme quoi la réduction a la source reste la clé. Mais merci la métropole pour ce travail de transparence.<a href='https://metropole.nantes.fr/actualites/2020/dechets-proprete-eau-energie/poubelle-recyclage/chiffres-tri' target="_blank">[Infographie] Les chiffres clefs du tri</a>."
     }]
 }
