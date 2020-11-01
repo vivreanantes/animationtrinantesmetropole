@@ -28,13 +28,13 @@
           (click)="clickReponse($event,reponse.id)"
         >
           <img
-            src="assets/imgs/thegoodsorting/{{ questions[questionIndex].image }}"
+            src="assets/imgs/{{ questions[questionIndex].image }}"
             class="question"
             *ngIf="questions[questionIndex].userReponse"
           />
           <ion-icon name="arrow-forward"></ion-icon>
           <img
-            src="assets/imgs/thegoodsorting/{{reponse.image}}"
+            src="assets/imgs/{{reponse.image}}"
             class="reponse-img"
           />
           <div class="title">
@@ -48,7 +48,7 @@
 
       <div id="garbage" class="garbage" #garbage>
         <img
-          src="assets/imgs/thegoodsorting/{{ questions[questionIndex].image }}"
+          src="assets/imgs/{{ questions[questionIndex].image }}"
           alt="Image"
         />
         <div>
@@ -93,7 +93,7 @@
             name="close-outline"
           ></ion-icon>
           <img
-            src="assets/imgs/thegoodsorting/{{ question.image }}"
+            src="assets/imgs/{{ question.image }}"
             alt="Image"
           />
         </div>
@@ -180,7 +180,7 @@
           <div class="header">
             <div class="image">
               <img
-                src="assets/imgs/thegoodsorting/{{ question.image }}"
+                src="assets/imgs/{{ question.image }}"
                 alt="Image"
               />
               <ion-icon
