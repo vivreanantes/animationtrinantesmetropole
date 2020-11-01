@@ -10,6 +10,7 @@ var _ihmLabelsEnDatas = {
 	"sauf_ferie": "except official holiday",
 	"uniqferiessuivant": "only following official holiday",
 	"plus_d_infos": "More informations",
+	"modifier_le_point_sur_osm": "Modify on OpenStreetMap",
 	"plus_d_infos_sur": "More informations on",
 	"commentez": "Comment",
 	"retour": "Return",

@@ -16,7 +16,7 @@
 			"statut_juridique": "Entreprise ",
 			"email": "maryeve@unigreen.fr",
 			"image": "nantes/logo_unigreen.png",
-			"categorie_principale_detail": "- Autre"
+			"categorie_principale_detail": "Autre"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/laloustikerienantes,",
@@ -34,7 +34,7 @@
 			"statut_juridique": "Entreprise ",
 			"email": "contact@laloustikerie.com",
 			"image": "nantes/logo_la_loustikerie.png",
-			"categorie_principale_detail": "- Boutiques spécialisées"
+			"categorie_principale_detail": "Boutiques spécialisées"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/OBocal,",
@@ -51,7 +51,7 @@
 			"statut_juridique": "Entreprise ",
 			"email": "contact@obocal.com",
 			"image": "nantes/logo_o_bocal-1.jpg",
-			"categorie_principale_detail": "- Supermarchés/épiceries ayant une démarche Zéro Déchet"
+			"categorie_principale_detail": "Supermarchés/épiceries ayant une démarche Zéro Déchet"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/Sakaide.fr,",
@@ -68,8 +68,7 @@
 			"site": "https://www.sakaide.fr/,",
 			"statut_juridique": "Entreprise ",
 			"email": "contact@sakaide.fr",
-			"image": "nantes/logo_sakaide.png",
-			"categorie_principale_detail": ""
+			"image": "nantes/logo_sakaide.png"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/pagekba.Nantes/,",
@@ -87,7 +86,7 @@
 			"statut_juridique": "Entreprise ",
 			"email": "manuella@k-ba.fr",
 			"image": "nantes/logo_k-ba.png",
-			"categorie_principale_detail": "- Les sites internet (locaux) et/ou livraisons à domicile"
+			"categorie_principale_detail": "Les sites internet (locaux) et/ou livraisons à domicile"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/Kerhea-107983923933925/?hc_ref=ARR2vaWrXEb2TMe89ooTNCXGzW-nuOWMt6xsVI3nHl5PhTXBBk6wrebqB3NM3w8DPzk&fref=nf&__tn__=kC-R,",
@@ -104,8 +103,7 @@
 			"site": "https://kerhea.com/,",
 			"statut_juridique": "Entreprise ",
 			"email": "sonia.sellin@kerhea.com",
-			"image": "nantes/Logo-kerhea.png",
-			"categorie_principale_detail": ""
+			"image": "nantes/Logo-kerhea.png"
 		},
 		{
 			"page_facebook_": "",
@@ -122,7 +120,7 @@
 			"statut_juridique": "Association",
 			"email": "contact@laressourceriedelile.com",
 			"image": "nantes/la_ressourcerie_de_lile-1.png",
-			"categorie_principale_detail": "- Boutiques plusieurs types d’objets"
+			"categorie_principale_detail": "Boutiques plusieurs types d’objets"
 		},
 		{
 			"page_facebook_": "",
@@ -140,7 +138,7 @@
 			"statut_juridique": "Entreprise ",
 			"email": "contact@labelleere.com",
 			"image": "nantes/la_belle_ere-1.png",
-			"categorie_principale_detail": "- Le recyclage en entreprise"
+			"categorie_principale_detail": "Le recyclage en entreprise"
 		},
 		{
 			"page_facebook_": "",
@@ -156,8 +154,7 @@
 			"descr_long": "- Animation textile ( recyclage, teinture naturelle, accessoires de maison, ameublement...)<br/>- Cours de couture et retouches atelier solidaire pour l'accès à la dignité vestimentaire (possibilité d'acquérir les techniques pour se confectionner ou réparer simplement ses vêtements et accessoires)<br/> - Découverte / sensibilisation / valorisation de la nature et de ses bienfaits. Développement de la créativité par des balades photographiques. <br/>- Rencontre intergénérationnelle ayant pour but la transmission de l'artisanat. Tricot, peinture sur textile etc.<br/>- Valorisation des artisans. Dynamiser les actions de la galerie / créer des partenariats et événements (expo, défilé, apéro découverte zéro déchet) avec des entreprises , associations et acteurs locaux (exemple au Bocal pour les ateliers bee wrap zéro déchet spécial cuisine)",
 			"site": "",
 			"statut_juridique": "Association",
-			"email": "assokiem@gmail.com",
-			"categorie_principale_detail": ""
+			"email": "assokiem@gmail.com"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/jaimetesbocaux/,",
@@ -175,7 +172,7 @@
 			"statut_juridique": "Association",
 			"email": "jaimetesbocaux@gmail.com",
 			"image": "nantes/jaimetesbocaux-2-1-scaled.jpg",
-			"categorie_principale_detail": "- Les solutions d’accompagnement des commerces pour que l’on viennent avec son contenant"
+			"categorie_principale_detail": "Les solutions d’accompagnement des commerces pour que l’on viennent avec son contenant"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/Articonnex,",
@@ -193,7 +190,7 @@
 			"statut_juridique": "Entreprise ",
 			"email": "contact@articonnex.com",
 			"image": "nantes/logo-articonnex.jpg",
-			"categorie_principale_detail": "- Plate-forme échange"
+			"categorie_principale_detail": "Plate-forme échange"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/RecycLivre/,",
@@ -211,7 +208,7 @@
 			"statut_juridique": "Entreprise à mission d'intérêt général",
 			"email": "nantes@recyclivre.com",
 			"image": "nantes/logo_recyclivre.png",
-			"categorie_principale_detail": "- Site internet de vente de produits locaux"
+			"categorie_principale_detail": "Site internet de vente de produits locaux"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/LeTransiStore/,",
@@ -229,7 +226,7 @@
 			"statut_juridique": "Association",
 			"email": "contact@letransistore.org",
 			"image": "nantes/logoTransiStoreBleu.png",
-			"categorie_principale_detail": "- Boutiques plusieurs types d’objets"
+			"categorie_principale_detail": "Boutiques plusieurs types d’objets"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/EnsembleLeMag,",
@@ -245,8 +242,7 @@
 			"site": "https://www.ensemble-lemag.com/,",
 			"statut_juridique": "Entreprise ",
 			"email": "ensemble.lemag44@gmail.com",
-			"image": "nantes/ensemble_le_mag.png",
-			"categorie_principale_detail": ""
+			"image": "nantes/ensemble_le_mag.png"
 		},
 		{
 			"page_facebook_": "",
@@ -263,8 +259,7 @@
 			"site": "https://www.facebook.com/camzel/,",
 			"statut_juridique": "Entreprise ",
 			"email": "veroniqueducourant@yahoo.fr",
-			"image": "nantes/Camzel_Logo_typo.png",
-			"categorie_principale_detail": ""
+			"image": "nantes/Camzel_Logo_typo.png"
 		},
 		{
 			"page_facebook_": "",
@@ -280,8 +275,7 @@
 			"site": "https://collectifideesvertes.fr/,",
 			"statut_juridique": "Association",
 			"email": "contact@collectifideesvertes.fr",
-			"image": "nantes/LOGO_collectif_idees_vertes.png",
-			"categorie_principale_detail": ""
+			"image": "nantes/LOGO_collectif_idees_vertes.png"
 		},
 		{
 			"page_facebook_": "https://facebook.com/aurelieaunaturel,",
@@ -298,8 +292,7 @@
 			"site": "https://www.aurelieaunaturel.fr/,",
 			"statut_juridique": "Entreprise ",
 			"email": "contact@aurelieaunaturel.fr",
-			"image": "nantes/Screenshot_20200902-023838-1.jpg",
-			"categorie_principale_detail": ""
+			"image": "nantes/Screenshot_20200902-023838-1.jpg"
 		},
 		{
 			"page_facebook_": "https://fr-fr.facebook.com/LesConnexions/,",
@@ -317,7 +310,7 @@
 			"statut_juridique": "Association",
 			"email": "contact@lesconnexions.org",
 			"image": "nantes/Logo_Connex_webmini.jpg",
-			"categorie_principale_detail": "- Recyclage sur les fêtes (et sensibilisation)"
+			"categorie_principale_detail": "Recyclage sur les fêtes (et sensibilisation)"
 		},
 		{
 			"page_facebook_": "https://m.facebook.com/lesnanaszerodechet/,",
@@ -335,7 +328,7 @@
 			"statut_juridique": "Entreprise ",
 			"email": "bonjour@lesnanaszerodechet.com",
 			"image": "nantes/LNZD_logo_HD-web-24_12-2018-scaled.jpg",
-			"categorie_principale_detail": "- Formations longues"
+			"categorie_principale_detail": "Formations longues"
 		},
 		{
 			"page_facebook_": "https://m.facebook.com/LatelierdeLeaa/,",
@@ -352,8 +345,7 @@
 			"site": "https://www.latelier-de-lea.com/,",
 			"statut_juridique": "Entreprise ",
 			"email": "contact@latelier-de-lea.com",
-			"image": "nantes/picto-latelier-de-lea-beige.png",
-			"categorie_principale_detail": ""
+			"image": "nantes/picto-latelier-de-lea-beige.png"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/LaFabrikAVrac,",
@@ -371,7 +363,7 @@
 			"statut_juridique": "Entreprise ",
 			"email": "drivenantaiszd@gmail.com",
 			"image": "nantes/logo-lafabrik-1.png",
-			"categorie_principale_detail": "- Les sites internet (locaux) et/ou livraisons à domicile"
+			"categorie_principale_detail": "Les sites internet (locaux) et/ou livraisons à domicile"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/latricyclerie,",
@@ -389,7 +381,7 @@
 			"statut_juridique": "Association",
 			"email": "hello@latricyclerie.fr",
 			"image": "nantes/logo_tricylerie-1.png",
-			"categorie_principale_detail": "- Collectes des restes alimentaires chez les pros (restaurants, entreprises…)"
+			"categorie_principale_detail": "Collectes des restes alimentaires chez les pros (restaurants, entreprises…)"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/solutionrecyclage,",
@@ -407,7 +399,7 @@
 			"statut_juridique": "Entreprise ",
 			"email": "olivier.humeau@solution-recyclage.com",
 			"image": "nantes/logo_fond_blanc-scaled.jpg",
-			"categorie_principale_detail": "- Le recyclage en entreprise"
+			"categorie_principale_detail": "Le recyclage en entreprise"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/ColegramBio/,",
@@ -424,7 +416,7 @@
 			"statut_juridique": "Entreprise ",
 			"email": "contact@colegram.bio",
 			"image": "nantes/logo-wood.jpg",
-			"categorie_principale_detail": "- Supermarchés/épiceries ayant une démarche Zéro Déchet"
+			"categorie_principale_detail": "Supermarchés/épiceries ayant une démarche Zéro Déchet"
 		},
 		{
 			"page_facebook_": "https://fr-fr.facebook.com/pg/ouivalo/,",
@@ -441,7 +433,7 @@
 			"statut_juridique": "Entreprise à mission d'intérêt général",
 			"email": "hello@ouivalo.fr",
 			"image": "nantes/Déclinaison-logo-07.png",
-			"categorie_principale_detail": "- Collectes des restes alimentaires chez les pros (restaurants, entreprises…)"
+			"categorie_principale_detail": "Collectes des restes alimentaires chez les pros (restaurants, entreprises…)"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/legrimoiredesandrine.fr/,",
@@ -458,8 +450,7 @@
 			"site": "",
 			"statut_juridique": "Entreprise ",
 			"email": "contact@legrimoiredesandrine.fr",
-			"image": "nantes/cropped-Bannière-page-web2.png",
-			"categorie_principale_detail": ""
+			"image": "nantes/cropped-Bannière-page-web2.png"
 		},
 		{
 			"page_facebook_": "https://m.facebook.com/lesliemoriceauthevenot/,",
@@ -475,8 +466,7 @@
 			"site": "https://lesformulesdeleslie.fr/,",
 			"statut_juridique": "Entreprise ",
 			"email": "leslie.thevenot@gmail.com",
-			"image": "nantes/6ED8C512-0D22-4E08-8BA9-8A490542FBC6.jpeg",
-			"categorie_principale_detail": ""
+			"image": "nantes/6ED8C512-0D22-4E08-8BA9-8A490542FBC6.jpeg"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/pg/pirouette.nantes,",
@@ -494,7 +484,7 @@
 			"statut_juridique": "Entreprise à mission d'intérêt général",
 			"email": "pirouette@boutique-pirouette.fr",
 			"image": "nantes/logo_pirouette.jpg",
-			"categorie_principale_detail": "- Le recyclage sur matières ciblées mais solidaire"
+			"categorie_principale_detail": "Le recyclage sur matières ciblées mais solidaire"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/pages/category/Product-Service/2-rubans-verts-112628913652634/,",
@@ -512,7 +502,7 @@
 			"statut_juridique": "Entreprise ",
 			"email": "2rubansverts@gmail.com",
 			"image": "nantes/logo-2rubanverts.png",
-			"categorie_principale_detail": "- Textile"
+			"categorie_principale_detail": "Textile"
 		},
 		{
 			"page_facebook_": "http://www.facebook.com/pg/Collectifzerodechetnantes,",
@@ -530,7 +520,7 @@
 			"statut_juridique": "Collectif de citoyen",
 			"email": "grand.defi.nantes@gmail.com",
 			"image": "nantes/logo_collectif.png",
-			"categorie_principale_detail": "- Mise en réseau"
+			"categorie_principale_detail": "Mise en réseau"
 		},
 		{
 			"page_facebook_": "http://facebook.com/bijouxtoune,",
@@ -548,7 +538,7 @@
 			"statut_juridique": "",
 			"email": "chantalcaillebotte@yahoo.fr",
 			"image": "nantes/bijoux_toune_logo.jpg",
-			"categorie_principale_detail": "- Créations artisanales autour de matériaux réemployés (upcycling)"
+			"categorie_principale_detail": "Créations artisanales autour de matériaux réemployés (upcycling)"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/Lechapus/,",
@@ -564,8 +554,7 @@
 			"descr_long": "Lechapus propose une performance musicale d'une heure et aussi une action culturelle auprès du jeune public. L'idée de cette action culturelle est d'aller de la récolte de déchets dans la poubelle, sur la plage, dans un parc... jusqu'à la tranformation en un objet musical afin d'exorciser notre gabegie plastique.",
 			"site": "https://www.facebook.com/Lechapus/,",
 			"statut_juridique": "Association",
-			"email": "chapus.production@gmail.com",
-			"categorie_principale_detail": ""
+			"email": "chapus.production@gmail.com"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/gueulesdeboisnantes/,",
@@ -582,8 +571,7 @@
 			"site": "https://gueulesdebois.fr/,",
 			"statut_juridique": "Association",
 			"email": "contact@gueulesdebois.fr",
-			"image": "nantes/GDB.png",
-			"categorie_principale_detail": ""
+			"image": "nantes/GDB.png"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/kerbnb.fr,",
@@ -600,8 +588,7 @@
 			"site": "https://kerbnb.fr/,Kerbnb, conciergerie engagée",
 			"statut_juridique": "SCOP",
 			"email": "accueil@kerbnb.fr",
-			"image": "nantes/2.png",
-			"categorie_principale_detail": ""
+			"image": "nantes/2.png"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/associationlepetitlieu,",
@@ -619,7 +606,7 @@
 			"statut_juridique": "Association",
 			"email": "bonjour@lepetitlieu.org",
 			"image": "nantes/LePetitLieu_LogoVert_RVB.jpg",
-			"categorie_principale_detail": "- Boutiques spécialisées"
+			"categorie_principale_detail": "Boutiques spécialisées"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/SurfirderLA/,",
@@ -637,7 +624,7 @@
 			"statut_juridique": "Association",
 			"email": "antenne44@surfrider.eu",
 			"image": "nantes/SFE_loire-atlantique_RGB_blue-1.jpg",
-			"categorie_principale_detail": "- Ramassage (collectes citoyennes, mégots…)"
+			"categorie_principale_detail": "Ramassage (collectes citoyennes, mégots…)"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/GobeletsEspritPlanete/,",
@@ -655,7 +642,7 @@
 			"statut_juridique": "Entreprise privée ",
 			"email": "contact@espritplanete.com",
 			"image": "nantes/DEF_Logo_EP_2019_Def_Couleur_SansTexte-5.png",
-			"categorie_principale_detail": "- Autre"
+			"categorie_principale_detail": "Autre"
 		},
 		{
 			"page_facebook_": "",
@@ -673,7 +660,7 @@
 			"statut_juridique": "Collectif de citoyen",
 			"email": "CPLCNantes@protonmail.com",
 			"image": "nantes/plastic-attack-nantes.jpg",
-			"categorie_principale_detail": "- Groupe de pression, plaidoyer"
+			"categorie_principale_detail": "Groupe de pression, plaidoyer"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/compostri.fr/,",
@@ -691,7 +678,7 @@
 			"statut_juridique": "Association",
 			"email": "contact@compostri.fr",
 			"image": "nantes/LOGO-COMPOSTRI-base-line-RVB.jpg",
-			"categorie_principale_detail": "- Solutions de compostage pour le particulier"
+			"categorie_principale_detail": "Solutions de compostage pour le particulier"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/La-Cabane-dElo-189317481093473/,",
@@ -708,8 +695,7 @@
 			"site": "http://www.lacabanedelo.com,",
 			"statut_juridique": "Entreprise privée ",
 			"email": "contact@lacabanedelo.com",
-			"image": "nantes/logo-la-cabane-d-elo.jpg",
-			"categorie_principale_detail": ""
+			"image": "nantes/logo-la-cabane-d-elo.jpg"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/lespetiteschosesdejulia/,",
@@ -727,7 +713,7 @@
 			"statut_juridique": "Entreprise privée ",
 			"email": "lpcdjulia@gmail.com",
 			"image": "nantes/Logo-Les-petites-choses-de-Julia.png",
-			"categorie_principale_detail": "- Textile"
+			"categorie_principale_detail": "Textile"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/latelierdeslanges,",
@@ -745,7 +731,7 @@
 			"statut_juridique": "Association",
 			"email": "latelierdeslanges@gmail.com",
 			"image": "nantes/logo-bleu-atelierdeslanges-base-line.jpeg",
-			"categorie_principale_detail": "- Économie circulaire et de la fonctionnalité"
+			"categorie_principale_detail": "Économie circulaire et de la fonctionnalité"
 		},
 		{
 			"page_facebook_": "",
@@ -762,7 +748,7 @@
 			"site": "https://www.facebook.com/pg/tricotfaitmains/,",
 			"statut_juridique": "Entreprise privée ",
 			"email": "manoupelotetissu@yahoo.com",
-			"categorie_principale_detail": "- Textile"
+			"categorie_principale_detail": "Textile"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/MonRepair,",
@@ -780,7 +766,7 @@
 			"statut_juridique": "Association",
 			"email": "contact@monrepairshop.fr",
 			"image": "nantes/LOGO-BLEU-ORANGE-2.png",
-			"categorie_principale_detail": "- Remettre en état (nettoyer et réparer)"
+			"categorie_principale_detail": "Remettre en état (nettoyer et réparer)"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/reseauecoevenements/,",
@@ -798,7 +784,7 @@
 			"statut_juridique": "Association",
 			"email": "bonjour@reseau-eco-evenement.net",
 			"image": "nantes/EEVE,logo-devis.png",
-			"categorie_principale_detail": "- Evènements zéro déchet"
+			"categorie_principale_detail": "Evènements zéro déchet"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/LaVieClaireNantes/,",
@@ -815,7 +801,7 @@
 			"site": "",
 			"statut_juridique": "Entreprise privée ",
 			"email": "lavieclairenantes@gmail.com",
-			"categorie_principale_detail": "- Supermarchés/épiceries ayant une démarche Zéro Déchet"
+			"categorie_principale_detail": "Supermarchés/épiceries ayant une démarche Zéro Déchet"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/les.ateliers.du.bocage/,",
@@ -832,7 +818,7 @@
 			"site": "https://ateliers-du-bocage.fr,Les Ateliers du Bocage et sa Bootique",
 			"statut_juridique": "SCOP",
 			"email": "contact@adb-emmaus.com",
-			"categorie_principale_detail": "- Le recyclage sur matières ciblées mais solidaire"
+			"categorie_principale_detail": "Le recyclage sur matières ciblées mais solidaire"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/lamusebouchenantes,",
@@ -850,7 +836,7 @@
 			"statut_juridique": "Entreprise privée ",
 			"email": "contact@amusebouche-nantes.fr",
 			"image": "nantes/LOGO-1.jpg",
-			"categorie_principale_detail": "- Traiteurs zéro déchet"
+			"categorie_principale_detail": "Traiteurs zéro déchet"
 		},
 		{
 			"page_facebook_": "",
@@ -868,7 +854,7 @@
 			"statut_juridique": "Entreprise privée ",
 			"email": "epilogue.couture@gmail.com",
 			"image": "nantes/logo-épilogue-1.jpg",
-			"categorie_principale_detail": "- Textile"
+			"categorie_principale_detail": "Textile"
 		},
 		{
 			"page_facebook_": "",
@@ -878,7 +864,7 @@
 			"categorie_principale": "Recyclage (particulier et professionnel)",
 			"images": "LOGO-500x266-1.jpg",
 			"nom": "MéGO! par Encova",
-			"url": "http://lagalerieduzerodechet.fr/?wpbdp_listing=mego!-par-encova",
+			"url": "http://lagalerieduzerodechet.fr/?wpbdp_listing=mego-en-pays-de-loire-encova",
 			"facebook": "",
 			"descr": "MéGO! est un service de tri et de recyclage matière de mégots de cigarettes (filtres usagés), solution unique en France.<br/>L’objectif de ce service national est donc de récupérer les mégots de cigarettes au sein de vos locaux afin de les recycler.",
 			"descr_long": "Collecte et revalorisation des mégots.<br/>Conception de mobilier à base de mégots",
@@ -886,7 +872,7 @@
 			"statut_juridique": "Entreprise privée ",
 			"email": "a.rossignol@encova.fr",
 			"image": "nantes/LOGO.jpg",
-			"categorie_principale_detail": "- Recyclage des matières toxiques : pile, batterie, panneaux photovoltaïque"
+			"categorie_principale_detail": "Recyclage des matières toxiques : pile, batterie, panneaux photovoltaïque"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/assoenvironnementssolidaires/,",
@@ -904,7 +890,7 @@
 			"statut_juridique": "Association",
 			"email": "anne.durand@environnements-solidaires.org",
 			"image": "nantes/LOGO-ES-1.png",
-			"categorie_principale_detail": "- Déménagements, dons en grande quantité"
+			"categorie_principale_detail": "Déménagements, dons en grande quantité"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/primesautier.cuisinevegetale/,",
@@ -922,7 +908,7 @@
 			"statut_juridique": "Entreprise privée ",
 			"email": "annelaure@primesautier.com",
 			"image": "nantes/TRAITEUR-NANTES-44-PRIMESAUTIER.jpg",
-			"categorie_principale_detail": "- Traiteurs zéro déchet"
+			"categorie_principale_detail": "Traiteurs zéro déchet"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/epicerie.leptitpoids/,",
@@ -939,7 +925,7 @@
 			"statut_juridique": "Entreprise privée ",
 			"email": "contact@epicerie-leptitpoids.fr",
 			"image": "nantes/Le-p-tit-poids-Ardoise-contour-blanc-RVB.png",
-			"categorie_principale_detail": "- Supermarchés/épiceries ayant une démarche Zéro Déchet"
+			"categorie_principale_detail": "Supermarchés/épiceries ayant une démarche Zéro Déchet"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/vracenretz/,",
@@ -957,7 +943,7 @@
 			"statut_juridique": "Entreprise privée ",
 			"email": "vracenretz@gmail.com",
 			"image": "nantes/VRAC-EN-RETZ-Rond.jpg",
-			"categorie_principale_detail": "- Les camions"
+			"categorie_principale_detail": "Les camions"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/AlterBoutikReze,",
@@ -974,7 +960,7 @@
 			"statut_juridique": "Association",
 			"email": "alterboutik@gmail.com",
 			"image": "nantes/AB-Logo.png",
-			"categorie_principale_detail": "- Partage"
+			"categorie_principale_detail": "Partage"
 		},
 		{
 			"page_facebook_": "",
@@ -992,7 +978,7 @@
 			"statut_juridique": "Association",
 			"email": "contact@naga44.org",
 			"image": "nantes/logo.png",
-			"categorie_principale_detail": "- Remettre en état (nettoyer et réparer)"
+			"categorie_principale_detail": "Remettre en état (nettoyer et réparer)"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/biduleschouettes,",
@@ -1010,7 +996,7 @@
 			"statut_juridique": "Association",
 			"email": "bonjour.biduleschouettes@gmail.com",
 			"image": "nantes/LELOGO-BIDULESCHOUETTES_.jpg",
-			"categorie_principale_detail": "- Boutiques spécialisées"
+			"categorie_principale_detail": "Boutiques spécialisées"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/laboitearecup/,",
@@ -1026,7 +1012,7 @@
 			"site": "",
 			"statut_juridique": "Association",
 			"email": "laboitearecup@gmail.com",
-			"categorie_principale_detail": "- Boutiques plusieurs types d’objets"
+			"categorie_principale_detail": "Boutiques plusieurs types d’objets"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/ecopole.cpie/,",
@@ -1044,7 +1030,7 @@
 			"statut_juridique": "Association",
 			"email": "contact@ecopole.com",
 			"image": "nantes/logo-ecopole-CMJN.jpg",
-			"categorie_principale_detail": "- Mise en réseau"
+			"categorie_principale_detail": "Mise en réseau"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/Latelier-du-bocal-392818371580363/,",
@@ -1062,7 +1048,7 @@
 			"statut_juridique": "Entreprise privée ",
 			"email": "contact@latelierdubocal.com",
 			"image": "nantes/L_Atelier_du_Bocal_Reserve.jpg",
-			"categorie_principale_detail": "- Les sites internet (locaux) et/ou livraisons à domicile"
+			"categorie_principale_detail": "Les sites internet (locaux) et/ou livraisons à domicile"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/julieaudureaucreatrice/,",
@@ -1080,7 +1066,7 @@
 			"statut_juridique": "Entreprise privée ",
 			"email": "julieaudureau.creatrice@gmail.com",
 			"image": "nantes/Logo-Julie-Audureau.jpg",
-			"categorie_principale_detail": "- Créations artisanales autour de matériaux réemployés (upcycling)"
+			"categorie_principale_detail": "Créations artisanales autour de matériaux réemployés (upcycling)"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/Boites.Vertes/,",
@@ -1098,7 +1084,7 @@
 			"statut_juridique": "Association",
 			"email": "contact@lesboitesvertes.fr",
 			"image": "nantes/ogo les boites vertes,LBV_logo250x340.png",
-			"categorie_principale_detail": "- Solutions de compostage pour le particulier"
+			"categorie_principale_detail": "Solutions de compostage pour le particulier"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/icilebonheurestfaitmaison/,",
@@ -1116,7 +1102,7 @@
 			"statut_juridique": "Entreprise privée ",
 			"email": "contact@icilebonheurestfaitmaison.fr",
 			"image": "nantes/ogo ici le bonheur est fait maison,ICI-LE-BONHEUR-EST-FAIT-MAISON-logo.jpg",
-			"categorie_principale_detail": "- Les sites internet (locaux) et/ou livraisons à domicile"
+			"categorie_principale_detail": "Les sites internet (locaux) et/ou livraisons à domicile"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/boutaboutconsigne/,",
@@ -1133,8 +1119,7 @@
 			"site": "http://www.boutabout.org/,",
 			"statut_juridique": "Association",
 			"email": "contact@boutabout.org",
-			"image": "nantes/logo-vert-1.png",
-			"categorie_principale_detail": ""
+			"image": "nantes/logo-vert-1.png"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/lemapnantes/,",
@@ -1152,7 +1137,7 @@
 			"statut_juridique": "Association",
 			"email": "redaction@lesautrespossibles.fr",
 			"image": "nantes/ogo Les Autres Possibles,LogoMAP.png",
-			"categorie_principale_detail": "- Blogs, chaînes vidéos, Journaux, Application"
+			"categorie_principale_detail": "Blogs, chaînes vidéos, Journaux, Application"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/zerowastenantes/,",
@@ -1170,7 +1155,7 @@
 			"statut_juridique": "Association",
 			"email": "info@zerowastenantes.fr",
 			"image": "nantes/ZW-logo-horizontal.jpg",
-			"categorie_principale_detail": "- Groupe de pression, plaidoyer"
+			"categorie_principale_detail": "Groupe de pression, plaidoyer"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/fdamis.delerdre/,",
@@ -1188,7 +1173,7 @@
 			"statut_juridique": "Association",
 			"email": "contact@fdamiserdre.fr",
 			"image": "nantes/logo-compessé.jpg",
-			"categorie_principale_detail": "- Ramassage (collectes citoyennes, mégots…)"
+			"categorie_principale_detail": "Ramassage (collectes citoyennes, mégots…)"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/atelierszerodechet,",
@@ -1204,8 +1189,7 @@
 			"site": "http://atelierszerodechet.fr/,",
 			"statut_juridique": "Entreprise privée ",
 			"email": "contact@atelierszerodechet.fr",
-			"image": "nantes/Logo-ateliers-zéro-déchet.jpg",
-			"categorie_principale_detail": ""
+			"image": "nantes/Logo-ateliers-zéro-déchet.jpg"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/AssoNousandCo/,",
@@ -1223,7 +1207,7 @@
 			"statut_juridique": "Association",
 			"email": "contact@nousandco.fr",
 			"image": "nantes/logo-NAC-couleurs-web_1.png",
-			"categorie_principale_detail": "- Partage"
+			"categorie_principale_detail": "Partage"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/OASISenvironnement/,",
@@ -1240,8 +1224,7 @@
 			"site": "http://www.oasis-environnement.org/,",
 			"statut_juridique": "Association",
 			"email": "contact@oasis-environnement.org",
-			"image": "nantes/logo-sans-baseline-720x720-1.png",
-			"categorie_principale_detail": ""
+			"image": "nantes/logo-sans-baseline-720x720-1.png"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/bootcampedenipaysdelaloire/,",
@@ -1259,7 +1242,7 @@
 			"statut_juridique": "Porteur(s) de projet (sans statut particulier)",
 			"email": "contact@edeni.fr",
 			"image": "nantes/Edeni-Pays-d-ela-Loire-logo-blanc.png",
-			"categorie_principale_detail": "- Formations longues"
+			"categorie_principale_detail": "Formations longues"
 		},
 		{
 			"page_facebook_": "http://www.facebook.com/supporterre,",
@@ -1276,7 +1259,7 @@
 			"statut_juridique": "Association",
 			"email": "contact@supporterre.fr",
 			"image": "nantes/SupporTerre-Blanc-SF-.png",
-			"categorie_principale_detail": "- Boutiques spécialisées"
+			"categorie_principale_detail": "Boutiques spécialisées"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/Vracfacile,",
@@ -1294,7 +1277,7 @@
 			"statut_juridique": "Entreprise privée ",
 			"email": "nicolas@vracfacile.fr",
 			"image": "nantes/Logo-Vrac-Facile.jpg",
-			"categorie_principale_detail": "- Les camions"
+			"categorie_principale_detail": "Les camions"
 		},
 		{
 			"page_facebook_": "http://www.facebook.com/ledriveenbocal,",
@@ -1311,7 +1294,7 @@
 			"statut_juridique": "",
 			"email": "contact@ledriveenbocal.com",
 			"image": "nantes/logojpg.jpg",
-			"categorie_principale_detail": "- Les sites internet (locaux) et/ou livraisons à domicile"
+			"categorie_principale_detail": "Les sites internet (locaux) et/ou livraisons à domicile"
 		},
 		{
 			"page_facebook_": "",
@@ -1329,7 +1312,7 @@
 			"statut_juridique": "Association",
 			"email": "bricoLowtech@gmail.com",
 			"image": "nantes/logo-XL.png",
-			"categorie_principale_detail": "- Solutions de compostage pour le particulier"
+			"categorie_principale_detail": "Solutions de compostage pour le particulier"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/latelierdufuroshiki,",
@@ -1346,7 +1329,7 @@
 			"site": "http://www.latelierdufuroshiki.fr,",
 			"statut_juridique": "Entreprise privée ",
 			"email": "contact@latelierdufuroshiki.fr",
-			"categorie_principale_detail": "- Autre"
+			"categorie_principale_detail": "Autre"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/LeZesteenPlus/,",
@@ -1363,8 +1346,7 @@
 			"site": "http://lezesteenplus.com/,",
 			"statut_juridique": "SCOP",
 			"email": "contact@lezesteenplus.com",
-			"image": "nantes/LOGO-LZEP_web.png",
-			"categorie_principale_detail": ""
+			"image": "nantes/LOGO-LZEP_web.png"
 		},
 		{
 			"page_facebook_": "http://www.facebook.com/ppnantes,",
@@ -1380,8 +1362,7 @@
 			"site": "http://www.plastic-pickup.fr,",
 			"statut_juridique": "Association",
 			"email": "contact@plastic-pickup.fr",
-			"image": "nantes/logo.jpg",
-			"categorie_principale_detail": ""
+			"image": "nantes/logo.jpg"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/autruchesutopistes/,",
@@ -1399,7 +1380,7 @@
 			"statut_juridique": "Association",
 			"email": "autruches.utopistes@ecomail-asso.com",
 			"image": "nantes/logo-AU-2900px-photo-scaled.jpg",
-			"categorie_principale_detail": "- Blogs, chaînes vidéos, Journaux, Application"
+			"categorie_principale_detail": "Blogs, chaînes vidéos, Journaux, Application"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/terra21sarl/,",
@@ -1417,7 +1398,7 @@
 			"statut_juridique": "",
 			"email": "herve.fournier@terra21.fr",
 			"image": "nantes/LogoT21-001.jpg",
-			"categorie_principale_detail": "- Recyclage sur les fêtes (et sensibilisation)"
+			"categorie_principale_detail": "Recyclage sur les fêtes (et sensibilisation)"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/compostinsitu/,",
@@ -1435,7 +1416,7 @@
 			"statut_juridique": "SCOP",
 			"email": "direction.nantes@compostinsitu.fr",
 			"image": "nantes/logo-Compost-In-Situ-phrase.jpg",
-			"categorie_principale_detail": "- Collectes des restes alimentaires chez les pros (restaurants, entreprises…)"
+			"categorie_principale_detail": "Collectes des restes alimentaires chez les pros (restaurants, entreprises…)"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/AremacsPaysDeLaLoire/,",
@@ -1453,7 +1434,7 @@
 			"statut_juridique": "Association",
 			"email": "nantes@aremacs.com",
 			"image": "nantes/logo-aremacs-trieur-public.png",
-			"categorie_principale_detail": "- Recyclage sur les fêtes (et sensibilisation)"
+			"categorie_principale_detail": "Recyclage sur les fêtes (et sensibilisation)"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/rebelote.co/,",
@@ -1470,7 +1451,7 @@
 			"statut_juridique": "Porteur(s) de projet (sans statut particulier)",
 			"email": "equipe.rebelote@gmail.com",
 			"image": "nantes/Rebelote-Logotype_Rebelote-Logo-Bleu-et-vert.png",
-			"categorie_principale_detail": "- Site internet de vente de produits locaux"
+			"categorie_principale_detail": "Site internet de vente de produits locaux"
 		},
 		{
 			"page_facebook_": "https://facebook.com/LaGalerieDuZeroDechet,",
@@ -1488,7 +1469,7 @@
 			"statut_juridique": "Association",
 			"email": "contact@lagalerieduzerodechet.fr",
 			"image": "nantes/logo_grand.jpg",
-			"categorie_principale_detail": "- Lieux dédiés au zéro déchet"
+			"categorie_principale_detail": "Lieux dédiés au zéro déchet"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/Mieux-trier-%C3%A0-Nantes-266725983531595/,",
@@ -1506,7 +1487,7 @@
 			"statut_juridique": "Association",
 			"email": "mieuxtrieranantes@gmail.com",
 			"image": "nantes/mieux_trier_a_nantes-1.png",
-			"categorie_principale_detail": "- Blogs, chaînes vidéos, Journaux, Application"
+			"categorie_principale_detail": "Blogs, chaînes vidéos, Journaux, Application"
 		},
 		{
 			"nom": "",

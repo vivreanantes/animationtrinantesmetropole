@@ -100,6 +100,10 @@ export class StructurePage implements OnInit {
     return await popover.present();
   }
 
+  openUrl(id_osm) {
+
+    window.open( "https://openstreetmap.org/edit?"+id_osm.replace("node/","node="), "_system");
+  }
   close() {
     this.modalController.dismiss();
   }

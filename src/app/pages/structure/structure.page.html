@@ -104,6 +104,12 @@
             <h5>{{ item.cons | lang:"nom"}}</h5>
             <div class="inner" [innerHtml]="(item.cons | lang:'descr')"></div>
           </div>
+
+          <div class="buttons">
+            <button (click)="openUrl(item.id_osm)" style="font-size:14px;">
+              {{'modifier_le_point_sur_osm'|translate}}
+            </button>
+          </div>
         </div>
       </div>
     </div>
