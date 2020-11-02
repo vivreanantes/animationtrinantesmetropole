@@ -105,7 +105,7 @@
             <div class="inner" [innerHtml]="(item.cons | lang:'descr')"></div>
           </div>
 
-          <div class="buttons">
+          <div class="buttons" *ngIf="item.id_osm" >
             <button (click)="openUrl(item.id_osm)" style="font-size:14px;">
               {{'modifier_le_point_sur_osm'|translate}}
             </button>

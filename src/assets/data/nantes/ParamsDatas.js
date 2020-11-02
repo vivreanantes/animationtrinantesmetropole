@@ -77,8 +77,8 @@ var _paramFilterTypeMapDatas = [{
 	}, {
 		"id": "2",
 		"code": "modco_contmpb,modco_contverre,modco_contembjournmag,modco_contomr,modco_dechetssecs",
-		"nom": "Conteneurs (1580)",
-		"nom_en": "Containers (1580)",
+		"nom": "Conteneurs (837 points tri)",
+		"nom_en": "Containers (837 points tri)",
 		"image": "assets/icons/marker-icon-brown.png"
 //	}, {
 //		"id": "3",
@@ -89,8 +89,8 @@ var _paramFilterTypeMapDatas = [{
 	}, {
 		"id": "4",
 		"code": "modco_compostage",
-		"nom": "Composteurs (156)",
-		"nom_en": "Composting (156)",
+		"nom": "Composteurs (248)",
+		"nom_en": "Composting (248)",
 		"image": "assets/icons/marker-icon-yellow.png"
 	}, {
 		"id": "5",
