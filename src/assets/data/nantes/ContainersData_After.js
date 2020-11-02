@@ -11,7 +11,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -26,7 +26,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -41,7 +41,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -56,7 +56,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Plastique<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Plastique"
 		},
@@ -71,7 +71,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -86,7 +86,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -101,7 +101,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -116,7 +116,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", , bouteilles, pots, bocaux, bouteilles, pots, bocaux, ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Emballage ménager"
 		},
@@ -131,7 +131,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -146,7 +146,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -161,7 +161,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -176,7 +176,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -191,7 +191,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -206,7 +206,7 @@
 			"cartePopupText": "Conteneur Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -220,7 +220,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -235,7 +235,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Emballage ménager"
 		},
@@ -250,7 +250,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -265,7 +265,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -280,7 +280,7 @@
 			"cartePopupText": "Conteneur Plastique, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Verre"
 		},
@@ -295,7 +295,7 @@
 			"cartePopupText": "Conteneur Plastique, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Papier-carton"
 		},
@@ -310,7 +310,7 @@
 			"cartePopupText": "Conteneur Plastique, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Papier-carton"
 		},
@@ -325,7 +325,7 @@
 			"cartePopupText": "Conteneur Plastique, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Papier-carton"
 		},
@@ -340,7 +340,7 @@
 			"cartePopupText": "Conteneur Plastique, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Verre"
 		},
@@ -355,7 +355,7 @@
 			"cartePopupText": "Conteneur Plastique, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Verre"
 		},
@@ -370,7 +370,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -384,7 +384,7 @@
 			"cartePopupText": "Conteneur Plastique, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Verre"
 		},
@@ -399,7 +399,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -414,7 +414,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -428,7 +428,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -443,7 +443,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -457,7 +457,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -471,7 +471,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -485,7 +485,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -499,7 +499,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -513,7 +513,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -527,7 +527,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -541,7 +541,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -555,7 +555,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -569,7 +569,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -583,7 +583,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -597,7 +597,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -611,7 +611,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -625,7 +625,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -639,7 +639,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -653,7 +653,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -667,7 +667,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -681,7 +681,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -695,7 +695,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -709,7 +709,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -723,7 +723,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -737,7 +737,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -751,7 +751,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -765,7 +765,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -779,7 +779,7 @@
 			"cartePopupText": "Conteneur Plastique, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Verre"
 		},
@@ -794,7 +794,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -809,7 +809,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -824,7 +824,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Plastique<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Plastique"
 		},
@@ -839,7 +839,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux, bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -854,7 +854,7 @@
 			"cartePopupText": "Conteneur Plastique, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Papier-carton"
 		},
@@ -869,7 +869,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -883,7 +883,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -897,7 +897,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -911,7 +911,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -926,7 +926,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, , cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -941,7 +941,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -956,7 +956,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -971,7 +971,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -985,7 +985,7 @@
 			"cartePopupText": "Conteneur Verre, Plastique<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Plastique"
 		},
@@ -1000,7 +1000,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1014,7 +1014,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -1029,7 +1029,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1043,7 +1043,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux, bouteilles, pots, bocaux, bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -1058,7 +1058,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -1073,7 +1073,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1101,7 +1101,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1115,7 +1115,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -1130,7 +1130,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -1145,7 +1145,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -1160,7 +1160,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -1175,7 +1175,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1189,7 +1189,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1203,7 +1203,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -1218,7 +1218,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1232,7 +1232,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1246,7 +1246,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1260,7 +1260,7 @@
 			"cartePopupText": "Conteneur Verre, Plastique<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Plastique"
 		},
@@ -1275,7 +1275,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1289,7 +1289,7 @@
 			"cartePopupText": "Conteneur Verre, Plastique<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Plastique"
 		},
@@ -1304,7 +1304,7 @@
 			"cartePopupText": "Conteneur Verre, Plastique<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux, bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Plastique"
 		},
@@ -1319,7 +1319,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1333,7 +1333,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1347,7 +1347,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1361,7 +1361,7 @@
 			"cartePopupText": "Conteneur Verre, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Emballage ménager"
 		},
@@ -1376,7 +1376,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1390,7 +1390,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1404,7 +1404,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1418,7 +1418,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1432,7 +1432,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1446,7 +1446,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1460,7 +1460,7 @@
 			"cartePopupText": "Conteneur Verre, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Emballage ménager"
 		},
@@ -1475,7 +1475,7 @@
 			"cartePopupText": "Conteneur Verre, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Emballage ménager"
 		},
@@ -1490,7 +1490,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1504,7 +1504,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1518,7 +1518,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1532,7 +1532,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1546,7 +1546,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1560,7 +1560,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -1575,7 +1575,7 @@
 			"cartePopupText": "Conteneur Verre, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Emballage ménager"
 		},
@@ -1590,7 +1590,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1604,7 +1604,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1618,7 +1618,7 @@
 			"cartePopupText": "Conteneur Verre, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Emballage ménager"
 		},
@@ -1633,7 +1633,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1647,7 +1647,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1661,7 +1661,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -1676,7 +1676,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -1691,7 +1691,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1705,7 +1705,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1719,7 +1719,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1733,7 +1733,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1747,7 +1747,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1761,7 +1761,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1775,7 +1775,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1789,7 +1789,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -1804,7 +1804,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1818,7 +1818,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1832,7 +1832,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1846,7 +1846,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -1861,7 +1861,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1875,7 +1875,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1889,7 +1889,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1903,7 +1903,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1917,7 +1917,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1931,7 +1931,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1944,7 +1944,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Trsisac, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Trsisac, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, , , , bouteilles, pots, bocaux, bouteilles, pots, bocaux, bouteilles, pots, bocaux, , , , , , , bouteilles, pots, bocaux, bouteilles, pots, bocaux, bouteilles, pots, bocaux, , , , , bouteilles, pots, bocaux, , bouteilles, pots, bocaux, , , bouteilles, pots, bocaux, , cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, , , , , , , bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, , , , , bouteilles, pots, bocaux, , , bouteilles, pots, bocaux, bouteilles, pots, bocaux, , bouteilles, pots, bocaux, bouteilles, pots, bocaux, , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Trsisac, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined, undefined"
 		},
@@ -1959,7 +1959,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1973,7 +1973,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -1987,7 +1987,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -2002,7 +2002,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2016,7 +2016,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2030,7 +2030,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2044,7 +2044,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2058,7 +2058,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2072,7 +2072,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2086,7 +2086,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -2101,7 +2101,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -2116,7 +2116,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -2131,7 +2131,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Plastique<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Plastique"
 		},
@@ -2146,7 +2146,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -2161,7 +2161,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -2176,7 +2176,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", , bouteilles, pots, bocaux, ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Emballage ménager"
 		},
@@ -2191,7 +2191,7 @@
 			"cartePopupText": "Conteneur Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2205,7 +2205,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -2220,7 +2220,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -2235,7 +2235,7 @@
 			"cartePopupText": "Conteneur Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2249,7 +2249,7 @@
 			"cartePopupText": "Conteneur Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2263,7 +2263,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -2278,7 +2278,7 @@
 			"cartePopupText": "Conteneur Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2292,7 +2292,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", , bouteilles, pots, bocaux, bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -2307,7 +2307,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Emballage ménager"
 		},
@@ -2322,7 +2322,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Plastique<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Plastique"
 		},
@@ -2337,7 +2337,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -2352,7 +2352,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -2367,7 +2367,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -2382,7 +2382,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -2397,7 +2397,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -2412,7 +2412,7 @@
 			"cartePopupText": "Conteneur Plastique, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Papier-carton"
 		},
@@ -2427,7 +2427,7 @@
 			"cartePopupText": "Conteneur Plastique, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Verre"
 		},
@@ -2442,7 +2442,7 @@
 			"cartePopupText": "Conteneur Plastique, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Verre"
 		},
@@ -2457,7 +2457,7 @@
 			"cartePopupText": "Conteneur Plastique, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Verre"
 		},
@@ -2472,7 +2472,7 @@
 			"cartePopupText": "Conteneur Plastique, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Verre"
 		},
@@ -2487,7 +2487,7 @@
 			"cartePopupText": "Conteneur Plastique, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Verre"
 		},
@@ -2502,7 +2502,7 @@
 			"cartePopupText": "Conteneur Plastique, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Papier-carton"
 		},
@@ -2517,7 +2517,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2531,7 +2531,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2545,7 +2545,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2559,7 +2559,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2573,7 +2573,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2587,7 +2587,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2601,7 +2601,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2615,7 +2615,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2629,7 +2629,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2643,7 +2643,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2657,7 +2657,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2671,7 +2671,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -2686,7 +2686,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2700,7 +2700,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -2715,7 +2715,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2729,7 +2729,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2743,7 +2743,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2757,7 +2757,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2771,7 +2771,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2785,7 +2785,7 @@
 			"cartePopupText": "Conteneur Plastique, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Papier-carton"
 		},
@@ -2800,7 +2800,7 @@
 			"cartePopupText": "Conteneur Plastique, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Verre"
 		},
@@ -2815,7 +2815,7 @@
 			"cartePopupText": "Conteneur Plastique, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Papier-carton"
 		},
@@ -2830,7 +2830,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux, bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Papier-carton"
 		},
@@ -2845,7 +2845,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -2860,7 +2860,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -2875,7 +2875,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -2890,7 +2890,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2904,7 +2904,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2918,7 +2918,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux, bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -2933,7 +2933,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -2947,7 +2947,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -2962,7 +2962,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -2977,7 +2977,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -2992,7 +2992,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3006,7 +3006,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3020,7 +3020,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3034,7 +3034,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -3049,7 +3049,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3063,7 +3063,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -3078,7 +3078,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3092,7 +3092,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -3107,7 +3107,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3121,7 +3121,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3135,7 +3135,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3149,7 +3149,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -3164,7 +3164,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3178,7 +3178,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3192,7 +3192,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3206,7 +3206,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3220,7 +3220,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -3235,7 +3235,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3249,7 +3249,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -3264,7 +3264,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3278,7 +3278,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3292,7 +3292,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3306,7 +3306,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3320,7 +3320,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -3335,7 +3335,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3349,7 +3349,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3363,7 +3363,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3377,7 +3377,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3391,7 +3391,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3405,7 +3405,7 @@
 			"cartePopupText": "Conteneur Verre, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Emballage ménager"
 		},
@@ -3420,7 +3420,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3434,7 +3434,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3448,7 +3448,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3462,7 +3462,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3476,7 +3476,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3490,7 +3490,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3504,7 +3504,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3518,7 +3518,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3532,7 +3532,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3546,7 +3546,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3560,7 +3560,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3574,7 +3574,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3588,7 +3588,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3602,7 +3602,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3616,7 +3616,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3630,7 +3630,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -3645,7 +3645,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3659,7 +3659,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -3674,7 +3674,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3688,7 +3688,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3702,7 +3702,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3716,7 +3716,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3730,7 +3730,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3744,7 +3744,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3758,7 +3758,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3772,7 +3772,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3786,7 +3786,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3800,7 +3800,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3814,7 +3814,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3828,7 +3828,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -3842,7 +3842,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -3857,7 +3857,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -3872,7 +3872,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -3887,7 +3887,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -3902,7 +3902,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -3917,7 +3917,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -3932,7 +3932,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -3947,7 +3947,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -3962,7 +3962,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -3977,7 +3977,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Plastique<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Plastique"
 		},
@@ -3992,7 +3992,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -4007,7 +4007,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -4022,7 +4022,7 @@
 			"cartePopupText": "Conteneur Plastique, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Papier-carton"
 		},
@@ -4037,7 +4037,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4051,7 +4051,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4065,7 +4065,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -4080,7 +4080,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4094,7 +4094,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4108,7 +4108,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4122,7 +4122,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4136,7 +4136,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4150,7 +4150,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4164,7 +4164,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4178,7 +4178,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4192,7 +4192,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4206,7 +4206,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4220,7 +4220,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4234,7 +4234,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4248,7 +4248,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4262,7 +4262,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4276,7 +4276,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4290,7 +4290,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4304,7 +4304,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4318,7 +4318,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4332,7 +4332,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4346,7 +4346,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4360,7 +4360,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4374,7 +4374,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4388,7 +4388,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4402,7 +4402,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4416,7 +4416,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4430,7 +4430,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4444,7 +4444,7 @@
 			"cartePopupText": "Conteneur Plastique, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Papier-carton"
 		},
@@ -4459,7 +4459,7 @@
 			"cartePopupText": "Conteneur Plastique, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Verre"
 		},
@@ -4474,7 +4474,7 @@
 			"cartePopupText": "Conteneur Plastique, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Verre"
 		},
@@ -4489,7 +4489,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -4504,7 +4504,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -4519,7 +4519,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -4534,7 +4534,7 @@
 			"cartePopupText": "Conteneur Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4548,7 +4548,7 @@
 			"cartePopupText": "Conteneur Plastique, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Verre"
 		},
@@ -4563,7 +4563,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4577,7 +4577,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -4592,7 +4592,7 @@
 			"cartePopupText": "Conteneur Verre, Plastique<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Plastique"
 		},
@@ -4607,7 +4607,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -4622,7 +4622,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -4637,7 +4637,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -4652,7 +4652,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4666,7 +4666,7 @@
 			"cartePopupText": "Conteneur Verre, Plastique<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Plastique"
 		},
@@ -4681,7 +4681,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4695,7 +4695,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -4710,7 +4710,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -4725,7 +4725,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4739,7 +4739,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4753,7 +4753,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4767,7 +4767,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -4782,7 +4782,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -4797,7 +4797,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4811,7 +4811,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4825,7 +4825,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4839,7 +4839,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4853,7 +4853,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4867,7 +4867,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4881,7 +4881,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4895,7 +4895,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4909,7 +4909,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -4924,7 +4924,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4938,7 +4938,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4952,7 +4952,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4966,7 +4966,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4980,7 +4980,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -4994,7 +4994,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5008,7 +5008,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -5023,7 +5023,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5037,7 +5037,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5051,7 +5051,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5065,7 +5065,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5079,7 +5079,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5093,7 +5093,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5107,7 +5107,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5121,7 +5121,7 @@
 			"cartePopupText": "Conteneur Verre, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, , ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Emballage ménager"
 		},
@@ -5136,7 +5136,7 @@
 			"cartePopupText": "Conteneur Verre, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Emballage ménager"
 		},
@@ -5151,7 +5151,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5165,7 +5165,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5179,7 +5179,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5193,7 +5193,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5207,7 +5207,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5221,7 +5221,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5235,7 +5235,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5249,7 +5249,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5263,7 +5263,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5277,7 +5277,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5291,7 +5291,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5305,7 +5305,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5319,7 +5319,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -5334,7 +5334,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5348,7 +5348,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5362,7 +5362,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5376,7 +5376,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5390,7 +5390,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5404,7 +5404,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5418,7 +5418,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5432,7 +5432,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5446,7 +5446,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5460,7 +5460,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5474,7 +5474,7 @@
 			"cartePopupText": "Conteneur Verre, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux, ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Emballage ménager"
 		},
@@ -5489,7 +5489,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5503,7 +5503,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -5518,7 +5518,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -5533,7 +5533,7 @@
 			"cartePopupText": "Conteneur Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5547,7 +5547,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -5562,7 +5562,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -5577,7 +5577,7 @@
 			"cartePopupText": "Conteneur Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5591,7 +5591,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -5606,7 +5606,7 @@
 			"cartePopupText": "Conteneur Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5620,7 +5620,7 @@
 			"cartePopupText": "Conteneur Plastique, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Verre"
 		},
@@ -5635,7 +5635,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5649,7 +5649,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5663,7 +5663,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5677,7 +5677,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5691,7 +5691,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5705,7 +5705,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5719,7 +5719,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5733,7 +5733,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -5748,7 +5748,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5762,7 +5762,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5776,7 +5776,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5790,7 +5790,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5804,7 +5804,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5818,7 +5818,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -5833,7 +5833,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -5848,7 +5848,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5862,7 +5862,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5876,7 +5876,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5890,7 +5890,7 @@
 			"cartePopupText": "Conteneur Plastique, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Verre"
 		},
@@ -5905,7 +5905,7 @@
 			"cartePopupText": "Conteneur Plastique, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Papier-carton"
 		},
@@ -5920,7 +5920,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -5935,7 +5935,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -5950,7 +5950,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5964,7 +5964,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -5978,7 +5978,7 @@
 			"cartePopupText": "Conteneur Verre, Plastique<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Plastique"
 		},
@@ -5993,7 +5993,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -6008,7 +6008,7 @@
 			"cartePopupText": "Conteneur Verre, Plastique<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Plastique"
 		},
@@ -6023,7 +6023,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -6038,7 +6038,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6052,7 +6052,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -6067,7 +6067,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6081,7 +6081,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6095,7 +6095,7 @@
 			"cartePopupText": "Conteneur Verre, Plastique<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Plastique"
 		},
@@ -6110,7 +6110,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6124,7 +6124,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6138,7 +6138,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6152,7 +6152,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6166,7 +6166,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6180,7 +6180,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6194,7 +6194,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6208,7 +6208,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6222,7 +6222,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6236,7 +6236,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6250,7 +6250,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6264,7 +6264,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6278,7 +6278,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6292,7 +6292,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -6307,7 +6307,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6321,7 +6321,7 @@
 			"cartePopupText": "Conteneur Verre, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Emballage ménager"
 		},
@@ -6336,7 +6336,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6350,7 +6350,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6364,7 +6364,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6378,7 +6378,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6392,7 +6392,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6406,7 +6406,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6420,7 +6420,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6434,7 +6434,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6448,7 +6448,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6462,7 +6462,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6476,7 +6476,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6490,7 +6490,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6504,7 +6504,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6518,7 +6518,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6532,7 +6532,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6546,7 +6546,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6560,7 +6560,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6574,7 +6574,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6588,7 +6588,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6602,7 +6602,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6616,7 +6616,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6630,7 +6630,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6644,7 +6644,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6658,7 +6658,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6672,7 +6672,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -6687,7 +6687,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6701,7 +6701,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -6716,7 +6716,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6730,7 +6730,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6744,7 +6744,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6758,7 +6758,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6772,7 +6772,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6786,7 +6786,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6800,7 +6800,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6814,7 +6814,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6828,7 +6828,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Plastique<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Plastique"
 		},
@@ -6843,7 +6843,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -6858,7 +6858,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -6873,7 +6873,7 @@
 			"cartePopupText": "Conteneur Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6887,7 +6887,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -6902,7 +6902,7 @@
 			"cartePopupText": "Conteneur Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6916,7 +6916,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux, , bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -6931,7 +6931,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6945,7 +6945,7 @@
 			"cartePopupText": "Conteneur Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6959,7 +6959,7 @@
 			"cartePopupText": "Conteneur Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -6973,7 +6973,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", , bouteilles, pots, bocaux, bouteilles, pots, bocaux, ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Emballage ménager"
 		},
@@ -6988,7 +6988,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -7003,7 +7003,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -7018,7 +7018,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7032,7 +7032,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7046,7 +7046,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7060,7 +7060,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7074,7 +7074,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7088,7 +7088,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7102,7 +7102,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7116,7 +7116,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7130,7 +7130,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7144,7 +7144,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7158,7 +7158,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7172,7 +7172,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7186,7 +7186,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7200,7 +7200,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7214,7 +7214,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7228,7 +7228,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7242,7 +7242,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7256,7 +7256,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -7271,7 +7271,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7285,7 +7285,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -7300,7 +7300,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7314,7 +7314,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -7329,7 +7329,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7343,7 +7343,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7357,7 +7357,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7371,7 +7371,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7385,7 +7385,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7399,7 +7399,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7413,7 +7413,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7427,7 +7427,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7441,7 +7441,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7455,7 +7455,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7469,7 +7469,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7483,7 +7483,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7497,7 +7497,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7511,7 +7511,7 @@
 			"cartePopupText": "Conteneur Verre, Plastique<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Plastique"
 		},
@@ -7526,7 +7526,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7540,7 +7540,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7554,7 +7554,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7568,7 +7568,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7582,7 +7582,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7596,7 +7596,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7610,7 +7610,7 @@
 			"cartePopupText": "Conteneur Verre, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Emballage ménager"
 		},
@@ -7625,7 +7625,7 @@
 			"cartePopupText": "Conteneur Verre, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Emballage ménager"
 		},
@@ -7640,7 +7640,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7654,7 +7654,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7668,7 +7668,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7682,7 +7682,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7696,7 +7696,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7710,7 +7710,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7724,7 +7724,7 @@
 			"cartePopupText": "Conteneur Verre, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Emballage ménager"
 		},
@@ -7739,7 +7739,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7753,7 +7753,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7767,7 +7767,7 @@
 			"cartePopupText": "Conteneur Verre, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Emballage ménager"
 		},
@@ -7782,7 +7782,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7796,7 +7796,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7810,7 +7810,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7824,7 +7824,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7838,7 +7838,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7852,7 +7852,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -7867,7 +7867,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7881,7 +7881,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7895,7 +7895,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7909,7 +7909,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7923,7 +7923,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7937,7 +7937,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7951,7 +7951,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7965,7 +7965,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7979,7 +7979,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -7993,7 +7993,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8007,7 +8007,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8021,7 +8021,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8035,7 +8035,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8049,7 +8049,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8063,7 +8063,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8077,7 +8077,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8091,7 +8091,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8105,7 +8105,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8119,7 +8119,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8133,7 +8133,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8147,7 +8147,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8161,7 +8161,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8175,7 +8175,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8189,7 +8189,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8203,7 +8203,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -8218,7 +8218,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8232,7 +8232,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8246,7 +8246,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8260,7 +8260,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8274,7 +8274,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8288,7 +8288,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8302,7 +8302,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8316,7 +8316,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8330,7 +8330,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -8345,7 +8345,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Plastique<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux, bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Plastique"
 		},
@@ -8360,7 +8360,7 @@
 			"cartePopupText": "Conteneur Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8374,7 +8374,7 @@
 			"cartePopupText": "Conteneur Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8388,7 +8388,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -8403,7 +8403,7 @@
 			"cartePopupText": "Conteneur Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8417,7 +8417,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8431,7 +8431,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8445,7 +8445,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8459,7 +8459,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8473,7 +8473,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8487,7 +8487,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8501,7 +8501,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8515,7 +8515,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -8530,7 +8530,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8544,7 +8544,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8558,7 +8558,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8572,7 +8572,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8586,7 +8586,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -8601,7 +8601,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8615,7 +8615,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8629,7 +8629,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8643,7 +8643,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8657,7 +8657,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8671,7 +8671,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8685,7 +8685,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8699,7 +8699,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8713,7 +8713,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8727,7 +8727,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8741,7 +8741,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8755,7 +8755,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8769,7 +8769,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8783,7 +8783,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8797,7 +8797,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8811,7 +8811,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8825,7 +8825,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8839,7 +8839,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8853,7 +8853,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8867,7 +8867,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8881,7 +8881,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8895,7 +8895,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8909,7 +8909,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -8924,7 +8924,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8938,7 +8938,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8952,7 +8952,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8966,7 +8966,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8980,7 +8980,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -8994,7 +8994,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9008,7 +9008,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9022,7 +9022,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9036,7 +9036,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9050,7 +9050,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9064,7 +9064,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9078,7 +9078,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9092,7 +9092,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9106,7 +9106,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9120,7 +9120,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9134,7 +9134,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9148,7 +9148,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -9163,7 +9163,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -9178,7 +9178,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9192,7 +9192,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9206,7 +9206,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9220,7 +9220,7 @@
 			"cartePopupText": "Conteneur Verre, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Emballage ménager"
 		},
@@ -9235,7 +9235,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9249,7 +9249,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9263,7 +9263,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9277,7 +9277,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9291,7 +9291,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9305,7 +9305,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9319,7 +9319,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9333,7 +9333,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9347,7 +9347,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9361,7 +9361,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9375,7 +9375,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9389,7 +9389,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9403,7 +9403,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9417,7 +9417,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -9432,7 +9432,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -9447,7 +9447,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -9462,7 +9462,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -9477,7 +9477,7 @@
 			"cartePopupText": "Conteneur Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9491,7 +9491,7 @@
 			"cartePopupText": "Conteneur Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9505,7 +9505,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -9520,7 +9520,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -9535,7 +9535,7 @@
 			"cartePopupText": "Conteneur Plastique, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Verre"
 		},
@@ -9550,7 +9550,7 @@
 			"cartePopupText": "Conteneur Plastique, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...), cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Plastique, Verre"
 		},
@@ -9565,7 +9565,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9579,7 +9579,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9593,7 +9593,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9607,7 +9607,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9621,7 +9621,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9635,7 +9635,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9649,7 +9649,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9663,7 +9663,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9677,7 +9677,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9691,7 +9691,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9705,7 +9705,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9719,7 +9719,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9733,7 +9733,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -9748,7 +9748,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9762,7 +9762,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9776,7 +9776,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9790,7 +9790,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9804,7 +9804,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9818,7 +9818,7 @@
 			"cartePopupText": "Conteneur Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Plastique<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles transparentes (eau, soda), bouteilles de lait, bouteille d'huile (en plastique), flacons (lessive, javel, nettoyant ménager...)",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9832,7 +9832,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9846,7 +9846,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9860,7 +9860,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9874,7 +9874,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -9889,7 +9889,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -9904,7 +9904,7 @@
 			"cartePopupText": "Conteneur Verre, Papier-carton<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Papier-carton<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Papier-carton"
 		},
@@ -9919,7 +9919,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9933,7 +9933,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9947,7 +9947,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9961,7 +9961,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9975,7 +9975,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -9989,7 +9989,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10003,7 +10003,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10017,7 +10017,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10031,7 +10031,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10045,7 +10045,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10059,7 +10059,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10073,7 +10073,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10087,7 +10087,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10101,7 +10101,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10115,7 +10115,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10129,7 +10129,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10143,7 +10143,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10157,7 +10157,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10171,7 +10171,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10185,7 +10185,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10199,7 +10199,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10213,7 +10213,7 @@
 			"cartePopupText": "Conteneur Verre, Emballage ménager<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, ",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Emballage ménager"
 		},
@@ -10228,7 +10228,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10242,7 +10242,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10256,7 +10256,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10270,7 +10270,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10284,7 +10284,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10298,7 +10298,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10312,7 +10312,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10326,7 +10326,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -10341,7 +10341,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10355,7 +10355,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10369,7 +10369,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10383,7 +10383,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10397,7 +10397,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10411,7 +10411,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10425,7 +10425,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10439,7 +10439,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10453,7 +10453,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10467,7 +10467,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10481,7 +10481,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10495,7 +10495,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10509,7 +10509,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10523,7 +10523,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10537,7 +10537,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10551,7 +10551,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10565,7 +10565,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10579,7 +10579,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10593,7 +10593,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10607,7 +10607,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -10622,7 +10622,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10636,7 +10636,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10650,7 +10650,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -10665,7 +10665,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -10680,7 +10680,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10694,7 +10694,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10708,7 +10708,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -10723,7 +10723,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -10738,7 +10738,7 @@
 			"cartePopupText": "Conteneur Emballage ménager, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": ", bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Emballage ménager, Verre"
 		},
@@ -10753,7 +10753,7 @@
 			"cartePopupText": "Conteneur Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Emballage ménager<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10767,7 +10767,7 @@
 			"cartePopupText": "Conteneur Papier-carton, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Papier-carton, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "cartons (bruns), cartonnettes, emballage en carton, enveloppe, feuilles, journaux, magazines, prospectus, boîte à œuf en carton, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Papier-carton, Verre"
 		},
@@ -10782,7 +10782,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10796,7 +10796,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10810,7 +10810,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10824,7 +10824,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10838,7 +10838,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10852,7 +10852,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10866,7 +10866,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10880,7 +10880,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10894,7 +10894,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10908,7 +10908,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10922,7 +10922,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10936,7 +10936,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10950,7 +10950,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10964,7 +10964,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10978,7 +10978,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -10992,7 +10992,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11006,7 +11006,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11020,7 +11020,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11034,7 +11034,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11048,7 +11048,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11062,7 +11062,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11076,7 +11076,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11090,7 +11090,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11104,7 +11104,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11118,7 +11118,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11132,7 +11132,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11146,7 +11146,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11160,7 +11160,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11174,7 +11174,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11188,7 +11188,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11202,7 +11202,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11216,7 +11216,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11230,7 +11230,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11244,7 +11244,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11258,7 +11258,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11272,7 +11272,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11286,7 +11286,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11300,7 +11300,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11314,7 +11314,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11328,7 +11328,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11342,7 +11342,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11356,7 +11356,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11370,7 +11370,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11384,7 +11384,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11398,7 +11398,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11412,7 +11412,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11426,7 +11426,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11440,7 +11440,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11454,7 +11454,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11468,7 +11468,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11482,7 +11482,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11496,7 +11496,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11510,7 +11510,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11524,7 +11524,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11538,7 +11538,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11552,7 +11552,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11566,7 +11566,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11580,7 +11580,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11594,7 +11594,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11608,7 +11608,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11622,7 +11622,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11636,7 +11636,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11650,7 +11650,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11664,7 +11664,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11678,7 +11678,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11692,7 +11692,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11706,7 +11706,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11720,7 +11720,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11734,7 +11734,7 @@
 			"cartePopupText": "Conteneur Verre, Verre<br/><br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre, Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux, bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
 			"type_dechets": "Verre, Verre"
 		},
@@ -11749,7 +11749,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11763,7 +11763,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11777,7 +11777,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11791,7 +11791,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11805,7 +11805,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11819,7 +11819,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11833,7 +11833,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11847,7 +11847,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11861,7 +11861,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11875,7 +11875,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11889,7 +11889,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11903,7 +11903,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11917,7 +11917,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11931,7 +11931,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -11945,7 +11945,7 @@
 			"cartePopupText": "Conteneur Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"cartePopupText_en": "Container Verre<br/><i>OpenDataNantes - 10/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
-			"detail": "bouteilles, pots, bocaux",
+			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2
 		},
 		{
@@ -15679,8 +15679,8 @@
 			"modesCollecte": "modco_decheterie",
 			"descr": "Réservé aux particuliers habitant Nantes Métropole.Déchets admis : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-journaux-livres, plastiques ménagers, textiles, tontes de pelouse-produits d'élagage-branchages de jardin (production admissible pour un ménage, et branchages de longueur inférieure à 1 mètre), verre.Déchets interdits : cadavres d'animaux, déblais-gravats autres que ceux issus du bricolage familial, déchets anatomiques ou infectieux, déchets hospitaliers, éléments entiers de carrosserie de voiture ou camion, médicaments, ordures ménagères, pneus, produits explosifs-inflammables-radioactifs, résidus de fabrication industrielle.Déchets admis sous conditions : se renseigner à la déchèterie AVANT les dépôts : tontes de pelouse-produits d'élagage-branchages de jardin en grande quantité.",
 			"tel": "02 40 43 36 69",
-			"cartePopupText": "Ecopoint<br/><i>OpenDataNantes - 01/2020</i>",
-			"cartePopupText_en": "Ecopoint<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText": "Ecopoint Dervallières<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText_en": "Ecopoint Dervallières<br/><i>OpenDataNantes - 01/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-pink.png",
 			"carteMarqueur": 3
 		},
@@ -15695,8 +15695,8 @@
 			"modesCollecte": "modco_decheterie",
 			"descr": "Réservé aux particuliers habitant Nantes Métropole.Déchets admis : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-journaux-livres, plastiques ménagers, textiles, tontes de pelouse-produits d'élagage-branchages de jardin (production admissible pour un ménage, et branchages de longueur inférieure à 1 mètre), verre.Déchets interdits : cadavres d'animaux, déblais-gravats autres que ceux issus du bricolage familial, déchets anatomiques ou infectieux, déchets hospitaliers, éléments entiers de carrosserie de voiture ou camion, médicaments, ordures ménagères, pneus, produits explosifs-inflammables-radioactifs, résidus de fabrication industrielle.Déchets admis sous conditions : se renseigner à la déchèterie AVANT les dépôts : tontes de pelouse-produits d'élagage-branchages de jardin en grande quantité.",
 			"tel": "02 51 82 31 47",
-			"cartePopupText": "Ecopoint<br/><i>OpenDataNantes - 01/2020</i>",
-			"cartePopupText_en": "Ecopoint<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText": "Ecopoint Auvours<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText_en": "Ecopoint Auvours<br/><i>OpenDataNantes - 01/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-pink.png",
 			"carteMarqueur": 3
 		},
@@ -15711,8 +15711,8 @@
 			"modesCollecte": "modco_decheterie",
 			"descr": "Réservé aux particuliers habitant Nantes Métropole.Déchets admis : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-journaux-livres, plastiques ménagers, textiles, tontes de pelouse-produits d'élagage-branchages de jardin (production admissible pour un ménage, et branchages de longueur inférieure à 1 mètre), verre.Déchets interdits : cadavres d'animaux, déblais-gravats autres que ceux issus du bricolage familial, déchets anatomiques ou infectieux, déchets hospitaliers, éléments entiers de carrosserie de voiture ou camion, médicaments, ordures ménagères, pneus, produits explosifs-inflammables-radioactifs, résidus de fabrication industrielle.Déchets admis sous conditions : se renseigner à la déchèterie AVANT les dépôts : tontes de pelouse-produits d'élagage-branchages de jardin en grande quantité.",
 			"tel": "02 40 46 61 05",
-			"cartePopupText": "Ecopoint<br/><i>OpenDataNantes - 01/2020</i>",
-			"cartePopupText_en": "Ecopoint<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText": "Ecopoint Chantenay<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText_en": "Ecopoint Chantenay<br/><i>OpenDataNantes - 01/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-pink.png",
 			"carteMarqueur": 3
 		},
@@ -15727,8 +15727,8 @@
 			"modesCollecte": "modco_decheterie",
 			"descr": "Réservé aux particuliers habitant Nantes Métropole.Déchets admis : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-journaux-livres, plastiques ménagers, textiles, tontes de pelouse-produits d'élagage-branchages de jardin (production admissible pour un ménage, et branchages de longueur inférieure à 1 mètre), verre.Déchets interdits : cadavres d'animaux, déblais-gravats autres que ceux issus du bricolage familial, déchets anatomiques ou infectieux, déchets hospitaliers, éléments entiers de carrosserie de voiture ou camion, médicaments, ordures ménagères, pneus, produits explosifs-inflammables-radioactifs, résidus de fabrication industrielle.Déchets admis sous conditions : se renseigner à la déchèterie AVANT les dépôts : tontes de pelouse-produits d'élagage-branchages de jardin en grande quantité.",
 			"tel": "02 40 37 72 21",
-			"cartePopupText": "Déchèterie<br/><i>OpenDataNantes - 01/2020</i>",
-			"cartePopupText_en": "Déchèterie<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText": "Déchèterie de La Chapelle sur Erdre<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText_en": "Déchèterie de La Chapelle sur Erdre<br/><i>OpenDataNantes - 01/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-pink.png",
 			"carteMarqueur": 3
 		},
@@ -15743,8 +15743,8 @@
 			"modesCollecte": "modco_decheterie",
 			"descr": "Réservé aux particuliers habitant Nantes Métropole.Déchets admis : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-journaux-livres, plastiques ménagers, textiles, tontes de pelouse-produits d'élagage-branchages de jardin (production admissible pour un ménage, et branchages de longueur inférieure à 1 mètre), verre.Déchets interdits : cadavres d'animaux, déblais-gravats autres que ceux issus du bricolage familial, déchets anatomiques ou infectieux, déchets hospitaliers, éléments entiers de carrosserie de voiture ou camion, médicaments, ordures ménagères, pneus, produits explosifs-inflammables-radioactifs, résidus de fabrication industrielle.Déchets admis sous conditions : se renseigner à la déchèterie AVANT les dépôts : tontes de pelouse-produits d'élagage-branchages de jardin en grande quantité.",
 			"tel": "02 40 32 94 22",
-			"cartePopupText": "Déchèterie<br/><i>OpenDataNantes - 01/2020</i>",
-			"cartePopupText_en": "Déchèterie<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText": "Déchèterie de Saint Jean de Boiseau<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText_en": "Déchèterie de Saint Jean de Boiseau<br/><i>OpenDataNantes - 01/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-pink.png",
 			"carteMarqueur": 3
 		},
@@ -15759,8 +15759,8 @@
 			"modesCollecte": "modco_decheterie",
 			"descr": "Réservé aux particuliers habitant Nantes Métropole.Déchets admis : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-journaux-livres, plastiques ménagers, textiles, tontes de pelouse-produits d'élagage-branchages de jardin (production admissible pour un ménage, et branchages de longueur inférieure à 1 mètre), verre.Déchets interdits : cadavres d'animaux, déblais-gravats autres que ceux issus du bricolage familial, déchets anatomiques ou infectieux, déchets hospitaliers, éléments entiers de carrosserie de voiture ou camion, médicaments, ordures ménagères, pneus, produits explosifs-inflammables-radioactifs, résidus de fabrication industrielle.Déchets admis sous conditions : se renseigner à la déchèterie AVANT les dépôts : tontes de pelouse-produits d'élagage-branchages de jardin en grande quantité.",
 			"tel": "02 28 91 07 96",
-			"cartePopupText": "Déchèterie<br/><i>OpenDataNantes - 01/2020</i>",
-			"cartePopupText_en": "Déchèterie<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText": "Déchèterie de Rezé<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText_en": "Déchèterie de Rezé<br/><i>OpenDataNantes - 01/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-pink.png",
 			"carteMarqueur": 3
 		},
@@ -15775,8 +15775,8 @@
 			"modesCollecte": "modco_decheterie",
 			"descr": "Réservé aux particuliers habitant Nantes Métropole.Déchets admis : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-journaux-livres, plastiques ménagers, pneus, textiles, tontes de pelouse-produits d'élagage-branchages de jardin (production admissible pour un ménage, et branchages de longueur inférieure à 1 mètre), verre.Déchets interdits : cadavres d'animaux, déblais-gravats autres que ceux issus du bricolage familial, déchets anatomiques ou infectieux, déchets hospitaliers, éléments entiers de carrosserie de voiture ou camion, médicaments, ordures ménagères, produits explosifs-inflammables-radioactifs, résidus de fabrication industrielle.Déchets admis sous conditions : se renseigner à la déchèterie AVANT les dépôts : déchets d'amiante liée, tontes de pelouse-produits d'élagage-branchages de jardin en grande quantité.",
 			"tel": "02 40 49 43 20",
-			"cartePopupText": "Déchèterie<br/><i>OpenDataNantes - 01/2020</i>",
-			"cartePopupText_en": "Déchèterie<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText": "Déchèterie de La Prairie de Mauves<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText_en": "Déchèterie de La Prairie de Mauves<br/><i>OpenDataNantes - 01/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-pink.png",
 			"carteMarqueur": 3
 		},
@@ -15791,8 +15791,8 @@
 			"modesCollecte": "modco_decheterie",
 			"descr": "Réservé aux particuliers habitant Nantes Métropole.Déchets admis : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-journaux-livres, plastiques ménagers, textiles, tontes de pelouse-produits d'élagage-branchages de jardin (production admissible pour un ménage, et branchages de longueur inférieure à 1 mètre), verre.Déchets interdits : cadavres d'animaux, déblais-gravats autres que ceux issus du bricolage familial, déchets anatomiques ou infectieux, déchets hospitaliers, éléments entiers de carrosserie de voiture ou camion, médicaments, ordures ménagères, pneus, produits explosifs-inflammables-radioactifs, résidus de fabrication industrielle.Déchets admis sous conditions : se renseigner à la déchèterie AVANT les dépôts : tontes de pelouse-produits d'élagage-branchages de jardin en grande quantité.",
 			"tel": "06 84 58 50 20",
-			"cartePopupText": "Déchèterie<br/><i>OpenDataNantes - 01/2020</i>",
-			"cartePopupText_en": "Déchèterie<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText": "Déchèterie de Saint Aignan Grand Lieu<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText_en": "Déchèterie de Saint Aignan Grand Lieu<br/><i>OpenDataNantes - 01/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-pink.png",
 			"carteMarqueur": 3
 		},
@@ -15807,8 +15807,8 @@
 			"modesCollecte": "modco_decheterie",
 			"descr": "Réservé aux particuliers habitant Nantes Métropole.Déchets admis : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-journaux-livres, plastiques ménagers, textiles, tontes de pelouse-produits d'élagage-branchages de jardin (production admissible pour un ménage, et branchages de longueur inférieure à 1 mètre), verre.Déchets interdits : cadavres d'animaux, déblais-gravats autres que ceux issus du bricolage familial, déchets anatomiques ou infectieux, déchets hospitaliers, éléments entiers de carrosserie de voiture ou camion, médicaments, ordures ménagères, pneus, produits explosifs-inflammables-radioactifs, résidus de fabrication industrielle.Déchets admis sous conditions : se renseigner à la déchèterie AVANT les dépôts : tontes de pelouse-produits d'élagage-branchages de jardin en grande quantité.",
 			"tel": "02 40 49 62 67",
-			"cartePopupText": "Ecopoint<br/><i>OpenDataNantes - 01/2020</i>",
-			"cartePopupText_en": "Ecopoint<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText": "Ecopoint La Beaujoire<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText_en": "Ecopoint La Beaujoire<br/><i>OpenDataNantes - 01/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-pink.png",
 			"carteMarqueur": 3
 		},
@@ -15823,8 +15823,8 @@
 			"modesCollecte": "modco_decheterie",
 			"descr": "Réservé aux particuliers habitant Nantes Métropole.Déchets admis : batteries, bois, cartons, déblais et gravats issus du bricolage familial, déchets d'équipement électrique et électronique, encombrants ménagers divers, ferrailles, huiles moteur, papiers-journaux-livres, plastiques ménagers, textiles, tontes de pelouse-produits d'élagage-branchages de jardin (production admissible pour un ménage, et branchages de longueur inférieure à 1 mètre), verre.Déchets interdits : cadavres d'animaux, déblais-gravats autres que ceux issus du bricolage familial, déchets anatomiques ou infectieux, déchets hospitaliers, éléments entiers de carrosserie de voiture ou camion, médicaments, ordures ménagères, pneus, produits explosifs-inflammables-radioactifs, résidus de fabrication industrielle.Déchets admis sous conditions : se renseigner à la déchèterie AVANT les dépôts : tontes de pelouse-produits d'élagage-branchages de jardin en grande quantité.",
 			"tel": "02 40 63 06 76",
-			"cartePopupText": "Déchèterie<br/><i>OpenDataNantes - 01/2020</i>",
-			"cartePopupText_en": "Déchèterie<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText": "Déchèterie d'Orvault<br/><i>OpenDataNantes - 01/2020</i>",
+			"cartePopupText_en": "Déchèterie d'Orvault<br/><i>OpenDataNantes - 01/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-pink.png",
 			"carteMarqueur": 3
 		}

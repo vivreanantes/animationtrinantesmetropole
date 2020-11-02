@@ -104,6 +104,7 @@ var _paramFilterTypeMapDatas = [{
 		"nom": "Vente vrac (221)",
 		"nom_en": "No packaging shops (221)",
 		"image": "assets/icons/marker-icon-red.png"
+	}, {
 //	}, {
 //		"id": "7",
 //		"code": "trisacs",
@@ -116,6 +117,13 @@ var _paramFilterTypeMapDatas = [{
 //		"nom": "Collecteurs bouchons (38)",
 //		"nom_en": "Collector corks (38)",
 //		"image": "assets/icons/marker-icon-grey.png"
+
+			"id": "3",
+			"code": "modco_decheterie",
+			"nom": "Déchetteries/écopoints (10)",
+			"nom_en": "Recycling center (10)",
+			"image": "assets/icons/marker-icon-grey.png"
+
 	}, {
 		"id": "9",
 		"code": "coreparation",
