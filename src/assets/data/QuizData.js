@@ -147,7 +147,7 @@ var _theGoodSortingData = {
       descr_en: "Soda can",
       advice: "Recyclage : l'aluminium se recycle",
       advice_en: "Recycling : aluminum recycles.",
-      image: "cannette.png",
+      image: "cannette_mini.png",
       reponses: ["jaune"],
       exclude_filters: ["niveau_expert"]
     },
@@ -157,7 +157,7 @@ var _theGoodSortingData = {
       descr_en: "Exercise book",
       advice: "Recyclage : le papier non souillé se recycle.",
       advice_en: "Recycling: Unstained paper is recycled.",
-      image: "cahier.png",
+      image: "cahier_mini.png",
       reponses: ["jaune"],
       exclude_filters: ["niveau_expert"]
     },
@@ -204,7 +204,7 @@ var _theGoodSortingData = {
       descr_en: "Jar lid metal",
       advice: "Recyclage : Le métal se recycle.",
       advice_en: "Recycling: Metal recycles.",
-      image: "couvercle_bocal.png",
+      image: "couvercle_bocal_mini.png",
       reponses: ["jaune"],
       exclude_filters: ["niveau_enfant"]
     },
@@ -224,7 +224,7 @@ var _theGoodSortingData = {
       descr_en: "Tube of toothpaste",
       advice: "Recyclage : tous les emballages se trient en extension de tri.",
       advice_en: "Recycling: all packages are sorted in sorting extension.",
-      image: "dentifrice.png",
+      image: "dentifrice_mini.png",
       reponses: ["jaune"],
       exclude_filters: ["tri_normal", "niveau_enfant"]
     },
@@ -234,7 +234,7 @@ var _theGoodSortingData = {
       descr_en: "Tube of toothpaste",
       advice: "Poubelle.",
       advice_en: "Bin.",
-      image: "dentifrice.png",
+      image: "dentifrice_mini.png",
       reponses: ["poubelle"],
       exclude_filters: ["tri_extension", "niveau_enfant"]
     },
@@ -244,7 +244,7 @@ var _theGoodSortingData = {
       descr_en: "Vegetable peeling",
       advice: "Dans le composteur",
       advice_en: "Composter direction.",
-      image: "epeluchure_legumes.png",
+      image: "epeluchure_mini.png",
       reponses: ["composteur"],
       exclude_filters: ["niveau_enfant"]
     },
@@ -295,7 +295,7 @@ var _theGoodSortingData = {
         "Retour au magasin : les pharmacies ont l'obligation de récupérer les anciens médicaments,",
       advice_en:
         "Back to the store: pharmacies have the obligation to recover old drugs,",
-      image: "medicaments.png",
+      image: "medicaments_mini.png",
       reponses: ["retour"],
       exclude_filters: ["niveau_enfant"]
     },
@@ -306,7 +306,7 @@ var _theGoodSortingData = {
       advice: "Poubelle. Un seul mégot jeté par terre pollue 500 litres d’eau.",
       advice_en:
         "Trash can. A single butt thrown on the ground pollutes 500 liters of water.",
-      image: "megot.png",
+      image: "megot_mini.png",
       reponses: ["poubelle"],
       exclude_filters: ["niveau_enfant"]
     },
@@ -390,7 +390,7 @@ var _theGoodSortingData = {
         "En déchèterie (attention seule la déchèterie de Nantes acceptent les pneus) / Les magasins qui vendent ces produits les reprennent également si vous en achetez un neuf.",
       advice_en:
         "In waste disposal (be careful only the Nantes waste disposal center accepts the tires) / The stores that sell these products also take them back if you buy a new one.",
-      image: "pneu.png",
+      image: "pneu_mini.png",
       reponses: ["decheterie", "retour"],
       exclude_filters: ["niveau_enfant"]
     },
@@ -402,7 +402,7 @@ var _theGoodSortingData = {
       resume_en: "( wall painting, empty )",
       advice: "En déchèterie au niveau des produits toxiques.",
       advice_en: "Waste disposal at the level of toxic products.",
-      image: "pot_peinture.png",
+      image: "pot_peinture_mini.png",
       reponses: ["decheterie"],
       exclude_filters: ["niveau_enfant"]
     },
@@ -412,7 +412,7 @@ var _theGoodSortingData = {
       descr_en: "Disposable razor",
       advice: "Poubelle.",
       advice_en: "Bin.",
-      image: "rasoir_jetable.png",
+      image: "rasoir_jetable_mini.png",
       reponses: ["poubelle"],
       exclude_filters: ["niveau_enfant", "niveau_expert"]
     },
@@ -422,7 +422,7 @@ var _theGoodSortingData = {
       descr_en: "Lipstick",
       advice: "Poubelle.",
       advice_en: "Bin.",
-      image: "rouge_a_levre.png",
+      image: "rouge_a_levre_mini.png",
       reponses: ["poubelle"],
       exclude_filters: ["niveau_enfant", "niveau_expert"]
     },
@@ -448,7 +448,7 @@ var _theGoodSortingData = {
         "Poubelle : dans les plastiques, seuls les bouteilles et flacons vont en recyclage.",
       advice_en:
         "Waste bin: in plastics, only bottles and bottles go into recycling.",
-      image: "yaourt.png",
+      image: "yaourt_mini.png",
       reponses: ["poubelle"],
       exclude_filters: ["tri_extension"]
     },
@@ -458,7 +458,7 @@ var _theGoodSortingData = {
       descr_en: "Yogurt pot",
       advice: "Recyclage : tous les emballages se trient en extension de tri.",
       advice_en: "Recycling : all the package are sorted in sorting extension.",
-      image: "yaourt.png",
+      image: "yaourt_mini.png",
       reponses: ["jaune"],
       exclude_filters: ["tri_normal"]
     },
@@ -470,7 +470,7 @@ var _theGoodSortingData = {
         "En déchèterie dans la benne « appareils électriques et électroniques » . Les magasins de plus de 400 m² qui vendent des petits appareils électriques et électroniques de 25 cm maximum les reprennent également sans obligation d'achat.",
       advice_en:
         'Waste disposal in the dump "electrical and electronic appliances". Stores of more than 400 m² that sell small electrical and electronic devices up to 25 cm also take them back without any obligation to purchase.',
-      image: "telephone.png",
+      image: "telephone_mini.png",
       reponses: ["retour"],
       exclude_filters: ["niveau_enfant"]
     },
@@ -504,7 +504,7 @@ var _theGoodSortingData = {
         "Poubelle : seul le 'verre d'emballage' (bouteille, bocaux) peut être recyclé et mis dans une colonne dédiée.",
       advice_en:
         "Waste bin: only the 'packaging glass' (bottle, jars) can be recycled and put in a dedicated column.",
-      image: "miroir.png",
+      image: "miroir_mini.png",
       reponses: ["bleu"],
       exclude_filters: ["niveau_enfant"]
     },
@@ -515,7 +515,7 @@ var _theGoodSortingData = {
       advice:
         "A mettre dans les bornes dédiées que l’on trouve en déchèterie et dans certains magasins et grandes surfaces.",
       advice_en: "To put in the dedicated terminals that are found in refuse and in some stores and supermarkets.",
-      image: "pile9v.png",
+      image: "pile9v_mini.png",
       reponses: ["retour", "decheterie"],
       exclude_filters: ["niveau_expert"]
     },
@@ -569,7 +569,7 @@ var _theGoodSortingData = {
       resume_en: "( out of use )",
       advice: "Poubelle.",
       advice_en: "Bin.",
-      image: "jouet_enfant.png",
+      image: "jouet_enfant_mini.png",
       reponses: ["poubelle"],
       exclude_filters: ["niveau_expert"]
     }

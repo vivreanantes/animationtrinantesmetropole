@@ -229,7 +229,7 @@ var _collectModsDatas = [
       "descr_en":"The outlets are obliged to recover the used items they sell: printer cartridges, batteries, energy saving light bulbs, fluorescent tubes (neons).",
       "cons":"cons_recuppdv1,cons_recuppdv2",
       "icone":"modco",
-      "image":"recyclage_point_de_vente_mini.png",
+      "image":"recyclage_point_de_vente_mini.jpg",
       "mots_cles":"reprise,vente",
       "mots_cles_en":"recovery,sale",
       },

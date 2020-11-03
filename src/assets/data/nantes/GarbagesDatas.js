@@ -243,7 +243,7 @@ var _garbagesDatas = [{
     "mots_cles": "barquette,polystyrene,barquette,plastique,",
     "mots_cles_en": "polystyrene,plastic,tray,tray,",
     "cons": "cons_pasuniquementbouteilleflacon,cons_tripasrecyclage",
-    "image": "barquette_polystirene_mini.png",
+    "image": "barquette_polystyrene_mini.png",
     "modco": "modco_bacjaunenantes,modco_bacbleuhorsnantes,modco_sacjaune",
     "recyc": "recyclable_oui_et_non",
     "src": "MieuxTrierANantes 02/2015"
@@ -885,7 +885,7 @@ var _garbagesDatas = [{
     "mots_cles": "chaussure,bon,etat,bote,bon,etat,",
     "mots_cles_en": "shoe,in,good,condition,in,good,condition,bote,",
     "cons": "cons_lerelais",
-    "image": "chaussures_mini.png",
+    "image": "chaussures_usees.png",
     "modco": "smco_conteneurlerelais,smco_reempvet",
     "recyc": "non_recyclable",
     "src": "MieuxTrierANantes 02/2015"
