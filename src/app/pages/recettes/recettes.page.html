@@ -17,7 +17,8 @@
           <br/><br/>
           <span>Si vous pouvez fournir des photos jolies et libres de droits de ces recettes (la préparation ou le résultat), faites par vous, sans visage, on est preneurs ! (par mail à <a (click)="openUrl('mailto://contact@lagalerieduzerodechet.fr')" target="_blank">contact@lagalerieduzerodechet.fr</a>).</span>
       </div>
-
+    </div>
+    
     <div class="search" *ngIf="input">
       <select [(ngModel)]="input">
         <option *ngFor="let filtre of filtres">{{filtre}}</option>
@@ -50,6 +51,6 @@
         </div>
       </div>
     </div>
-  </div>
+
   </div>
 </ion-content>
