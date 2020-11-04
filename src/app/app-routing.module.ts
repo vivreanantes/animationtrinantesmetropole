@@ -43,6 +43,11 @@ const routes: Routes = [
       import("./pages/trier2/trier2.module").then((m) => m.Trier2PageModule),
   },
   {
+    path: "fiches",
+    loadChildren: () =>
+      import("./pages/fiches/fiches.module").then((m) => m.FichesPageModule),
+  },
+  {
     path: "collecteadomicile",
     loadChildren: () =>
       import("./pages/collecteadomicile/collecteadomicile.module").then((m) => m.CollecteADomicilePageModule),

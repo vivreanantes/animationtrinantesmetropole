@@ -1,0 +1,104 @@
+@import "../../../theme/theme";
+:host {
+  ::-webkit-scrollbar {
+    display: none;
+  }
+  > ion-content {
+    @include mtnbackground();
+    .search {
+      display: flex;
+      width: 100%;
+      margin-top: 3vh;
+      .input-field {
+        position: relative;
+        display: flex;
+        width: 100%;
+        margin: auto;
+        input {
+          height: 10vw;
+          width: 90%;
+          padding: 10px;
+          margin: auto;
+          border: none;
+          border-radius: 0.8em;
+          @include fonts("p", bold);
+          text-align: center;
+          outline: none;
+          &::placeholder {
+            color: #888;
+          }
+
+          @include tablet {
+            height: 7vw;
+          }
+          @include desktop {
+            height: 3vw;
+          }
+        }
+        ion-icon {
+          position: absolute;
+          top: 50%;
+          right: 5vw;
+          padding: 5vw;
+          @include prefix(transform, translateY(-50%), moz webkit);
+        }
+      }
+    }
+
+    .categories {
+      .categorie {
+        &:first-child {
+          margin-top: 4vh;
+        }
+        .title {
+          padding: 0 5vw;
+          text-align: center;
+          margin-top: 4vh;
+          margin-bottom: 1vh;
+          h2 {
+            margin: 0;
+            color: #fff;
+            text-shadow: 1px 1px 2px #1c310d;
+          }
+        }
+
+        .carousel {
+          display: flex;
+          flex-direction: row;
+          flex-wrap: wrap;
+          justify-content: center;
+        }
+          .tile {
+            display: flex;
+            flex-direction: column;
+            width: 30%;
+            text-align: center;
+            background-color: rgba(#fff, 0.8);
+            border-radius: 0.8em;
+            margin:1.5vw;
+            padding-top: 1em;
+
+            .content {
+              img {
+                max-height: 11vh;
+                margin: 0 auto;
+                @include tablet {
+                  width: 50%;
+                }
+                @include desktop {
+                  width: 40%;
+                }
+              }
+              h4 {
+                color: #345505;
+                margin: 0;
+                margin-top:3px;
+                padding:0.5em;
+                font-size: 0.9em;
+              }
+            }
+          }
+      }
+    }
+  }
+}
