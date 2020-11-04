@@ -65,7 +65,7 @@ var _garbagesDatas = [{
     "mots_cles": "ampoule,basse,consommation,ampoule,economie,energie,lampe,economie,energie,",
     "mots_cles_en": "energy,saving,bulb,energy,saving,bulb,energy,saving,lamp,",
     "cons": "cons_ampoulemercure,cons_recuppdv2,",
-    "image": "ampoules_basse_consommation_mini.png",
+    "image": "ampoule_basse_conso.png",
     "modco": "modco_pointsdevente",
     "recyc": "recyclable_pas_poubelle",
     "src": "MieuxTrierANantes 02/2015"

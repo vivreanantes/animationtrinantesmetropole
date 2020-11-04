@@ -2,7 +2,8 @@
 	"_structuresDatas": [
 		{
 			"id_osm": "way/270901433",
-			"cartePopupText": "Réemploi <br/>Association Trocantons",
+			"cartePopupText": "Réemploi Association Trocantons<br/><i> livres, vêtements, jouets</i>",
+			"descr": "Du mobilier aux vêtements, vaisselle, bibelots, jouets, petit électroménager, livres, CD DVD, linge de maison, … 550m² d’exposition dans un espace confortable entièrement réhabilité en 2014 par la commune.",
 			"longitude": "-1.0291374",
 			"latitude": "47.4669527",
 			"building": "yes",
@@ -16,16 +17,17 @@
 			"recycling:toys": "yes",
 			"second_hand": "only",
 			"code": "osm_270901433",
-			"descr": "Du mobilier aux vêtements, vaisselle, bibelots, jouets, petit électroménager, livres, CD DVD, linge de maison, … 550m² d’exposition dans un espace confortable entièrement réhabilité en 2014 par la commune.",
 			"nom": "Association Trocantons",
 			"images": "www.mieuxtrieranantes.fr/docs/medias/StructuresReemploi/VisiteSolidariMeubles/VisiteSolidariMeubles_DSC_0499.JPG,www.mieuxtrieranantes.fr/docs/medias/StructuresReemploi/VisiteSolidariMeubles/VisiteSolidariMeubles_DSC_0501.JPG,www.mieuxtrieranantes.fr/docs/medias/StructuresReemploi/VisiteSolidariMeubles/VisiteSolidariMeubles_DSC_0504.JPG,www.mieuxtrieranantes.fr/docs/medias/StructuresReemploi/VisiteSolidariMeubles/VisiteSolidariMeubles_DSC_0507.JPG,www.mieuxtrieranantes.fr/docs/medias/StructuresReemploi/VisiteSolidariMeubles/VisiteSolidariMeubles_DSC_0509.JPG",
 			"src": "Association Mieux trier à Nantes 08/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "Rue de l'Océane 44370 "
 		},
 		{
 			"id_osm": "way/280345309",
-			"cartePopupText": "Réemploi <br/>Communauté Emmaüs",
+			"cartePopupText": "Réemploi Communauté Emmaüs<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Concerne :  livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets",
 			"longitude": "-1.559528",
 			"latitude": "47.159469",
 			"amenity": "recycling",
@@ -58,7 +60,8 @@
 			"url": "http://www.emmaus44.fr/",
 			"src": "bing;Mieux trier à Nantes 2018",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "Rue d'Emmaüs 44340 "
 		},
 		{
 			"id_osm": "node/354402986",
@@ -96,11 +99,12 @@
 			"nom": "La Cuillère en Coin",
 			"tel": "+33 2 40 89 16 93",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "21 Rue de Strasbourg 44000 "
 		},
 		{
 			"id_osm": "way/436782996",
-			"cartePopupText": "Réemploi <br/>Le Comptoir du Solilab",
+			"cartePopupText": "Réemploi Le Comptoir du Solilab<br/>",
 			"longitude": "-1.5708098",
 			"latitude": "47.2011629",
 			"charity": "yes",
@@ -122,7 +126,8 @@
 			"tel": "+33 2 40 77 87 38",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/rNOAG-Wig0tMarX_s08Hog/thumb-640.jpg",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "8 rue St Domingue 44200 "
 		},
 		{
 			"id_osm": "node/475385271",
@@ -149,7 +154,8 @@
 			"tel": "+33 9 83 88 83 53",
 			"url": "http://www.chacharestaurant.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "9 Rue de la Bléterie 44000 "
 		},
 		{
 			"id_osm": "node/476294585",
@@ -170,7 +176,8 @@
 			"code": "osm_476294585",
 			"nom": "Jargus",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "13 Rue Beauregard 44000 "
 		},
 		{
 			"id_osm": "node/666478371",
@@ -222,7 +229,8 @@
 			"tel": "+33 983028722",
 			"url": "https://epicerie-leptitpoids.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "8 Rue Alcide et Charles d'Orbigny 44220 "
 		},
 		{
 			"id_osm": "node/1208617740",
@@ -280,7 +288,8 @@
 		},
 		{
 			"id_osm": "node/1398758957",
-			"cartePopupText": "Réemploi <br/>Miss récup & recycle",
+			"cartePopupText": "Réemploi Miss récup & recycle<br/><i> vêtements</i>",
+			"descr": "Ventes de vêtements d’occasions homme et femme, recyclage de vêtements en atelier couture, cours de couture; machine a coudre en libre service.",
 			"longitude": "-1.5461138",
 			"latitude": "47.1918986",
 			"charity": "yes",
@@ -298,14 +307,14 @@
 			"service": "sewing classes",
 			"shop": "clothes",
 			"code": "osm_1398758957",
-			"descr": "Ventes de vêtements d’occasions homme et femme, recyclage de vêtements en atelier couture, cours de couture; machine a coudre en libre service.",
 			"nom": "Miss récup & recycle",
 			"tel": "+33 2 53 97 36 76",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/BFSN-4BwyE8_0D4waqWCOQ/thumb-640.jpg",
 			"mots_cles": "textile;chaussure;ceinture;sac",
 			"src": "MieuxTrierANantes 2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "49 rue alsace lorraine 44000 "
 		},
 		{
 			"id_osm": "node/1574437644",
@@ -351,7 +360,8 @@
 			"nom": "Un grain gourmand",
 			"tel": "+33 2 40 74 27 95",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "150 Rue du Général Buat 44000 "
 		},
 		{
 			"id_osm": "node/1619954291",
@@ -373,7 +383,8 @@
 			"tel": "+33 2 40 74 39 42",
 			"url": "https://www.leporcbonheur.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "144 Rue Général Buat 44000 "
 		},
 		{
 			"id_osm": "node/1619954323",
@@ -394,11 +405,13 @@
 			"nom": "Loïc Lusson",
 			"tel": "+33 2 40 74 53 37",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "101 Rue du Général Buat 44000 "
 		},
 		{
 			"id_osm": "node/1652874151",
-			"cartePopupText": "Réemploi <br/>Boutique Madeleine - fripes et bidules",
+			"cartePopupText": "Réemploi Boutique Madeleine - fripes et bidules<br/><i> vêtements, chaussures</i>",
+			"descr": "De nombreux vêtements sont proposés dans cette boutique constituée de plusieurs petites pièces. Il y a aussi quelques livres pour enfants et quelques jouets.",
 			"longitude": "-1.5508755",
 			"latitude": "47.2102685",
 			"amenity": "recycling",
@@ -417,7 +430,6 @@
 			"second_hand": "only",
 			"shop": "clothes",
 			"code": "osm_1652874151",
-			"descr": "De nombreux vêtements sont proposés dans cette boutique constituée de plusieurs petites pièces. Il y a aussi quelques livres pour enfants et quelques jouets.",
 			"nom": "Boutique Madeleine - fripes et bidules",
 			"tel": "+33 2 40 29 45 26;+33 2 40 74 14 14",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/FyLThRrCZZFnE23o7RukMQ/thumb-640.jpg",
@@ -425,7 +437,8 @@
 			"url": "https://www.secourspopulaire.fr/spop-affaires",
 			"src": "Entretien SecoursPopulaire /MieuxTrierANantes 08/2016; Mieux trier à Nantes 09/2018 - 07/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "31 44000 "
 		},
 		{
 			"id_osm": "node/1672517624",
@@ -443,7 +456,8 @@
 			"nom": "Saveurs gourmandes",
 			"src": "Nantes Métropole 11/2011",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "6 Place de l'Église 44840 "
 		},
 		{
 			"id_osm": "node/1688797566",
@@ -466,11 +480,13 @@
 			"url": "https://www.fleuronbio44.com/",
 			"src": "Nantes Métropole 11/2011",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "1 Rue du Marché Commun 44300 "
 		},
 		{
 			"id_osm": "node/1730640904",
-			"cartePopupText": "Réemploi <br/>Vélocampus",
+			"cartePopupText": "Réemploi Vélocampus<br/><i> vélos</i>",
+			"descr": "Vélocampus est une association qui anime des ateliers participatifs et solidaires qui visent à fournir aux participants une certaine autonomie à l'entretien et la réparation de leur vélo.",
 			"longitude": "-1.5545268",
 			"latitude": "47.2432133",
 			"amenity": "recycling",
@@ -486,12 +502,12 @@
 			"second_hand": "only",
 			"service:bicycle:repair": "yes",
 			"code": "osm_1730640904",
-			"descr": "Vélocampus est une association qui anime des ateliers participatifs et solidaires qui visent à fournir aux participants une certaine autonomie à l'entretien et la réparation de leur vélo.",
 			"nom": "Vélocampus",
 			"url": "http://www.velocampus.net/",
 			"images": "http://www.velocampus.net/local/cache-vignettes/L680xH173/PB200053-dd347.jpg",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "3 Chemin de la Censive du Tertre 44300 "
 		},
 		{
 			"id_osm": "node/1749572255",
@@ -536,7 +552,8 @@
 			"tel": "+33 2 51 40 27 69",
 			"url": "https://www.biocoop-croqbio.com/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "91 Rue Philippe Lebon 85000 "
 		},
 		{
 			"id_osm": "node/1883053256",
@@ -574,7 +591,8 @@
 			"url": "https://www.biocooplepanierbio.com/",
 			"src": "connaissance personnelle",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "56190 "
 		},
 		{
 			"id_osm": "node/1928526083",
@@ -594,7 +612,8 @@
 			"descr": "Atelier de boulangerie naturelle pains au levain, brioches, biscuits",
 			"nom": "Panisfaire",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "29 Avenue du Général de Gaulle 44119 "
 		},
 		{
 			"id_osm": "node/2108864449",
@@ -615,7 +634,8 @@
 			"nom": "Les Hameaux Bio Biocoop Trignac",
 			"url": "https://www.leshameauxbio.fr/magasins/o%C3%B9-sommes-nous/trignac/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "Rue des Aigrettes 44570 "
 		},
 		{
 			"id_osm": "node/2255955928",
@@ -642,7 +662,8 @@
 			"tel": "+33 2 40 48 12 37",
 			"url": "http://bionant.net/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "1 Rue Saint-Denis 44000 "
 		},
 		{
 			"id_osm": "node/2258874078",
@@ -671,7 +692,8 @@
 			"tel": "+33 2 40 47 59 68",
 			"url": "http://labrulerienantes.free.fr",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "24 Rue de la Marne 44000 "
 		},
 		{
 			"id_osm": "node/2260735425",
@@ -701,7 +723,8 @@
 			"tel": "+33 2 28 29 62 73",
 			"url": "https://www.maisonfrometon.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "21 Rue des Carmes 44000 "
 		},
 		{
 			"id_osm": "node/2272012231",
@@ -725,7 +748,8 @@
 			"code": "osm_2272012231",
 			"nom": "Mamie Pât",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "18 Rue de Briord 44000 "
 		},
 		{
 			"id_osm": "node/2289128176",
@@ -747,7 +771,8 @@
 			"nom": "Boucherie du Bouffay",
 			"tel": "+33 2 40 48 54 08",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "3 Rue du Bouffay 44000 "
 		},
 		{
 			"id_osm": "node/2320443633",
@@ -768,7 +793,8 @@
 			"tel": "+33 2 51 82 37 96",
 			"url": "http://www.lebouffay-spagnol.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "6 Rue des Échevins 44000 "
 		},
 		{
 			"id_osm": "node/2393205127",
@@ -796,7 +822,8 @@
 			"nom": "Dînette",
 			"tel": "+33 2 51 82 79 13",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "12 Rue du Château 44000 "
 		},
 		{
 			"id_osm": "node/2416353080",
@@ -823,7 +850,8 @@
 			"nom": "Les Hameaux Bio Biocoop Pornic",
 			"url": "https://www.leshameauxbio.fr/magasins/o%C3%B9-sommes-nous/pornic/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "1 Rue du traité de Lisbonne 44210 "
 		},
 		{
 			"id_osm": "node/2469173131",
@@ -841,7 +869,8 @@
 			"nom": "Aux Saveurs de l'Erdre",
 			"src": "Bing",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "48 Place Charles de Gaulle 44240 "
 		},
 		{
 			"id_osm": "node/2483199565",
@@ -864,7 +893,8 @@
 			"tel": "+33 9 86 47 53 81",
 			"url": "http://lepicerie2pauline.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "22 Rue Saint-Julien "
 		},
 		{
 			"id_osm": "node/2485095784",
@@ -887,7 +917,8 @@
 			"code": "osm_2485095784",
 			"nom": "Lulu & Félix",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "12 Place du Pilori 44000 "
 		},
 		{
 			"id_osm": "node/2493895880",
@@ -906,7 +937,8 @@
 			"nom": "La Mie d'pain",
 			"src": "Bing",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "276 Avenue de l'Europe 44240 "
 		},
 		{
 			"id_osm": "node/2583958955",
@@ -961,7 +993,8 @@
 			"tel": "+33 2 40 47 19 24",
 			"url": "https://lescarmeliteslacremerie.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "15 Rue de Verdun 44000 "
 		},
 		{
 			"id_osm": "node/2607658274",
@@ -987,7 +1020,8 @@
 			"tel": "+33 2 28 49 17 83",
 			"url": "https://www.olibaba.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "21 Rue de Verdun 44000 "
 		},
 		{
 			"id_osm": "node/2622748551",
@@ -1002,7 +1036,8 @@
 			"nom": "Biocat",
 			"url": "http://biocat.fr/index.php?page=magasin",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "3 "
 		},
 		{
 			"id_osm": "node/2672093889",
@@ -1025,7 +1060,8 @@
 			"nom": "Biocoop Le Sillon Bio",
 			"url": "https://www.lesillonbio.com/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "Les Fretauderies 44260 "
 		},
 		{
 			"id_osm": "node/2759353718",
@@ -1063,7 +1099,8 @@
 			"tel": "+33 6 10 53 22 20",
 			"url": "http://www.totumcantine.bio",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "11 Quai Turenne 44000 "
 		},
 		{
 			"id_osm": "node/2844603283",
@@ -1101,7 +1138,8 @@
 			"nom": "L'Épice en Bouche",
 			"tel": "+33 2 40 72 12 11",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "30 Place Charles de Gaulle 44240 "
 		},
 		{
 			"id_osm": "node/3013945162",
@@ -1149,7 +1187,8 @@
 			"tel": "+33 2 40 47 16 55",
 			"url": "http://www.cafeclavreul.com",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "3 Rue Saint-Léonard 44000 "
 		},
 		{
 			"id_osm": "node/3094180231",
@@ -1174,7 +1213,8 @@
 			"tel": "+33 9 53 95 15 01",
 			"url": "http://www.laboiteameuh.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "20 Rue des Carmes 44000 "
 		},
 		{
 			"id_osm": "node/3097016385",
@@ -1206,7 +1246,8 @@
 			"tel": "+33 2 40 63 42 43",
 			"url": "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Pays-de-la-Loire/Loire-Atlantique/BIOCOOP-NANTES-ORVAULT",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "8 Rue du Commandant Charcot 44700 "
 		},
 		{
 			"id_osm": "node/3097043664",
@@ -1239,7 +1280,8 @@
 			"tel": "+33 2 40 48 55 67",
 			"url": "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Pays-de-la-Loire/Loire-Atlantique/BIOCOOP-NANTES-REPUBLIQUE",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "17 Boulevard Gustave Roch 44200 "
 		},
 		{
 			"id_osm": "node/3125795830",
@@ -1263,7 +1305,8 @@
 			"nom": "You!",
 			"url": "https://youbiofoodrink.fr",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "7 Place de la Bourse 44000 "
 		},
 		{
 			"id_osm": "node/3179636021",
@@ -1316,7 +1359,8 @@
 			"code": "osm_3305544579",
 			"nom": "Boulangerie Pâtisserie Nicolas Lesout",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "3 Place de l'Église 44340 "
 		},
 		{
 			"id_osm": "node/3327282610",
@@ -1340,7 +1384,8 @@
 			"nom": "Boulangerie Deslandes",
 			"tel": "+33 2 40 49 73 87",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "10 Rue de la Ville en Pierre 44000 "
 		},
 		{
 			"id_osm": "node/3328358081",
@@ -1383,7 +1428,8 @@
 			"tel": "+33 2 40 14 03 53",
 			"src": "Association Mieux trier à Nantes, 08/2018",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "9 Rue des Mariniers 44390 "
 		},
 		{
 			"id_osm": "node/3409181065",
@@ -1408,7 +1454,8 @@
 			"tel": "+33 2 40831925",
 			"url": "https://www.biocoop-ancenis.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "104 Rue du Bocage 44150 "
 		},
 		{
 			"id_osm": "node/3414353319",
@@ -1428,7 +1475,8 @@
 			"tel": "+33 2 51 14 76 81",
 			"url": "https://www.lavieclaire.com/magasin-bio/ancenis-saint-gereon.html",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "105 "
 		},
 		{
 			"id_osm": "node/3417742031",
@@ -1461,7 +1509,8 @@
 			"tel": "+33 2 40 09 61 89",
 			"url": "https://www.desepicesamaguise.com/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "27 Rue Saint-Michel 44150 "
 		},
 		{
 			"id_osm": "node/3448218023",
@@ -1484,7 +1533,8 @@
 			"url": "https://lesjolisbocaux.com/",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/aiv5HO7zVGdagqujgtGCTg/thumb-640.jpg",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "2 Rue Yves Bodiguel "
 		},
 		{
 			"id_osm": "node/3470086335",
@@ -1510,7 +1560,8 @@
 			"tel": "+33 2 40 68 90 28",
 			"src": "survey",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "211 Route de Sainte-Luce 44300 "
 		},
 		{
 			"id_osm": "node/3474743920",
@@ -1530,7 +1581,8 @@
 			"nom": "Crèmerie Saint-Do",
 			"tel": "+33 28 24 54 46",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "122 Rue Général Buat 44000 "
 		},
 		{
 			"id_osm": "node/3474835769",
@@ -1549,7 +1601,8 @@
 			"code": "osm_3474835769",
 			"nom": "Couleur Chocolat",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "128 Rue Général Buat 44000 "
 		},
 		{
 			"id_osm": "node/3474835770",
@@ -1569,7 +1622,8 @@
 			"nom": "Le Verger de Saint-Do",
 			"tel": "+33 2 40 93 31 69",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "130 Rue Général Buat 44000 "
 		},
 		{
 			"id_osm": "node/3571306993",
@@ -1637,7 +1691,8 @@
 			"tel": "+33 2 51 84 57 61",
 			"url": "https://www.lavieclaire.com/magasin-bio/nantes.html",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "14 Rue Pitre Chevalier 44000 "
 		},
 		{
 			"id_osm": "node/3683626198",
@@ -1666,7 +1721,8 @@
 			"tel": "+33 6 03130504",
 			"url": "https://www.papill.fr",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "5 Rue de Colmar 44000 "
 		},
 		{
 			"id_osm": "node/3792409253",
@@ -1693,7 +1749,8 @@
 			"tel": "+33 2 40 89 13 90",
 			"url": "https://nantes-nord.biocoop.net",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "188 Route de Rennes 44300 "
 		},
 		{
 			"id_osm": "node/3798285433",
@@ -1716,7 +1773,8 @@
 			"nom": "Biocoop Les Halles Nantes Ouest",
 			"url": "https://stherblainleshalles.biocoop.net/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "332 Boulevard Marcel Paul 44800 "
 		},
 		{
 			"id_osm": "node/3874479888",
@@ -1740,7 +1798,8 @@
 			"nom": "Les Bottes",
 			"tel": "+33 2 52 20 13 86",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "2 Rue Saint-Léonard 44000 "
 		},
 		{
 			"id_osm": "node/3985035309",
@@ -1759,7 +1818,8 @@
 			"code": "osm_3985035309",
 			"nom": "Envie de Saveurs",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "9 Passage Lino Ventura 49620 "
 		},
 		{
 			"id_osm": "node/4115057889",
@@ -1780,11 +1840,13 @@
 			"nom": "Biocoop Symbiose",
 			"url": "https://www.biocoop-symbiose.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "3 Allée des Treilles 49290 "
 		},
 		{
 			"id_osm": "node/4185626789",
-			"cartePopupText": "Réemploi <br/>Nâga",
+			"cartePopupText": "Réemploi Nâga<br/><i> ordinateurs</i>",
+			"descr": "Reconditionnement et don d'ordinateurs sous Linux. Sur rendez-vous uniquement.",
 			"longitude": "-1.5476991",
 			"latitude": "47.1872029",
 			"amenity": "recycling",
@@ -1804,14 +1866,14 @@
 			"shop": "computer",
 			"smoking": "outside",
 			"code": "osm_4185626789",
-			"descr": "Reconditionnement et don d'ordinateurs sous Linux. Sur rendez-vous uniquement.",
 			"nom": "Nâga",
 			"tel": "+33 2 85 52 31 22",
 			"url": "https://www.naga44.org/",
 			"images": "http://www.mieuxtrieranantes.fr/docs/medias/StructuresReemploi/Naga/Naga_03.jpg",
 			"src": "MieuxTrierANantes",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "17 Chemin Fontaine Launay 44400 "
 		},
 		{
 			"id_osm": "node/4199637816",
@@ -1956,7 +2018,8 @@
 			"nom": "Culture Vrac",
 			"url": "https://www.culturevrac.com/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "12 Rue des États 35600 "
 		},
 		{
 			"id_osm": "node/4228670107",
@@ -1979,11 +2042,13 @@
 			"code": "osm_4228670107",
 			"nom": "Moscati",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "3 Rue Jean Macé 44230 "
 		},
 		{
 			"id_osm": "node/4244068292",
-			"cartePopupText": "Réemploi <br/>Pop' Fringues",
+			"cartePopupText": "Réemploi Pop' Fringues<br/><i> vêtements</i>",
+			"descr": "Concerne :  vêtements",
 			"longitude": "-1.5752436",
 			"latitude": "47.2046171",
 			"charity": "yes",
@@ -2005,7 +2070,8 @@
 			"url": "https://www.secourspopulaire.fr/pop-fringues",
 			"src": "MieuxTrierANantes",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "22 quai Ernest Renaud 44100 "
 		},
 		{
 			"id_osm": "node/4267907899",
@@ -2028,7 +2094,8 @@
 			"nom": "Les Hameaux Bio Biocoop Guérande",
 			"url": "https://www.leshameauxbio.fr/nos-magasins/gu%C3%A9rande/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "Rue de la Briquerie 44350 "
 		},
 		{
 			"id_osm": "node/4278058390",
@@ -2054,7 +2121,8 @@
 			"nom": "Biocoop Caba Foch",
 			"url": "http://biocoop-caba.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "59 Boulevard du Maréchal Foch 49100 "
 		},
 		{
 			"id_osm": "node/4321696651",
@@ -2071,11 +2139,13 @@
 			"code": "osm_4321696651",
 			"nom": "BioBrière",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "26 Boulevard de la Brière 44410 "
 		},
 		{
 			"id_osm": "node/4323499191",
-			"cartePopupText": "Réemploi <br/>SCOP Ding Fring",
+			"cartePopupText": "Réemploi SCOP Ding Fring<br/><i> vêtements, chaussures</i>",
+			"descr": "Les boutiques 'Ding Fring' proposent certains des vêtements déposés dans les bornes Le Relais : pull, lingerie, vestes, jupes, pantalons, laine, ceintures, vêtement de travail, livres, peluches... Un quart du stock renouvelé toutes les semaines.",
 			"longitude": "-1.5468574",
 			"latitude": "47.2121039",
 			"amenity": "recycling",
@@ -2094,12 +2164,12 @@
 			"shop": "clothes",
 			"wheelchair": "yes",
 			"code": "osm_4323499191",
-			"descr": "Les boutiques 'Ding Fring' proposent certains des vêtements déposés dans les bornes Le Relais : pull, lingerie, vestes, jupes, pantalons, laine, ceintures, vêtement de travail, livres, peluches... Un quart du stock renouvelé toutes les semaines.",
 			"nom": "SCOP Ding Fring",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/TJj_xOuGvGEj4IPJzZ4PvA/thumb-640.jpg",
 			"src": "Mieux trier à Nantes 2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "32 rue Fouré 44000 "
 		},
 		{
 			"id_osm": "node/4350892131",
@@ -2133,7 +2203,8 @@
 			"tel": "+33 9 83 24 19 24",
 			"url": "http://sugarbluecafe.fr",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "4 Rue des Vieilles Douves 44000 "
 		},
 		{
 			"id_osm": "node/4351000792",
@@ -2179,7 +2250,8 @@
 			"descr": "Commerçant acceptant les contenants réutilisables.",
 			"nom": "Coop",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "Rue du Château 17230 "
 		},
 		{
 			"id_osm": "node/4396149089",
@@ -2205,7 +2277,8 @@
 			"tel": "+33 2 40357540",
 			"url": "https://magasins.naturalia.fr/produits-bio/nantes/3954/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "23 Allée d'Orléans 44000 "
 		},
 		{
 			"id_osm": "node/4416898146",
@@ -2229,7 +2302,8 @@
 			"nom": "Chlorophylle Saint-Herblain Beauséjour",
 			"url": "http://www.chlorophylle-coop.com/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "34 Rue des Plantes 44800 "
 		},
 		{
 			"id_osm": "node/4416911931",
@@ -2252,11 +2326,12 @@
 			"nom": "Chlorophylle Rezé ATOUT SUD",
 			"url": "http://www.chlorophylle-coop.com/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "18 Rue Ordronneau 44400 "
 		},
 		{
 			"id_osm": "node/4495727342",
-			"cartePopupText": "Réemploi <br/>Envie 44",
+			"cartePopupText": "Réemploi Envie 44<br/>",
 			"longitude": "-1.6521097",
 			"latitude": "47.23214",
 			"amenity": "recycling",
@@ -2284,7 +2359,8 @@
 			"mots_cles": "électroménager;réfrigérateur;télévision;lave-vaisselle;congélateur",
 			"src": "Visite des locaux par MieuxTrierANantes 01/15",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "18 rue Bobby Sands 44800 "
 		},
 		{
 			"id_osm": "node/4499730098",
@@ -2306,7 +2382,8 @@
 			"nom": "Les Hameaux Bio Biocoop Saint-Nazaire",
 			"url": "https://www.leshameauxbio.fr/magasins/o%C3%B9-sommes-nous/saint-nazaire/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "89 Rue Jean Jaurès 44600 "
 		},
 		{
 			"id_osm": "node/4641632591",
@@ -2327,7 +2404,8 @@
 			"nom": "Boulangerie Deslandes",
 			"tel": "+33 2 40 52 19 52",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "27 Route de Sainte-Luce 44300 "
 		},
 		{
 			"id_osm": "node/4657132729",
@@ -2350,7 +2428,8 @@
 			"nom": "Nous Anti-Gaspi",
 			"url": "https://www.nousantigaspi.com/magasins/#getigne",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "44190 "
 		},
 		{
 			"id_osm": "node/4706441746",
@@ -2377,7 +2456,8 @@
 			"nom": "Biocoop Caba Doyenné",
 			"url": "http://biocoop-caba.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "50 Boulevard du Doyenné 49100 "
 		},
 		{
 			"id_osm": "node/4750862439",
@@ -2396,7 +2476,8 @@
 			"nom": "Le grenier à pain",
 			"url": "http://legrenierapain.com/magasins-province/#st-luce",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "13 Rue Denis Papin 44980 "
 		},
 		{
 			"id_osm": "node/4750862440",
@@ -2418,7 +2499,8 @@
 			"nom": "Chlorophylle Sainte-Luce-sur-Loire",
 			"url": "http://www.chlorophylle-coop.com",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "13 Rue Denis Papin 44980 "
 		},
 		{
 			"id_osm": "node/4829754273",
@@ -2464,7 +2546,8 @@
 			"nom": "Les Hameaux Bio Biocoop Nantes",
 			"url": "https://leshameauxbio.fr/magasins-bio/les-hameaux-bio-nantes/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "19 Rue du Marché Commun 44300 "
 		},
 		{
 			"id_osm": "node/5066198364",
@@ -2481,7 +2564,8 @@
 			"code": "osm_5066198364",
 			"nom": "Boucheries 44",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "13 Place de la Paix 44800 "
 		},
 		{
 			"id_osm": "node/5132304814",
@@ -2501,7 +2585,8 @@
 			"nom": "Naturéo",
 			"url": "https://www.natureo-bio.fr/magasin-bio/la-chapelle-sur-erdre/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "Rue D'Utrecht 44240 "
 		},
 		{
 			"id_osm": "node/5164862621",
@@ -2569,7 +2654,8 @@
 			"tel": "+33 2 41 69 35 49",
 			"url": "https://lapyramide.biocoop.net/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "216 Route de la Pyramide 49130 "
 		},
 		{
 			"id_osm": "node/5226961589",
@@ -2592,7 +2678,8 @@
 			"nom": "Chlorophylle Saint-Herblain Atlantis",
 			"url": "http://www.chlorophylle-coop.com/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "279 Boulevard Marcel Paul 44800 "
 		},
 		{
 			"id_osm": "node/5277827989",
@@ -2617,7 +2704,8 @@
 			"tel": "+33 9 73 15 80 74",
 			"url": "http://daybyday-shop.com/magasin/nantes",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "3 Rue Pierre Chéreau 44000 "
 		},
 		{
 			"id_osm": "node/5333494928",
@@ -2639,7 +2727,8 @@
 			"nom": "Les Hameaux Bio Biocoop Pornichet",
 			"url": "https://www.leshameauxbio.fr/magasins/o%C3%B9-sommes-nous/pornichet/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "4 Avenue du Courtil Riel 44380 "
 		},
 		{
 			"id_osm": "node/5403811880",
@@ -2676,7 +2765,8 @@
 			"code": "osm_5409751735",
 			"nom": "L'Epicerie du Port",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "1 Rue des Loquets 44470 "
 		},
 		{
 			"id_osm": "node/5413237027",
@@ -2696,7 +2786,8 @@
 			"nom": "Les Fermiers du coin",
 			"url": "http://www.lesfermiersducoin.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "290 Route de Vannes 44706 "
 		},
 		{
 			"id_osm": "node/5414276240",
@@ -2717,7 +2808,8 @@
 			"nom": "CasaVrac",
 			"url": "https://www.casavrac.com/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "14 bis Le Parveau 49230 "
 		},
 		{
 			"id_osm": "node/5420284870",
@@ -2738,7 +2830,8 @@
 			"tel": "+33 2 40 75 23 81",
 			"url": "http://www.coteaux-nantais.com/fr/content/vente-directe",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "3 Place Pierre Desfossés 44120 "
 		},
 		{
 			"id_osm": "node/5456625523",
@@ -2758,7 +2851,8 @@
 			"code": "osm_5456625523",
 			"nom": "Oudaîa",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "118 Rue Général Buat 44000 "
 		},
 		{
 			"id_osm": "node/5456638652",
@@ -2778,7 +2872,8 @@
 			"nom": "Boulangerie Rullier Patrice",
 			"tel": "+33 2 40 74 99 53",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "118 Rue Général Buat 44000 "
 		},
 		{
 			"id_osm": "node/5459152854",
@@ -2803,7 +2898,8 @@
 			"tel": "+33 2 40 75 24 42",
 			"src": "J'aime tes bocaux",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "21 Rue Racine 44000 "
 		},
 		{
 			"id_osm": "node/5460145598",
@@ -2829,7 +2925,8 @@
 			"url": "http://domoro.fr/",
 			"src": "survey",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "7 Boulevard de Stalingrad 44000 "
 		},
 		{
 			"id_osm": "node/5460210375",
@@ -2858,7 +2955,8 @@
 			"tel": "+33 6 47 43 92 42",
 			"url": "https://ilovetheine.fr",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "4 Rue de l'Arche Sèche 44000 "
 		},
 		{
 			"id_osm": "node/5460303725",
@@ -2876,7 +2974,8 @@
 			"code": "osm_5460303725",
 			"nom": "Le Comptoir NanTHE du CAFE",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "6 Rue Guépin 44000 "
 		},
 		{
 			"id_osm": "node/5460362739",
@@ -2897,7 +2996,8 @@
 			"nom": "ThéÔphil",
 			"tel": "+33 2 40 73 97 93",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "2 Rue Franklin 44000 "
 		},
 		{
 			"id_osm": "node/5460375747",
@@ -2915,7 +3015,8 @@
 			"code": "osm_5460375747",
 			"nom": "L'Épi d'Ange",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "24 Rue Pierre Blard 44800 "
 		},
 		{
 			"id_osm": "node/5460383333",
@@ -2932,7 +3033,8 @@
 			"code": "osm_5460383333",
 			"nom": "Poissonnerie des Arcades",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "21 Place de la Paix 44800 "
 		},
 		{
 			"id_osm": "node/5460390736",
@@ -2950,7 +3052,8 @@
 			"code": "osm_5460390736",
 			"nom": "Le Ver Luisant",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "1 Rue Albert Thomas 44610 "
 		},
 		{
 			"id_osm": "node/5460439635",
@@ -2968,7 +3071,8 @@
 			"code": "osm_5460439635",
 			"nom": "Mon Bento",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "15 Allée des Tanneurs 44000 "
 		},
 		{
 			"id_osm": "node/5460452139",
@@ -2987,7 +3091,8 @@
 			"code": "osm_5460452139",
 			"nom": "Restaurant VF",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "12 Allée des Tanneurs 44000 "
 		},
 		{
 			"id_osm": "node/5460462886",
@@ -3005,7 +3110,8 @@
 			"code": "osm_5460462886",
 			"nom": "La LocoMotive",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "3 Rue Laënnec 44720 "
 		},
 		{
 			"id_osm": "node/5460468439",
@@ -3021,7 +3127,8 @@
 			"code": "osm_5460468439",
 			"nom": "Ferme des Oeufs au Lait",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "L'Angle 44220 "
 		},
 		{
 			"id_osm": "node/5477873624",
@@ -3043,7 +3150,8 @@
 			"tel": "+33 2 85 29 20 75",
 			"url": "https://www.eau-vive.com/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "272 Route de Vannes 44700 "
 		},
 		{
 			"id_osm": "node/5500012147",
@@ -3065,7 +3173,8 @@
 			"tel": "+33 2 51 37 69 46",
 			"url": "https://www.lemarchedeleopold.com/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "85 Avenue Aliénor d'Aquitaine 85000 "
 		},
 		{
 			"id_osm": "node/5528055528",
@@ -3115,7 +3224,8 @@
 			"nom": "Biocoop",
 			"url": "https://www.biocoop-cholet.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "204 Avenue des Trois Provinces 49300 "
 		},
 		{
 			"id_osm": "node/5557299433",
@@ -3134,7 +3244,8 @@
 			"nom": "Au jardin bioretz",
 			"url": "http://www.aujardinbioretz.com/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "23 Rue Roche Blanche 44680 "
 		},
 		{
 			"id_osm": "node/5573379329",
@@ -3155,7 +3266,8 @@
 			"nom": "Biocoop Marans",
 			"url": "https://marans.biocoop.net/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "130 Route de la Rochelle 17230 "
 		},
 		{
 			"id_osm": "node/5578150590",
@@ -3175,7 +3287,8 @@
 			"nom": "Biocoop Le Héron bleu",
 			"url": "https://leheronbleu.biocoop.net/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "5 Rue Louis Guilloux 35600 "
 		},
 		{
 			"id_osm": "node/5579125192",
@@ -3196,7 +3309,8 @@
 			"nom": "Biocoop Les Herbiers",
 			"url": "https://www.biocooplesherbiers.com/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "5 Avenue de la Tibourgère 85500 "
 		},
 		{
 			"id_osm": "node/5579129208",
@@ -3217,7 +3331,8 @@
 			"nom": "Biocoop Grain de sel",
 			"url": "https://www.biocoopgraindesel.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "12 Chemin de la Petite Croix 85270 "
 		},
 		{
 			"id_osm": "node/5580256275",
@@ -3242,7 +3357,8 @@
 			"nom": "Biocoop Caba Mûrs-Erigné",
 			"url": "http://biocoop-caba.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "34 Route de Cholet 49000 "
 		},
 		{
 			"id_osm": "node/5580261325",
@@ -3263,7 +3379,8 @@
 			"nom": "Biocoop",
 			"url": "https://www.biocoop-cholet.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "12 Avenue de la Marne 49300 "
 		},
 		{
 			"id_osm": "node/5655365444",
@@ -3332,11 +3449,13 @@
 			"code": "osm_5690435704",
 			"nom": "Épicerie Hüeck",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "9 Rue Porte Saumon "
 		},
 		{
 			"id_osm": "node/5721806511",
-			"cartePopupText": "Réemploi <br/>Ding-Fring Chantier Navals",
+			"cartePopupText": "Réemploi Ding-Fring Chantier Navals<br/><i> vêtements, chaussures</i>",
+			"descr": "Les boutiques 'Ding Fring' proposent certains des vêtements déposés dans les bornes Le Relais : pull, lingerie, vestes, jupes, pantalons, laine, ceintures, vêtement de travail, livres, peluches... Un quart du stock renouvelé toutes les semaines.",
 			"longitude": "-1.5692144",
 			"latitude": "47.2091543",
 			"amenity": "recycling",
@@ -3355,14 +3474,14 @@
 			"shop": "clothes",
 			"survey:date": "2018-06-27",
 			"code": "osm_5721806511",
-			"descr": "Les boutiques 'Ding Fring' proposent certains des vêtements déposés dans les bornes Le Relais : pull, lingerie, vestes, jupes, pantalons, laine, ceintures, vêtement de travail, livres, peluches... Un quart du stock renouvelé toutes les semaines.",
 			"nom": "Ding-Fring Chantier Navals",
 			"tel": "+33 2 40 69 13 89",
 			"mots_cles": "vêtement;linge;pull;pantalon;veste;chaussette;chemisier;Tshirt;chaussure;couverture;drap;couette;layette;boy;sous-vêtement",
 			"url": "https://www.lerelais.org/aussi.php?page",
 			"src": "survey;Association Mieux trier à Nantes",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "5 rue Charles Brunellière 44100 "
 		},
 		{
 			"id_osm": "node/5759900079",
@@ -3429,7 +3548,8 @@
 		},
 		{
 			"id_osm": "node/5792911699",
-			"cartePopupText": "Réemploi <br/>Pat'mouille",
+			"cartePopupText": "Réemploi Pat'mouille<br/><i> vêtements, chaussures</i>",
+			"descr": "textiles uniquement",
 			"longitude": "-1.2706811",
 			"latitude": "47.1647835",
 			"amenity": "recycling",
@@ -3448,14 +3568,14 @@
 			"second_hand": "only",
 			"shop": "clothes",
 			"code": "osm_5792911699",
-			"descr": "textiles uniquement",
 			"nom": "Pat'mouille",
 			"tel": "+33 2 40 36 39 89",
 			"images": "https://static.actu.fr/uploads/2014/06/patmouilleherv2-854x706.jpg",
 			"url": "http://www.patmouille.fr/",
 			"src": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2018;association Mieux trier à Nantes 08/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "8 route de la Loire 44330 "
 		},
 		{
 			"id_osm": "node/5811734321",
@@ -3481,7 +3601,8 @@
 			"url": "http://recyclerielegrenier.org/",
 			"src": "Association Mieux trier à Nantes, 08/2018",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "14 Rue de l'Industrie 44310 "
 		},
 		{
 			"id_osm": "node/5817742711",
@@ -3502,7 +3623,8 @@
 			"nom": "Repair café Communauté de Communes Châteaubriant Derval",
 			"src": "Association Mieux trier à Nantes, 08/2018",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "11 Place De l'Église 44170 "
 		},
 		{
 			"id_osm": "node/5822638258",
@@ -3533,7 +3655,8 @@
 			"url": "https://repaircafe.org/fr/location/repair-cafe-de-carquefou/",
 			"src": "Association Mieux trier à Nantes, 08/2018",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "8 Rue Jules Verne 44470 "
 		},
 		{
 			"id_osm": "node/5825448768",
@@ -3566,7 +3689,8 @@
 			"url": "http://www.repaircafevignoblenantais.fr",
 			"src": "Association Mieux trier à Nantes, 08/2018",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "19 bis Aiguillette 44330 "
 		},
 		{
 			"id_osm": "node/5825530455",
@@ -3596,7 +3720,8 @@
 			"url": "https://www.pingbase.net/",
 			"src": "Association Mieux trier à Nantes, 08/2018",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "38 Rue du Breil 44100 "
 		},
 		{
 			"id_osm": "node/5825537480",
@@ -3628,7 +3753,8 @@
 			"url": "http://www.fmq-saintnazaire.fr/bienvenue/index.php",
 			"src": "Association Mieux trier à Nantes, 08/2018",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "1 bis Rue des Ajoncs 44600 "
 		},
 		{
 			"id_osm": "node/5825553402",
@@ -3659,7 +3785,8 @@
 			"images": "https://cibul.s3.amazonaws.com/evtbevent_repair-cafe-saint-herblain-sillon_339574.jpg",
 			"src": "Association Mieux trier à Nantes, 08/2018",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "5 Place des Thébaudières 44800 "
 		},
 		{
 			"id_osm": "node/5827100231",
@@ -3690,7 +3817,8 @@
 			"url": "http://placeauvelo-nantes.fr/controles-techniques/",
 			"src": "Association Mieux trier à Nantes, 08/2018",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "1 Rue d'Auvours 44000 "
 		},
 		{
 			"id_osm": "node/5827130682",
@@ -3718,7 +3846,8 @@
 			"url": "https://www.atao-insertion.fr",
 			"src": "Association Mieux trier à Nantes, 08/2018",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "7 Rue du Lamineur 44800 "
 		},
 		{
 			"id_osm": "node/5827136611",
@@ -3750,7 +3879,8 @@
 			"url": "https://ateliercoopchantenay.wordpress.com/",
 			"src": "Association Mieux trier à Nantes, 08/2018",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "30 Boulevard de Chantenay 44100 "
 		},
 		{
 			"id_osm": "node/5838925796",
@@ -3772,7 +3902,8 @@
 			"nom": "La Vie Claire",
 			"url": "https://www.lavieclaire.com/magasin-bio/le-pouliguen.html",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "18 Rue du Cornen 44510 "
 		},
 		{
 			"id_osm": "node/5838965317",
@@ -3824,7 +3955,8 @@
 			"nom": "La Vie Claire",
 			"url": "https://www.lavieclaire.com/magasin-bio/saint-brevin-les-pins.html",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "3 "
 		},
 		{
 			"id_osm": "node/5846643541",
@@ -3844,7 +3976,8 @@
 			"nom": "L'Épicier Vert",
 			"url": "https://www.biomonde.fr/l-epicier-vert,3,79",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "54 Rue David d'Angers 49500 "
 		},
 		{
 			"id_osm": "node/5851060201",
@@ -3873,7 +4006,8 @@
 			"tel": "+33 2 40 35 67 23",
 			"url": "https://www.biocoop.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "14 Rue de Budapest 44000 "
 		},
 		{
 			"id_osm": "node/5870272919",
@@ -3890,7 +4024,8 @@
 			"nom": "Les Secrets de la Nature",
 			"url": "https://www.lessecretsdelanature.net",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "38 "
 		},
 		{
 			"id_osm": "node/5870778381",
@@ -3908,7 +4043,8 @@
 			"nom": "Epicerie La Corbeille",
 			"url": "https://monquartierdeshalles.wordpress.com/2015/10/30/la-corbeille/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "46 "
 		},
 		{
 			"id_osm": "node/5884678702",
@@ -3928,7 +4064,8 @@
 			"code": "osm_5884678702",
 			"nom": "Combi",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "7 Rue des Halles "
 		},
 		{
 			"id_osm": "node/5912168150",
@@ -3956,7 +4093,8 @@
 			"nom": "Repair Café au Café Le Lucéen",
 			"images": "https://cibul.s3.amazonaws.com/evtbevent_repair-cafe-sainte-luce-septembre_353190.jpg",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "42 Rue du Président Coty 44980 "
 		},
 		{
 			"id_osm": "node/5931513699",
@@ -3983,7 +4121,8 @@
 			"url": "http://www.velocampus.net/?lang=fr",
 			"src": "Vélocampus 09/2018, Mieux trier à Nantes 09/2018",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "3 Chemin de la Censive du Tertre 44300 "
 		},
 		{
 			"id_osm": "node/5949741534",
@@ -4013,7 +4152,8 @@
 			"images": "https://cibul.s3.amazonaws.com/evtbevent_ensavelo-nantes_856810.jpg",
 			"src": "Ensavelo 09/2018",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "6 Quai François Mitterrand 44200 "
 		},
 		{
 			"id_osm": "node/5959789630",
@@ -4032,7 +4172,8 @@
 			"nom": "CasaVrac",
 			"url": "https://www.casavrac.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "14 Venelle de l'Escarpe 44190 "
 		},
 		{
 			"id_osm": "node/5968208079",
@@ -4050,7 +4191,8 @@
 			"code": "osm_5968208079",
 			"nom": "Mme Bocal & Mr Vrac",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "87 Rue Nationale 49300 "
 		},
 		{
 			"id_osm": "node/5979940209",
@@ -4074,7 +4216,8 @@
 			"tel": "+33 2 40 64 64 44",
 			"url": "https://lapanetieredeshameaux.fr/trouver-votre-boulangerie/la-panetiere-des-hameaux-pornic",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "1 Rue du Traité de Lisbonne 44210 "
 		},
 		{
 			"id_osm": "node/5979940211",
@@ -4094,7 +4237,8 @@
 			"tel": "+33 2 40 39 10 32",
 			"url": "https://www.pornic.com/le-chemin-bio.html",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "19-21 Rue Jean Monnet 44210 "
 		},
 		{
 			"id_osm": "node/5981553885",
@@ -4119,7 +4263,7 @@
 		},
 		{
 			"id_osm": "node/5995955278",
-			"cartePopupText": "Réemploi <br/>Le Grand Magasin",
+			"cartePopupText": "Réemploi Le Grand Magasin<br/>",
 			"longitude": "-1.5507422",
 			"latitude": "47.2187884",
 			"amenity": "recycling",
@@ -4144,7 +4288,8 @@
 			"url": "https://grandmagasin.org",
 			"src": "Visite réalisée le 04/2018 par  MieuxTrierANantes puis relecture par StationsServices",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "4 rue de l'Ėvêché 44000 "
 		},
 		{
 			"id_osm": "node/6002805112",
@@ -4164,7 +4309,8 @@
 			"nom": "Naturéo",
 			"url": "https://www.natureo-bio.fr/magasin-bio/angers/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "1 Rue du Grand Launay 49000 "
 		},
 		{
 			"id_osm": "node/6002805118",
@@ -4237,7 +4383,8 @@
 			"tel": "+33 2 55 10 11 92",
 			"url": "https://www.esthete-nantes.com/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "1 bis Rue Mercœur "
 		},
 		{
 			"id_osm": "node/6019832856",
@@ -4256,7 +4403,8 @@
 			"nom": "Le Lutin Bio",
 			"url": "http://www.le-lutin-bio.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "5 Rue de la Monnaie 85190 "
 		},
 		{
 			"id_osm": "node/6019847335",
@@ -4275,7 +4423,8 @@
 			"nom": "Biomonde Océan",
 			"url": "https://www.biomonde.fr/bio-ocean,3,277",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "186 Rue Carnot 85300 "
 		},
 		{
 			"id_osm": "node/6019919103",
@@ -4293,7 +4442,8 @@
 			"nom": "Au Pays Bio",
 			"url": "https://www.au-pays-bio.com/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "109 Avenue du Président François Mitterrand 85200 "
 		},
 		{
 			"id_osm": "node/6022379458",
@@ -4311,7 +4461,8 @@
 			"nom": "Au marché d'Orée",
 			"url": "http://www.aumarchedoree.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "261 Rue Pierre et Marie Curie 49530 "
 		},
 		{
 			"id_osm": "node/6023751304",
@@ -4333,7 +4484,8 @@
 			"tel": "+33 2 40 48 78 84",
 			"url": "https://lesout.wixsite.com/lesout",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "14 Rue Franklin "
 		},
 		{
 			"id_osm": "node/6026797392",
@@ -4358,7 +4510,8 @@
 			"url": "https://www.dosedesens.com/",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/LWZGtjzyh4T2uL9G3vcFNA/thumb-640.jpg",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "16 Mail des Chantiers 44200 "
 		},
 		{
 			"id_osm": "node/6027193265",
@@ -4403,7 +4556,8 @@
 			"url": "https://www.spationautes.fr/atelier-du-pignon.html",
 			"src": "Association Mieux trier à Nantes, 08/2018",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "12 Quai Magellan 44000 "
 		},
 		{
 			"id_osm": "node/6040578114",
@@ -4476,7 +4630,8 @@
 			"url": "https://greenaddict.bio",
 			"src": "survey",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "4 Rue Léon Blum 44000 "
 		},
 		{
 			"id_osm": "node/6094770462",
@@ -4493,7 +4648,8 @@
 			"code": "osm_6094770462",
 			"nom": "O Mille Caprices",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "7 Rue de Nantes 44130 "
 		},
 		{
 			"id_osm": "node/6133353987",
@@ -4514,7 +4670,8 @@
 			"nom": "Le Cellier d'Hélène",
 			"tel": "+33 675073283",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "7 Rue Pierre Blard 44800 "
 		},
 		{
 			"id_osm": "node/6133409738",
@@ -4534,7 +4691,8 @@
 			"nom": "Goût Layon",
 			"url": "https://www.goutlayon.com/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "2 Place du Mail 49750 "
 		},
 		{
 			"id_osm": "node/6205759831",
@@ -4554,7 +4712,8 @@
 			"nom": "Biocoop Cholet Nord",
 			"url": "https://www.biocoop-cholet.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "35 Avenue Edmond Michelet "
 		},
 		{
 			"id_osm": "node/6220990130",
@@ -4572,7 +4731,8 @@
 			"nom": "Ma Product'Yon Locale",
 			"url": "http://www.maproductyonlocale.com/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "13 Rue d'Aizenay "
 		},
 		{
 			"id_osm": "node/6237965656",
@@ -4595,7 +4755,8 @@
 			"tel": "+33 9 86 26 80 89",
 			"url": "https://gouttedornantes.fr",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "4 Rue Copernic "
 		},
 		{
 			"id_osm": "node/6239504925",
@@ -4616,7 +4777,8 @@
 			"tel": "+33 2 40 39 64 61",
 			"url": "https://www.eau-vive.com",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "8 Avenue des Frères Lumière "
 		},
 		{
 			"id_osm": "node/6263908254",
@@ -4637,11 +4799,13 @@
 			"nom": "La Coop du Coin",
 			"url": "https://lacoopducoin-epicerie-cooperative-participative.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "35 Boulevard Léon Gambetta 44600 "
 		},
 		{
 			"id_osm": "node/6284914726",
-			"cartePopupText": "Réemploi <br/>Vestiboutique (Croix-Rouge)",
+			"cartePopupText": "Réemploi Vestiboutique (Croix-Rouge)<br/><i> vêtements, chaussures</i>",
+			"descr": "Vous trouverez toute sorte de vêtements, à tout petit prix (ce sont les vêtements déposés dans les conteneurs de la Croix Rouge, qui sont lavés et triés par les bénévoles). Il y a aussi des draps, chaussures, du tissu...  dans un lieu très bien rangé.",
 			"longitude": "-1.6171514",
 			"latitude": "47.5635526",
 			"amenity": "recycling",
@@ -4663,13 +4827,13 @@
 			"second_hand": "only",
 			"shop": "clothes",
 			"code": "osm_6284914726",
-			"descr": "Vous trouverez toute sorte de vêtements, à tout petit prix (ce sont les vêtements déposés dans les conteneurs de la Croix Rouge, qui sont lavés et triés par les bénévoles). Il y a aussi des draps, chaussures, du tissu...  dans un lieu très bien rangé.",
 			"nom": "Vestiboutique (Croix-Rouge)",
 			"tel": "+33 2 40 79 40 00",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/aMVIQxuaY8m7mueG9u-rGg/thumb-640.jpg",
 			"src": "MieuxTrierANantes, 03/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "Rue Marie Curie 44170 "
 		},
 		{
 			"id_osm": "node/6285198282",
@@ -4693,7 +4857,8 @@
 		},
 		{
 			"id_osm": "node/6298594785",
-			"cartePopupText": "Réemploi <br/>Recyclerie Nord-Atlantique (Nort-Sur-Erdre)",
+			"cartePopupText": "Réemploi Recyclerie Nord-Atlantique (Nort-Sur-Erdre)<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Lieu de dépôt-boutique pour de très nombreux produits. Les horaires de dépôt sont les mêmes que ceux de la boutique.",
 			"longitude": "-1.5165385",
 			"latitude": "47.4347282",
 			"amenity": "recycling",
@@ -4723,18 +4888,19 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6298594785",
-			"descr": "Lieu de dépôt-boutique pour de très nombreux produits. Les horaires de dépôt sont les mêmes que ceux de la boutique.",
 			"nom": "Recyclerie Nord-Atlantique (Nort-Sur-Erdre)",
 			"tel": "+33 2 40 93 22 08",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/QO60N-85kPJDMQkcUQ2AbA/thumb-640.jpg",
 			"mots_cles": "vêtements;mobiliers;petit électroménager;vaisselle;bibelots;livre;cd;dvd;BD;puériculture;jouet;quincaillerie;papier",
 			"src": "MieuxTrierANantes 03/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "3 Rue de l'Océan 44390 "
 		},
 		{
 			"id_osm": "node/6298812616",
-			"cartePopupText": "Réemploi <br/>La Boîte Utile Washington",
+			"cartePopupText": "Réemploi La Boîte Utile Washington<br/><i> livres, vêtements, chaussures, décorations, bibelots, jouets</i>",
+			"descr": "Concerne :  livres, vêtements, chaussures, décorations, bibelots, jouets",
 			"longitude": "-1.5739429",
 			"latitude": "47.2332845",
 			"amenity": "givebox",
@@ -4762,11 +4928,13 @@
 			"url": "http://www.nantesenpartage.fr/les-boites-utiles/",
 			"src": "Association Mieux trier à Nantes",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "59 Rue de la Gourmette 44300 "
 		},
 		{
 			"id_osm": "node/6312004156",
-			"cartePopupText": "Réemploi <br/>Trocantons Le Cellier",
+			"cartePopupText": "Réemploi Trocantons Le Cellier<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Recycle presque tout sauf literie endommagée ou tachée, produits toxiques liquides pâteux, matériel électrique hors d'usage, bouteilles de gaz, pneumatiques, tubes néons. Collecte à domicile du mardi au vendredi : se renseigner par téléphone.",
 			"longitude": "-1.3550005",
 			"latitude": "47.3359164",
 			"amenity": "recycling",
@@ -4790,7 +4958,6 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6312004156",
-			"descr": "Recycle presque tout sauf literie endommagée ou tachée, produits toxiques liquides pâteux, matériel électrique hors d'usage, bouteilles de gaz, pneumatiques, tubes néons. Collecte à domicile du mardi au vendredi : se renseigner par téléphone.",
 			"nom": "Trocantons Le Cellier",
 			"tel": "+33 2 40 97 78 55",
 			"images": "https://www.trocantons.org/sites/default/files/trocantons-un-nouvel-elan-au-bois-madame.jpg",
@@ -4798,7 +4965,8 @@
 			"url": "http://www.trocantons.org",
 			"src": "Association Mieux trier à Nantes 08/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "Zone Artisanale de Bel-Air 44850 "
 		},
 		{
 			"id_osm": "node/6325023057",
@@ -4819,7 +4987,8 @@
 			"code": "osm_6325023057",
 			"nom": "Ora",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "7 Rue Magdeleine 44200 "
 		},
 		{
 			"id_osm": "node/6346508275",
@@ -4840,11 +5009,13 @@
 			"nom": "Opson",
 			"url": "https://www.opson.fr",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "2 Rue Copernic "
 		},
 		{
 			"id_osm": "node/6357072845",
-			"cartePopupText": "Réemploi <br/>Ding-Fring Rezé",
+			"cartePopupText": "Réemploi Ding-Fring Rezé<br/><i> vêtements, chaussures</i>",
+			"descr": "Les boutiques 'Ding Fring' proposent certains des vêtements déposés dans les bornes Le Relais : pull, lingerie, vestes, jupes, pantalons, laine, ceintures, vêtement de travail, livres, peluches... Un quart du stock renouvelé toutes les semaines.",
 			"longitude": "-1.5505001",
 			"latitude": "47.1889053",
 			"amenity": "recycling",
@@ -4862,14 +5033,14 @@
 			"second_hand": "only",
 			"shop": "clothes",
 			"code": "osm_6357072845",
-			"descr": "Les boutiques 'Ding Fring' proposent certains des vêtements déposés dans les bornes Le Relais : pull, lingerie, vestes, jupes, pantalons, laine, ceintures, vêtement de travail, livres, peluches... Un quart du stock renouvelé toutes les semaines.",
 			"nom": "Ding-Fring Rezé",
 			"tel": "+33 2 51 70 28 35",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/9woxrcAkxIP0HX0YrjMjrw/thumb-640.jpg",
 			"url": "http://www.lerelais.org/aussi.php?page",
 			"src": "MieuxTrierANantes 2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "59 rue de la Commune de 1871 44000 "
 		},
 		{
 			"id_osm": "node/6366938124",
@@ -4887,11 +5058,13 @@
 			"nom": "Melbourne Coffee",
 			"url": "https://melbournecoffee.fr",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "4 "
 		},
 		{
 			"id_osm": "node/6370521422",
-			"cartePopupText": "Réemploi <br/>La boutique du réemploi - Recyclerie",
+			"cartePopupText": "Réemploi La boutique du réemploi - Recyclerie<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Vente de mobiliers, objets, équipements de maison, déco, vaisselle, jeux, puériculture, brocante issus du réemploi",
 			"longitude": "-1.5306644",
 			"latitude": "47.2222664",
 			"amenity": "recycling",
@@ -4918,17 +5091,18 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6370521422",
-			"descr": "Vente de mobiliers, objets, équipements de maison, déco, vaisselle, jeux, puériculture, brocante issus du réemploi",
 			"nom": "La boutique du réemploi - Recyclerie",
 			"tel": "+33 6 85 48 90 06",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/HE6ywpq1KbyTpJeAtjJ_aQ/thumb-640.jpg",
 			"src": "MieuxTrierANantes 03/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "81 Boulevard Ernest Dalby 44000 "
 		},
 		{
 			"id_osm": "node/6376673388",
-			"cartePopupText": "Réemploi <br/>Au Bonheur des Bennes",
+			"cartePopupText": "Réemploi Au Bonheur des Bennes<br/><i> livres, vêtements, mobilier, jouets</i>",
+			"descr": "L'association Au bonheur des bennes est à l'initiative de la création d'une recyclerie à Saint-Nazaire et son agglo.",
 			"longitude": "-2.2141832",
 			"latitude": "47.2812847",
 			"amenity": "recycling",
@@ -4949,7 +5123,6 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6376673388",
-			"descr": "L'association Au bonheur des bennes est à l'initiative de la création d'une recyclerie à Saint-Nazaire et son agglo.",
 			"nom": "Au Bonheur des Bennes",
 			"tel": "+33 6 45 07 25 99",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/L0LoMUGoAlFRj_Y31pRgEg/thumb-640.jpg",
@@ -4957,11 +5130,13 @@
 			"url": "http://www.aubonheurdesbennes.fr",
 			"src": "MieuxTrierANantes 04/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "rue René Guillouzo 44600 "
 		},
 		{
 			"id_osm": "node/6387495548",
-			"cartePopupText": "Réemploi <br/>La BoiTaTroc",
+			"cartePopupText": "Réemploi La BoiTaTroc<br/><i> livres, vêtements, chaussures, jouets</i>",
+			"descr": "La \"Boitatroc\" fonctionne sur le modèle des GiveBox. C'est l'un des projets portés par l'association Le TransiStore, qui porte le projet de  recyclerie-café écocitoyenne à la Chapelle-sur-Erdre.",
 			"longitude": "-1.5501957",
 			"latitude": "47.2987923",
 			"amenity": "givebox",
@@ -4976,7 +5151,6 @@
 			"recycling:toys": "yes",
 			"second_hand": "only",
 			"code": "osm_6387495548",
-			"descr": "La \"Boitatroc\" fonctionne sur le modèle des GiveBox. C'est l'un des projets portés par l'association Le TransiStore, qui porte le projet de  recyclerie-café écocitoyenne à la Chapelle-sur-Erdre.",
 			"nom": "La BoiTaTroc",
 			"tel": "+33 6 07 36 71 66",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/VC1nvn6-fcuq3rzIXXkOPA/thumb-640.jpg",
@@ -4988,7 +5162,8 @@
 		},
 		{
 			"id_osm": "node/6387896888",
-			"cartePopupText": "Réemploi <br/>La Boîte à récup (Saint-Herblain)",
+			"cartePopupText": "Réemploi La Boîte à récup (Saint-Herblain)<br/><i> livres, vêtements, chaussures, vélos, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Une dizaine de bénévoles fait vivre cette ressourcerie de 32 mètres carrés. On y recueille et revend à petits prix principalement des livres mais aussi des CD, DVD et quelques autres objets s’offrant une seconde vie.",
 			"longitude": "-1.5869837",
 			"latitude": "47.2362161",
 			"amenity": "recycling",
@@ -5014,14 +5189,14 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6387896888",
-			"descr": "Une dizaine de bénévoles fait vivre cette ressourcerie de 32 mètres carrés. On y recueille et revend à petits prix principalement des livres mais aussi des CD, DVD et quelques autres objets s’offrant une seconde vie.",
 			"nom": "La Boîte à récup (Saint-Herblain)",
 			"tel": "+33 6 99 62 12 45",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/h-74YKyk4TXd7bPeL5DNkA/thumb-640.jpg",
 			"url": "http://laboitearecup.fr",
 			"src": "MieuxTrierANantes 03/2017",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "60 avenue Courteline 44800 "
 		},
 		{
 			"id_osm": "node/6403553735",
@@ -5051,7 +5226,8 @@
 			"code": "osm_6413396109",
 			"nom": "Bouchées Douces",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "2 Rue du Maréchal de Lattre de Tassigny "
 		},
 		{
 			"id_osm": "node/6415201298",
@@ -5068,7 +5244,8 @@
 			"code": "osm_6415201298",
 			"nom": "La Cuillère en Coin",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "10 Rue Crucy "
 		},
 		{
 			"id_osm": "node/6416702272",
@@ -5089,7 +5266,8 @@
 			"nom": "Chez la Voisine",
 			"url": "http://chezlavoisine.bio/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "40 place Jean Macé 44100 "
 		},
 		{
 			"id_osm": "node/6432379017",
@@ -5116,7 +5294,8 @@
 			"tel": "+33 2 40 48 20 02",
 			"url": "https://www.ethiquete.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "14 Rue Armand Brossard 44000 "
 		},
 		{
 			"id_osm": "node/6463616007",
@@ -5133,7 +5312,8 @@
 			"code": "osm_6463616007",
 			"nom": "Les Gourmandises de Goulaine",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "10 Rue Pasteur 44115 "
 		},
 		{
 			"id_osm": "node/6463762132",
@@ -5155,7 +5335,8 @@
 			"tel": "+33 2 40 32 56 04",
 			"url": "https://www.biomonde.fr/bio-zitive,3,311",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "10 Rue des Frênes 44680 "
 		},
 		{
 			"id_osm": "node/6475262511",
@@ -5201,11 +5382,13 @@
 			"tel": "+33 6 42 19 15 64",
 			"url": "https://www.lafermeacueillir.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "9 Route des Pellerines 44470 "
 		},
 		{
 			"id_osm": "node/6507031685",
-			"cartePopupText": "Réemploi <br/>Secours Pop' Bouguenais",
+			"cartePopupText": "Réemploi Secours Pop' Bouguenais<br/><i> vêtements</i>",
+			"descr": "Concerne :  vêtements",
 			"longitude": "-1.5923658",
 			"latitude": "47.1821876",
 			"amenity": "recycling",
@@ -5228,11 +5411,13 @@
 			"images": "https://www.ouest-france.fr/sites/default/files/styles/image-640x360/public/2014/11/02/secours-populaire-pilier-indispensable-pour-laide-aux-familles.jpg?itok=eq9wRQtO",
 			"url": "https://www.secourspopulaire.fr/comite-de-bouguenais",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "20 rue du Clos-Bourneau 44340 "
 		},
 		{
 			"id_osm": "node/6507549585",
-			"cartePopupText": "Réemploi <br/>Charlotte et Compagnie",
+			"cartePopupText": "Réemploi Charlotte et Compagnie<br/><i> livres, vêtements, jouets</i>",
+			"descr": "Située place Viarme, cette grande boutique d'achat (et non pas dépôt) - vente, propose une très grande gamme d'articles pour enfants de 0 à 12 ans. Il y a environ 80% des articles d'occasion, 20% de neuf (fin de série).",
 			"longitude": "-1.5621722",
 			"latitude": "47.2213224",
 			"amenity": "recycling",
@@ -5252,7 +5437,6 @@
 			"second_hand": "only",
 			"shop": "clothes;toys",
 			"code": "osm_6507549585",
-			"descr": "Située place Viarme, cette grande boutique d'achat (et non pas dépôt) - vente, propose une très grande gamme d'articles pour enfants de 0 à 12 ans. Il y a environ 80% des articles d'occasion, 20% de neuf (fin de série).",
 			"nom": "Charlotte et Compagnie",
 			"tel": "+33 2 72 02 80 27",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/-xMc9z3bSQD28h-RYqCYdQ/thumb-640.jpg",
@@ -5260,7 +5444,8 @@
 			"url": "http://www.charlotteetcie.com/",
 			"src": "Mieux trier à Nantes, 2018",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "14 place Viarme 44000 "
 		},
 		{
 			"id_osm": "node/6514691326",
@@ -5278,7 +5463,8 @@
 			"code": "osm_6514691326",
 			"nom": "Épicerie Retz'aunée",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "7 Avenue du Maréchal Foch "
 		},
 		{
 			"id_osm": "node/6517620172",
@@ -5296,7 +5482,8 @@
 			"nom": "L'atelier du Bocal",
 			"url": "https://www.latelierdubocal.com/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "14 Rue des Halles "
 		},
 		{
 			"id_osm": "node/6524588998",
@@ -5314,11 +5501,13 @@
 			"descr": "Boucherie - Charcuterie, acceptant les contenants réutilisables.",
 			"nom": "Boucherie LV",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "12 Rue Texier de Norbecq 17170 "
 		},
 		{
 			"id_osm": "node/6553011799",
-			"cartePopupText": "Réemploi <br/>Le TransiStore",
+			"cartePopupText": "Réemploi Le TransiStore<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Vous pouvez déposer ou acheter à petit prix des vêtements, bibelots, meubles, jouets, linge, lampe, livres.",
 			"longitude": "-1.5537892",
 			"latitude": "47.3076681",
 			"amenity": "recycling",
@@ -5341,7 +5530,6 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6553011799",
-			"descr": "Vous pouvez déposer ou acheter à petit prix des vêtements, bibelots, meubles, jouets, linge, lampe, livres.",
 			"nom": "Le TransiStore",
 			"tel": "+33 6 07 36 71 66;06 84 19 22 13",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/bqZlZbD7wdGJhd5r2O6GSw/thumb-640.jpg",
@@ -5364,11 +5552,13 @@
 			"code": "osm_6556837598",
 			"nom": "Boucherie Esnault Lelou",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "2 Rue du Maréchal de Lattre de Tassigny "
 		},
 		{
 			"id_osm": "node/6568983085",
-			"cartePopupText": "Réemploi <br/>Air Livre 1",
+			"cartePopupText": "Réemploi Air Livre 1<br/><i> livres</i>",
+			"descr": "Vous pouvez déposer ou acheter un très grand nombre de livres d'occasions. Local très bien rangé avec une quinzaine d'étagères, des ouvrages d'enfants aux romans, le tout classé par catégories. Gèré notamment par des emplois en réinsertion.",
 			"longitude": "-1.5501827",
 			"latitude": "47.2169812",
 			"amenity": "recycling",
@@ -5386,7 +5576,6 @@
 			"second_hand": "only",
 			"shop": "books",
 			"code": "osm_6568983085",
-			"descr": "Vous pouvez déposer ou acheter un très grand nombre de livres d'occasions. Local très bien rangé avec une quinzaine d'étagères, des ouvrages d'enfants aux romans, le tout classé par catégories. Gèré notamment par des emplois en réinsertion.",
 			"nom": "Air Livre 1",
 			"tel": "+33 2 40 47 18 27",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/1BJkpfsBreT4QmdPdFPvvA/thumb-640.jpg",
@@ -5394,11 +5583,13 @@
 			"url": "https://nantesecologie.wixsite.com/nantesecologie",
 			"src": "Mieux trier à Nantes 03/18, actualisation 06/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "3 bis rue Prémion 44015 "
 		},
 		{
 			"id_osm": "node/6576966712",
-			"cartePopupText": "Réemploi <br/>Air livre 2",
+			"cartePopupText": "Réemploi Air livre 2<br/><i> livres</i>",
+			"descr": "4 rayons de livres à bas prix.",
 			"longitude": "-1.547015",
 			"latitude": "47.2150974",
 			"amenity": "recycling",
@@ -5415,18 +5606,19 @@
 			"recycling:books": "yes",
 			"second_hand": "only",
 			"code": "osm_6576966712",
-			"descr": "4 rayons de livres à bas prix.",
 			"nom": "Air livre 2",
 			"tel": "+33 2 51 82 78 30",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/blJ8P6_JS_wapE8t7Tq5vA/thumb-640.jpg",
 			"url": "https://nantesecologie.wixsite.com/nantesecologie",
 			"src": "Association Mieux trier à Nantes 06/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "2 allée Baco 44000 "
 		},
 		{
 			"id_osm": "node/6578047387",
-			"cartePopupText": "Réemploi <br/>La Croix Rouge / Meubles,bibelots + Vestiboutique",
+			"cartePopupText": "Réemploi La Croix Rouge / Meubles,bibelots + Vestiboutique<br/><i> chaussures, mobilier, décorations, bibelots, vaisselle, jouets</i>",
+			"descr": "Ventes de meubles, petits meubles, meubles de bureau, luminaire, canapé, literie, meubles de cuisine, petit et gros électroménager, articles de décoration. À petits prix.",
 			"longitude": "-1.5048265",
 			"latitude": "47.2508819",
 			"amenity": "recycling",
@@ -5447,7 +5639,6 @@
 			"recycling_type": "centre",
 			"second_hand": "only",
 			"code": "osm_6578047387",
-			"descr": "Ventes de meubles, petits meubles, meubles de bureau, luminaire, canapé, literie, meubles de cuisine, petit et gros électroménager, articles de décoration. À petits prix.",
 			"nom": "La Croix Rouge / Meubles,bibelots + Vestiboutique",
 			"tel": "+33 2 40 41 16 35",
 			"images": "https://www.ouest-france.fr/sites/default/files/styles/image-640x360/public/2015/11/02/grande-vente-dans-les-locaux-de-la-croix-rouge.jpg?itok=t9AFxlK9",
@@ -5455,11 +5646,13 @@
 			"url": "https://www.croix-rouge.fr/",
 			"src": "Mieux trier à Nantes 06/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "10 rue d'Athènes 44300 "
 		},
 		{
 			"id_osm": "node/6578049385",
-			"cartePopupText": "Réemploi <br/>Arcade (Orvault)",
+			"cartePopupText": "Réemploi Arcade (Orvault)<br/><i> livres, chaussures, ordinateurs, mobilier, décorations, bibelots, jouets</i>",
+			"descr": "Récupération de matériels divers pour le tiers monde.",
 			"longitude": "-1.6378668",
 			"latitude": "47.2851427",
 			"amenity": "recycling",
@@ -5479,7 +5672,6 @@
 			"recycling:toys": "yes",
 			"second_hand": "only",
 			"code": "osm_6578049385",
-			"descr": "Récupération de matériels divers pour le tiers monde.",
 			"nom": "Arcade (Orvault)",
 			"tel": "+33 2 40 63 97 53",
 			"images": "https://mvistatic.com/galeriemvi/43/photo_218689.jpg",
@@ -5487,11 +5679,13 @@
 			"url": "https://arcadebenin.wordpress.com/les-sites-ou-nous-trouver/atelier-de-la-retardiere",
 			"src": "Mieux trier à Nantes 06/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "La Retardière 44700 "
 		},
 		{
 			"id_osm": "node/6578067586",
-			"cartePopupText": "Réemploi <br/>Véti Frat - La Fraternité",
+			"cartePopupText": "Réemploi Véti Frat - La Fraternité<br/><i> livres, chaussures, ordinateurs, jouets</i>",
+			"descr": "Concerne :  livres, chaussures, ordinateurs, jouets",
 			"longitude": "-1.5802422",
 			"latitude": "47.209987",
 			"amenity": "recycling",
@@ -5517,11 +5711,13 @@
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/XSYkCtM1oF53aatnl_0nFg/thumb-640.jpg",
 			"src": "Visite sur place – MieuxTrierANantes 03/17",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "3 rue Amiral Du Chaffault 44100 "
 		},
 		{
 			"id_osm": "node/6580150090",
-			"cartePopupText": "Réemploi <br/>La Boîte à récup (Nantes)",
+			"cartePopupText": "Réemploi La Boîte à récup (Nantes)<br/><i> livres, vêtements, chaussures, mobilier, décorations, bibelots, jouets</i>",
+			"descr": "Concerne :  livres, vêtements, chaussures, mobilier, décorations, bibelots, jouets",
 			"longitude": "-1.5744808",
 			"latitude": "47.2315682",
 			"amenity": "recycling",
@@ -5549,11 +5745,13 @@
 			"url": "http://laboitearecup.fr",
 			"src": "Envoyé par email 11/2018",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "42 boulevard jean XXIII 44000 "
 		},
 		{
 			"id_osm": "node/6580152086",
-			"cartePopupText": "Réemploi <br/>Students' shop 44",
+			"cartePopupText": "Réemploi Students' shop 44<br/><i> livres, vêtements, chaussures, ordinateurs, décorations, bibelots, jouets</i>",
+			"descr": "Vous pouvez donner tous les objets du quotidien qui pourront servir aux étudiants (vaisselle, petit électroménager, ustensile de cuisine, vêtements, chaussures, linge de lit, serviettes, torchon, décoration, couette, oreiller, informatique...)",
 			"longitude": "-1.5588999",
 			"latitude": "47.2492914",
 			"amenity": "recycling",
@@ -5577,17 +5775,17 @@
 			"second_hand": "only",
 			"service:furniture:repair": "yes",
 			"code": "osm_6580152086",
-			"descr": "Vous pouvez donner tous les objets du quotidien qui pourront servir aux étudiants (vaisselle, petit électroménager, ustensile de cuisine, vêtements, chaussures, linge de lit, serviettes, torchon, décoration, couette, oreiller, informatique...)",
 			"nom": "Students' shop 44",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/SNBAvQp7_iuCDMnZtRqrEg/thumb-640.jpg",
 			"url": "http://www.studentsshop44.com",
 			"src": "Envoyé par Students shop 02/2017, Actualisation Mieux trier à Nantes 09/2018",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "Cité universitaire Launay-violette Chemin de Launay-Violette 44322 "
 		},
 		{
 			"id_osm": "node/6580159586",
-			"cartePopupText": "Réemploi <br/>F.E.R.",
+			"cartePopupText": "Réemploi F.E.R.<br/>",
 			"longitude": "-1.5632638",
 			"latitude": "47.190992",
 			"charity": "yes",
@@ -5601,7 +5799,8 @@
 		},
 		{
 			"id_osm": "node/6580169486",
-			"cartePopupText": "Réemploi <br/>La Boutik",
+			"cartePopupText": "Réemploi La Boutik<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "La Boutik vous propose : vêtements, bibelots, vaisselles, linges de maison, jouets, DVD, livres... à des prix symboliques. Ces dons proviennent d’habitants du quartier Bellevue et plus largement de Nantes et son agglomération.",
 			"longitude": "-1.6056496",
 			"latitude": "47.2048896",
 			"amenity": "recycling",
@@ -5628,18 +5827,19 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6580169486",
-			"descr": "La Boutik vous propose : vêtements, bibelots, vaisselles, linges de maison, jouets, DVD, livres... à des prix symboliques. Ces dons proviennent d’habitants du quartier Bellevue et plus largement de Nantes et son agglomération.",
 			"nom": "La Boutik",
 			"tel": "+33 6 66 73 21 59",
 			"images": "http://www.mieuxtrieranantes.fr/docs/medias/StructuresReemploi/LaBoutik/LaBoutik_01.jpg",
 			"url": "https://ocean-insertion-44.org/les-services-de-proximite/la-ressourcerie/",
 			"src": "Mieux trier à Nantes 09/2018",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "Place des Lauriers 44100 "
 		},
 		{
 			"id_osm": "node/6580169533",
-			"cartePopupText": "Réemploi <br/>EcoCyclerie du Vignoble Nantais",
+			"cartePopupText": "Réemploi EcoCyclerie du Vignoble Nantais<br/><i> livres, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Pour le textile, merci de vous diriger vers PATMOUILLE (8 route de la Loire, VALLET).",
 			"longitude": "-1.2654877",
 			"latitude": "47.1793905",
 			"amenity": "recycling",
@@ -5665,18 +5865,19 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6580169533",
-			"descr": "Pour le textile, merci de vous diriger vers PATMOUILLE (8 route de la Loire, VALLET).",
 			"nom": "EcoCyclerie du Vignoble Nantais",
 			"tel": "+33 2 40 43 28 55",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/q0l9w7f3Fb5uFQauShRZEQ/thumb-640.jpg",
 			"url": "http://ecocyclerieduvignoblenantais.blogspot.com/?m=1",
 			"src": "Mieux trier à Nantes, 07/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "14 rue de l'Industrie 44300 "
 		},
 		{
 			"id_osm": "node/6580198486",
-			"cartePopupText": "Réemploi <br/>Recycle et Dons",
+			"cartePopupText": "Réemploi Recycle et Dons<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Recycle & Don est une recyclerie associative basée sur la commune de Conquereuil. L’association a pour but de promouvoir le réemploi et œuvre à la réduction des déchets et au développement de l’économie sociale et solidaire.",
 			"longitude": "-1.7506725",
 			"latitude": "47.6247447",
 			"amenity": "recycling",
@@ -5705,18 +5906,19 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6580198486",
-			"descr": "Recycle & Don est une recyclerie associative basée sur la commune de Conquereuil. L’association a pour but de promouvoir le réemploi et œuvre à la réduction des déchets et au développement de l’économie sociale et solidaire.",
 			"nom": "Recycle et Dons",
 			"tel": "+33 2 40 87 91 90",
 			"images": "https://media.ouest-france.fr/v1/pictures/dc5ef2a520cba08654165bab9befb7c3-conquereuil-recycle-et-don-prepare-le-grand-debarras-de-samedi_0.jpg",
 			"mots_cles": "vaisselle;vêtement;chaussure;linge;bibelot;livre;BD;vinyle;meuble;canapé;électroménager;vélo;article de saison",
 			"url": "https://recycledon.wordpress.com/boutique/",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "2 rue de la Mairie 44290 "
 		},
 		{
 			"id_osm": "node/6580330521",
-			"cartePopupText": "Réemploi <br/>Arcade (Bouguenais)",
+			"cartePopupText": "Réemploi Arcade (Bouguenais)<br/><i> livres, vêtements, chaussures, ordinateurs, mobilier, jouets</i>",
+			"descr": "Concerne :  livres, vêtements, chaussures, ordinateurs, mobilier, jouets",
 			"longitude": "-1.627374",
 			"latitude": "47.177885",
 			"amenity": "recycling",
@@ -5738,7 +5940,8 @@
 		},
 		{
 			"id_osm": "node/6580334758",
-			"cartePopupText": "Réemploi <br/>Envie 44 Saint-Nazaire",
+			"cartePopupText": "Réemploi Envie 44 Saint-Nazaire<br/><i> petits appareils électronique</i>",
+			"descr": "Environ 200 appareils en stock. Propose un service de dépannage pour le gros électroménager, en atelier uniquement",
 			"longitude": "-2.2729066",
 			"latitude": "47.259702",
 			"amenity": "recycling",
@@ -5755,7 +5958,6 @@
 			"service:repair": "yes",
 			"shop": "home appliance",
 			"code": "osm_6580334758",
-			"descr": "Environ 200 appareils en stock. Propose un service de dépannage pour le gros électroménager, en atelier uniquement",
 			"nom": "Envie 44 Saint-Nazaire",
 			"tel": "+33 2 53 35 51 92",
 			"images": "http://envie-44.envie.org/wp-content/uploads/sites/11/2016/11/P1000883.jpg",
@@ -5763,11 +5965,13 @@
 			"url": "http://envie-44.envie.org/",
 			"src": "Mieux trier à Nantes 2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "29 rue Etoile du Matin, Zone Océanis 44600 "
 		},
 		{
 			"id_osm": "node/6580365085",
-			"cartePopupText": "Réemploi <br/>60B",
+			"cartePopupText": "Réemploi 60B<br/><i> vêtements, chaussures, vélos</i>",
+			"descr": "Chacun peut déposer des vêtements encore utilisable chez nous (le mardi matin) et venir en acheter le vendredi toute la journée. Nous récupérons également des vélos, pour les retaper et les vendre à bas coût ou récupérer des pièces détachées dessus.",
 			"longitude": "-1.519922",
 			"latitude": "47.2390528",
 			"amenity": "recycling",
@@ -5786,17 +5990,18 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6580365085",
-			"descr": "Chacun peut déposer des vêtements encore utilisable chez nous (le mardi matin) et venir en acheter le vendredi toute la journée. Nous récupérons également des vélos, pour les retaper et les vendre à bas coût ou récupérer des pièces détachées dessus.",
 			"nom": "60B",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/X8zLv28YsxF7qHUa0-PdDA/thumb-640.jpg",
 			"mots_cles": "vêtement;vélo",
 			"src": "Mail envoyé à MieuxTrierANantes + rencontre 11/2016",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "60 60 rue de la Bottière 44000 "
 		},
 		{
 			"id_osm": "node/6580379185",
-			"cartePopupText": "Réemploi <br/>Atelier du Retz Emploi (Saint-Brévin)",
+			"cartePopupText": "Réemploi Atelier du Retz Emploi (Saint-Brévin)<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Collecte, revente à petit prix de ce qui est récupérable, tri en vue de recyclage : vaisselle, jouets, livres, disques, électroménager en état. Permanences sur Déchèterie de Saint-Brevin-les-Pins (Route de la gendarmerie)",
 			"longitude": "-2.1539479",
 			"latitude": "47.2404493",
 			"amenity": "recycling",
@@ -5822,7 +6027,6 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6580379185",
-			"descr": "Collecte, revente à petit prix de ce qui est récupérable, tri en vue de recyclage : vaisselle, jouets, livres, disques, électroménager en état. Permanences sur Déchèterie de Saint-Brevin-les-Pins (Route de la gendarmerie)",
 			"nom": "Atelier du Retz Emploi (Saint-Brévin)",
 			"tel": "+33 2 40 27 69 05",
 			"images": "https://mvistatic.com/photosmvi/2019/02/14/P19330218D3648533G.jpg",
@@ -5830,11 +6034,13 @@
 			"url": "http://www.atelierduretzemploi.org",
 			"src": "Renseigné sur formulaire de mieuxtrieranantes.fr, le 22/07/2014. Actualisation 09/2018.",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "Chemin des potences, PA de la Guerche 44250 "
 		},
 		{
 			"id_osm": "node/6580379186",
-			"cartePopupText": "Réemploi <br/>Atelier du Retz Emploi (Le Pèlerin)",
+			"cartePopupText": "Réemploi Atelier du Retz Emploi (Le Pèlerin)<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Collecte, revente à petit prix de ce qui est récupérable, tri en vue de recyclage : vaisselle, jouets, livres, disques, électroménager en état de fonctionnement, outils, vêtements, chaussures, bibelots, meubles...",
 			"longitude": "-1.7552698",
 			"latitude": "47.2005026",
 			"amenity": "recycling",
@@ -5861,7 +6067,6 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6580379186",
-			"descr": "Collecte, revente à petit prix de ce qui est récupérable, tri en vue de recyclage : vaisselle, jouets, livres, disques, électroménager en état de fonctionnement, outils, vêtements, chaussures, bibelots, meubles...",
 			"nom": "Atelier du Retz Emploi (Le Pèlerin)",
 			"tel": "+33 6 77 63 83 04",
 			"images": "http://www.atelierduretzemploi.org/images/2017-actu/Photos/Pellerin.png",
@@ -5869,11 +6074,13 @@
 			"url": "http://www.atelierduretzemploi.org",
 			"src": "Renseigné sur formulaire de mieuxtrieranantes.fr, le 22/07/2014. Actualisation 09/2018.",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "18 rue du docteur Sourdille 44640 "
 		},
 		{
 			"id_osm": "node/6580379187",
-			"cartePopupText": "Réemploi <br/>Atelier du Retz Emploi (Sainte-Pazanne)",
+			"cartePopupText": "Réemploi Atelier du Retz Emploi (Sainte-Pazanne)<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Collecte, revente à petit prix de ce qui est récupérable, tri en vue de recyclage : vaisselle, jouets, livres, disques, électroménager en état de fonctionnement, outils, vêtements, chaussures, bibelots, meubles...Permances sur Déchèterie du Pont-Béranger.",
 			"longitude": "-1.8016344",
 			"latitude": "47.1114801",
 			"amenity": "recycling",
@@ -5899,17 +6106,18 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6580379187",
-			"descr": "Collecte, revente à petit prix de ce qui est récupérable, tri en vue de recyclage : vaisselle, jouets, livres, disques, électroménager en état de fonctionnement, outils, vêtements, chaussures, bibelots, meubles...Permances sur Déchèterie du Pont-Béranger.",
 			"nom": "Atelier du Retz Emploi (Sainte-Pazanne)",
 			"images": "http://www.atelierduretzemploi.org/images/2017-actu/Photos/facade2.png",
 			"url": "http://www.atelierduretzemploi.org",
 			"src": "Mieux trier à Nantes 09/2018",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "7 impasse du Clos Neuf 44680 "
 		},
 		{
 			"id_osm": "node/6581235085",
-			"cartePopupText": "Réemploi <br/>Pop' Fringues",
+			"cartePopupText": "Réemploi Pop' Fringues<br/><i> livres, chaussures, décorations, bibelots, jouets</i>",
+			"descr": "De nombreux objets qui sont proposés dans cette boutique de 40 mètres carrés en tout : vous trouverez des vêtements, livres, jouets, vaisselle. Pour les dons, amener des objets en bon état : ils ne sont pas réparés avant la revente.",
 			"longitude": "-1.5752372",
 			"latitude": "47.2046189",
 			"amenity": "recycling",
@@ -5930,18 +6138,19 @@
 			"recycling:toys": "yes",
 			"second_hand": "only",
 			"code": "osm_6581235085",
-			"descr": "De nombreux objets qui sont proposés dans cette boutique de 40 mètres carrés en tout : vous trouverez des vêtements, livres, jouets, vaisselle. Pour les dons, amener des objets en bon état : ils ne sont pas réparés avant la revente.",
 			"nom": "Pop' Fringues",
 			"tel": "+33 2 40 69 38 22",
 			"mots_cles": "clothes;books",
 			"url": "https://www.secourspopulaire.fr/pop-fringues",
 			"src": "Entretien Secours Populaire; MieuxTrierANantes 08/2016",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "22 quai Ernest Renaud 44100 "
 		},
 		{
 			"id_osm": "node/6581246385",
-			"cartePopupText": "Réemploi <br/>Solidari'meubles",
+			"cartePopupText": "Réemploi Solidari'meubles<br/><i> livres, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Vous ne savez que faire de vos meubles, vos appareils, de vos nécessaires ménager ou de vos livres qui méritent une seconde vie, pensez à en faire don, et ainsi vous pourrez apporter une aide aux plus déshérités. Attention : pas de vêtements ici.",
 			"longitude": "-1.5967816",
 			"latitude": "47.1982951",
 			"amenity": "recycling",
@@ -5969,7 +6178,6 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6581246385",
-			"descr": "Vous ne savez que faire de vos meubles, vos appareils, de vos nécessaires ménager ou de vos livres qui méritent une seconde vie, pensez à en faire don, et ainsi vous pourrez apporter une aide aux plus déshérités. Attention : pas de vêtements ici.",
 			"nom": "Solidari'meubles",
 			"tel": "+33 2 40 95 10 61",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/hm6D8GI4f8q45dF0RNGHug/thumb-640.jpg",
@@ -5977,11 +6185,13 @@
 			"url": "https://www.secourspopulaire.fr/solidarimeubles",
 			"src": "Entretien SecoursPopulaire /MieuxTrierANantes 08/2016",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "1 rue des Granits 44100 "
 		},
 		{
 			"id_osm": "node/6581485386",
-			"cartePopupText": "Réemploi <br/>ATAO Autos",
+			"cartePopupText": "Réemploi ATAO Autos<br/><i> vélos</i>",
+			"descr": "Concerne :  vélos",
 			"longitude": "-1.6450819",
 			"latitude": "47.2188703",
 			"car:repair": "yes",
@@ -6008,11 +6218,13 @@
 			"url": "http://www.atao-insertion.fr/",
 			"src": "Mieux trier à Nantes",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "7 rue du Lamineur 44800 "
 		},
 		{
 			"id_osm": "node/6581575385",
-			"cartePopupText": "Réemploi <br/>Re-act",
+			"cartePopupText": "Réemploi Re-act<br/><i> vêtements, chaussures</i>",
+			"descr": "RE-act est un service né en 2010 de proximité proposant aux gens de transformer leurs vêtements afin de s'offrir une nouvelle pièce unique et sur-mesure. Les clients apportent leurs vieux vêtements en boutique, commandent leur nouveau vêtement.",
 			"longitude": "-1.571289",
 			"latitude": "47.2421125",
 			"amenity": "recycling",
@@ -6031,18 +6243,19 @@
 			"second_hand": "only",
 			"shop": "clothes",
 			"code": "osm_6581575385",
-			"descr": "RE-act est un service né en 2010 de proximité proposant aux gens de transformer leurs vêtements afin de s'offrir une nouvelle pièce unique et sur-mesure. Les clients apportent leurs vieux vêtements en boutique, commandent leur nouveau vêtement.",
 			"nom": "Re-act",
 			"tel": "+33 6 69 17 33 89",
 			"images": "http://www.consommer-responsable.fr/sites/default/files/thumbnail_videos/8uYkihv-s5s.jpg",
 			"mots_cles": "vêtement;pull;pantalon;veste",
 			"src": "MieuxTrierANantes 01/2015",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "1 allée des Iles Marquises 44300 "
 		},
 		{
 			"id_osm": "node/6582172285",
-			"cartePopupText": "Réemploi <br/>La Récupérette",
+			"cartePopupText": "Réemploi La Récupérette<br/><i> livres, vêtements, chaussures, vélos, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "RÉCUPÈRE le matériel en bon état sauf : - Déchets verts - Cartouches et toners d'imprimantes - K7 vidéo - Téléphones portables, chargeurs - Téléviseurs, télécommandes - Matériel informatique - Vêtements sales ou abîmés",
 			"longitude": "-1.2826002",
 			"latitude": "47.0777283",
 			"amenity": "recycling",
@@ -6070,7 +6283,6 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6582172285",
-			"descr": "RÉCUPÈRE le matériel en bon état sauf : - Déchets verts - Cartouches et toners d'imprimantes - K7 vidéo - Téléphones portables, chargeurs - Téléviseurs, télécommandes - Matériel informatique - Vêtements sales ou abîmés",
 			"nom": "La Récupérette",
 			"tel": "+33 7 81 95 54 13",
 			"images": "https://www.ouest-france.fr/sites/default/files/styles/image-640x360/public/2014/10/05/la-recuperette-se-structure-et-sinstalle-clisson.jpg?itok=pah-uB34",
@@ -6078,11 +6290,13 @@
 			"url": "http://larecuperette.jimdo.com/",
 			"src": "MieuxTrierANantes 01/2015",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "4 rue des Châtaigniers 44190 "
 		},
 		{
 			"id_osm": "node/6582193285",
-			"cartePopupText": "Réemploi <br/>Arbres Nord",
+			"cartePopupText": "Réemploi Arbres Nord<br/><i> livres</i>",
+			"descr": "Concerne :  livres",
 			"longitude": "-1.5704951",
 			"latitude": "47.2609399",
 			"amenity": "recycling",
@@ -6103,11 +6317,12 @@
 			"tel": "+33 2 40 40 35 55",
 			"url": "http://www.arbres44.org",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "105 rue des Renards 44300 "
 		},
 		{
 			"id_osm": "node/6582193286",
-			"cartePopupText": "Réemploi <br/>Alis44",
+			"cartePopupText": "Réemploi Alis44<br/>",
 			"longitude": "-1.5198308",
 			"latitude": "47.2391992",
 			"charity": "yes",
@@ -6127,11 +6342,13 @@
 			"url": "http://www.alis44.org",
 			"src": "Visite MieuxTrierANantes 03/2017",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "60 rue de la Bottière 44300 "
 		},
 		{
 			"id_osm": "node/6582199386",
-			"cartePopupText": "Réemploi <br/>Arbres Est",
+			"cartePopupText": "Réemploi Arbres Est<br/><i> livres</i>",
+			"descr": "Son activité principale est la collecte de papier et de carton dans les entreprises et les administrations de l'agglomération nantaise.  Les particuliers et les professionnels peuvent également venir déposer leurs papiers et cartons.",
 			"longitude": "-1.4966083",
 			"latitude": "47.2517229",
 			"charity": "yes",
@@ -6143,14 +6360,14 @@
 			"recycling:paper_packaging": "yes",
 			"second_hand": "only",
 			"code": "osm_6582199386",
-			"descr": "Son activité principale est la collecte de papier et de carton dans les entreprises et les administrations de l'agglomération nantaise.  Les particuliers et les professionnels peuvent également venir déposer leurs papiers et cartons.",
 			"nom": "Arbres Est",
 			"type": "smco_reemp",
 			"carteMarqueur": "1"
 		},
 		{
 			"id_osm": "node/6582461485",
-			"cartePopupText": "Réemploi <br/>La Ressourcerie de l'Ile",
+			"cartePopupText": "Réemploi La Ressourcerie de l'Ile<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, petits appareils électronique, jouets</i>",
+			"descr": "Réemploi d'objets de la vie courante : collecte en déchèterie et à domicile sur Nantes Métropole, et en apport volontaire à Rezé, puis revente à bas prix (mobilier, vaisselle, jouets, livres, vêtements, articles de loisirs, outillage...).",
 			"longitude": "-1.5656699",
 			"latitude": "47.196591",
 			"amenity": "recycling",
@@ -6177,7 +6394,6 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6582461485",
-			"descr": "Réemploi d'objets de la vie courante : collecte en déchèterie et à domicile sur Nantes Métropole, et en apport volontaire à Rezé, puis revente à bas prix (mobilier, vaisselle, jouets, livres, vêtements, articles de loisirs, outillage...).",
 			"nom": "La Ressourcerie de l'Ile",
 			"tel": "+33 2 28 23 64 47",
 			"images": "http://www.mieuxtrieranantes.fr/docs/medias/StructuresReemploi/RessourcerieDeLIle/RessourcerieDeLIle01.jpg",
@@ -6185,7 +6401,8 @@
 			"url": "http://www.laressourceriedelile.com",
 			"src": "Info envoyée à MieuxTrierANantes 10/17",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "90 rue de la basse île 44400 "
 		},
 		{
 			"id_osm": "node/6589825488",
@@ -6209,7 +6426,8 @@
 		},
 		{
 			"id_osm": "node/6598542286",
-			"cartePopupText": "Réemploi <br/>Recyclerie du Sport (SupporTerre)",
+			"cartePopupText": "Réemploi Recyclerie du Sport (SupporTerre)<br/><i> chaussures</i>",
+			"descr": "Boutique centrée sur les articles d'occasion de sport tous âges. Sur 60 m2 près de 1000 articles : chaussures de sport (environ 10 euros), maillots, ballons.. Le prix varie selon l'état. Vous pouvez déposer des articles si propres et bon état.",
 			"longitude": "-1.5200159",
 			"latitude": "47.2276289",
 			"amenity": "recycling",
@@ -6227,7 +6445,6 @@
 			"shop": "sports",
 			"wheelchair": "yes",
 			"code": "osm_6598542286",
-			"descr": "Boutique centrée sur les articles d'occasion de sport tous âges. Sur 60 m2 près de 1000 articles : chaussures de sport (environ 10 euros), maillots, ballons.. Le prix varie selon l'état. Vous pouvez déposer des articles si propres et bon état.",
 			"nom": "Recyclerie du Sport (SupporTerre)",
 			"tel": "+33 9 71 58 81 03",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/hWaP2Qvw6fDoQjxjr1mmxg/thumb-640.jpg",
@@ -6235,11 +6452,13 @@
 			"url": "http://www.supporterre.fr",
 			"src": "Mieux trier à Nantes 08/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "29 rue Corentin Bourveau "
 		},
 		{
 			"id_osm": "node/6601109785",
-			"cartePopupText": "Réemploi <br/>Le bazar citoyen",
+			"cartePopupText": "Réemploi Le bazar citoyen<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, jouets</i>",
+			"descr": "Concerne :  livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, jouets",
 			"longitude": "-1.8926847",
 			"latitude": "47.3574029",
 			"amenity": "recycling",
@@ -6263,7 +6482,8 @@
 			"tel": "+33 2 40 05 38 21",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/j914-iwq_Kz_eBMsIAkgSg/thumb-640.jpg",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "Point du Jour 44260 "
 		},
 		{
 			"id_osm": "node/6602371464",
@@ -6288,7 +6508,8 @@
 		},
 		{
 			"id_osm": "node/6633849586",
-			"cartePopupText": "Réemploi <br/>Ecocyclerie Recyc'la Vie",
+			"cartePopupText": "Réemploi Ecocyclerie Recyc'la Vie<br/><i> livres, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Magasin de produits d'occasion à Soullans",
 			"longitude": "-1.8882744",
 			"latitude": "46.7908278",
 			"amenity": "recycling",
@@ -6313,18 +6534,19 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6633849586",
-			"descr": "Magasin de produits d'occasion à Soullans",
 			"nom": "Ecocyclerie Recyc'la Vie",
 			"tel": "+33 9 73 67 22 31",
 			"images": "https://s3-media1.fl.yelpcdn.com/bphoto/_luCtfhjSV3u2R4pd9bjYw/o.jpg",
 			"url": "http://www.recyclavie.com",
 			"src": "Mieux trier à Nantes 07/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "10 rue des Acacias 85300 "
 		},
 		{
 			"id_osm": "node/6634246600",
-			"cartePopupText": "Réemploi <br/>Ecocyclerie Yonnaise",
+			"cartePopupText": "Réemploi Ecocyclerie Yonnaise<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "L'Ecocyclerie Yonnaise est une association loi 1901 favorisant l'emploi d'insertion. En effectuant un tri supplémentaire, elle évite que des objets utilisables ne soient jetés. Elle répond aux enjeux du développement durable.",
 			"longitude": "-1.4427535",
 			"latitude": "46.6568218",
 			"amenity": "recycling",
@@ -6352,18 +6574,19 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6634246600",
-			"descr": "L'Ecocyclerie Yonnaise est une association loi 1901 favorisant l'emploi d'insertion. En effectuant un tri supplémentaire, elle évite que des objets utilisables ne soient jetés. Elle répond aux enjeux du développement durable.",
 			"nom": "Ecocyclerie Yonnaise",
 			"tel": "+33 2 51 62 12 38",
 			"images": "http://www.ecocyclerieyonnaise.fr/resources/img/actu-amenagement.jpg",
 			"url": "http://www.ecocyclerieyonnaise.fr/",
 			"src": "Mieux trier à Nantes 07/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "26 rue Henri Aucher 85000 "
 		},
 		{
 			"id_osm": "node/6634744386",
-			"cartePopupText": "Réemploi <br/>Recyclerie Vendée Grand Littoral",
+			"cartePopupText": "Réemploi Recyclerie Vendée Grand Littoral<br/><i> livres, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Des conteneurs spécifiques sont disposés dans les 5 déchèteries du territoire. Les objets ainsi mis de côté seront récupérés et vérifiés par nos agents. Ensuite, vous pourrez les retrouver en vente à petits prix dans le magasin de la Recyclerie.",
 			"longitude": "-1.5986048",
 			"latitude": "46.4530497",
 			"amenity": "recycling",
@@ -6388,16 +6611,17 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6634744386",
-			"descr": "Des conteneurs spécifiques sont disposés dans les 5 déchèteries du territoire. Les objets ainsi mis de côté seront récupérés et vérifiés par nos agents. Ensuite, vous pourrez les retrouver en vente à petits prix dans le magasin de la Recyclerie.",
 			"nom": "Recyclerie Vendée Grand Littoral",
 			"url": "http://www.vendeegrandlittoral.fr/recyclerie/",
 			"src": "Mieux trier à Nantes 07/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "301 rue du Maréchal Ferrant 85440 "
 		},
 		{
 			"id_osm": "node/6634752985",
-			"cartePopupText": "Réemploi <br/>Emmaüs Pays des Olonnes",
+			"cartePopupText": "Réemploi Emmaüs Pays des Olonnes<br/><i> vêtements, vélos, vaisselle, petits appareils électronique</i>",
+			"descr": "Le magasin existant aux Pays des Olonnes est une antenne de la communauté d’Emmaüs des Essarts qui a été créée en 2008.",
 			"longitude": "-1.7661679",
 			"latitude": "46.6106811",
 			"amenity": "recycling",
@@ -6417,18 +6641,19 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6634752985",
-			"descr": "Le magasin existant aux Pays des Olonnes est une antenne de la communauté d’Emmaüs des Essarts qui a été créée en 2008.",
 			"nom": "Emmaüs Pays des Olonnes",
 			"tel": "+33 9 66 98 34 48",
 			"images": "https://lh3.googleusercontent.com/p/AF1QipM5312_nogzL6PN01J7ugbt3Q5R4Wpfqi-PTLEx=w600-k",
 			"url": "http://www.emmaus-essarts.org/les-sables-dolonne/",
 			"src": "Mieux trier à Nantes 07/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "4 La Forterie 85150 "
 		},
 		{
 			"id_osm": "node/6634841785",
-			"cartePopupText": "Réemploi <br/>Recyclerie Vendéenne",
+			"cartePopupText": "Réemploi Recyclerie Vendéenne<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Collecte et réemploi d'objets ou de matériaux pouvant être valorisés, transformés et revendus, dans le but de contribuer à la politique de réduction des déchet.",
 			"longitude": "-1.6179085",
 			"latitude": "46.6672267",
 			"amenity": "recycling",
@@ -6454,17 +6679,18 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6634841785",
-			"descr": "Collecte et réemploi d'objets ou de matériaux pouvant être valorisés, transformés et revendus, dans le but de contribuer à la politique de réduction des déchet.",
 			"nom": "Recyclerie Vendéenne",
 			"tel": "+33 6 62 24 87 97",
 			"images": "https://static.actu.fr/uploads/2016/12/25245-161209104549313-01-854x480.jpg",
 			"src": "Mieux trier à Nates, 07/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "Le Plantis 85190 "
 		},
 		{
 			"id_osm": "node/6634851385",
-			"cartePopupText": "Réemploi <br/>Emmaüs Essarts",
+			"cartePopupText": "Réemploi Emmaüs Essarts<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "La communauté Emmaüs des Essarts est implantée depuis plus de 20 ans sur cette commune, et plus précisément, au lieu dit : le bois Jaulin. Son activité s’est développée d’année en année, aujourd’hui elle accueille environ 55 compagnes et compagnons.",
 			"longitude": "-1.240181",
 			"latitude": "46.7493722",
 			"amenity": "recycling",
@@ -6490,18 +6716,19 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6634851385",
-			"descr": "La communauté Emmaüs des Essarts est implantée depuis plus de 20 ans sur cette commune, et plus précisément, au lieu dit : le bois Jaulin. Son activité s’est développée d’année en année, aujourd’hui elle accueille environ 55 compagnes et compagnons.",
 			"nom": "Emmaüs Essarts",
 			"tel": "+33 2 51 06 06 85",
 			"images": "http://www.emmaus-essarts.org/wp-content/uploads/2016/05/vair%C3%A9-A%C3%A9rien-2.jpg",
 			"url": "http://www.emmaus-essarts.org/les-essarts/",
 			"src": "Mieux trier à Nantes, 07/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "Le Bois Jaulin 85140 "
 		},
 		{
 			"id_osm": "node/6637860086",
-			"cartePopupText": "Réemploi <br/>Ressourcerie des Biscottes",
+			"cartePopupText": "Réemploi Ressourcerie des Biscottes<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Parmi les activités du lieu : - collecte d’objets méngers réemployables (meubles, vaisselle, bibelots, électroménager, jouets, livres…) en déchèterie, chez les particuliers et chez les pros - vente des objets dans notre magasin de 700 m2.",
 			"longitude": "-0.5043506",
 			"latitude": "47.4375785",
 			"amenity": "recycling",
@@ -6529,18 +6756,19 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6637860086",
-			"descr": "Parmi les activités du lieu : - collecte d’objets méngers réemployables (meubles, vaisselle, bibelots, électroménager, jouets, livres…) en déchèterie, chez les particuliers et chez les pros - vente des objets dans notre magasin de 700 m2.",
 			"nom": "Ressourcerie des Biscottes",
 			"tel": "+33 2 53 20 31 96",
 			"images": "http://pol-ville.cget.gouv.fr/sites/default/files/%C3%A9quipebiscotte.jpg",
 			"url": "http://ressourceriedesbiscottes.fr",
 			"src": "Mieux trier à Nantes 07/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "19 avenue du Moulin Marcille 49130 "
 		},
 		{
 			"id_osm": "node/6639218488",
-			"cartePopupText": "Réemploi <br/>EcoCyclerie Loire Layon Aubance (ECLLA)",
+			"cartePopupText": "Réemploi EcoCyclerie Loire Layon Aubance (ECLLA)<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Meubles modernes-anciens-vintages, bibelots, vaisselles, électroménager, HIFI vidéo, livres, DVD, vinyls, jouets, vêtements tendances et vintages, brocante, déguisements, valises, fournitures scolaires, merceries, tissus, outillage...",
 			"longitude": "-0.5091691",
 			"latitude": "47.2596092",
 			"amenity": "recycling",
@@ -6567,18 +6795,19 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6639218488",
-			"descr": "Meubles modernes-anciens-vintages, bibelots, vaisselles, électroménager, HIFI vidéo, livres, DVD, vinyls, jouets, vêtements tendances et vintages, brocante, déguisements, valises, fournitures scolaires, merceries, tissus, outillage...",
 			"nom": "EcoCyclerie Loire Layon Aubance (ECLLA)",
 			"tel": "+33 2 52 35 20 99",
 			"images": "https://ecocyclerieloirelayonaubance.fr/wp-content/uploads/2019/03/cropped-49831801_691357141265696_1657412512133414912_o-1.jpg",
 			"url": "http://www.thouarce.fr/recyclerie",
 			"src": "Mieux trier à Nantes, 07/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "ZA du LÉARD 49380 "
 		},
 		{
 			"id_osm": "node/6640641385",
-			"cartePopupText": "Réemploi <br/>Recyclerie-déchèterie Emmaüs",
+			"cartePopupText": "Réemploi Recyclerie-déchèterie Emmaüs<br/><i> livres, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Concerne :  livres, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets",
 			"longitude": "-0.6837541",
 			"latitude": "47.4638255",
 			"amenity": "recycling",
@@ -6607,11 +6836,13 @@
 			"url": "http://www.emmaus49.com/fr/emmaus-angers/bienvenue-p43.html",
 			"src": "Mieux trier à Nantes, 07/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "Le Sauloup – Route de Saint-Léger 49070 "
 		},
 		{
 			"id_osm": "node/6640648185",
-			"cartePopupText": "Réemploi <br/>Ecocyclerie des Mauges",
+			"cartePopupText": "Réemploi Ecocyclerie des Mauges<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Concerne :  livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets",
 			"longitude": "-0.9067047",
 			"latitude": "47.29393",
 			"amenity": "recycling",
@@ -6643,11 +6874,13 @@
 			"url": "http://ecocycleriedesmauges.blogspot.com/?m=1",
 			"src": "Mieux trier à Nantes 07/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "2 rue des Métiers 49110 "
 		},
 		{
 			"id_osm": "node/6641065502",
-			"cartePopupText": "Réemploi <br/>La Ressourcerie de Philodome",
+			"cartePopupText": "Réemploi La Ressourcerie de Philodome<br/><i> livres, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "A la boutique : des livres, des vêtements, des objets déco, vaisselle, des jouets, des petits meubles.... Toujours à petits prix, ils sont issus de dons de particuliers désireux d'offrir une deuxième vie à ces produits.",
 			"longitude": "-0.5385621",
 			"latitude": "47.4804175",
 			"amenity": "recycling",
@@ -6671,17 +6904,18 @@
 			"recycling_type": "centre",
 			"second_hand": "only",
 			"code": "osm_6641065502",
-			"descr": "A la boutique : des livres, des vêtements, des objets déco, vaisselle, des jouets, des petits meubles.... Toujours à petits prix, ils sont issus de dons de particuliers désireux d'offrir une deuxième vie à ces produits.",
 			"nom": "La Ressourcerie de Philodome",
 			"tel": "+33 6 51 87 00 44",
 			"images": "https://image.jimcdn.com/app/cms/image/transf/dimension=495x1024:format=jpg/path/s192b9b40ccee27ba/image/i4e1dc232579f6815/version/1444168205/image.jpg",
 			"url": "https://philodome.jimdo.com/",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "58B rue de la Chalouère 49100 "
 		},
 		{
 			"id_osm": "node/6641132385",
-			"cartePopupText": "Réemploi <br/>Emmaüs Angers (Saint-Serge)",
+			"cartePopupText": "Réemploi Emmaüs Angers (Saint-Serge)<br/><i> livres, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Concerne :  livres, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets",
 			"longitude": "-0.5468993",
 			"latitude": "47.4844621",
 			"amenity": "recycling",
@@ -6713,11 +6947,13 @@
 			"url": "http://www.emmaus49.com/fr/emmaus-angers/bienvenue-p43.html",
 			"src": "Mieux trier à Nantes, 07/2016",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "10 bis rue Vaucanson 49000 "
 		},
 		{
 			"id_osm": "node/6641165486",
-			"cartePopupText": "Réemploi <br/>Ecocyclerie du Choletais",
+			"cartePopupText": "Réemploi Ecocyclerie du Choletais<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "La boutique solidaire est ouverte au grand public et propose des bibelots, vêtements, linge de maison, meubles pas cher, brocante, jeux, livres, DVD, vaisselle, décoration, bazar à prix solidaire.",
 			"longitude": "-0.844126",
 			"latitude": "47.0687398",
 			"amenity": "recycling",
@@ -6742,18 +6978,19 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6641165486",
-			"descr": "La boutique solidaire est ouverte au grand public et propose des bibelots, vêtements, linge de maison, meubles pas cher, brocante, jeux, livres, DVD, vaisselle, décoration, bazar à prix solidaire.",
 			"nom": "Ecocyclerie du Choletais",
 			"tel": "+33 2 41 28 52 90",
 			"images": "https://www.ecocyclerie-du-choletais.fr/media/recup1.jpg",
 			"url": "https://www.ecocyclerie-du-choletais.fr/boutique-solidaire/",
 			"src": "Mieux trier à Nantes 07/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "6 rue de la Blanchardière 49300 "
 		},
 		{
 			"id_osm": "node/6642008685",
-			"cartePopupText": "Réemploi <br/>Du blé pour l’épicerie",
+			"cartePopupText": "Réemploi Du blé pour l’épicerie<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Friperies ouverte à tous.",
 			"longitude": "-0.863557",
 			"latitude": "47.0566674",
 			"amenity": "recycling",
@@ -6781,16 +7018,17 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6642008685",
-			"descr": "Friperies ouverte à tous.",
 			"nom": "Du blé pour l’épicerie",
 			"images": "https://www.ouest-france.fr/sites/default/files/styles/image-640x360/public/2014/02/13/lasso-du-ble-pour-lepicerie-vend-aussi-le-samedi.jpg?itok=xA5wXw_x",
 			"src": "Mieux trier à Nantes, 07/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "65 Rue du Maréchal Lyautey 49300 "
 		},
 		{
 			"id_osm": "node/6642021285",
-			"cartePopupText": "Réemploi <br/>L'arbre vert - Segré",
+			"cartePopupText": "Réemploi L'arbre vert - Segré<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Vous pourrez y trouver des meubles de l'électroménager, des vêtements, des livres, des bibelots, de la vaisselle, des objets de collections.... Et cela à des prix très abordables.",
 			"longitude": "-0.8732253",
 			"latitude": "47.6834984",
 			"amenity": "recycling",
@@ -6817,17 +7055,18 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6642021285",
-			"descr": "Vous pourrez y trouver des meubles de l'électroménager, des vêtements, des livres, des bibelots, de la vaisselle, des objets de collections.... Et cela à des prix très abordables.",
 			"nom": "L'arbre vert - Segré",
 			"tel": "+33 2 41 61 72 99",
 			"url": "https://www.larbrevertasso.fr/horaires-des-magasins/",
 			"src": "Mieux trier à Nantes, 07/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "12 rue Jules Ferry 49500 "
 		},
 		{
 			"id_osm": "node/6642026285",
-			"cartePopupText": "Réemploi <br/>L'arbre vert - Le Lion d'Angers",
+			"cartePopupText": "Réemploi L'arbre vert - Le Lion d'Angers<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Association L'arbre vert Vous pourrez y trouver des meubles de l'électroménager, des vêtements, des livres, des bibelots, de la vaisselle, des objets de collections.... Et cela à des prix très abordables.",
 			"longitude": "-0.7087147",
 			"latitude": "47.6375476",
 			"amenity": "recycling",
@@ -6853,18 +7092,19 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6642026285",
-			"descr": "Association L'arbre vert Vous pourrez y trouver des meubles de l'électroménager, des vêtements, des livres, des bibelots, de la vaisselle, des objets de collections.... Et cela à des prix très abordables.",
 			"nom": "L'arbre vert - Le Lion d'Angers",
 			"tel": "+33 2 41 33 83 96",
 			"images": "https://mvistatic.com/photosmvi/2017/12/09/P1D3338020G_px_640_.jpg",
 			"url": "https://www.larbrevertasso.fr/horaires-des-magasins",
 			"src": "Mieux trier à Nantes 07/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "1 impasse Jean Bertin 49920 "
 		},
 		{
 			"id_osm": "node/6642035785",
-			"cartePopupText": "Réemploi <br/>Emmaüs Cholet",
+			"cartePopupText": "Réemploi Emmaüs Cholet<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Concerne :  livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets",
 			"longitude": "-0.8923092",
 			"latitude": "47.0257198",
 			"amenity": "recycling",
@@ -6898,11 +7138,12 @@
 			"url": "http://www.emmaus49.com/fr/emmaus-cholet/accueil-cholet-p44.html",
 			"src": "Mieux trier à Nantes 07/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "163 Rue Auguste Gibouin 49300 "
 		},
 		{
 			"id_osm": "node/6649126285",
-			"cartePopupText": "Réemploi <br/>Boutique du partage",
+			"cartePopupText": "Réemploi Boutique du partage<br/>",
 			"longitude": "-1.5862725",
 			"latitude": "47.2287942",
 			"charity": "yes",
@@ -6924,11 +7165,13 @@
 			"url": "https://www.nousandco.fr/la-boutique-du-partage",
 			"src": "Mieux trier à Nantes, 07/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "9 Jules-Noël 44000 "
 		},
 		{
 			"id_osm": "node/6652644587",
-			"cartePopupText": "Réemploi <br/>Ding-Fring Marsauderies",
+			"cartePopupText": "Réemploi Ding-Fring Marsauderies<br/><i> vêtements, chaussures</i>",
+			"descr": "Les boutiques 'Ding Fring' proposent certains des vêtements déposés dans les bornes Le Relais : pull, lingerie, vestes, jupes, pantalons, laine, ceintures, vêtement de travail, livres, peluches... Un quart du stock renouvelé toutes les semaines.",
 			"longitude": "-1.5318579",
 			"latitude": "47.2413616",
 			"charity": "yes",
@@ -6946,18 +7189,18 @@
 			"survey:date": "2019-07-17",
 			"wheelchair": "yes",
 			"code": "osm_6652644587",
-			"descr": "Les boutiques 'Ding Fring' proposent certains des vêtements déposés dans les bornes Le Relais : pull, lingerie, vestes, jupes, pantalons, laine, ceintures, vêtement de travail, livres, peluches... Un quart du stock renouvelé toutes les semaines.",
 			"nom": "Ding-Fring Marsauderies",
 			"tel": "+33 2 40 20 87 11",
 			"images": "https://d1cuyjsrcm0gby.cloudfront.net/5Uco7YzUwEn-gTxP2A26Lw/thumb-640.jpg",
 			"url": "http://www.lerelais.org/aussi.php?page=ding_fring",
 			"src": "Entretien LeRelaisAtlantique / MieuxTrierANantes 04/16 ; Mieux trier à Nantes 09/2018",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "15 rue des Marsauderies 44000 "
 		},
 		{
 			"id_osm": "node/6653582688",
-			"cartePopupText": "Réemploi <br/>L'Atelier Bara'Mel",
+			"cartePopupText": "Réemploi L'Atelier Bara'Mel<br/>",
 			"longitude": "-1.6546601",
 			"latitude": "47.2578471",
 			"amenity": "recycling",
@@ -6981,11 +7224,13 @@
 			"url": "http://www.reseau-insertion44.fr/annuaire/latelier-baramel",
 			"src": "MieuxTrierANantes 01/15",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "9 route de Brimberne 44880 "
 		},
 		{
 			"id_osm": "node/6653684385",
-			"cartePopupText": "Réemploi <br/>L'homme debout",
+			"cartePopupText": "Réemploi L'homme debout<br/><i> mobilier</i>",
+			"descr": "Des meubles sont récupérés chez des particuliers qui souhaitent en faire don à l'association. Ils sont restaurés ou transformés au niveau du chantier puis redistribuer gratuitement à des personnes qui n'ont pas les moyens pour acheter du mobilier.",
 			"longitude": "-1.6498911",
 			"latitude": "47.2216458",
 			"amenity": "recycling",
@@ -7001,17 +7246,18 @@
 			"recycling:furniture": "yes",
 			"second_hand": "only",
 			"code": "osm_6653684385",
-			"descr": "Des meubles sont récupérés chez des particuliers qui souhaitent en faire don à l'association. Ils sont restaurés ou transformés au niveau du chantier puis redistribuer gratuitement à des personnes qui n'ont pas les moyens pour acheter du mobilier.",
 			"nom": "L'homme debout",
 			"mots_cles": "meuble",
 			"url": "http://www.lhommedebout.com",
 			"src": "MieuxTrierANantes 04/16",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "22 rue du Coutelier 44800 "
 		},
 		{
 			"id_osm": "node/6653984385",
-			"cartePopupText": "Réemploi <br/>Emmaüs Saint-Nazaire",
+			"cartePopupText": "Réemploi Emmaüs Saint-Nazaire<br/><i> livres, vêtements, chaussures, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Concerne :  livres, vêtements, chaussures, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets",
 			"longitude": "-2.186451",
 			"latitude": "47.3097608",
 			"amenity": "recycling",
@@ -7042,7 +7288,8 @@
 			"url": "http://www.emmaus44.fr/saintnazaire/",
 			"src": "Mieux trier à Nantes 07/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "43 bis rue Jean Baptiste Marcet 44570 "
 		},
 		{
 			"id_osm": "node/6657806344",
@@ -7061,11 +7308,13 @@
 			"nom": "Lalouet'Coop",
 			"url": "http://www.lalouetcoop.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "113 Rue Nationale 85500 "
 		},
 		{
 			"id_osm": "node/6672996385",
-			"cartePopupText": "Réemploi <br/>Le Grand Détournement",
+			"cartePopupText": "Réemploi Le Grand Détournement<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Lieu de Récup, de Sensibilisation et de Partage.",
 			"longitude": "-1.3758928",
 			"latitude": "47.0562286",
 			"amenity": "recycling",
@@ -7091,18 +7340,19 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6672996385",
-			"descr": "Lieu de Récup, de Sensibilisation et de Partage.",
 			"nom": "Le Grand Détournement",
 			"tel": "+33 7 69 59 96 69",
 			"images": "https://www.legranddetournement.fr/wp-content/themes/lgd-1/images/logo.png",
 			"url": "https://www.legranddetournement.fr/",
 			"src": "Mieux trier à Nantes 08/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "Place de la Bosselle, accès via City Stade 44140 "
 		},
 		{
 			"id_osm": "node/6680880885",
-			"cartePopupText": "Réemploi <br/>La Recyclane",
+			"cartePopupText": "Réemploi La Recyclane<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "première recyclerie associative de la Presqu’île guérandaise. Vaisselle, vêtements, linge de maison, meubles, outils, vélos : toutes sortes d’objets hétéroclites occupent déjà la presque totalité des 150 m² du local.",
 			"longitude": "-2.4060917",
 			"latitude": "47.325036",
 			"amenity": "recycling",
@@ -7129,18 +7379,19 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6680880885",
-			"descr": "première recyclerie associative de la Presqu’île guérandaise. Vaisselle, vêtements, linge de maison, meubles, outils, vélos : toutes sortes d’objets hétéroclites occupent déjà la presque totalité des 150 m² du local.",
 			"nom": "La Recyclane",
 			"tel": "+33 6 76 81 51 87",
 			"images": "https://static.actu.fr/uploads/2019/01/25249-190111171920862-0.jpg",
 			"url": "https://m.facebook.com/recyclerieguerande/",
 			"src": "Mieux trier à Nantes 08/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "11 rue de la Pré Neuve 44350 "
 		},
 		{
 			"id_osm": "node/6680891385",
-			"cartePopupText": "Réemploi <br/>Vertou Solidaire",
+			"cartePopupText": "Réemploi Vertou Solidaire<br/><i> vêtements</i>",
+			"descr": "La Boutique propose : des vêtements hommes, femmes, enfants, bébés, du linge de maison, des chaussures. La participation financière est modique et le nombre de vêtements est limité par personne",
 			"longitude": "-1.4759016",
 			"latitude": "47.1693538",
 			"amenity": "recycling",
@@ -7157,17 +7408,18 @@
 			"second_hand": "only",
 			"shop": "general",
 			"code": "osm_6680891385",
-			"descr": "La Boutique propose : des vêtements hommes, femmes, enfants, bébés, du linge de maison, des chaussures. La participation financière est modique et le nombre de vêtements est limité par personne",
 			"nom": "Vertou Solidaire",
 			"images": "http://cdn1_3.reseaudesvilles.fr/cities/109/images/z0ccj8l90o5cs.JPG",
 			"url": "http://www.vertou.fr/fr/actualite/165188/vertou-solidaire-boutique-une",
 			"src": "Mieux trier à Nantes 08/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "39 rue Henri Delahaye 44120 "
 		},
 		{
 			"id_osm": "node/6680914785",
-			"cartePopupText": "Réemploi <br/>La Mine au Tri",
+			"cartePopupText": "Réemploi La Mine au Tri<br/><i> livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Concerne :  livres, vêtements, chaussures, vélos, ordinateurs, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets",
 			"longitude": "-1.5757656",
 			"latitude": "46.9683052",
 			"amenity": "recycling",
@@ -7198,11 +7450,13 @@
 			"url": "http://recyclerielegrenier.org/",
 			"src": "Mieux trier à Nantes 08/2019",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "13 rue du 8 mai 44650 "
 		},
 		{
 			"id_osm": "node/6681151652",
-			"cartePopupText": "Réemploi <br/>Boîte à don",
+			"cartePopupText": "Réemploi Boîte à don<br/><i> livres, vêtements</i>",
+			"descr": "Concerne :  livres, vêtements",
 			"longitude": "-1.5135513",
 			"latitude": "47.239569",
 			"charity": "yes",
@@ -7217,7 +7471,7 @@
 		},
 		{
 			"id_osm": "node/6681197285",
-			"cartePopupText": "Réemploi <br/>Supermarché du Réemploi (la recyclerie éphémère)",
+			"cartePopupText": "Réemploi Supermarché du Réemploi (la recyclerie éphémère)<br/>",
 			"longitude": "-1.5211532",
 			"latitude": "47.2386928",
 			"amenity": "recycling",
@@ -7273,7 +7527,8 @@
 			"nom": "Biocoop Caba Imbach",
 			"url": "http://biocoop-caba.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "Place Imbach 49100 "
 		},
 		{
 			"id_osm": "node/6724453788",
@@ -7302,7 +7557,8 @@
 			"images": "http://www.angers.fr/uploads/tx_event/repair_kfe.jpg",
 			"url": "http://www.letabli.org/repair-cafe/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "12 rue Thiers 49100 "
 		},
 		{
 			"id_osm": "node/6724530185",
@@ -7331,7 +7587,8 @@
 			"images": "http://www.angers.fr/uploads/tx_event/repair_kfe.jpg",
 			"url": "http://www.letabli.org/repair-cafe/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "Place des Justices 49000 "
 		},
 		{
 			"id_osm": "node/6724641985",
@@ -7361,7 +7618,8 @@
 			"images": "http://www.angers.fr/uploads/tx_event/repair_kfe.jpg",
 			"url": "http://www.angers.fr/vivre-a-angers/quartiers/roseraie/centre-jean-vilar/index.html",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "1 bis rue Bergson 49000 "
 		},
 		{
 			"id_osm": "node/6725081985",
@@ -7392,7 +7650,8 @@
 			"images": "http://www.angers.fr/uploads/tx_event/repair_kfe.jpg",
 			"url": "http://www.letabli.org/repair-cafe/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "Ancienne bibliothèque 49130 "
 		},
 		{
 			"id_osm": "node/6725097985",
@@ -7422,7 +7681,8 @@
 			"images": "http://www.angers.fr/uploads/tx_event/repair_kfe.jpg",
 			"url": "http://www.letabli.org/repair-cafe/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "Salle Victor Hugo (sous l'église) 49240 "
 		},
 		{
 			"id_osm": "node/6725505385",
@@ -7454,7 +7714,8 @@
 			"images": "http://www.angers.fr/uploads/tx_event/repair_kfe.jpg",
 			"url": "http://www.letabli.org/repair-cafe/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "2 rue Daniel Duclaux 49100 "
 		},
 		{
 			"id_osm": "node/6725511585",
@@ -7484,7 +7745,8 @@
 			"images": "http://www.angers.fr/uploads/tx_event/repair_kfe.jpg",
 			"url": "http://www.letabli.org/repair-cafe/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "1 allée Henri David 49460 "
 		},
 		{
 			"id_osm": "node/6725516885",
@@ -7517,7 +7779,8 @@
 			"images": "http://www.angers.fr/uploads/tx_event/repair_kfe.jpg",
 			"url": "http://www.letabli.org/repair-cafe/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "5 rue Eugénie Mansion 49000 "
 		},
 		{
 			"id_osm": "node/6725521985",
@@ -7547,7 +7810,8 @@
 			"images": "http://www.angers.fr/uploads/tx_event/repair_kfe.jpg",
 			"url": "http://www.letabli.org/repair-cafe/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "Place des Droits de l'Homme et du Citoyen 49124 "
 		},
 		{
 			"id_osm": "node/6725523485",
@@ -7577,7 +7841,8 @@
 			"images": "http://www.angers.fr/uploads/tx_event/repair_kfe.jpg",
 			"url": "http://www.letabli.org/repair-cafe/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "40 rue de la Chambre aux Deniers 49000 "
 		},
 		{
 			"id_osm": "node/6725753887",
@@ -7607,7 +7872,8 @@
 			"images": "https://repaircafe.org/fr/location/repair-cafe-beaupreau-en-mauges/",
 			"url": "http://www.letabli.org/repair-cafe/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "65 rue de la Lime 49600 "
 		},
 		{
 			"id_osm": "node/6727067685",
@@ -7640,7 +7906,8 @@
 			"images": "https://centresocial-chemille.asso.fr/wp-content/uploads/2014/04/repair-caf%C3%A9-bis-470x260.png",
 			"url": "http://www.repaircafe.csc49.fr/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "5 rue de la Gabardière 49120 "
 		},
 		{
 			"id_osm": "node/6727075986",
@@ -7672,7 +7939,8 @@
 			"images": "https://www.ouest-france.fr/sites/default/files/styles/image-640x360/public/2017/10/19/repair-cafe-le-savoir-faire-des-uns-depanne-les-autres.jpg",
 			"url": "http://centresocial-horizon.fr/?page_id=1955",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "allée des Vanneaux 49309 "
 		},
 		{
 			"id_osm": "node/6728465785",
@@ -7703,7 +7971,8 @@
 			"images": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmcTta8kh7Rt-aOe5Cjf3rlZOI2TAJtrqyOHKfK3n2ND05JKYn",
 			"url": "http://www.centresocial-coteauxdulayon.fr/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "49380 "
 		},
 		{
 			"id_osm": "node/6728514585",
@@ -7736,7 +8005,8 @@
 			"images": "https://rivesdeloire.centres-sociaux.fr/files/2017/03/Repair-Cafe-300RVB.jpg",
 			"url": "https://rivesdeloire.centres-sociaux.fr/repair-cafe/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "20, rue JFA Chenouard 49530 "
 		},
 		{
 			"id_osm": "node/6728799886",
@@ -7767,7 +8037,8 @@
 			"images": "https://www.ombreedanjou.fr/medias/2019/04/201901-Repair-cafe.jpg",
 			"url": "http://www.cantojeunes.com/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "36 rue de la Libération 49420 "
 		},
 		{
 			"id_osm": "node/6732705685",
@@ -7851,7 +8122,8 @@
 			"nom": "Repair Café Villemoisan (Foyer rural de Villemoisan)",
 			"tel": "+33 2 41 77 49 26",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "La Grande Fine D51 49370 "
 		},
 		{
 			"id_osm": "node/6732805385",
@@ -7883,7 +8155,8 @@
 			"images": "https://media.ouest-france.fr/v1/pictures/3a9abc1ffa0a94694e87396cd37f05d8-sevremoine-avec-les-petits-ruisseaux-payez-en-moineaux.jpg",
 			"url": "http://moineetsel.blogspot.com",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "6 rue Jean Moulin St Macaire en Mauges 49450 "
 		},
 		{
 			"id_osm": "node/6735163886",
@@ -7914,7 +8187,8 @@
 			"images": "http://www.venensemble.fr/medias/2017/12/IMG_2416-1024x576.jpg",
 			"url": "http://www.venensemble.fr/repaircafe/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "22 rue De Lattre de Tassigny 85190 "
 		},
 		{
 			"id_osm": "node/6735190385",
@@ -7947,7 +8221,8 @@
 			"images": "https://4.bp.blogspot.com/-tIqFi_xuEiM/W1czY5tJ5kI/AAAAAAAAC9E/voZJxBzIhVAx6VMrwoI-YzChsu9DMI2eACLcBGAs/s280/P1014987.JPG",
 			"url": "http://www.centresociocultureltalmondais.fr/search/label/Repair%20caf%C3%A9?m=1",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "292 292 rue du Chai 85440 "
 		},
 		{
 			"id_osm": "node/6735719090",
@@ -7977,7 +8252,8 @@
 			"images": "https://mvistatic.com/photosmvi/2018/11/16/P18649133D3577942G.jpg",
 			"url": "https://lapetitegare.centres-sociaux.fr/repair-cafe/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "rue de la Gare 85800 "
 		},
 		{
 			"id_osm": "node/6735969389",
@@ -8010,7 +8286,8 @@
 			"images": "https://oddas.centres-sociaux.fr/files/2018/10/Plaquette-rentr%C3%A9e-2018-page012.jpg",
 			"url": "http://oddas.centres-sociaux.fr/developpement-durable/repair-cafe/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "25 rue des Cordiers 8520 "
 		},
 		{
 			"id_osm": "node/6735969787",
@@ -8042,7 +8319,8 @@
 			"images": "https://espacyon.centres-sociaux.fr/files/2018/05/20180519_102907-e1527589718967-1024x768.jpg",
 			"url": "https://espacyon.centres-sociaux.fr/2018/05/29/un-repaircafe-a-dompierre/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "20 rue du Vieux Bourg 85170 "
 		},
 		{
 			"id_osm": "node/6736098385",
@@ -8070,7 +8348,8 @@
 			"nom": "Repair Café des Sables d'Olonne",
 			"images": "http://lessablesdolonne.site/wp-content/uploads/2018/02/D%C3%A9mocratie-de-proximit%C3%A9-Les-Sables-dOlonne-Repair-Caf%C3%A9-02fev2018-1.jpg",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "60 60 Boulevard Pasteur 85100 "
 		},
 		{
 			"id_osm": "node/6737873386",
@@ -8103,7 +8382,8 @@
 			"images": "https://i.ytimg.com/vi/ZKC9-whTNT4/maxresdefault.jpg",
 			"url": "https://lekiosque.centres-sociaux.fr/repair-cafe/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "13 rue de la Cure Benet 85490 "
 		},
 		{
 			"id_osm": "node/6752784529",
@@ -8120,7 +8400,8 @@
 			"descr": "Commerce acceptant les contenants réutilisables.",
 			"nom": "SARL Fleur de Blé",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "Zone Commerciale les Morines 17230 "
 		},
 		{
 			"id_osm": "node/6752790714",
@@ -8137,7 +8418,8 @@
 			"descr": "Commerce acceptant les contenants réutilisables.",
 			"nom": "Sodipral",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "Zone Commerciale les Morines 17230 "
 		},
 		{
 			"id_osm": "node/6755850870",
@@ -8194,7 +8476,8 @@
 			"code": "osm_6844660243",
 			"nom": "Nature & Vra'c",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "9 Place Saint-Nicolas 44810 "
 		},
 		{
 			"id_osm": "node/6868203947",
@@ -8212,7 +8495,8 @@
 			"code": "osm_6868203947",
 			"nom": "Boucherie La Renommée",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "104 Rue Joliot Curie 44720 "
 		},
 		{
 			"id_osm": "node/6897642032",
@@ -8232,7 +8516,8 @@
 			"nom": "Rosemary Foodtruck",
 			"tel": "+33 689957400",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "14 Chemin du Vigneau 44800 "
 		},
 		{
 			"id_osm": "node/6923770685",
@@ -8266,7 +8551,8 @@
 			"url": "https://ateliercoreparation.wordpress.com/category/ou-reparer/",
 			"src": "Les Amis de la Terre 44",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "10 rue de Bel air 44000 "
 		},
 		{
 			"id_osm": "node/6932921138",
@@ -8295,7 +8581,8 @@
 			"url": "http://www.obocal.com/",
 			"src": "Association Mieux trier à Nantes, 07/2016",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "3 Rue de l'Hôtel de Ville 44000 "
 		},
 		{
 			"id_osm": "node/6961387485",
@@ -8324,7 +8611,8 @@
 			"url": "https://mononclenantes.wixsite.com/mon-oncle-nantes",
 			"src": "Mieux trier à Nantes, 11/2019",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "16 Rue d'Alger 44100 "
 		},
 		{
 			"id_osm": "node/6964176385",
@@ -8345,7 +8633,8 @@
 			"tel": "+33 674523585",
 			"url": "https://couscous-assya.com",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "29 Avenue des Frechets 44600 "
 		},
 		{
 			"id_osm": "node/7099422923",
@@ -8363,7 +8652,8 @@
 			"code": "osm_7099422923",
 			"nom": "Le Marché du Fromager",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "310 Avenue de l'Europe 44240 "
 		},
 		{
 			"id_osm": "node/7100028957",
@@ -8381,7 +8671,8 @@
 			"code": "osm_7100028957",
 			"nom": "Boucherie la Goulaine",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "6 Place Saint-Brice 44115 "
 		},
 		{
 			"id_osm": "node/7100076709",
@@ -8400,7 +8691,8 @@
 			"nom": "Biocoop Croq'Bio Sud",
 			"url": "https://www.biocoop-croqbio.com/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "Route de la Roche 85190 "
 		},
 		{
 			"id_osm": "node/7108915860",
@@ -8418,7 +8710,8 @@
 			"nom": "Les toques de papa",
 			"url": "https://www.lestoquesdepapa.fr/epicerie/segr%C3%A9",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "3 Rue Paul Guienne 49520 "
 		},
 		{
 			"id_osm": "node/7108990300",
@@ -8453,7 +8746,8 @@
 		},
 		{
 			"id_osm": "node/7119092585",
-			"cartePopupText": "Réemploi <br/>La Fripouille",
+			"cartePopupText": "Réemploi La Fripouille<br/><i> vêtements, chaussures</i>",
+			"descr": "Concerne :  vêtements, chaussures",
 			"longitude": "-1.9662148",
 			"latitude": "47.5188926",
 			"amenity": "recycling",
@@ -8479,11 +8773,13 @@
 			"mots_cles": "textile;chaussure;ceinture;sac",
 			"src": "Formulaire envoyé à MieuxTrierANantes 09/2017",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "19 rue du Moulin de la Justice 44530 "
 		},
 		{
 			"id_osm": "node/7120389985",
-			"cartePopupText": "Réemploi <br/>Recyclerie Nord-Atlantique Blain",
+			"cartePopupText": "Réemploi Recyclerie Nord-Atlantique Blain<br/><i> livres, chaussures, vélos, mobilier, décorations, bibelots, vaisselle, petits appareils électronique, jouets</i>",
+			"descr": "Nous recyclons presque tout sauf literie endommagée ou tachée, produits toxiques liquides pâteux, matériel électrique hors d'usage, bouteilles de gaz, pneumatiques, tubes néons. Même horaires d'ouverture pour la boutique et le dépôt.",
 			"longitude": "-1.7484625",
 			"latitude": "47.4844724",
 			"amenity": "recycling",
@@ -8506,16 +8802,18 @@
 			"recycling:toys": "yes",
 			"second_hand": "only",
 			"code": "osm_7120389985",
-			"descr": "Nous recyclons presque tout sauf literie endommagée ou tachée, produits toxiques liquides pâteux, matériel électrique hors d'usage, bouteilles de gaz, pneumatiques, tubes néons. Même horaires d'ouverture pour la boutique et le dépôt.",
 			"nom": "Recyclerie Nord-Atlantique Blain",
 			"tel": "+33 2 40 93 22 08",
 			"images": "http://www.mieuxtrieranantes.fr/docs/medias/StructuresReemploi/RecyclerieDeLAtlantique/RecyclerieDeLAtlantique_Blain_2.jpg",
 			"url": "https://www.recyclerienordatlantique.org/nos-boutiques-solidaires",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "6 rue Gustave Eiffel 44130 "
 		},
 		{
 			"id_osm": "node/7120399785",
+			"cartePopupText": "undefined<i> vêtements, chaussures, ordinateurs, mobilier, jouets</i>",
+			"descr": "Concerne :  vêtements, chaussures, ordinateurs, mobilier, jouets",
 			"longitude": "-2.0716899",
 			"latitude": "47.6688275",
 			"amenity": "recycling",
@@ -8539,7 +8837,8 @@
 			"code": "osm_7120399785",
 			"tel": "+33 2 57 71 00 35",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "7 rue de Briangaud 35600 "
 		},
 		{
 			"id_osm": "node/7127359185",
@@ -8572,7 +8871,8 @@
 			"images": "https://media.ouest-france.fr/v1/pictures/MjAxOTA2ZmRiZjY0NWVhZDZjNDI2YTk5ZjlmZWY5N2NmOTllODc?width=375",
 			"src": "Formulaire envoyé 01/2020",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "108 avenue Maréchal-Joffre 44250 "
 		},
 		{
 			"id_osm": "node/7141411185",
@@ -8601,7 +8901,8 @@
 			"nom": "Repair Café Sucé Sur Erdre",
 			"images": "https://media.ouest-france.fr/v1/pictures/MjAxOTA1NTlhODk0MDY2YmE4MGQ3NTcyODRiMTRhYzAwN2EyZmQ",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "18 rue de la Papinière 44240 "
 		},
 		{
 			"id_osm": "node/7143119985",
@@ -8633,7 +8934,8 @@
 			"images": "https://i1.wp.com/albi44.fr/wp-content/uploads/2019/07/repaircafe.png?w=792",
 			"url": "http://albi44.fr/latelier-du-repair-cafe/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "12 bis quai Langlois 44610 "
 		},
 		{
 			"id_osm": "node/7144779787",
@@ -8663,11 +8965,13 @@
 			"images": "http://www.restaurant-interlude.org/wp-content/uploads/2019/09/Le-repair-caf%C3%A9-1er-semestre-2018-pour-facebook.jpg",
 			"url": "http://www.restaurant-interlude.org/",
 			"type": "coreparation",
-			"carteMarqueur": "9"
+			"carteMarqueur": "9",
+			"adresseTemp": "106 boulevard des Belges 44000 "
 		},
 		{
 			"id_osm": "node/7150423285",
-			"cartePopupText": "Réemploi <br/>L'Alter Boutik",
+			"cartePopupText": "Réemploi L'Alter Boutik<br/><i> vêtements</i>",
+			"descr": "Une boutique où tout est gratuit, qui fonctionne grâce à vos dons. Venez…",
 			"longitude": "-1.534068",
 			"latitude": "47.1770938",
 			"charity": "yes",
@@ -8681,10 +8985,10 @@
 			"recycling:clothes": "yes",
 			"second_hand": "only",
 			"code": "osm_7150423285",
-			"descr": "Une boutique où tout est gratuit, qui fonctionne grâce à vos dons. Venez…",
 			"nom": "L'Alter Boutik",
 			"type": "smco_reemp",
-			"carteMarqueur": "1"
+			"carteMarqueur": "1",
+			"adresseTemp": "3 Square du Jaunais 44000 "
 		},
 		{
 			"id_osm": "node/7274440928",
@@ -8742,7 +9046,8 @@
 			"nom": "La Fabrik à Vrac",
 			"url": "https://www.lafabrikavrac.fr/",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "Rue du Moulin de la Rousselière "
 		},
 		{
 			"id_osm": "node/7309327525",
@@ -8759,7 +9064,8 @@
 			"code": "osm_7309327525",
 			"nom": "Le Nid Vgtal",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "4 "
 		},
 		{
 			"id_osm": "node/7312783744",
@@ -8775,7 +9081,8 @@
 			"code": "osm_7312783744",
 			"nom": "Les Fêlées du Bocal",
 			"type": "ventevracstruct",
-			"carteMarqueur": "6"
+			"carteMarqueur": "6",
+			"adresseTemp": "34 Rue George Sand "
 		}
 	]
 }
