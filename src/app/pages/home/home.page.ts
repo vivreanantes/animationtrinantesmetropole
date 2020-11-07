@@ -8,11 +8,10 @@ import { Component } from "@angular/core";
 export class HomePage {
   // onOver: boolean = false;
   pages = [
+    { title: "trier2", icon: "trash", link: "trier2" },
+    { title: "carte", icon: "map", link: "carte" },
     { title: "jeux", icon: "leaf", link: "quiz" },
     { title: "cdlr", icon: "help", link: "codedelaroute" },
-    { title: "carte", icon: "map", link: "carte" },
-    { title: "trier2", icon: "trash", link: "trier2" },
-    { title: "acteurs", icon: "trash", link: "acteurs" },
     { title: "collecteadomicile", icon: "trash", link: "home" },
     { title: "trisac", icon: "construct", link: "trisac" },
     { title: "acteurs", icon: "construct", link: "acteurs" },

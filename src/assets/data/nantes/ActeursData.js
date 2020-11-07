@@ -93,7 +93,7 @@
 			"nom_du_premier_contact": "Sonia Sellin",
 			"fonction_du_premier_contact": "Salariée",
 			"moyen_de_joindre_le_premier_contact": "0659890268",
-			"categorie_principale": "",
+			"categorie_principale": "Vente et fabrique d’objets (créateurs, Furoshiki, savon…) ou nourriture",
 			"images": "Logo-kerhea-1.png",
 			"nom": "Kerhea",
 			"url": "http://lagalerieduzerodechet.fr/?wpbdp_listing=kerhea",
@@ -103,7 +103,8 @@
 			"site": "https://kerhea.com/,",
 			"statut_juridique": "Entreprise ",
 			"email": "sonia.sellin@kerhea.com",
-			"image": "nantes/Logo-kerhea.png"
+			"image": "nantes/Logo-kerhea.png",
+			"categorie_principale_detail": "Autre"
 		},
 		{
 			"page_facebook_": "",
@@ -145,16 +146,18 @@
 			"nom_du_premier_contact": "Fanny NGUYEN VAN",
 			"fonction_du_premier_contact": "Membre",
 			"moyen_de_joindre_le_premier_contact": "Téléphone : 07 54 44 11 76",
-			"categorie_principale": "",
+			"categorie_principale": "Ateliers pour faire soi-même (Couture, Réparer, Cosmétiques…)",
 			"images": "",
-			"nom": "Kiem &amp; co",
-			"url": "http://lagalerieduzerodechet.fr/?wpbdp_listing=kiem-&amp;-co",
+			"nom": "Kiem & co",
+			"url": "http://lagalerieduzerodechet.fr/?wpbdp_listing=kiem-&-co",
 			"facebook": "",
 			"descr": "Couture éthique",
 			"descr_long": "- Animation textile ( recyclage, teinture naturelle, accessoires de maison, ameublement...)<br/>- Cours de couture et retouches atelier solidaire pour l'accès à la dignité vestimentaire (possibilité d'acquérir les techniques pour se confectionner ou réparer simplement ses vêtements et accessoires)<br/> - Découverte / sensibilisation / valorisation de la nature et de ses bienfaits. Développement de la créativité par des balades photographiques. <br/>- Rencontre intergénérationnelle ayant pour but la transmission de l'artisanat. Tricot, peinture sur textile etc.<br/>- Valorisation des artisans. Dynamiser les actions de la galerie / créer des partenariats et événements (expo, défilé, apéro découverte zéro déchet) avec des entreprises , associations et acteurs locaux (exemple au Bocal pour les ateliers bee wrap zéro déchet spécial cuisine)",
 			"site": "",
 			"statut_juridique": "Association",
-			"email": "assokiem@gmail.com"
+			"email": "assokiem@gmail.com",
+			"categorie_principale_detail": "Couture",
+			"image": "nantes/kiem_and_co.jpg"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/jaimetesbocaux/,",
@@ -233,7 +236,7 @@
 			"nom_du_premier_contact": "Caroline Gabaut",
 			"fonction_du_premier_contact": "Productrice du magazine Ensemble",
 			"moyen_de_joindre_le_premier_contact": "33 6 45 25 20 85",
-			"categorie_principale": "",
+			"categorie_principale": "Information : Groupes de pression, Mise en réseau, Journaux, Blogs et Chaînes vidéos, Applications…",
 			"images": "ensemble_le_mag-1.png",
 			"nom": "ENSEMBLE Le Mag des Eco-solutions",
 			"url": "http://lagalerieduzerodechet.fr/?wpbdp_listing=ensemble-le-mag-des-eco-solutions",
@@ -242,7 +245,8 @@
 			"site": "https://www.ensemble-lemag.com/,",
 			"statut_juridique": "Entreprise ",
 			"email": "ensemble.lemag44@gmail.com",
-			"image": "nantes/ensemble_le_mag.png"
+			"image": "nantes/ensemble_le_mag.png",
+			"categorie_principale_detail": "Blogs, chaînes vidéos, Journaux, Application"
 		},
 		{
 			"page_facebook_": "",
@@ -335,7 +339,7 @@
 			"nom_du_premier_contact": "Léa CECCOTTO",
 			"fonction_du_premier_contact": "Fondatrice de L’atelier de Léa",
 			"moyen_de_joindre_le_premier_contact": "contact@latelier-de-lea.com",
-			"categorie_principale": "",
+			"categorie_principale": "Vente et fabrique d’objets (créateurs, Furoshiki, savon…) ou nourriture",
 			"images": "81232A0E-4108-4B1A-A5B5-5DCC3A84DFD9-scaled.jpeg;5A9FCF35-27F3-4503-A895-ED8900CE307F-scaled.jpeg;EFE760CC-8B67-4EC5-ADEC-647379FD0BAC-scaled.jpeg;8227ED87-40AC-497E-9619-701EF0A8E5A8-scaled.jpeg",
 			"nom": "L’atelier de Léa",
 			"url": "http://lagalerieduzerodechet.fr/?wpbdp_listing=l’atelier-de-lea",
@@ -345,7 +349,8 @@
 			"site": "https://www.latelier-de-lea.com/,",
 			"statut_juridique": "Entreprise ",
 			"email": "contact@latelier-de-lea.com",
-			"image": "nantes/picto-latelier-de-lea-beige.png"
+			"image": "nantes/picto-latelier-de-lea-beige.png",
+			"categorie_principale_detail": "Textile"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/LaFabrikAVrac,",
@@ -440,7 +445,7 @@
 			"nom_du_premier_contact": "Sandrine",
 			"fonction_du_premier_contact": "Fondatrice / dirigeante",
 			"moyen_de_joindre_le_premier_contact": "contact@legrimoiredesandrine.fr",
-			"categorie_principale": "",
+			"categorie_principale": "Ateliers pour faire soi-même (Couture, Réparer, Cosmétiques…)",
 			"images": "cropped-Bannière-page-web2-1.png",
 			"nom": "Le Grimoire de Sandrine",
 			"url": "http://lagalerieduzerodechet.fr/?wpbdp_listing=le-grimoire-de-sandrine",
@@ -545,7 +550,7 @@
 			"nom_du_premier_contact": "Ben Lechapus",
 			"fonction_du_premier_contact": "Artiste performeur",
 			"moyen_de_joindre_le_premier_contact": "0608312298",
-			"categorie_principale": "",
+			"categorie_principale": "Information : Groupes de pression, Mise en réseau, Journaux, Blogs et Chaînes vidéos, Applications…",
 			"images": "Lechapus-Photo-scaled.jpg",
 			"nom": "Lechapus",
 			"url": "http://lagalerieduzerodechet.fr/?wpbdp_listing=lechapus",
@@ -554,7 +559,9 @@
 			"descr_long": "Lechapus propose une performance musicale d'une heure et aussi une action culturelle auprès du jeune public. L'idée de cette action culturelle est d'aller de la récolte de déchets dans la poubelle, sur la plage, dans un parc... jusqu'à la tranformation en un objet musical afin d'exorciser notre gabegie plastique.",
 			"site": "https://www.facebook.com/Lechapus/,",
 			"statut_juridique": "Association",
-			"email": "chapus.production@gmail.com"
+			"email": "chapus.production@gmail.com",
+			"categorie_principale_detail": "Spectacles",
+			"image": "nantes/Lechapus-Photo.jpg"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/gueulesdeboisnantes/,",
@@ -720,7 +727,7 @@
 			"nom_du_premier_contact": "Laëtitia Geneste",
 			"fonction_du_premier_contact": "Coordinatrice",
 			"moyen_de_joindre_le_premier_contact": "0651408062",
-			"categorie_principale": "Ne pas produire de déchet",
+			"categorie_principale": "Des services pour un mode de vie zéro déchet",
 			"images": "logo-bleu-atelierdeslanges-base-line-1.jpeg;M-L.jpg;bébé-en-hamac.jpg;IMG_20190904_164020-scaled.jpg;Coloris-Gamme-pour-les-Professionnels.jpg",
 			"nom": "L'Atelier des Langes",
 			"url": "http://lagalerieduzerodechet.fr/?wpbdp_listing=l'atelier-des-langes",
@@ -730,8 +737,7 @@
 			"site": "http://www.latelierdeslanges.fr,",
 			"statut_juridique": "Association",
 			"email": "latelierdeslanges@gmail.com",
-			"image": "nantes/logo-bleu-atelierdeslanges-base-line.jpeg",
-			"categorie_principale_detail": "Économie circulaire et de la fonctionnalité"
+			"image": "nantes/logo-bleu-atelierdeslanges-base-line.jpeg"
 		},
 		{
 			"page_facebook_": "",
@@ -748,7 +754,8 @@
 			"site": "https://www.facebook.com/pg/tricotfaitmains/,",
 			"statut_juridique": "Entreprise privée ",
 			"email": "manoupelotetissu@yahoo.com",
-			"categorie_principale_detail": "Textile"
+			"categorie_principale_detail": "Textile",
+			"image": "nantes/manou_pelote_et_tissu.jpg"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/MonRepair,",
@@ -801,7 +808,8 @@
 			"site": "",
 			"statut_juridique": "Entreprise privée ",
 			"email": "lavieclairenantes@gmail.com",
-			"categorie_principale_detail": "Supermarchés/épiceries ayant une démarche Zéro Déchet"
+			"categorie_principale_detail": "Supermarchés/épiceries ayant une démarche Zéro Déchet",
+			"image": "nantes/la_vie_claire_nantes.jpg"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/les.ateliers.du.bocage/,",
@@ -871,7 +879,7 @@
 			"site": "https://encova.fr/,",
 			"statut_juridique": "Entreprise privée ",
 			"email": "a.rossignol@encova.fr",
-			"image": "nantes/LOGO.jpg",
+			"image": "nantes/logo_mego.png",
 			"categorie_principale_detail": "Recyclage des matières toxiques : pile, batterie, panneaux photovoltaïque"
 		},
 		{
@@ -1012,7 +1020,8 @@
 			"site": "",
 			"statut_juridique": "Association",
 			"email": "laboitearecup@gmail.com",
-			"categorie_principale_detail": "Boutiques plusieurs types d’objets"
+			"categorie_principale_detail": "Boutiques plusieurs types d’objets",
+			"image": "nantes/la_boite_a_recup.jpg"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/ecopole.cpie/,",
@@ -1101,7 +1110,7 @@
 			"site": "http://www.icilebonheurestfaitmaison.fr,",
 			"statut_juridique": "Entreprise privée ",
 			"email": "contact@icilebonheurestfaitmaison.fr",
-			"image": "nantes/ogo ici le bonheur est fait maison,ICI-LE-BONHEUR-EST-FAIT-MAISON-logo.jpg",
+			"image": "nantes/logo_ici_le_bonheur_est_fait_maison.jpg",
 			"categorie_principale_detail": "Les sites internet (locaux) et/ou livraisons à domicile"
 		},
 		{
@@ -1109,7 +1118,7 @@
 			"nom_du_premier_contact": "Emilie",
 			"fonction_du_premier_contact": "Chargée de communication",
 			"moyen_de_joindre_le_premier_contact": "contact@boutabout.org",
-			"categorie_principale": "",
+			"categorie_principale": "Plusieurs vies pour les objets (recycleries, dons, réparation)",
 			"images": "logo-vert.png",
 			"nom": "Bout' à Bout'",
 			"url": "http://lagalerieduzerodechet.fr/?wpbdp_listing=bout'-a-bout'",
@@ -1214,7 +1223,7 @@
 			"nom_du_premier_contact": "Cédric HENRAT",
 			"fonction_du_premier_contact": "Coordinateur",
 			"moyen_de_joindre_le_premier_contact": "07 69 49 90 17",
-			"categorie_principale": "",
+			"categorie_principale": "Information : Groupes de pression, Mise en réseau, Journaux, Blogs et Chaînes vidéos, Applications…",
 			"images": "logo-sans-baseline-720x720-1-150x150-1.png",
 			"nom": "OASIS environnement",
 			"url": "http://lagalerieduzerodechet.fr/?wpbdp_listing=oasis-environnement",
@@ -1224,7 +1233,8 @@
 			"site": "http://www.oasis-environnement.org/,",
 			"statut_juridique": "Association",
 			"email": "contact@oasis-environnement.org",
-			"image": "nantes/logo-sans-baseline-720x720-1.png"
+			"image": "nantes/logo-sans-baseline-720x720-1.png",
+			"categorie_principale_detail": "Formations longues"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/bootcampedenipaysdelaloire/,",
@@ -1329,14 +1339,15 @@
 			"site": "http://www.latelierdufuroshiki.fr,",
 			"statut_juridique": "Entreprise privée ",
 			"email": "contact@latelierdufuroshiki.fr",
-			"categorie_principale_detail": "Autre"
+			"categorie_principale_detail": "Autre",
+			"image": "nantes/LogoLAtelierduFuroshiki.jpg"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/LeZesteenPlus/,",
 			"nom_du_premier_contact": "Emilie GUILLOU",
 			"fonction_du_premier_contact": "Dirigeante",
 			"moyen_de_joindre_le_premier_contact": "emilie@lezesteenplus.com",
-			"categorie_principale": "",
+			"categorie_principale": "Matière organique",
 			"images": "20190829_124948-redim.jpg;9327-BLO-100-dpi-NBC.jpg;20191026_140733-redim.jpg",
 			"nom": "Le Zeste en Plus",
 			"url": "http://lagalerieduzerodechet.fr/?wpbdp_listing=le-zeste-en-plus",
@@ -1346,14 +1357,15 @@
 			"site": "http://lezesteenplus.com/,",
 			"statut_juridique": "SCOP",
 			"email": "contact@lezesteenplus.com",
-			"image": "nantes/LOGO-LZEP_web.png"
+			"image": "nantes/LOGO-LZEP_web.png",
+			"categorie_principale_detail": "Prévention contre le gaspillage"
 		},
 		{
 			"page_facebook_": "http://www.facebook.com/ppnantes,",
 			"nom_du_premier_contact": "Laurent Authier",
 			"fonction_du_premier_contact": "Président",
 			"moyen_de_joindre_le_premier_contact": "laurent@plastic-pickup.fr",
-			"categorie_principale": "",
+			"categorie_principale": "Le Geste de Tri (ramassage, collecte sur les fêtes...)",
 			"images": "logo-300x181-1.jpg",
 			"nom": "Plastic Pickup",
 			"url": "http://lagalerieduzerodechet.fr/?wpbdp_listing=plastic-pickup",
@@ -1362,7 +1374,8 @@
 			"site": "http://www.plastic-pickup.fr,",
 			"statut_juridique": "Association",
 			"email": "contact@plastic-pickup.fr",
-			"image": "nantes/logo.jpg"
+			"image": "nantes/logo_plastic_pickup.jpg",
+			"categorie_principale_detail": "Ramassage (collectes citoyennes, mégots…)"
 		},
 		{
 			"page_facebook_": "https://www.facebook.com/autruchesutopistes/,",
