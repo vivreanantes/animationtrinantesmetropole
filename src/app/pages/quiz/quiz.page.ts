@@ -32,6 +32,7 @@ export class QuizPage {
   private _element: any = null;
   currentLang: string = null;
   currentHomeCollectModsType: string = null;
+  currentHomeCollectModsMco: string = null;
   currentDifficult: string = null;
   error: boolean = false;
   totalQuestion: number = 10;
@@ -73,6 +74,7 @@ export class QuizPage {
       this._initBrowserDragAndDrop();
     });
     this.currentHomeCollectModsType = this.homeCollectModsHandler.get().type;
+    this.currentHomeCollectModsMco = this.homeCollectModsHandler.get().mco;
     this.currentDifficult = this.difficultHandler.get().code;
   }
 

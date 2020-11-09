@@ -1,12 +1,15 @@
 import { Component } from "@angular/core";
 
+import { HomeCollectModsHandler } from "../../handlers/home-collect-mods.handler";
+
 @Component({
   selector: "app-home",
   templateUrl: "./home.page.html",
   styleUrls: ["./home.page.scss"],
 })
 export class HomePage {
-  // onOver: boolean = false;
+  currentHomeCollectModsType: string = null;
+  currentHomeCollectModsMco: string = null;
   pages = [
     { title: "trier2", icon: "trash", link: "trier2" },
     { title: "carte", icon: "map", link: "carte" },
@@ -20,5 +23,19 @@ export class HomePage {
     { title: "config", icon: "construct", link: "parameters" },
     { title: "contact", icon: "person", link: "contact" }
   ];
-  constructor() { }
+  constructor(
+    private homeCollectModsHandler: HomeCollectModsHandler
+  ) { }
+
+  ngOnInit() {
+    this.init();
+  }
+
+  /**
+   * Initialise le jeu
+   */
+  init() {
+    this.currentHomeCollectModsType = this.homeCollectModsHandler.get().type;
+    this.currentHomeCollectModsMco = this.homeCollectModsHandler.get().mco;
+  }
 }

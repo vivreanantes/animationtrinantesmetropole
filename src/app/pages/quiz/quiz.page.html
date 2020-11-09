@@ -7,9 +7,9 @@
   <button-menu></button-menu>
 
   <div class="mt-content">
-    <div id="title2" *ngIf="!onOver">
-      {{ 'configurez_selon_votre_adresse'| translate }}
-    </div>
+
+    <div class="title"><span [innerHTML]="currentHomeCollectModsMco|translate" ></span></div>
+
     <div id="title" *ngIf="!onOver">
       {{ 'drap_to_answer'| translate }}
     </div>

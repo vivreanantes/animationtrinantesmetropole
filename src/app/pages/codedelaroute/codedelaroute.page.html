@@ -17,6 +17,9 @@
       <div class="title">
         <h1>{{ "cdlr_list_title" | translate }}</h1>
       </div>
+      
+      <div class="title"><h2 [innerHTML]="currentHomeCollectModsMco|translate" ></h2></div>
+
       <div class="items">
         <div class="item" *ngFor="let item of list">
           <button (click)="initQuestion(item)">

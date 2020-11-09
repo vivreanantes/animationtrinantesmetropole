@@ -31,6 +31,7 @@ export class CodedelaroutePage implements OnInit {
   @ViewChildren("rep") reponsesEl: QueryList<ElementRef>;
   currentLang: string = null;
   currentHomeCollectModsType: string = null;
+  currentHomeCollectModsMco: string = null;
   currentDifficult: string = null;
   currentQcm: any = null;
   list: Array<any> = [];
@@ -84,6 +85,7 @@ export class CodedelaroutePage implements OnInit {
     this.score = 0;
     this._getList();
     this.currentHomeCollectModsType = this.homeCollectModsHandler.get().type;
+    this.currentHomeCollectModsMco = this.homeCollectModsHandler.get().mco;
     this.currentDifficult = this.difficultHandler.get().code;
   }
 
@@ -289,9 +291,10 @@ export class CodedelaroutePage implements OnInit {
    */
   private _getFilter() {
     let filter: Array<string> = [];
-    if (this.currentHomeCollectModsType)
+    if (this.currentHomeCollectModsType) {
       filter.push(this.currentHomeCollectModsType);
-    if (this.currentDifficult) filter.push(this.currentDifficult);
+    }
+    if (this.currentDifficult) { filter.push(this.currentDifficult); }
     return filter;
   }
 

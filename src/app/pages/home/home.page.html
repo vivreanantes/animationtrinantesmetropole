@@ -1,7 +1,14 @@
 <div id="background"></div>
 
 <ion-content no-scroll>
+  
   <button-menu></button-menu>
+
+  <div class="currentHomeCollect">
+    <span [innerHTML]="currentHomeCollectModsMco|translate" *ngIf="currentHomeCollectModsMco!==undefined"></span>
+    <span *ngIf="currentHomeCollectModsMco==undefined">{{ 'configurez_selon_votre_adresse' | translate }}</span>
+  </div>
+
   <news></news>
   <div id="menu">
     <div class="page" *ngFor="let page of pages" routerLink="/{{page.link}}" routerDirection="root">
