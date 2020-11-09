@@ -265,7 +265,7 @@ var _ihmLabelsFrDatas = {
 	"erreur_de_lapplication_descr" : "Pour signaler une erreur de l'application, ",
 	"erreur_filieretri_title" : "Proposition amélioration filière tri",
 	"erreur_filieretri_descr" : "Faire remonter à la collectivité une amélioration sur le tri, utilisez l'application FixMaVille.",
-	"ecrire_nous": "envoyez-nous un message à animationtrinantesmetropole@gmail.com",
+	"ecrire_nous": "envoyez-nous un message à mieuxtrieranantes@gmail.com",
 	"drap_to_answer":"Glisser l'objet.",
 	"adresse_configuree":"Adresse configurée",
 	"votre_mode_de_tri":"Votre mode de tri",
