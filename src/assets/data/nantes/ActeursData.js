@@ -394,7 +394,7 @@
 			"fonction_du_premier_contact": "Directeur",
 			"moyen_de_joindre_le_premier_contact": "Joindre le standard de l'entreprise",
 			"categorie_principale": "Recyclage (particulier et professionnel)",
-			"images": "logo_fond_blanc-1-scaled.jpg",
+			"images": "logo_fond_blanc-scaled.jpg",
 			"nom": "Solution Recyclage",
 			"url": "http://lagalerieduzerodechet.fr/?wpbdp_listing=solution-recyclage",
 			"facebook": "https://www.facebook.com/solutionrecyclage,",

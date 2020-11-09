@@ -21,5 +21,13 @@ var _categoriesFichesData = [{
     "sous_cat": "false",
     "image": "bouteille_lait_mini.png",
     "bouton": "cu"
+  },
+  {
+    "code": "on_a_visite",
+    "nom": "On a visité",
+    "nom_en": "We have visited",
+    "sous_cat": "false",
+    "image": "bouteille_lait_mini.png",
+    "bouton": "cu"
   }
 ];
