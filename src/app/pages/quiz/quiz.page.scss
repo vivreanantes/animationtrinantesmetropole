@@ -29,6 +29,16 @@
       }
     }
   }
+
+  .currentHomeCollect {
+    padding: 5px 0;
+    background: rgba(#fff, 0.3);
+    text-align: center;
+    @include fonts("p");
+    color: #fff;
+    font-size: 0.8em;
+  }
+
   .mt-content {
     height: 10vh;
     width: 100vw;
@@ -170,11 +180,6 @@
       text-align: center;
     }
 
-    #title2 {
-      @include fonts("h4", bold);
-      color: #fff;
-      text-align: center;
-    }
     #game {
       display: block;
       position: absolute;

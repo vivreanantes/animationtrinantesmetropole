@@ -2,6 +2,8 @@ import { Component, OnInit, ViewEncapsulation } from "@angular/core";
 import { ModalController } from "@ionic/angular";
 import { NguCarouselConfig } from "@ngu/carousel";
 
+import { HomeCollectModsHandler } from "../../handlers/home-collect-mods.handler";
+
 import { DataService } from "../../services/data.service";
 
 import { Dechet2Page } from "../dechet2/dechet2.page";
@@ -15,6 +17,8 @@ export class Trier2Page implements OnInit {
   input: string = null;
   categories: any = {};
   categoriesRaw: any = {};
+  currentHomeCollectModsType: string = null;
+  currentHomeCollectModsMco: string = null;
   filtres: any = {};
   carouselConfig: NguCarouselConfig = {
     grid: { xs: 3, sm: 3, md: 3, lg: 6, all: 0 },
@@ -31,6 +35,7 @@ export class Trier2Page implements OnInit {
 
   constructor(
     public modalController: ModalController,
+    private homeCollectModsHandler: HomeCollectModsHandler,
     private dataService: DataService
   ) {}
 
@@ -42,6 +47,8 @@ export class Trier2Page implements OnInit {
    * Initialise les propositions
    */
   init() {
+    this.currentHomeCollectModsType = this.homeCollectModsHandler.get().type;
+    this.currentHomeCollectModsMco = this.homeCollectModsHandler.get().mco;
     const categoriesPromise = new Promise((resolve, reject) => {
       this.dataService
         .get("nantes/UsualCategoriesDatas.js")

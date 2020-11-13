@@ -4,12 +4,16 @@
   
   <button-menu></button-menu>
 
-  <div class="currentHomeCollect">
-    <span [innerHTML]="currentHomeCollectModsMco|translate" *ngIf="currentHomeCollectModsMco!==undefined"></span>
-    <span *ngIf="currentHomeCollectModsMco==undefined">{{ 'configurez_selon_votre_adresse' | translate }}</span>
-  </div>
 
   <news></news>
+  
+  <div class="currentHomeCollect" *ngIf="currentHomeCollectModsMco!==undefined">
+    {{ 'votre_configuration_adresse_jeu_short' | translate }} <i><span [innerHTML]="currentHomeCollectModsMco|translate" ></span></i>  </div>
+
+  <div class="currentHomeCollect" *ngIf="currentHomeCollectModsMco==undefined">
+    <span>{{ 'alert_collectmodsfilter' | translate }}</span>
+  </div>
+  
   <div id="menu">
     <div class="page" *ngFor="let page of pages" routerLink="/{{page.link}}" routerDirection="root">
       <ion-icon name="{{ page.icon }}"></ion-icon>

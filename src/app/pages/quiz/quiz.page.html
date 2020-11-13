@@ -8,7 +8,7 @@
 
   <div class="mt-content">
 
-    <div class="title"><span [innerHTML]="currentHomeCollectModsMco|translate" ></span></div>
+    <div class="currentHomeCollect">{{ 'votre_configuration_adresse_jeu_short' | translate }} <i><span [innerHTML]="currentHomeCollectModsMco|translate" ></span></i></div>
 
     <div id="title" *ngIf="!onOver">
       {{ 'drap_to_answer'| translate }}

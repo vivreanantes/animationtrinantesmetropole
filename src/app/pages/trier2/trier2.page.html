@@ -1,7 +1,13 @@
 <ion-content>
   <button-menu></button-menu>
-
+  
   <div class="mt-content">
+    <div class="currentHomeCollect" *ngIf="currentHomeCollectModsMco!==undefined">
+      {{ 'votre_configuration_adresse_jeu_short' | translate }} <i><span [innerHTML]="currentHomeCollectModsMco|translate" ></span></i>  </div>
+  
+    <div class="currentHomeCollect" *ngIf="currentHomeCollectModsMco==undefined">
+      <span>{{ 'alert_collectmodsfilter' | translate }}</span>
+    </div>
     <div class="search">
       <div class="input-field">
         <input
@@ -15,6 +21,8 @@
     </div>
 
     <div class="categories" *ngIf="categories">
+
+      
       <div class="categorie" *ngFor="let categorie of categories | values">
         <div class="title" *ngIf="categorie.items && categorie.items.length >0">
           <h2>{{ categorie | lang: "nom" }}</h2>

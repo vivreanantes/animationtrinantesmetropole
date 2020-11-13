@@ -18,7 +18,7 @@
         <h1>{{ "cdlr_list_title" | translate }}</h1>
       </div>
       
-      <div class="title"><h2 [innerHTML]="currentHomeCollectModsMco|translate" ></h2></div>
+      <div class="currentHomeCollect">{{ 'votre_configuration_adresse_jeu' | translate }} : <i><span [innerHTML]="currentHomeCollectModsMco|translate" ></span></i></div>
 
       <div class="items">
         <div class="item" *ngFor="let item of list">
