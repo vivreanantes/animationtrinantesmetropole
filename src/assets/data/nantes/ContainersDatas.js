@@ -1,9 +1,8 @@
-var _containersDatas = [
-		{
+var _containersDatas = [{
 			"code": "stco_conteneur_DS0020",
 			"idPointTri": "SH_TRI035",
-			"latitude": -1.60198547105,
-			"longitude": 47.2366216823,
+			"latitude": 47.2366216823,
+			"longitude": -1.60198547105,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Philippe Rameau St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -12,13 +11,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0054",
 			"idPointTri": "SH_TRI087",
-			"latitude": -1.61400567294,
-			"longitude": 47.2137135611,
+			"latitude": 47.2137135611,
+			"longitude": -1.61400567294,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Mayenne St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -31,8 +30,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_DS0060",
 			"idPointTri": "SH_TRI013",
-			"latitude": -1.61349094962,
-			"longitude": 47.2068214295,
+			"latitude": 47.2068214295,
+			"longitude": -1.61349094962,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Winston Churchill St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -41,13 +40,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0063",
 			"idPointTri": "SH_TRI022",
-			"latitude": -1.61776628517,
-			"longitude": 47.208427026,
+			"latitude": 47.208427026,
+			"longitude": -1.61776628517,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Cahors St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -56,13 +55,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0072",
 			"idPointTri": "SH_TRI040",
-			"latitude": -1.64202182404,
-			"longitude": 47.1975307436,
+			"latitude": 47.1975307436,
+			"longitude": -1.64202182404,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin de Tougas St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -71,13 +70,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Emballage ménager"
+			"type": "Emballage ménager, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_DS0076",
 			"idPointTri": "SS_TRI001",
-			"latitude": -1.48355603359,
-			"longitude": 47.1994950852,
+			"latitude": 47.1994950852,
+			"longitude": -1.48355603359,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Pyramide Saint-Sébastien-sur-Loire",
 			"typeDechets": "Emballage ménager",
@@ -86,13 +85,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0078",
 			"idPointTri": "SH_TRI118",
-			"latitude": -1.61015006399,
-			"longitude": 47.2148466146,
+			"latitude": 47.2148466146,
+			"longitude": -1.61015006399,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Chicotière St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -101,13 +100,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Emballage ménager"
+			"type": "Emballage ménager, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_PC0004",
 			"idPointTri": "NA_TRI091",
-			"latitude": -1.57908220437,
-			"longitude": 47.2618843671,
+			"latitude": 47.2618843671,
+			"longitude": -1.57908220437,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Québec Nantes",
 			"typeDechets": "Papier-carton",
@@ -116,13 +115,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Plastique"
+			"type": "Papier-carton, Plastique"
 		},
 		{
 			"code": "stco_conteneur_PC0014",
 			"idPointTri": "NA_TRI103",
-			"latitude": -1.58869146262,
-			"longitude": 47.2242886751,
+			"latitude": 47.2242886751,
+			"longitude": -1.58869146262,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place Puvis De Chavannes Nantes",
 			"typeDechets": "Papier-carton",
@@ -131,13 +130,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0018",
 			"idPointTri": "NA_TRI092",
-			"latitude": -1.58583485188,
-			"longitude": 47.2082768118,
+			"latitude": 47.2082768118,
+			"longitude": -1.58583485188,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Président René Coty Nantes",
 			"typeDechets": "Papier-carton",
@@ -146,13 +145,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0025",
 			"idPointTri": "NA_TRI057",
-			"latitude": -1.56306946792,
-			"longitude": 47.2184271896,
+			"latitude": 47.2184271896,
+			"longitude": -1.56306946792,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place Edouard Normand Nantes",
 			"typeDechets": "Papier-carton",
@@ -161,13 +160,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Plastique"
+			"type": "Papier-carton, Plastique"
 		},
 		{
 			"code": "stco_conteneur_PC0047",
 			"idPointTri": "NA_TRI043",
-			"latitude": -1.51679714394,
-			"longitude": 47.2508420092,
+			"latitude": 47.2508420092,
+			"longitude": -1.51679714394,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Perray Nantes",
 			"typeDechets": "Papier-carton",
@@ -176,13 +175,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Papier-carton"
+			"type": "Papier-carton, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_PC0053",
 			"idPointTri": "NA_TRI076",
-			"latitude": -1.51311605705,
-			"longitude": 47.256230464,
+			"latitude": 47.256230464,
+			"longitude": -1.51311605705,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Champ de Tir Nantes",
 			"typeDechets": "Papier-carton",
@@ -191,13 +190,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0057",
 			"idPointTri": "NA_TRI059",
-			"latitude": -1.50125153087,
-			"longitude": 47.2385262088,
+			"latitude": 47.2385262088,
+			"longitude": -1.50125153087,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard de la Louëtrie Nantes",
 			"typeDechets": "Papier-carton",
@@ -206,13 +205,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0060",
 			"idPointTri": "NA_TRI027",
-			"latitude": -1.49505105643,
-			"longitude": 47.2473565385,
+			"latitude": 47.2473565385,
+			"longitude": -1.49505105643,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Bois Briand Nantes",
 			"typeDechets": "Papier-carton",
@@ -221,13 +220,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Plastique"
+			"type": "Papier-carton, Plastique"
 		},
 		{
 			"code": "stco_conteneur_PC0062",
 			"idPointTri": "NA_TRI064",
-			"latitude": -1.55666450836,
-			"longitude": 47.2427454079,
+			"latitude": 47.2427454079,
+			"longitude": -1.55666450836,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin du Port Nantes",
 			"typeDechets": "Papier-carton",
@@ -236,13 +235,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Plastique"
+			"type": "Papier-carton, Plastique"
 		},
 		{
 			"code": "stco_conteneur_PC0067",
 			"idPointTri": "NA_TRI090",
-			"latitude": -1.55177537535,
-			"longitude": 47.2478602706,
+			"latitude": 47.2478602706,
+			"longitude": -1.55177537535,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rond-Point de la Noë Nantes",
 			"typeDechets": "Papier-carton",
@@ -251,13 +250,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Plastique"
+			"type": "Papier-carton, Plastique"
 		},
 		{
 			"code": "stco_conteneur_PC0077",
 			"idPointTri": "NA_TRI019",
-			"latitude": -1.60673958526,
-			"longitude": 47.2098543057,
+			"latitude": 47.2098543057,
+			"longitude": -1.60673958526,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Olivesi Nantes",
 			"typeDechets": "Papier-carton",
@@ -266,13 +265,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0081",
 			"idPointTri": "NA_TRI107",
-			"latitude": -1.60336005451,
-			"longitude": 47.2104992612,
+			"latitude": 47.2104992612,
+			"longitude": -1.60336005451,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de Saint Herblain Nantes",
 			"typeDechets": "Papier-carton",
@@ -281,13 +280,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0084",
 			"idPointTri": "NA_TRI050",
-			"latitude": -1.59818738487,
-			"longitude": 47.2164381868,
+			"latitude": 47.2164381868,
+			"longitude": -1.59818738487,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Huss Nantes",
 			"typeDechets": "Papier-carton",
@@ -296,13 +295,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Plastique"
+			"type": "Papier-carton, Plastique"
 		},
 		{
 			"code": "stco_conteneur_PC0104",
 			"idPointTri": "NA_TRI081",
-			"latitude": -1.53189817623,
-			"longitude": 47.2341589269,
+			"latitude": 47.2341589269,
+			"longitude": -1.53189817623,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Marrière Nantes",
 			"typeDechets": "Papier-carton",
@@ -311,13 +310,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0114",
 			"idPointTri": "NA_TRI048",
-			"latitude": -1.52151775592,
-			"longitude": 47.1886824604,
+			"latitude": 47.1886824604,
+			"longitude": -1.52151775592,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée de la Civelière Nantes",
 			"typeDechets": "Papier-carton",
@@ -326,13 +325,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Plastique"
+			"type": "Papier-carton, Plastique"
 		},
 		{
 			"code": "stco_conteneur_PC0117",
 			"idPointTri": "NA_TRI040",
-			"latitude": -1.52334110021,
-			"longitude": 47.2539953085,
+			"latitude": 47.2539953085,
+			"longitude": -1.52334110021,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de la Gare de Saint Joseph Nantes",
 			"typeDechets": "Papier-carton",
@@ -341,13 +340,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0121",
 			"idPointTri": "NA_TRI002",
-			"latitude": -1.57125682626,
-			"longitude": 47.2348067618,
+			"latitude": 47.2348067618,
+			"longitude": -1.57125682626,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard des Américains Nantes",
 			"typeDechets": "Papier-carton",
@@ -356,13 +355,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Plastique"
+			"type": "Papier-carton, Plastique"
 		},
 		{
 			"code": "stco_conteneur_PC0126",
 			"idPointTri": "NA_TRI052",
-			"latitude": -1.60527670167,
-			"longitude": 47.215591258,
+			"latitude": 47.215591258,
+			"longitude": -1.60527670167,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard du Tertre Nantes",
 			"typeDechets": "Papier-carton",
@@ -371,13 +370,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0134",
 			"idPointTri": "NA_TRI108",
-			"latitude": -1.58060560482,
-			"longitude": 47.2197767132,
+			"latitude": 47.2197767132,
+			"longitude": -1.58060560482,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Sept Maires Charette Nantes",
 			"typeDechets": "Papier-carton",
@@ -386,13 +385,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PL0001",
 			"idPointTri": "NA_TRI053",
-			"latitude": -1.5806868078,
-			"longitude": 47.2274038304,
+			"latitude": 47.2274038304,
+			"longitude": -1.5806868078,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Eugène Bégarie Nantes",
 			"typeDechets": "Plastique",
@@ -401,13 +400,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Verre"
+			"type": "Plastique, Verre"
 		},
 		{
 			"code": "stco_conteneur_PL0035",
 			"idPointTri": "NA_TRI015",
-			"latitude": -1.56036568103,
-			"longitude": 47.2536150903,
+			"latitude": 47.2536150903,
+			"longitude": -1.56036568103,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue d'Assise Nantes",
 			"typeDechets": "Plastique",
@@ -416,13 +415,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Papier-carton"
+			"type": "Plastique, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_PL0044",
 			"idPointTri": "NA_TRI120",
-			"latitude": -1.51802946544,
-			"longitude": 47.2544412134,
+			"latitude": 47.2544412134,
+			"longitude": -1.51802946544,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Professeur René Auvigné Nantes",
 			"typeDechets": "Plastique",
@@ -431,13 +430,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Verre"
+			"type": "Plastique, Verre"
 		},
 		{
 			"code": "stco_conteneur_PL0048",
 			"idPointTri": "NA_TRI062",
-			"latitude": -1.51490530814,
-			"longitude": 47.2452155571,
+			"latitude": 47.2452155571,
+			"longitude": -1.51490530814,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Haluchère Nantes",
 			"typeDechets": "Plastique",
@@ -446,13 +445,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Papier-carton"
+			"type": "Plastique, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_PL0059",
 			"idPointTri": "NA_TRI074",
-			"latitude": -1.50069459064,
-			"longitude": 47.2335712314,
+			"latitude": 47.2335712314,
+			"longitude": -1.50069459064,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Henri Giffard Nantes",
 			"typeDechets": "Plastique",
@@ -461,13 +460,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Verre"
+			"type": "Plastique, Verre"
 		},
 		{
 			"code": "stco_conteneur_PL0068",
 			"idPointTri": "NA_TRI025",
-			"latitude": -1.55215241705,
-			"longitude": 47.2518997328,
+			"latitude": 47.2518997328,
+			"longitude": -1.55215241705,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Recteur Schmitt Nantes",
 			"typeDechets": "Plastique",
@@ -476,13 +475,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Verre"
+			"type": "Plastique, Verre"
 		},
 		{
 			"code": "stco_conteneur_PL0081",
 			"idPointTri": "NA_TRI112",
-			"latitude": -1.60533847982,
-			"longitude": 47.1993632163,
+			"latitude": 47.1993632163,
+			"longitude": -1.60533847982,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Jean Moulin Nantes",
 			"typeDechets": "Plastique",
@@ -491,13 +490,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Verre"
+			"type": "Plastique, Verre"
 		},
 		{
 			"code": "stco_conteneur_PL0117",
 			"idPointTri": "NA_TRI026",
-			"latitude": -1.52946827176,
-			"longitude": 47.2497792653,
+			"latitude": 47.2497792653,
+			"longitude": -1.52946827176,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Koufra Nantes",
 			"typeDechets": "Plastique",
@@ -506,13 +505,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Verre"
+			"type": "Plastique, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0004",
 			"idPointTri": "BG_TRI004",
-			"latitude": -1.471322015,
-			"longitude": 47.2143963068,
+			"latitude": 47.2143963068,
+			"longitude": -1.471322015,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Impasse du Muguet Basse-Goulaine",
 			"typeDechets": "Verre",
@@ -525,8 +524,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0029",
 			"idPointTri": "BO_TRI005",
-			"latitude": -1.59402589662,
-			"longitude": 47.1834752606,
+			"latitude": 47.1834752606,
+			"longitude": -1.59402589662,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Martin Luther King Bouguenais",
 			"typeDechets": "Verre",
@@ -539,8 +538,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0040",
 			"idPointTri": "BO_TRI016",
-			"latitude": -1.57975095133,
-			"longitude": 47.1833495087,
+			"latitude": 47.1833495087,
+			"longitude": -1.57975095133,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Commandant Charcot Bouguenais",
 			"typeDechets": "Verre",
@@ -553,8 +552,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0041",
 			"idPointTri": "BO_TRI017",
-			"latitude": -1.580987317,
-			"longitude": 47.1881450754,
+			"latitude": 47.1881450754,
+			"longitude": -1.580987317,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue des Tilleuls Bouguenais",
 			"typeDechets": "Verre",
@@ -567,8 +566,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0055",
 			"idPointTri": "BO_TRI030",
-			"latitude": -1.63012755426,
-			"longitude": 47.1727314837,
+			"latitude": 47.1727314837,
+			"longitude": -1.63012755426,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Planty Bouguenais",
 			"typeDechets": "Verre",
@@ -581,8 +580,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0058",
 			"idPointTri": "BO_TRI033",
-			"latitude": -1.62276778248,
-			"longitude": 47.1736059582,
+			"latitude": 47.1736059582,
+			"longitude": -1.62276778248,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Croix Jeannette Bouguenais",
 			"typeDechets": "Verre",
@@ -595,8 +594,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0059",
 			"idPointTri": "BO_TRI034",
-			"latitude": -1.6246309964,
-			"longitude": 47.1720548605,
+			"latitude": 47.1720548605,
+			"longitude": -1.6246309964,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Fernand Pelloutier Bouguenais",
 			"typeDechets": "Verre",
@@ -609,8 +608,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0060",
 			"idPointTri": "BO_TRI035",
-			"latitude": -1.62301587461,
-			"longitude": 47.1708008641,
+			"latitude": 47.1708008641,
+			"longitude": -1.62301587461,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Pablo Neruda Bouguenais",
 			"typeDechets": "Verre",
@@ -623,8 +622,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0061",
 			"idPointTri": "BO_TRI036",
-			"latitude": -1.62485566494,
-			"longitude": 47.1700596083,
+			"latitude": 47.1700596083,
+			"longitude": -1.62485566494,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Salvador Allende Bouguenais",
 			"typeDechets": "Verre",
@@ -637,8 +636,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0062",
 			"idPointTri": "BO_TRI037",
-			"latitude": -1.62199167399,
-			"longitude": 47.1690033426,
+			"latitude": 47.1690033426,
+			"longitude": -1.62199167399,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Gagnerie Bouguenais",
 			"typeDechets": "Verre",
@@ -651,8 +650,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0069",
 			"idPointTri": "BO_TRI043",
-			"latitude": -1.62249120707,
-			"longitude": 47.1548825716,
+			"latitude": 47.1548825716,
+			"longitude": -1.62249120707,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée des Soupirs Bouguenais",
 			"typeDechets": "Verre",
@@ -665,8 +664,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0070",
 			"idPointTri": "BO_TRI044",
-			"latitude": -1.62606530317,
-			"longitude": 47.1722346121,
+			"latitude": 47.1722346121,
+			"longitude": -1.62606530317,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jéhol Bouguenais",
 			"typeDechets": "Verre",
@@ -679,8 +678,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0082",
 			"idPointTri": "BR_TRI005",
-			"latitude": -1.72620196326,
-			"longitude": 47.1717012149,
+			"latitude": 47.1717012149,
+			"longitude": -1.72620196326,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Bois Joli Brains",
 			"typeDechets": "Verre",
@@ -693,8 +692,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0090",
 			"idPointTri": "CA_TRI003",
-			"latitude": -1.48770989469,
-			"longitude": 47.3015534506,
+			"latitude": 47.3015534506,
+			"longitude": -1.48770989469,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue François René De Chateaubriand Carquefou",
 			"typeDechets": "Verre",
@@ -703,13 +702,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0103",
 			"idPointTri": "CA_TRI017",
-			"latitude": -1.43422556847,
-			"longitude": 47.3211170361,
+			"latitude": 47.3211170361,
+			"longitude": -1.43422556847,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin de Rideau Carquefou",
 			"typeDechets": "Verre",
@@ -722,8 +721,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0126",
 			"idPointTri": "CA_TRI001",
-			"latitude": -1.48590257521,
-			"longitude": 47.2967297053,
+			"latitude": 47.2967297053,
+			"longitude": -1.48590257521,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue des Argonautes Carquefou",
 			"typeDechets": "Verre",
@@ -732,13 +731,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0128",
 			"idPointTri": "CO_TRI002",
-			"latitude": -1.73550943791,
-			"longitude": 47.2125837649,
+			"latitude": 47.2125837649,
+			"longitude": -1.73550943791,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Francois Blancho Couëron",
 			"typeDechets": "Verre",
@@ -747,13 +746,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0141",
 			"idPointTri": "CO_TRI015",
-			"latitude": -1.71013273278,
-			"longitude": 47.2166797953,
+			"latitude": 47.2166797953,
+			"longitude": -1.71013273278,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Marais Couëron",
 			"typeDechets": "Verre",
@@ -766,8 +765,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0146",
 			"idPointTri": "CO_TRI020",
-			"latitude": -1.68498635706,
-			"longitude": 47.2162916084,
+			"latitude": 47.2162916084,
+			"longitude": -1.68498635706,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Corbardière Couëron",
 			"typeDechets": "Verre",
@@ -780,8 +779,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0148",
 			"idPointTri": "CO_TRI022",
-			"latitude": -1.6800835572,
-			"longitude": 47.2178257941,
+			"latitude": 47.2178257941,
+			"longitude": -1.6800835572,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Cygnes Couëron",
 			"typeDechets": "Verre",
@@ -794,8 +793,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0149",
 			"idPointTri": "CO_TRI023",
-			"latitude": -1.6792494120399999,
-			"longitude": 47.2151872292,
+			"latitude": 47.2151872292,
+			"longitude": -1.6792494120399999,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Envalira Couëron",
 			"typeDechets": "Verre",
@@ -808,8 +807,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0153",
 			"idPointTri": "CO_TRI027",
-			"latitude": -1.69095574552,
-			"longitude": 47.2449762091,
+			"latitude": 47.2449762091,
+			"longitude": -1.69095574552,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "RD 26 Couëron",
 			"typeDechets": "Verre",
@@ -822,8 +821,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0156",
 			"idPointTri": "CO_TRI001",
-			"latitude": -1.74371132212,
-			"longitude": 47.2098901404,
+			"latitude": 47.2098901404,
+			"longitude": -1.74371132212,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard de l'Océan Couëron",
 			"typeDechets": "Verre",
@@ -832,13 +831,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0176",
 			"idPointTri": "CH_TRI005",
-			"latitude": -1.58502251092,
-			"longitude": 47.2903422083,
+			"latitude": 47.2903422083,
+			"longitude": -1.58502251092,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Pont de Forge La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -851,8 +850,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0179",
 			"idPointTri": "CH_TRI008",
-			"latitude": -1.55132207529,
-			"longitude": 47.2825051055,
+			"latitude": 47.2825051055,
+			"longitude": -1.55132207529,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Vrière La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -865,8 +864,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0183",
 			"idPointTri": "CH_TRI010",
-			"latitude": -1.54869383443,
-			"longitude": 47.2984584649,
+			"latitude": 47.2984584649,
+			"longitude": -1.54869383443,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Raymond Guinel La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -879,8 +878,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0186",
 			"idPointTri": "CH_TRI013",
-			"latitude": -1.54825426216,
-			"longitude": 47.3022808065,
+			"latitude": 47.3022808065,
+			"longitude": -1.54825426216,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Sucé La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -893,8 +892,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0190",
 			"idPointTri": "CH_TRI017",
-			"latitude": -1.55861663347,
-			"longitude": 47.2959788206,
+			"latitude": 47.2959788206,
+			"longitude": -1.55861663347,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Hautière La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -907,8 +906,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0197",
 			"idPointTri": "CH_TRI024",
-			"latitude": -1.56125865243,
-			"longitude": 47.3088900808,
+			"latitude": 47.3088900808,
+			"longitude": -1.56125865243,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée de la Coutancière La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -921,8 +920,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0229",
 			"idPointTri": "MT_TRI016",
-			"latitude": -1.69246725583,
-			"longitude": 47.1827397419,
+			"latitude": 47.1827397419,
+			"longitude": -1.69246725583,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Mermoz La Montagne",
 			"typeDechets": "Verre",
@@ -935,8 +934,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0235",
 			"idPointTri": "PE_TRI002",
-			"latitude": -1.75332110978,
-			"longitude": 47.1981828578,
+			"latitude": 47.1981828578,
+			"longitude": -1.75332110978,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Moulin Le Pellerin",
 			"typeDechets": "Verre",
@@ -949,8 +948,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0237",
 			"idPointTri": "PE_TRI004",
-			"latitude": -1.76149363445,
-			"longitude": 47.1948294194,
+			"latitude": 47.1948294194,
+			"longitude": -1.76149363445,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Jouardais Le Pellerin",
 			"typeDechets": "Verre",
@@ -963,8 +962,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0247",
 			"idPointTri": "SO_TRI002",
-			"latitude": -1.52979627515,
-			"longitude": 47.1491344663,
+			"latitude": 47.1491344663,
+			"longitude": -1.52979627515,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Elan Les Sorinières",
 			"typeDechets": "Verre",
@@ -977,8 +976,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0268",
 			"idPointTri": "MA_TRI003",
-			"latitude": -1.42008625258,
-			"longitude": 47.3297370043,
+			"latitude": 47.3297370043,
+			"longitude": -1.42008625258,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "RD89 Mauves-sur-Loire",
 			"typeDechets": "Verre",
@@ -991,8 +990,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0273",
 			"idPointTri": "NA_TRI126",
-			"latitude": -1.58181630017,
-			"longitude": 47.2658293132,
+			"latitude": 47.2658293132,
+			"longitude": -1.58181630017,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue du Bout des Landes Nantes",
 			"typeDechets": "Verre",
@@ -1001,13 +1000,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0293",
 			"idPointTri": "NA_TRI060",
-			"latitude": -1.52137701183,
-			"longitude": 47.2354246217,
+			"latitude": 47.2354246217,
+			"longitude": -1.52137701183,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Croissant Nantes",
 			"typeDechets": "Verre",
@@ -1016,13 +1015,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Plastique"
+			"type": "Verre, Plastique"
 		},
 		{
 			"code": "stco_conteneur_VE0309",
 			"idPointTri": "NA_TRI056",
-			"latitude": -1.56701501265,
-			"longitude": 47.26057834,
+			"latitude": 47.26057834,
+			"longitude": -1.56701501265,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Santos Dumont Nantes",
 			"typeDechets": "Verre",
@@ -1031,13 +1030,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Plastique"
+			"type": "Verre, Plastique"
 		},
 		{
 			"code": "stco_conteneur_VE0316",
 			"idPointTri": "NA_TRI097",
-			"latitude": -1.56173289922,
-			"longitude": 47.2209747322,
+			"latitude": 47.2209747322,
+			"longitude": -1.56173289922,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Sarrazin Nantes",
 			"typeDechets": "Verre",
@@ -1046,13 +1045,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0327",
 			"idPointTri": "NA_TRI065",
-			"latitude": -1.55757745736,
-			"longitude": 47.2405496968,
+			"latitude": 47.2405496968,
+			"longitude": -1.55757745736,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jules Siegfried Nantes",
 			"typeDechets": "Verre",
@@ -1061,13 +1060,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Plastique"
+			"type": "Verre, Plastique"
 		},
 		{
 			"code": "stco_conteneur_VE0337",
 			"idPointTri": "NA_TRI055",
-			"latitude": -1.54274889548,
-			"longitude": 47.212393225,
+			"latitude": 47.212393225,
+			"longitude": -1.54274889548,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "2 Quai Ferdinand Favre Nantes",
 			"typeDechets": "Verre",
@@ -1076,13 +1075,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0395",
 			"idPointTri": "NA_TRI023",
-			"latitude": -1.54750290471,
-			"longitude": 47.2352481917,
+			"latitude": 47.2352481917,
+			"longitude": -1.54750290471,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard des Professeurs Sourdille Nantes",
 			"typeDechets": "Verre",
@@ -1091,13 +1090,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0407",
 			"idPointTri": "NA_TRI009",
-			"latitude": -1.60445926938,
-			"longitude": 47.209735207,
+			"latitude": 47.209735207,
+			"longitude": -1.60445926938,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Lot Nantes",
 			"typeDechets": "Verre",
@@ -1106,13 +1105,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Plastique"
+			"type": "Verre, Plastique"
 		},
 		{
 			"code": "stco_conteneur_VE0410",
 			"idPointTri": "NA_TRI105",
-			"latitude": -1.60181349318,
-			"longitude": 47.1983723701,
+			"latitude": 47.1983723701,
+			"longitude": -1.60181349318,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Maréchal Alphonse Juin Nantes",
 			"typeDechets": "Verre",
@@ -1121,13 +1120,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0417",
 			"idPointTri": "NA_TRI182",
-			"latitude": -1.5237582029,
-			"longitude": 47.1854942417,
+			"latitude": 47.1854942417,
+			"longitude": -1.5237582029,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Bourderies Nantes",
 			"typeDechets": "Verre",
@@ -1140,8 +1139,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0469",
 			"idPointTri": "NA_TRI089",
-			"latitude": -1.57189639737,
-			"longitude": 47.2418813992,
+			"latitude": 47.2418813992,
+			"longitude": -1.57189639737,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Pierre Yvernogeau Nantes",
 			"typeDechets": "Verre",
@@ -1150,13 +1149,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0483",
 			"idPointTri": "NA_TRI202",
-			"latitude": -1.56638961951,
-			"longitude": 47.2330915106,
+			"latitude": 47.2330915106,
+			"longitude": -1.56638961951,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Lelasseur Nantes",
 			"typeDechets": "Verre",
@@ -1165,13 +1164,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0500",
 			"idPointTri": "NA_TRI213",
-			"latitude": -1.57298484425,
-			"longitude": 47.2211147876,
+			"latitude": 47.2211147876,
+			"longitude": -1.57298484425,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Alexandre Dumas Nantes",
 			"typeDechets": "Verre",
@@ -1184,8 +1183,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0514",
 			"idPointTri": "OR_TRI016",
-			"latitude": -1.57696218432,
-			"longitude": 47.2504187624,
+			"latitude": 47.2504187624,
+			"longitude": -1.57696218432,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Vallée Orvault",
 			"typeDechets": "Verre",
@@ -1198,8 +1197,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0515",
 			"idPointTri": "OR_TRI017",
-			"latitude": -1.61454763477,
-			"longitude": 47.2543092381,
+			"latitude": 47.2543092381,
+			"longitude": -1.61454763477,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue Charles De Gaulle Orvault",
 			"typeDechets": "Verre",
@@ -1212,8 +1211,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0516",
 			"idPointTri": "OR_TRI018",
-			"latitude": -1.61166743789,
-			"longitude": 47.2536659209,
+			"latitude": 47.2536659209,
+			"longitude": -1.61166743789,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue Claude Antoine Peccot (accès Lycée Nicolas Appert) Orvault",
 			"typeDechets": "Verre",
@@ -1226,8 +1225,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0517",
 			"idPointTri": "OR_TRI019",
-			"latitude": -1.60628390456,
-			"longitude": 47.2489567711,
+			"latitude": 47.2489567711,
+			"longitude": -1.60628390456,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de la Paquelais Orvault",
 			"typeDechets": "Verre",
@@ -1240,8 +1239,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0518",
 			"idPointTri": "OR_TRI020",
-			"latitude": -1.60224494009,
-			"longitude": 47.2478833226,
+			"latitude": 47.2478833226,
+			"longitude": -1.60224494009,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de la Morlière Orvault",
 			"typeDechets": "Verre",
@@ -1254,8 +1253,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0532",
 			"idPointTri": "OR_TRI030",
-			"latitude": -1.59877001688,
-			"longitude": 47.2666257035,
+			"latitude": 47.2666257035,
+			"longitude": -1.59877001688,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue du Bois Raguenet second Orvault",
 			"typeDechets": "Verre",
@@ -1268,8 +1267,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0533",
 			"idPointTri": "OR_TRI031",
-			"latitude": -1.59909931809,
-			"longitude": 47.2544999586,
+			"latitude": 47.2544999586,
+			"longitude": -1.59909931809,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue Alexandre Goupil Orvault",
 			"typeDechets": "Verre",
@@ -1282,8 +1281,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0537",
 			"idPointTri": "OR_TRI035",
-			"latitude": -1.61160025101,
-			"longitude": 47.2537002105,
+			"latitude": 47.2537002105,
+			"longitude": -1.61160025101,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue Claude Antoine Peccot (Piscine Cholière) Orvault",
 			"typeDechets": "Verre",
@@ -1296,8 +1295,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0543",
 			"idPointTri": "RE_TRI004",
-			"latitude": -1.54513985981,
-			"longitude": 47.1915738869,
+			"latitude": 47.1915738869,
+			"longitude": -1.54513985981,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue René Cassin Rezé",
 			"typeDechets": "Verre",
@@ -1310,8 +1309,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0567",
 			"idPointTri": "RE_TRI028",
-			"latitude": -1.54569986812,
-			"longitude": 47.1887338335,
+			"latitude": 47.1887338335,
+			"longitude": -1.54569986812,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Louis Aragon Rezé",
 			"typeDechets": "Verre",
@@ -1324,8 +1323,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0571",
 			"idPointTri": "RE_TRI032",
-			"latitude": -1.56986238484,
-			"longitude": 47.1829309295,
+			"latitude": 47.1829309295,
+			"longitude": -1.56986238484,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue Léon Blum Rezé",
 			"typeDechets": "Verre",
@@ -1338,8 +1337,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0581",
 			"idPointTri": "RE_TRI042",
-			"latitude": -1.54893821715,
-			"longitude": 47.173265957,
+			"latitude": 47.173265957,
+			"longitude": -1.54893821715,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Louis Pasteur Rezé",
 			"typeDechets": "Verre",
@@ -1352,8 +1351,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0583",
 			"idPointTri": "RE_TRI044",
-			"latitude": -1.54440864628,
-			"longitude": 47.1687514116,
+			"latitude": 47.1687514116,
+			"longitude": -1.54440864628,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Baptiste et Henri Tendron Rezé",
 			"typeDechets": "Verre",
@@ -1366,8 +1365,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0601",
 			"idPointTri": "RE_TRI002",
-			"latitude": -1.54663865485,
-			"longitude": 47.1618388936,
+			"latitude": 47.1618388936,
+			"longitude": -1.54663865485,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Bauche Thiraud Rezé",
 			"typeDechets": "Verre",
@@ -1380,8 +1379,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0603",
 			"idPointTri": "SA_TRI003",
-			"latitude": -1.66412520683,
-			"longitude": 47.2548849525,
+			"latitude": 47.2548849525,
+			"longitude": -1.66412520683,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Charmiles Sautron",
 			"typeDechets": "Verre",
@@ -1394,8 +1393,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0619",
 			"idPointTri": "AG_TRI002",
-			"latitude": -1.63548425641,
-			"longitude": 47.1225165099,
+			"latitude": 47.1225165099,
+			"longitude": -1.63548425641,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Pressoir Saint-Aignan-Grandlieu",
 			"typeDechets": "Verre",
@@ -1404,13 +1403,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0626",
 			"idPointTri": "SH_TRI024",
-			"latitude": -1.61593693812,
-			"longitude": 47.2134100064,
+			"latitude": 47.2134100064,
+			"longitude": -1.61593693812,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Charente St-Herblain",
 			"typeDechets": "Verre",
@@ -1419,13 +1418,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Emballage ménager"
+			"type": "Verre, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_VE0630",
 			"idPointTri": "SH_TRI030",
-			"latitude": -1.61491350957,
-			"longitude": 47.2071173259,
+			"latitude": 47.2071173259,
+			"longitude": -1.61491350957,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Cahors St-Herblain",
 			"typeDechets": "Verre",
@@ -1434,13 +1433,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Emballage ménager"
+			"type": "Verre, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_VE0638",
 			"idPointTri": "SH_TRI045",
-			"latitude": -1.63116139905,
-			"longitude": 47.2337082076,
+			"latitude": 47.2337082076,
+			"longitude": -1.63116139905,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Saulzaies St-Herblain",
 			"typeDechets": "Verre",
@@ -1453,8 +1452,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0648",
 			"idPointTri": "SH_TRI055",
-			"latitude": -1.65842511607,
-			"longitude": 47.2128284567,
+			"latitude": 47.2128284567,
+			"longitude": -1.65842511607,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Henri Radigois St-Herblain",
 			"typeDechets": "Verre",
@@ -1467,8 +1466,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0651",
 			"idPointTri": "SH_TRI057",
-			"latitude": -1.66431683474,
-			"longitude": 47.20387721,
+			"latitude": 47.20387721,
+			"longitude": -1.66431683474,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue d'Indre St-Herblain",
 			"typeDechets": "Verre",
@@ -1481,8 +1480,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0669",
 			"idPointTri": "SH_TRI072",
-			"latitude": -1.63786969077,
-			"longitude": 47.218977434,
+			"latitude": 47.218977434,
+			"longitude": -1.63786969077,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Suzanne Lenglen St-Herblain",
 			"typeDechets": "Verre",
@@ -1495,8 +1494,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0672",
 			"idPointTri": "SH_TRI074",
-			"latitude": -1.63276284893,
-			"longitude": 47.2261323704,
+			"latitude": 47.2261323704,
+			"longitude": -1.63276284893,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Océane (accès SAV et livraison) St-Herblain",
 			"typeDechets": "Verre",
@@ -1505,13 +1504,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0680",
 			"idPointTri": "SH_TRI004",
-			"latitude": -1.5882297891,
-			"longitude": 47.2381298344,
+			"latitude": 47.2381298344,
+			"longitude": -1.5882297891,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de la Baraudière St-Herblain",
 			"typeDechets": "Verre",
@@ -1520,13 +1519,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Emballage ménager"
+			"type": "Verre, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_VE0683",
 			"idPointTri": "SH_TRI095",
-			"latitude": -1.6028206436,
-			"longitude": 47.2434574136,
+			"latitude": 47.2434574136,
+			"longitude": -1.6028206436,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de Cheverny St-Herblain",
 			"typeDechets": "Verre",
@@ -1539,8 +1538,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0703",
 			"idPointTri": "SH_TRI036",
-			"latitude": -1.61076701089,
-			"longitude": 47.2451215561,
+			"latitude": 47.2451215561,
+			"longitude": -1.61076701089,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de l'Angevinière St-Herblain",
 			"typeDechets": "Verre",
@@ -1549,13 +1548,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Emballage ménager"
+			"type": "Verre, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_VE0709",
 			"idPointTri": "SH_TRI107",
-			"latitude": -1.59880935357,
-			"longitude": 47.2290774863,
+			"latitude": 47.2290774863,
+			"longitude": -1.59880935357,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Guy Mocquet St-Herblain",
 			"typeDechets": "Verre",
@@ -1568,8 +1567,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0716",
 			"idPointTri": "SH_TRI014",
-			"latitude": -1.61446286525,
-			"longitude": 47.2212402204,
+			"latitude": 47.2212402204,
+			"longitude": -1.61446286525,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée Louise Michel St-Herblain",
 			"typeDechets": "Verre",
@@ -1578,13 +1577,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Emballage ménager"
+			"type": "Verre, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_VE0719",
 			"idPointTri": "SH_TRI112",
-			"latitude": -1.6217833476,
-			"longitude": 47.21765595,
+			"latitude": 47.21765595,
+			"longitude": -1.6217833476,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Porte d'Atlantis St-Herblain",
 			"typeDechets": "Verre",
@@ -1597,8 +1596,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0734",
 			"idPointTri": "JB_TRI006",
-			"latitude": -1.73716379688,
-			"longitude": 47.1972092843,
+			"latitude": 47.1972092843,
+			"longitude": -1.73716379688,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Ouche Jacquet Saint-Jean-de-Boiseau",
 			"typeDechets": "Verre",
@@ -1611,8 +1610,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0741",
 			"idPointTri": "JB_TRI013",
-			"latitude": -1.69861232575,
-			"longitude": 47.1887175959,
+			"latitude": 47.1887175959,
+			"longitude": -1.69861232575,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Hommeau Saint-Jean-de-Boiseau",
 			"typeDechets": "Verre",
@@ -1625,8 +1624,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0750",
 			"idPointTri": "SS_TRI007",
-			"latitude": -1.50066693386,
-			"longitude": 47.1990535082,
+			"latitude": 47.1990535082,
+			"longitude": -1.50066693386,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Cèdres Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -1639,8 +1638,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0755",
 			"idPointTri": "SS_TRI012",
-			"latitude": -1.49039819057,
-			"longitude": 47.195310909,
+			"latitude": 47.195310909,
+			"longitude": -1.49039819057,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Gripôts Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -1653,8 +1652,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0766",
 			"idPointTri": "SS_TRI020",
-			"latitude": -1.48129125004,
-			"longitude": 47.1905817081,
+			"latitude": 47.1905817081,
+			"longitude": -1.48129125004,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Noë Cottée Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -1667,8 +1666,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0767",
 			"idPointTri": "SS_TRI021",
-			"latitude": -1.49420226996,
-			"longitude": 47.2110905466,
+			"latitude": 47.2110905466,
+			"longitude": -1.49420226996,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Savarière Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -1681,8 +1680,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0782",
 			"idPointTri": "SS_TRI033",
-			"latitude": -1.51768388665,
-			"longitude": 47.193459361,
+			"latitude": 47.193459361,
+			"longitude": -1.51768388665,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Alfred Radigois Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -1691,13 +1690,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0785",
 			"idPointTri": "SS_TRI036",
-			"latitude": -1.50567280792,
-			"longitude": 47.1947396528,
+			"latitude": 47.1947396528,
+			"longitude": -1.50567280792,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Plume Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -1710,8 +1709,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0788",
 			"idPointTri": "SS_TRI039",
-			"latitude": -1.50798873398,
-			"longitude": 47.1966962092,
+			"latitude": 47.1966962092,
+			"longitude": -1.50798873398,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Pâquerettes Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -1724,8 +1723,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0792",
 			"idPointTri": "SS_TRI043",
-			"latitude": -1.51132997551,
-			"longitude": 47.203373329,
+			"latitude": 47.203373329,
+			"longitude": -1.51132997551,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Métairie Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -1738,8 +1737,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0814",
 			"idPointTri": "SS_TRI004",
-			"latitude": -1.52024000906,
-			"longitude": 47.1997734976,
+			"latitude": 47.1997734976,
+			"longitude": -1.52024000906,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Libération Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -1748,13 +1747,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0823",
 			"idPointTri": "SL_TRI002",
-			"latitude": -1.48416119,
-			"longitude": 47.2450112869,
+			"latitude": 47.2450112869,
+			"longitude": -1.48416119,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Loire Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -1763,13 +1762,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0842",
 			"idPointTri": "TH_TRI006",
-			"latitude": -1.44585171383,
-			"longitude": 47.2728213792,
+			"latitude": 47.2728213792,
+			"longitude": -1.44585171383,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "rue de beaulieu Thouaré-sur-Loire",
 			"typeDechets": "Verre",
@@ -1778,13 +1777,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0844",
 			"idPointTri": "TH_TRI001",
-			"latitude": -1.45178021719,
-			"longitude": 47.2625234294,
+			"latitude": 47.2625234294,
+			"longitude": -1.45178021719,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue du Parc des Sports Thouaré-sur-Loire",
 			"typeDechets": "Verre",
@@ -1793,13 +1792,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0851",
 			"idPointTri": "VE_TRI009",
-			"latitude": -1.45396817882,
-			"longitude": 47.1819723658,
+			"latitude": 47.1819723658,
+			"longitude": -1.45396817882,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Puits Vertou",
 			"typeDechets": "Verre",
@@ -1812,8 +1811,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0861",
 			"idPointTri": "VE_TRI004",
-			"latitude": -1.47020100324,
-			"longitude": 47.1702818066,
+			"latitude": 47.1702818066,
+			"longitude": -1.47020100324,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place du Marché Vertou",
 			"typeDechets": "Verre",
@@ -1822,13 +1821,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0863",
 			"idPointTri": "VE_TRI019",
-			"latitude": -1.47514434881,
-			"longitude": 47.1725565832,
+			"latitude": 47.1725565832,
+			"longitude": -1.47514434881,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard de l'Europe Vertou",
 			"typeDechets": "Verre",
@@ -1841,8 +1840,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0876",
 			"idPointTri": "VE_TRI027",
-			"latitude": -1.46909067627,
-			"longitude": 47.164813583,
+			"latitude": 47.164813583,
+			"longitude": -1.46909067627,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Sèvre et Maine Vertou",
 			"typeDechets": "Verre",
@@ -1855,8 +1854,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0881",
 			"idPointTri": "VE_TRI008",
-			"latitude": -1.46629948627,
-			"longitude": 47.1373491325,
+			"latitude": 47.1373491325,
+			"longitude": -1.46629948627,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place des Reigniers Vertou",
 			"typeDechets": "Verre",
@@ -1865,13 +1864,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0884",
 			"idPointTri": "VE_TRI006",
-			"latitude": -1.48177399049,
-			"longitude": 47.1595099801,
+			"latitude": 47.1595099801,
+			"longitude": -1.48177399049,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Auguste Garnier Vertou",
 			"typeDechets": "Verre",
@@ -1884,8 +1883,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0889",
 			"idPointTri": "VE_TRI037",
-			"latitude": -1.49651672783,
-			"longitude": 47.1649678744,
+			"latitude": 47.1649678744,
+			"longitude": -1.49651672783,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Chintière Vertou",
 			"typeDechets": "Verre",
@@ -1898,8 +1897,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0893",
 			"idPointTri": "VE_TRI041",
-			"latitude": -1.51933094424,
-			"longitude": 47.1743352056,
+			"latitude": 47.1743352056,
+			"longitude": -1.51933094424,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Ajoncs Vertou",
 			"typeDechets": "Verre",
@@ -1912,8 +1911,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0894",
 			"idPointTri": "VE_TRI042",
-			"latitude": -1.50150088204,
-			"longitude": 47.1771554027,
+			"latitude": 47.1771554027,
+			"longitude": -1.50150088204,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route du Mortier Vannerie Vertou",
 			"typeDechets": "Verre",
@@ -1926,8 +1925,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0896",
 			"idPointTri": "VE_TRI044",
-			"latitude": -1.51530818301,
-			"longitude": 47.1823863394,
+			"latitude": 47.1823863394,
+			"longitude": -1.51530818301,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de Nantes Vertou",
 			"typeDechets": "Verre",
@@ -1940,8 +1939,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0899",
 			"idPointTri": "VE_TRI045",
-			"latitude": -1.51243538412,
-			"longitude": 47.1853736604,
+			"latitude": 47.1853736604,
+			"longitude": -1.51243538412,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Henri Sauvage Vertou",
 			"typeDechets": "Verre",
@@ -1954,8 +1953,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0901",
 			"idPointTri": "VE_TRI047",
-			"latitude": -1.50739469622,
-			"longitude": 47.1820367015,
+			"latitude": 47.1820367015,
+			"longitude": -1.50739469622,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Grand' Maison Vertou",
 			"typeDechets": "Verre",
@@ -1968,8 +1967,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0910",
 			"idPointTri": "VE_TRI001",
-			"latitude": -1.46060483716,
-			"longitude": 47.1786469373,
+			"latitude": 47.1786469373,
+			"longitude": -1.46060483716,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée des Cadets Vertou",
 			"typeDechets": "Verre",
@@ -1978,13 +1977,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0911",
 			"idPointTri": "RE_TRI063",
-			"latitude": -1.52649955254,
-			"longitude": 47.1803998006,
+			"latitude": 47.1803998006,
+			"longitude": -1.52649955254,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin Bleu Rezé",
 			"typeDechets": "Verre",
@@ -1997,8 +1996,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0924",
 			"idPointTri": "JB_TRI012",
-			"latitude": -1.69720035468,
-			"longitude": 47.1832995802,
+			"latitude": 47.1832995802,
+			"longitude": -1.69720035468,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Bel-Air Saint-Jean-de-Boiseau",
 			"typeDechets": "Verre",
@@ -2011,8 +2010,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0928",
 			"idPointTri": "RE_TRI045",
-			"latitude": -1.57280035009,
-			"longitude": 47.1802999939,
+			"latitude": 47.1802999939,
+			"longitude": -1.57280035009,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Trocardière Rezé",
 			"typeDechets": "Verre",
@@ -2021,13 +2020,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0932",
 			"idPointTri": "NA_TRI094",
-			"latitude": -1.55413543234,
-			"longitude": 47.2054697906,
+			"latitude": 47.2054697906,
+			"longitude": -1.55413543234,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place de la République Nantes",
 			"typeDechets": "Verre",
@@ -2036,13 +2035,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0937",
 			"idPointTri": "BG_TRI021",
-			"latitude": -1.45209931024,
-			"longitude": 47.2202001838,
+			"latitude": 47.2202001838,
+			"longitude": -1.45209931024,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Ile Chaland Basse-Goulaine",
 			"typeDechets": "Verre",
@@ -2055,8 +2054,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0952",
 			"idPointTri": "SO_TRI019",
-			"latitude": -1.52039948467,
-			"longitude": 47.1544408722,
+			"latitude": 47.1544408722,
+			"longitude": -1.52039948467,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Moulin Les Sorinières",
 			"typeDechets": "Verre",
@@ -2068,23 +2067,23 @@ var _containersDatas = [
 		},
 		{
 			"code": "stco_conteneur_OM0001",
-			"latitude": -1.50248254754,
-			"longitude": 47.2986404344,
+			"latitude": 47.2986404344,
+			"longitude": -1.50248254754,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue du Professeur Jean Rouxel Carquefou",
 			"typeDechets": "Ordure ménagère",
-			"cartePopupText": "Conteneur Ordure ménagère, Verre, Ordure ménagère, Déchet sec, Ordure ménagère, Déchet sec, Verre, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Déchet sec, Trisac, Déchet sec, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Verre, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Ordure ménagère, Verre, Trisac, Trisac, Déchet sec, Trisac, Trisac, Verre, Verre, Verre, Trisac, Carton, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Déchet sec, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Ordure ménagère, Déchet sec, Déchet sec, Déchet sec, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Verre, Déchet sec, Trisac, Déchet sec, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Déchet sec, Verre, Trisac, Trisac, Trisac, Verre, Déchet sec, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Déchet sec, Trisac, Trisac, Trisac, Carton, Déchet sec, Ordure ménagère, Verre, Déchet sec, Trisac, Verre, Trisac, Ordure ménagère, Déchet sec, Déchet sec, Verre, Verre, Trisac, Trisac, Verre, Verre, Verre, Carton, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Verre, Ordure ménagère, Verre, Déchet sec, Déchet sec, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Verre, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Verre, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Verre, Carton, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Verre, Trisac, Verre, Trisac, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Verre, Trisac, Déchet sec, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Déchet sec, Déchet sec, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Ordure ménagère, Verre, Ordure ménagère, Ordure ménagère, Verre, Trisac, Déchet sec, Déchet sec, Déchet sec, Verre, Ordure ménagère, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Verre, Trisac, Déchet sec, Déchet sec, Verre, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Déchet sec, Trisac, Trisac, Déchet sec, Carton, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Déchet sec, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Verre, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Déchet sec, Verre, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Verre, Verre, Trisac, Verre, Trisac, Trisac, Verre, Ordure ménagère, Ordure ménagère, Verre, Déchet sec, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Verre, Verre, Déchet sec, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Verre, Trisac, Ordure ménagère, Verre, Ordure ménagère, Verre, Déchet sec, Déchet sec, Ordure ménagère, Déchet sec, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Ordure ménagère, Verre, Verre, Verre, Verre, Ordure ménagère, Déchet sec, Trisac, Déchet sec, Déchet sec, Déchet sec, Déchet sec, Trisac, Trisac, Verre, Trisac, Verre, Carton, Trisac, Déchet sec, Verre, Verre, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Verre, Verre, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Déchet sec, Trisac, Ordure ménagère, Verre, Ordure ménagère, Ordure ménagère, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Verre, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Déchet sec, Trisac, Trisac, Verre, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Déchet sec, Verre, Trisac, Verre, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Ordure ménagère, Trisac, Trisac, Déchet sec, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Déchet sec, Déchet sec, Déchet sec, Trisac, Trisac, Ordure ménagère, Verre, Déchet sec, Trisac, Verre, Déchet sec, Trisac, Verre, Déchet sec, Trisac, Verre, Verre, Trisac, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Déchet sec, Carton, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Trisac, Verre, Trisac, Verre, Trisac, Ordure ménagère, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Carton, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Verre, Trisac, Verre, Déchet sec, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Trisac, Papier-carton, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Verre, Verre, Trisac, Déchet sec, Trisac, Ordure ménagère, Verre, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Verre, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Verre, Déchet sec, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Déchet sec, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Déchet sec, Ordure ménagère, Verre, Trisac, Verre, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Déchet sec, Carton, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Déchet sec, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Ordure ménagère, Verre, Trisac, Ordure ménagère, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Déchet sec, Trisac, Trisac, Ordure ménagère, Verre, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Ordure ménagère, Trisac, Déchet sec, Verre, Trisac, Ordure ménagère, Déchet sec, Déchet sec, Verre, Ordure ménagère, Ordure ménagère, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Carton, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Déchet sec, Trisac, Trisac, Déchet sec, Verre, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Verre, Verre, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Verre, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Verre<br/><i>OpenDataNantes - 11/2020</i>",
-			"cartePopupText_en": "Container Ordure ménagère, Verre, Ordure ménagère, Déchet sec, Ordure ménagère, Déchet sec, Verre, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Déchet sec, Trisac, Déchet sec, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Verre, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Ordure ménagère, Verre, Trisac, Trisac, Déchet sec, Trisac, Trisac, Verre, Verre, Verre, Trisac, Carton, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Déchet sec, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Ordure ménagère, Déchet sec, Déchet sec, Déchet sec, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Verre, Déchet sec, Trisac, Déchet sec, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Déchet sec, Verre, Trisac, Trisac, Trisac, Verre, Déchet sec, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Déchet sec, Trisac, Trisac, Trisac, Carton, Déchet sec, Ordure ménagère, Verre, Déchet sec, Trisac, Verre, Trisac, Ordure ménagère, Déchet sec, Déchet sec, Verre, Verre, Trisac, Trisac, Verre, Verre, Verre, Carton, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Verre, Ordure ménagère, Verre, Déchet sec, Déchet sec, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Verre, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Verre, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Verre, Carton, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Verre, Trisac, Verre, Trisac, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Verre, Trisac, Déchet sec, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Déchet sec, Déchet sec, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Ordure ménagère, Verre, Ordure ménagère, Ordure ménagère, Verre, Trisac, Déchet sec, Déchet sec, Déchet sec, Verre, Ordure ménagère, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Verre, Trisac, Déchet sec, Déchet sec, Verre, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Déchet sec, Trisac, Trisac, Déchet sec, Carton, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Déchet sec, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Verre, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Déchet sec, Verre, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Verre, Verre, Trisac, Verre, Trisac, Trisac, Verre, Ordure ménagère, Ordure ménagère, Verre, Déchet sec, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Verre, Verre, Déchet sec, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Verre, Trisac, Ordure ménagère, Verre, Ordure ménagère, Verre, Déchet sec, Déchet sec, Ordure ménagère, Déchet sec, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Ordure ménagère, Verre, Verre, Verre, Verre, Ordure ménagère, Déchet sec, Trisac, Déchet sec, Déchet sec, Déchet sec, Déchet sec, Trisac, Trisac, Verre, Trisac, Verre, Carton, Trisac, Déchet sec, Verre, Verre, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Verre, Verre, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Déchet sec, Trisac, Ordure ménagère, Verre, Ordure ménagère, Ordure ménagère, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Verre, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Déchet sec, Trisac, Trisac, Verre, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Déchet sec, Verre, Trisac, Verre, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Ordure ménagère, Trisac, Trisac, Déchet sec, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Déchet sec, Déchet sec, Déchet sec, Trisac, Trisac, Ordure ménagère, Verre, Déchet sec, Trisac, Verre, Déchet sec, Trisac, Verre, Déchet sec, Trisac, Verre, Verre, Trisac, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Déchet sec, Carton, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Trisac, Verre, Trisac, Verre, Trisac, Ordure ménagère, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Carton, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Verre, Trisac, Verre, Déchet sec, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Trisac, Papier-carton, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Verre, Verre, Trisac, Déchet sec, Trisac, Ordure ménagère, Verre, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Verre, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Verre, Déchet sec, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Déchet sec, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Déchet sec, Ordure ménagère, Verre, Trisac, Verre, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Déchet sec, Carton, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Déchet sec, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Ordure ménagère, Verre, Trisac, Ordure ménagère, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Déchet sec, Trisac, Trisac, Ordure ménagère, Verre, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Ordure ménagère, Trisac, Déchet sec, Verre, Trisac, Ordure ménagère, Déchet sec, Déchet sec, Verre, Ordure ménagère, Ordure ménagère, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Carton, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Déchet sec, Trisac, Trisac, Déchet sec, Verre, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Verre, Verre, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Verre, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Verre<br/><i>OpenDataNantes - 11/2020</i>",
+			"cartePopupText": "Conteneur Ordure ménagère, Verre, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Déchet sec, Verre, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Verre, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Trisac, Ordure ménagère, Verre, Trisac, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Verre, Verre, Déchet sec, Trisac, Verre, Trisac, Trisac, Ordure ménagère, Trisac, Carton, Verre, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Verre, Carton, Trisac, Déchet sec, Trisac, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Verre, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Carton, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Carton, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Déchet sec, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Verre, Déchet sec, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Déchet sec, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Verre, Trisac, Déchet sec, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Verre, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Verre, Déchet sec, Ordure ménagère, Verre, Ordure ménagère, Déchet sec, Ordure ménagère, Ordure ménagère, Déchet sec, Trisac, Verre, Ordure ménagère, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac, Ordure ménagère, Déchet sec, Trisac, Déchet sec, Verre, Verre, Trisac, Déchet sec, Ordure ménagère, Déchet sec, Trisac, Trisac, Verre, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Carton, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Déchet sec, Verre, Trisac, Ordure ménagère, Verre, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Trisac, Verre, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Verre, Trisac, Déchet sec, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Déchet sec, Trisac, Déchet sec, Trisac, Verre, Verre, Verre, Déchet sec, Trisac, Verre, Trisac, Verre, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Trisac, Verre, Verre, Trisac, Verre, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Déchet sec, Verre, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Verre, Trisac, Déchet sec, Ordure ménagère, Carton, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Verre, Trisac, Verre, Verre, Verre, Trisac, Verre, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Déchet sec, Ordure ménagère, Verre, Déchet sec, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Trisac, Déchet sec, Déchet sec, Déchet sec, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Verre, Déchet sec, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Ordure ménagère, Verre, Déchet sec, Verre, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Ordure ménagère, Verre, Trisac, Verre, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Déchet sec, Trisac, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Déchet sec, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Verre, Verre, Trisac, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Papier-carton, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Verre, Déchet sec, Ordure ménagère, Verre, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Verre, Déchet sec, Ordure ménagère, Verre, Trisac, Ordure ménagère, Verre, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac, Verre, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Verre, Carton, Ordure ménagère, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Déchet sec, Trisac, Verre, Trisac, Déchet sec, Verre, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Déchet sec, Verre, Carton, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Déchet sec, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Verre, Déchet sec, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Déchet sec, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Déchet sec, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac, Verre, Trisac, Verre, Déchet sec, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Déchet sec, Verre, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Déchet sec, Verre, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Verre, Trisac, Déchet sec, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Carton, Ordure ménagère, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Déchet sec, Trisac, Ordure ménagère, Verre, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Ordure ménagère, Verre, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Verre, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Déchet sec, Déchet sec, Trisac, Trisac, Ordure ménagère, Verre, Déchet sec, Ordure ménagère, Déchet sec, Ordure ménagère, Déchet sec, Ordure ménagère, Déchet sec, Ordure ménagère, Verre, Verre, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Déchet sec, Verre, Déchet sec, Trisac, Trisac, Déchet sec, Verre, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Déchet sec, Déchet sec, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Déchet sec, Déchet sec, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Ordure ménagère, Trisac, Déchet sec, Trisac, Trisac, Carton, Trisac, Trisac, Ordure ménagère, Déchet sec, Trisac, Trisac, Déchet sec, Trisac, Trisac, Déchet sec, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Verre, Ordure ménagère, Déchet sec, Déchet sec, Trisac, Trisac, Ordure ménagère, Déchet sec, Verre, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Verre, Verre, Déchet sec, Déchet sec, Trisac, Trisac, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Déchet sec, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Verre, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Verre, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Verre, Déchet sec, Déchet sec, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac<br/><i>OpenDataNantes - 11/2020</i>",
+			"cartePopupText_en": "Container Ordure ménagère, Verre, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Déchet sec, Verre, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Verre, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Trisac, Ordure ménagère, Verre, Trisac, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Verre, Verre, Déchet sec, Trisac, Verre, Trisac, Trisac, Ordure ménagère, Trisac, Carton, Verre, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Verre, Carton, Trisac, Déchet sec, Trisac, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Verre, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Carton, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Carton, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Déchet sec, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Verre, Déchet sec, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Déchet sec, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Verre, Trisac, Déchet sec, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Verre, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Verre, Déchet sec, Ordure ménagère, Verre, Ordure ménagère, Déchet sec, Ordure ménagère, Ordure ménagère, Déchet sec, Trisac, Verre, Ordure ménagère, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac, Ordure ménagère, Déchet sec, Trisac, Déchet sec, Verre, Verre, Trisac, Déchet sec, Ordure ménagère, Déchet sec, Trisac, Trisac, Verre, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Carton, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Déchet sec, Verre, Trisac, Ordure ménagère, Verre, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Trisac, Verre, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Verre, Trisac, Déchet sec, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Déchet sec, Trisac, Déchet sec, Trisac, Verre, Verre, Verre, Déchet sec, Trisac, Verre, Trisac, Verre, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Trisac, Verre, Verre, Trisac, Verre, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Déchet sec, Verre, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Verre, Trisac, Déchet sec, Ordure ménagère, Carton, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Verre, Trisac, Verre, Verre, Verre, Trisac, Verre, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Déchet sec, Ordure ménagère, Verre, Déchet sec, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Trisac, Déchet sec, Déchet sec, Déchet sec, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Verre, Déchet sec, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Ordure ménagère, Verre, Déchet sec, Verre, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Ordure ménagère, Verre, Trisac, Verre, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Déchet sec, Trisac, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Déchet sec, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Verre, Verre, Trisac, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Papier-carton, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Verre, Déchet sec, Ordure ménagère, Verre, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Verre, Déchet sec, Ordure ménagère, Verre, Trisac, Ordure ménagère, Verre, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac, Verre, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Verre, Carton, Ordure ménagère, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Déchet sec, Trisac, Verre, Trisac, Déchet sec, Verre, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Déchet sec, Verre, Carton, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Déchet sec, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Verre, Déchet sec, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Déchet sec, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Déchet sec, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac, Verre, Trisac, Verre, Déchet sec, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Déchet sec, Verre, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Déchet sec, Verre, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Verre, Trisac, Déchet sec, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Carton, Ordure ménagère, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Déchet sec, Trisac, Ordure ménagère, Verre, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Ordure ménagère, Verre, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Verre, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Déchet sec, Déchet sec, Trisac, Trisac, Ordure ménagère, Verre, Déchet sec, Ordure ménagère, Déchet sec, Ordure ménagère, Déchet sec, Ordure ménagère, Déchet sec, Ordure ménagère, Verre, Verre, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Déchet sec, Verre, Déchet sec, Trisac, Trisac, Déchet sec, Verre, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Déchet sec, Déchet sec, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Déchet sec, Déchet sec, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Ordure ménagère, Trisac, Déchet sec, Trisac, Trisac, Carton, Trisac, Trisac, Ordure ménagère, Déchet sec, Trisac, Trisac, Déchet sec, Trisac, Trisac, Déchet sec, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Verre, Ordure ménagère, Déchet sec, Déchet sec, Trisac, Trisac, Ordure ménagère, Déchet sec, Verre, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Verre, Verre, Déchet sec, Déchet sec, Trisac, Trisac, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Déchet sec, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Verre, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Verre, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Verre, Déchet sec, Déchet sec, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac<br/><i>OpenDataNantes - 11/2020</i>",
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Ordure ménagère, Verre, Ordure ménagère, Déchet sec, Ordure ménagère, Déchet sec, Verre, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Déchet sec, Trisac, Déchet sec, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Verre, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Ordure ménagère, Verre, Trisac, Trisac, Déchet sec, Trisac, Trisac, Verre, Verre, Verre, Trisac, Carton, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Déchet sec, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Ordure ménagère, Déchet sec, Déchet sec, Déchet sec, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Verre, Déchet sec, Trisac, Déchet sec, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Déchet sec, Verre, Trisac, Trisac, Trisac, Verre, Déchet sec, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Déchet sec, Trisac, Trisac, Trisac, Carton, Déchet sec, Ordure ménagère, Verre, Déchet sec, Trisac, Verre, Trisac, Ordure ménagère, Déchet sec, Déchet sec, Verre, Verre, Trisac, Trisac, Verre, Verre, Verre, Carton, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Verre, Ordure ménagère, Verre, Déchet sec, Déchet sec, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Verre, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Verre, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Verre, Carton, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Verre, Trisac, Verre, Trisac, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Verre, Trisac, Déchet sec, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Déchet sec, Déchet sec, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Ordure ménagère, Verre, Ordure ménagère, Ordure ménagère, Verre, Trisac, Déchet sec, Déchet sec, Déchet sec, Verre, Ordure ménagère, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Verre, Trisac, Déchet sec, Déchet sec, Verre, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Déchet sec, Trisac, Trisac, Déchet sec, Carton, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Déchet sec, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Verre, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Déchet sec, Verre, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Verre, Verre, Trisac, Verre, Trisac, Trisac, Verre, Ordure ménagère, Ordure ménagère, Verre, Déchet sec, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Verre, Verre, Déchet sec, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Verre, Trisac, Ordure ménagère, Verre, Ordure ménagère, Verre, Déchet sec, Déchet sec, Ordure ménagère, Déchet sec, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Ordure ménagère, Verre, Verre, Verre, Verre, Ordure ménagère, Déchet sec, Trisac, Déchet sec, Déchet sec, Déchet sec, Déchet sec, Trisac, Trisac, Verre, Trisac, Verre, Carton, Trisac, Déchet sec, Verre, Verre, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Verre, Verre, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Déchet sec, Trisac, Ordure ménagère, Verre, Ordure ménagère, Ordure ménagère, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Verre, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Déchet sec, Trisac, Trisac, Verre, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Déchet sec, Verre, Trisac, Verre, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Ordure ménagère, Trisac, Trisac, Déchet sec, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Déchet sec, Déchet sec, Déchet sec, Trisac, Trisac, Ordure ménagère, Verre, Déchet sec, Trisac, Verre, Déchet sec, Trisac, Verre, Déchet sec, Trisac, Verre, Verre, Trisac, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Déchet sec, Carton, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Trisac, Verre, Trisac, Verre, Trisac, Ordure ménagère, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Carton, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Verre, Trisac, Verre, Déchet sec, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Trisac, Papier-carton, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Verre, Verre, Trisac, Déchet sec, Trisac, Ordure ménagère, Verre, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Verre, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Verre, Déchet sec, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Déchet sec, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Déchet sec, Ordure ménagère, Verre, Trisac, Verre, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Déchet sec, Carton, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Déchet sec, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Ordure ménagère, Verre, Trisac, Ordure ménagère, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Déchet sec, Trisac, Trisac, Ordure ménagère, Verre, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Ordure ménagère, Trisac, Déchet sec, Verre, Trisac, Ordure ménagère, Déchet sec, Déchet sec, Verre, Ordure ménagère, Ordure ménagère, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Carton, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Déchet sec, Trisac, Trisac, Déchet sec, Verre, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Verre, Verre, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Verre, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Verre"
+			"type": "Ordure ménagère, Verre, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Déchet sec, Verre, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Verre, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Trisac, Ordure ménagère, Verre, Trisac, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Verre, Verre, Déchet sec, Trisac, Verre, Trisac, Trisac, Ordure ménagère, Trisac, Carton, Verre, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Verre, Carton, Trisac, Déchet sec, Trisac, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Verre, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Carton, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Carton, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Déchet sec, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Verre, Déchet sec, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Déchet sec, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Verre, Trisac, Déchet sec, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Verre, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Verre, Déchet sec, Ordure ménagère, Verre, Ordure ménagère, Déchet sec, Ordure ménagère, Ordure ménagère, Déchet sec, Trisac, Verre, Ordure ménagère, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac, Ordure ménagère, Déchet sec, Trisac, Déchet sec, Verre, Verre, Trisac, Déchet sec, Ordure ménagère, Déchet sec, Trisac, Trisac, Verre, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Carton, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Déchet sec, Verre, Trisac, Ordure ménagère, Verre, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Trisac, Verre, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Verre, Trisac, Déchet sec, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Déchet sec, Trisac, Déchet sec, Trisac, Verre, Verre, Verre, Déchet sec, Trisac, Verre, Trisac, Verre, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Trisac, Verre, Verre, Trisac, Verre, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Verre, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Déchet sec, Verre, Trisac, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Verre, Trisac, Déchet sec, Ordure ménagère, Carton, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Verre, Trisac, Verre, Verre, Verre, Trisac, Verre, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Déchet sec, Ordure ménagère, Verre, Déchet sec, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Trisac, Déchet sec, Déchet sec, Déchet sec, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Verre, Déchet sec, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Ordure ménagère, Verre, Déchet sec, Verre, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Verre, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Ordure ménagère, Verre, Trisac, Verre, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Déchet sec, Trisac, Ordure ménagère, Déchet sec, Trisac, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Déchet sec, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Verre, Verre, Trisac, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Papier-carton, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Verre, Déchet sec, Ordure ménagère, Verre, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Verre, Déchet sec, Ordure ménagère, Verre, Trisac, Ordure ménagère, Verre, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac, Verre, Trisac, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Verre, Carton, Ordure ménagère, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Déchet sec, Trisac, Verre, Trisac, Déchet sec, Verre, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Déchet sec, Verre, Carton, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Déchet sec, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Déchet sec, Déchet sec, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Verre, Déchet sec, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Déchet sec, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Déchet sec, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Déchet sec, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac, Verre, Trisac, Verre, Déchet sec, Ordure ménagère, Déchet sec, Déchet sec, Ordure ménagère, Déchet sec, Verre, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Déchet sec, Verre, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Verre, Trisac, Déchet sec, Déchet sec, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Carton, Ordure ménagère, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Déchet sec, Trisac, Ordure ménagère, Verre, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Ordure ménagère, Verre, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Verre, Trisac, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Déchet sec, Déchet sec, Trisac, Trisac, Ordure ménagère, Verre, Déchet sec, Ordure ménagère, Déchet sec, Ordure ménagère, Déchet sec, Ordure ménagère, Déchet sec, Ordure ménagère, Verre, Verre, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Déchet sec, Verre, Déchet sec, Trisac, Trisac, Déchet sec, Verre, Trisac, Ordure ménagère, Trisac, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Verre, Trisac, Ordure ménagère, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Déchet sec, Ordure ménagère, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Déchet sec, Déchet sec, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Déchet sec, Déchet sec, Verre, Verre, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Ordure ménagère, Trisac, Déchet sec, Trisac, Trisac, Carton, Trisac, Trisac, Ordure ménagère, Déchet sec, Trisac, Trisac, Déchet sec, Trisac, Trisac, Déchet sec, Trisac, Trisac, Déchet sec, Verre, Trisac, Trisac, Verre, Ordure ménagère, Déchet sec, Déchet sec, Trisac, Trisac, Ordure ménagère, Déchet sec, Verre, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Verre, Verre, Déchet sec, Déchet sec, Trisac, Trisac, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Déchet sec, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Verre, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Verre, Déchet sec, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Ordure ménagère, Ordure ménagère, Trisac, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Verre, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Verre, Ordure ménagère, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Déchet sec, Ordure ménagère, Trisac, Déchet sec, Déchet sec, Trisac, Trisac, Trisac, Verre, Trisac, Trisac, Trisac, Ordure ménagère, Ordure ménagère, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Trisac, Trisac, Trisac, Verre, Déchet sec, Déchet sec, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Verre, Trisac, Trisac, Trisac, Trisac, Trisac, Trisac, Déchet sec, Ordure ménagère, Ordure ménagère, Trisac"
 		},
 		{
 			"code": "stco_conteneur_DS0001",
 			"idPointTri": "IN_TRI003",
-			"latitude": -1.67219811428,
-			"longitude": 47.2008180354,
+			"latitude": 47.2008180354,
+			"longitude": -1.67219811428,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Stade Indre",
 			"typeDechets": "Emballage ménager",
@@ -2093,13 +2092,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0024",
 			"idPointTri": "SH_TRI078",
-			"latitude": -1.60187203331,
-			"longitude": 47.2391351609,
+			"latitude": 47.2391351609,
+			"longitude": -1.60187203331,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée Claude Debussy St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -2112,8 +2111,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_DS0025",
 			"idPointTri": "SH_TRI079",
-			"latitude": -1.60217405026,
-			"longitude": 47.2350260984,
+			"latitude": 47.2350260984,
+			"longitude": -1.60217405026,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard du Val de Chézine St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -2126,8 +2125,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_DS0031",
 			"idPointTri": "SH_TRI003",
-			"latitude": -1.60682773576,
-			"longitude": 47.2436506711,
+			"latitude": 47.2436506711,
+			"longitude": -1.60682773576,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue des Thébaudières St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -2136,13 +2135,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Emballage ménager"
+			"type": "Emballage ménager, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_DS0037",
 			"idPointTri": "SH_TRI031",
-			"latitude": -1.61733295167,
-			"longitude": 47.2304208636,
+			"latitude": 47.2304208636,
+			"longitude": -1.61733295167,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue François Rabelais St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -2151,13 +2150,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0043",
 			"idPointTri": "SH_TRI018",
-			"latitude": -1.61070689924,
-			"longitude": 47.2125604121,
+			"latitude": 47.2125604121,
+			"longitude": -1.61070689924,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Mayenne St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -2170,8 +2169,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_DS0051",
 			"idPointTri": "SH_TRI012",
-			"latitude": -1.61802334888,
-			"longitude": 47.2128493045,
+			"latitude": 47.2128493045,
+			"longitude": -1.61802334888,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Morlaix St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -2180,13 +2179,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0055",
 			"idPointTri": "SH_TRI038",
-			"latitude": -1.6125043496,
-			"longitude": 47.2131324412,
+			"latitude": 47.2131324412,
+			"longitude": -1.6125043496,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Mayenne St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -2195,13 +2194,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0069",
 			"idPointTri": "SH_TRI005",
-			"latitude": -1.65060678329,
-			"longitude": 47.2129640069,
+			"latitude": 47.2129640069,
+			"longitude": -1.65060678329,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Frères Kuron St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -2210,13 +2209,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0008",
 			"idPointTri": "NA_TRI017",
-			"latitude": -1.5756607324,
-			"longitude": 47.2579441048,
+			"latitude": 47.2579441048,
+			"longitude": -1.5756607324,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue d'Ottawa Nantes",
 			"typeDechets": "Papier-carton",
@@ -2225,13 +2224,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Plastique"
+			"type": "Papier-carton, Plastique"
 		},
 		{
 			"code": "stco_conteneur_PC0009",
 			"idPointTri": "NA_TRI078",
-			"latitude": -1.57339170794,
-			"longitude": 47.2302487463,
+			"latitude": 47.2302487463,
+			"longitude": -1.57339170794,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Jean XXIII Nantes",
 			"typeDechets": "Papier-carton",
@@ -2240,13 +2239,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0012",
 			"idPointTri": "NA_TRI128",
-			"latitude": -1.59038794815,
-			"longitude": 47.2301705494,
+			"latitude": 47.2301705494,
+			"longitude": -1.59038794815,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Pierre de Coubertin Nantes",
 			"typeDechets": "Papier-carton",
@@ -2255,13 +2254,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0017",
 			"idPointTri": "NA_TRI007",
-			"latitude": -1.58514939701,
-			"longitude": 47.1984877052,
+			"latitude": 47.1984877052,
+			"longitude": -1.58514939701,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard de Cardiff Nantes",
 			"typeDechets": "Papier-carton",
@@ -2270,13 +2269,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0019",
 			"idPointTri": "NA_TRI087",
-			"latitude": -1.58491884592,
-			"longitude": 47.2392619948,
+			"latitude": 47.2392619948,
+			"longitude": -1.58491884592,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Guillaume Grootaers Nantes",
 			"typeDechets": "Papier-carton",
@@ -2285,13 +2284,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0022",
 			"idPointTri": "NA_TRI119",
-			"latitude": -1.56692171094,
-			"longitude": 47.2529672389,
+			"latitude": 47.2529672389,
+			"longitude": -1.56692171094,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Fantaisie Nantes",
 			"typeDechets": "Papier-carton",
@@ -2300,13 +2299,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0027",
 			"idPointTri": "NA_TRI070",
-			"latitude": -1.56469508926,
-			"longitude": 47.2634759129,
+			"latitude": 47.2634759129,
+			"longitude": -1.56469508926,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Geraudiere Nantes",
 			"typeDechets": "Papier-carton",
@@ -2315,13 +2314,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0039",
 			"idPointTri": "NA_TRI123",
-			"latitude": -1.52388111968,
-			"longitude": 47.2912043525,
+			"latitude": 47.2912043525,
+			"longitude": -1.52388111968,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de Gachet Nantes",
 			"typeDechets": "Papier-carton",
@@ -2330,13 +2329,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Plastique"
+			"type": "Papier-carton, Plastique"
 		},
 		{
 			"code": "stco_conteneur_PC0044",
 			"idPointTri": "NA_TRI038",
-			"latitude": -1.51783536426,
-			"longitude": 47.2585400265,
+			"latitude": 47.2585400265,
+			"longitude": -1.51783536426,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard de la Beaujoire Nantes",
 			"typeDechets": "Papier-carton",
@@ -2345,13 +2344,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0050",
 			"idPointTri": "NA_TRI088",
-			"latitude": -1.51360834588,
-			"longitude": 47.2506482289,
+			"latitude": 47.2506482289,
+			"longitude": -1.51360834588,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Perray Nantes",
 			"typeDechets": "Papier-carton",
@@ -2360,13 +2359,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0063",
 			"idPointTri": "NA_TRI083",
-			"latitude": -1.55562220214,
-			"longitude": 47.2433935277,
+			"latitude": 47.2433935277,
+			"longitude": -1.55562220214,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin de la Censive du Tertre Nantes",
 			"typeDechets": "Papier-carton",
@@ -2375,13 +2374,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0073",
 			"idPointTri": "NA_TRI132",
-			"latitude": -1.54471007166,
-			"longitude": 47.2110156785,
+			"latitude": 47.2110156785,
+			"longitude": -1.54471007166,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Belfort Nantes",
 			"typeDechets": "Papier-carton",
@@ -2390,13 +2389,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0076",
 			"idPointTri": "NA_TRI122",
-			"latitude": -1.60766821497,
-			"longitude": 47.2064883867,
+			"latitude": 47.2064883867,
+			"longitude": -1.60766821497,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Lucien Aubert Nantes",
 			"typeDechets": "Papier-carton",
@@ -2405,13 +2404,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0079",
 			"idPointTri": "NA_TRI106",
-			"latitude": -1.60401066678,
-			"longitude": 47.2031070404,
+			"latitude": 47.2031070404,
+			"longitude": -1.60401066678,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Jean Moulin Nantes",
 			"typeDechets": "Papier-carton",
@@ -2420,13 +2419,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Plastique"
+			"type": "Papier-carton, Plastique"
 		},
 		{
 			"code": "stco_conteneur_PC0091",
 			"idPointTri": "NA_TRI012",
-			"latitude": -1.5407357994,
-			"longitude": 47.251832117,
+			"latitude": 47.251832117,
+			"longitude": -1.5407357994,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Quai de la Jonelière Nantes",
 			"typeDechets": "Papier-carton",
@@ -2435,13 +2434,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Plastique"
+			"type": "Papier-carton, Plastique"
 		},
 		{
 			"code": "stco_conteneur_PC0099",
 			"idPointTri": "NA_TRI011",
-			"latitude": -1.53128805728,
-			"longitude": 47.1996312484,
+			"latitude": 47.1996312484,
+			"longitude": -1.53128805728,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de Saint Sébastien Nantes",
 			"typeDechets": "Papier-carton",
@@ -2450,13 +2449,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0105",
 			"idPointTri": "NA_TRI075",
-			"latitude": -1.53113277902,
-			"longitude": 47.2246614816,
+			"latitude": 47.2246614816,
+			"longitude": -1.53113277902,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "5 Rue d'Allonville Nantes",
 			"typeDechets": "Papier-carton",
@@ -2465,13 +2464,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PL0008",
 			"idPointTri": "NA_TRI006",
-			"latitude": -1.57859064627,
-			"longitude": 47.2635138906,
+			"latitude": 47.2635138906,
+			"longitude": -1.57859064627,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue d'Audierne Nantes",
 			"typeDechets": "Plastique",
@@ -2480,13 +2479,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Verre"
+			"type": "Plastique, Verre"
 		},
 		{
 			"code": "stco_conteneur_PL0020",
 			"idPointTri": "NA_TRI143",
-			"latitude": -1.58782154924,
-			"longitude": 47.2290330627,
+			"latitude": 47.2290330627,
+			"longitude": -1.58782154924,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Suzanne Lenglen Nantes",
 			"typeDechets": "Plastique",
@@ -2499,8 +2498,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_PL0024",
 			"idPointTri": "NA_TRI131",
-			"latitude": -1.58121629824,
-			"longitude": 47.2033125501,
+			"latitude": 47.2033125501,
+			"longitude": -1.58121629824,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Joseph Blanchart Nantes",
 			"typeDechets": "Plastique",
@@ -2509,13 +2508,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Papier-carton"
+			"type": "Plastique, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_PL0029",
 			"idPointTri": "NA_TRI033",
-			"latitude": -1.56588567305,
-			"longitude": 47.2542838944,
+			"latitude": 47.2542838944,
+			"longitude": -1.56588567305,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Vincent Scotto Nantes",
 			"typeDechets": "Plastique",
@@ -2524,13 +2523,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Verre"
+			"type": "Plastique, Verre"
 		},
 		{
 			"code": "stco_conteneur_PL0043",
 			"idPointTri": "NA_TRI079",
-			"latitude": -1.5190063491,
-			"longitude": 47.2396334147,
+			"latitude": 47.2396334147,
+			"longitude": -1.5190063491,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Bottière Nantes",
 			"typeDechets": "Plastique",
@@ -2539,13 +2538,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Papier-carton"
+			"type": "Plastique, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_PL0055",
 			"idPointTri": "NA_TRI044",
-			"latitude": -1.50472919983,
-			"longitude": 47.2337866909,
+			"latitude": 47.2337866909,
+			"longitude": -1.50472919983,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Croix Rouge Nantes",
 			"typeDechets": "Plastique",
@@ -2554,13 +2553,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Verre"
+			"type": "Plastique, Verre"
 		},
 		{
 			"code": "stco_conteneur_PL0060",
 			"idPointTri": "NA_TRI063",
-			"latitude": -1.50033839594,
-			"longitude": 47.2460312917,
+			"latitude": 47.2460312917,
+			"longitude": -1.50033839594,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Chaupières Nantes",
 			"typeDechets": "Plastique",
@@ -2569,13 +2568,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Papier-carton"
+			"type": "Plastique, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_PL0126",
 			"idPointTri": "NA_TRI024",
-			"latitude": -1.56843015189,
-			"longitude": 47.2260530245,
+			"latitude": 47.2260530245,
+			"longitude": -1.56843015189,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Pelleterie Nantes",
 			"typeDechets": "Plastique",
@@ -2584,13 +2583,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Verre"
+			"type": "Plastique, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0010",
 			"idPointTri": "BG_TRI010",
-			"latitude": -1.46415850105,
-			"longitude": 47.1932138707,
+			"latitude": 47.1932138707,
+			"longitude": -1.46415850105,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Passage de la Plée Basse-Goulaine",
 			"typeDechets": "Verre",
@@ -2603,8 +2602,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0012",
 			"idPointTri": "BG_TRI012",
-			"latitude": -1.45513431209,
-			"longitude": 47.2037190911,
+			"latitude": 47.2037190911,
+			"longitude": -1.45513431209,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Impasse de la Chesnaie Basse-Goulaine",
 			"typeDechets": "Verre",
@@ -2617,8 +2616,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0018",
 			"idPointTri": "BY_TRI002",
-			"latitude": -1.68070232762,
-			"longitude": 47.1430333526,
+			"latitude": 47.1430333526,
+			"longitude": -1.68070232762,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Nantes Bouaye",
 			"typeDechets": "Verre",
@@ -2627,13 +2626,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0019",
 			"idPointTri": "BY_TRI003",
-			"latitude": -1.68639720023,
-			"longitude": 47.1419066968,
+			"latitude": 47.1419066968,
+			"longitude": -1.68639720023,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Huit Mai 1945 Bouaye",
 			"typeDechets": "Verre",
@@ -2646,8 +2645,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0020",
 			"idPointTri": "BY_TRI001",
-			"latitude": -1.68884564346,
-			"longitude": 47.1416404967,
+			"latitude": 47.1416404967,
+			"longitude": -1.68884564346,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Gare (parking marché) Bouaye",
 			"typeDechets": "Verre",
@@ -2656,13 +2655,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0035",
 			"idPointTri": "BO_TRI011",
-			"latitude": -1.5788687345,
-			"longitude": 47.1646223879,
+			"latitude": 47.1646223879,
+			"longitude": -1.5788687345,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Galheur Bouguenais",
 			"typeDechets": "Verre",
@@ -2675,8 +2674,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0043",
 			"idPointTri": "BO_TRI018",
-			"latitude": -1.58316291605,
-			"longitude": 47.1829816779,
+			"latitude": 47.1829816779,
+			"longitude": -1.58316291605,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Danielle Casanova Bouguenais",
 			"typeDechets": "Verre",
@@ -2689,8 +2688,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0044",
 			"idPointTri": "BO_TRI019",
-			"latitude": -1.60330974578,
-			"longitude": 47.1695211773,
+			"latitude": 47.1695211773,
+			"longitude": -1.60330974578,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Giletterie Bouguenais",
 			"typeDechets": "Verre",
@@ -2703,8 +2702,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0049",
 			"idPointTri": "BO_TRI024",
-			"latitude": -1.63891628772,
-			"longitude": 47.1764716379,
+			"latitude": 47.1764716379,
+			"longitude": -1.63891628772,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Jauvray Bouguenais",
 			"typeDechets": "Verre",
@@ -2717,8 +2716,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0063",
 			"idPointTri": "BO_TRI038",
-			"latitude": -1.61778639268,
-			"longitude": 47.1731424532,
+			"latitude": 47.1731424532,
+			"longitude": -1.61778639268,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Bellevue Bouguenais",
 			"typeDechets": "Verre",
@@ -2731,8 +2730,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0077",
 			"idPointTri": "BO_TRI003",
-			"latitude": -1.5915541487,
-			"longitude": 47.1859092504,
+			"latitude": 47.1859092504,
+			"longitude": -1.5915541487,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Chabossière Bouguenais",
 			"typeDechets": "Verre",
@@ -2745,8 +2744,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0081",
 			"idPointTri": "BR_TRI004",
-			"latitude": -1.74616939118,
-			"longitude": 47.1792017175,
+			"latitude": 47.1792017175,
+			"longitude": -1.74616939118,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Villabeau Brains",
 			"typeDechets": "Verre",
@@ -2759,8 +2758,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0083",
 			"idPointTri": "BR_TRI006",
-			"latitude": -1.7200750654,
-			"longitude": 47.1686147736,
+			"latitude": 47.1686147736,
+			"longitude": -1.7200750654,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Plessis Brains",
 			"typeDechets": "Verre",
@@ -2773,8 +2772,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0104",
 			"idPointTri": "CA_TRI018",
-			"latitude": -1.48410142461,
-			"longitude": 47.2763117867,
+			"latitude": 47.2763117867,
+			"longitude": -1.48410142461,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Lilas Carquefou",
 			"typeDechets": "Verre",
@@ -2787,8 +2786,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0118",
 			"idPointTri": "CA_TRI032",
-			"latitude": -1.44860378291,
-			"longitude": 47.2858257491,
+			"latitude": 47.2858257491,
+			"longitude": -1.44860378291,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Antarès Carquefou",
 			"typeDechets": "Verre",
@@ -2801,8 +2800,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0133",
 			"idPointTri": "CO_TRI007",
-			"latitude": -1.73053345327,
-			"longitude": 47.2228586004,
+			"latitude": 47.2228586004,
+			"longitude": -1.73053345327,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin des Ecureuils Couëron",
 			"typeDechets": "Verre",
@@ -2815,8 +2814,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0135",
 			"idPointTri": "CO_TRI009",
-			"latitude": -1.72055458318,
-			"longitude": 47.2166550241,
+			"latitude": 47.2166550241,
+			"longitude": -1.72055458318,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard de l'Europe Couëron",
 			"typeDechets": "Verre",
@@ -2829,8 +2828,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0140",
 			"idPointTri": "CO_TRI014",
-			"latitude": -1.71985764455,
-			"longitude": 47.2110768664,
+			"latitude": 47.2110768664,
+			"longitude": -1.71985764455,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Frémondière Couëron",
 			"typeDechets": "Verre",
@@ -2843,8 +2842,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0147",
 			"idPointTri": "CO_TRI021",
-			"latitude": -1.68296834654,
-			"longitude": 47.2144291259,
+			"latitude": 47.2144291259,
+			"longitude": -1.68296834654,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place des Cités Couëron",
 			"typeDechets": "Verre",
@@ -2857,8 +2856,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0155",
 			"idPointTri": "CO_TRI029",
-			"latitude": -1.71850624428,
-			"longitude": 47.2345392113,
+			"latitude": 47.2345392113,
+			"longitude": -1.71850624428,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée des Sources Couëron",
 			"typeDechets": "Verre",
@@ -2871,8 +2870,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0158",
 			"idPointTri": "CO_TRI031",
-			"latitude": -1.70912829029,
-			"longitude": 47.2303217371,
+			"latitude": 47.2303217371,
+			"longitude": -1.70912829029,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "RD 26 Couëron",
 			"typeDechets": "Verre",
@@ -2885,8 +2884,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0160",
 			"idPointTri": "CO_TRI033",
-			"latitude": -1.71300027045,
-			"longitude": 47.2116998499,
+			"latitude": 47.2116998499,
+			"longitude": -1.71300027045,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard de la Libération Couëron",
 			"typeDechets": "Verre",
@@ -2899,8 +2898,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0166",
 			"idPointTri": "IN_TRI001",
-			"latitude": -1.65422727432,
-			"longitude": 47.199366566,
+			"latitude": 47.199366566,
+			"longitude": -1.65422727432,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Impasse des Vignes Blanches Indre",
 			"typeDechets": "Verre",
@@ -2909,13 +2908,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Emballage ménager"
+			"type": "Verre, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_VE0168",
 			"idPointTri": "IN_TRI006",
-			"latitude": -1.66917374735,
-			"longitude": 47.2003855589,
+			"latitude": 47.2003855589,
+			"longitude": -1.66917374735,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "RD 75 Indre",
 			"typeDechets": "Verre",
@@ -2928,8 +2927,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0171",
 			"idPointTri": "IN_TRI005",
-			"latitude": -1.66582444001,
-			"longitude": 47.1972068886,
+			"latitude": 47.1972068886,
+			"longitude": -1.66582444001,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Elsa Triolet Indre",
 			"typeDechets": "Verre",
@@ -2938,13 +2937,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Emballage ménager"
+			"type": "Verre, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_VE0172",
 			"idPointTri": "IN_TRI009",
-			"latitude": -1.68024030377,
-			"longitude": 47.1946092911,
+			"latitude": 47.1946092911,
+			"longitude": -1.68024030377,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Quai de la République Indre",
 			"typeDechets": "Verre",
@@ -2957,8 +2956,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0174",
 			"idPointTri": "CH_TRI003",
-			"latitude": -1.55320044144,
-			"longitude": 47.3237997093,
+			"latitude": 47.3237997093,
+			"longitude": -1.55320044144,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Hillet La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -2971,8 +2970,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0198",
 			"idPointTri": "CH_TRI025",
-			"latitude": -1.54272142297,
-			"longitude": 47.290112468,
+			"latitude": 47.290112468,
+			"longitude": -1.54272142297,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Haie La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -2985,8 +2984,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0207",
 			"idPointTri": "CH_TRI034",
-			"latitude": -1.54496305787,
-			"longitude": 47.2676673781,
+			"latitude": 47.2676673781,
+			"longitude": -1.54496305787,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Besneries La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -2999,8 +2998,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0211",
 			"idPointTri": "CH_TRI038",
-			"latitude": -1.55818453404,
-			"longitude": 47.2820384428,
+			"latitude": 47.2820384428,
+			"longitude": -1.55818453404,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Tourton La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -3013,8 +3012,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0223",
 			"idPointTri": "MT_TRI012",
-			"latitude": -1.68676997305,
-			"longitude": 47.1912019351,
+			"latitude": 47.1912019351,
+			"longitude": -1.68676997305,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Mairie La Montagne",
 			"typeDechets": "Verre",
@@ -3027,8 +3026,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0224",
 			"idPointTri": "MT_TRI013",
-			"latitude": -1.69055953171,
-			"longitude": 47.1929353527,
+			"latitude": 47.1929353527,
+			"longitude": -1.69055953171,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Garenne La Montagne",
 			"typeDechets": "Verre",
@@ -3041,8 +3040,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0244",
 			"idPointTri": "PE_TRI010",
-			"latitude": -1.76476005182,
-			"longitude": 47.2022077821,
+			"latitude": 47.2022077821,
+			"longitude": -1.76476005182,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue Mathurin Métayer Le Pellerin",
 			"typeDechets": "Verre",
@@ -3055,8 +3054,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0249",
 			"idPointTri": "SO_TRI001",
-			"latitude": -1.52696013666,
-			"longitude": 47.1493225442,
+			"latitude": 47.1493225442,
+			"longitude": -1.52696013666,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Ecoles Les Sorinières",
 			"typeDechets": "Verre",
@@ -3065,13 +3064,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0255",
 			"idPointTri": "SO_TRI008",
-			"latitude": -1.51222796852,
-			"longitude": 47.1300409535,
+			"latitude": 47.1300409535,
+			"longitude": -1.51222796852,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Chez Gâtin Les Sorinières",
 			"typeDechets": "Verre",
@@ -3084,8 +3083,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0275",
 			"idPointTri": "NA_TRI042",
-			"latitude": -1.57741859287,
-			"longitude": 47.2098332124,
+			"latitude": 47.2098332124,
+			"longitude": -1.57741859287,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place de la Chapelle Nantes",
 			"typeDechets": "Verre",
@@ -3094,13 +3093,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Plastique"
+			"type": "Verre, Plastique"
 		},
 		{
 			"code": "stco_conteneur_VE0281",
 			"idPointTri": "NA_TRI020",
-			"latitude": -1.57870825548,
-			"longitude": 47.259634129,
+			"latitude": 47.259634129,
+			"longitude": -1.57870825548,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue du Bout des Landes Nantes",
 			"typeDechets": "Verre",
@@ -3109,13 +3108,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Plastique"
+			"type": "Verre, Plastique"
 		},
 		{
 			"code": "stco_conteneur_VE0283",
 			"idPointTri": "NA_TRI136",
-			"latitude": -1.57706355465,
-			"longitude": 47.248614673,
+			"latitude": 47.248614673,
+			"longitude": -1.57706355465,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de Rennes Nantes",
 			"typeDechets": "Verre",
@@ -3128,8 +3127,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0306",
 			"idPointTri": "NA_TRI111",
-			"latitude": -1.59063820431,
-			"longitude": 47.2073681955,
+			"latitude": 47.2073681955,
+			"longitude": -1.59063820431,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Marseillaise Nantes",
 			"typeDechets": "Verre",
@@ -3138,13 +3137,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Plastique"
+			"type": "Verre, Plastique"
 		},
 		{
 			"code": "stco_conteneur_VE0313",
 			"idPointTri": "NA_TRI147",
-			"latitude": -1.56362758189,
-			"longitude": 47.2304700745,
+			"latitude": 47.2304700745,
+			"longitude": -1.56362758189,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "175 Rue Paul Bellamy Nantes",
 			"typeDechets": "Verre",
@@ -3157,8 +3156,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0329",
 			"idPointTri": "NA_TRI155",
-			"latitude": -1.55668568889,
-			"longitude": 47.2392682864,
+			"latitude": 47.2392682864,
+			"longitude": -1.55668568889,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Michelet Nantes",
 			"typeDechets": "Verre",
@@ -3171,8 +3170,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0341",
 			"idPointTri": "NA_TRI071",
-			"latitude": -1.51978164419,
-			"longitude": 47.2432210592,
+			"latitude": 47.2432210592,
+			"longitude": -1.51978164419,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Impasse Henri Dunant Nantes",
 			"typeDechets": "Verre",
@@ -3181,13 +3180,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Plastique"
+			"type": "Verre, Plastique"
 		},
 		{
 			"code": "stco_conteneur_VE0346",
 			"idPointTri": "NA_TRI046",
-			"latitude": -1.5183398596,
-			"longitude": 47.2697641465,
+			"latitude": 47.2697641465,
+			"longitude": -1.5183398596,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place des Tonneliers Nantes",
 			"typeDechets": "Verre",
@@ -3196,13 +3195,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0355",
 			"idPointTri": "NA_TRI114",
-			"latitude": -1.51446630145,
-			"longitude": 47.2654885449,
+			"latitude": 47.2654885449,
+			"longitude": -1.51446630145,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de Carquefou Nantes",
 			"typeDechets": "Verre",
@@ -3211,13 +3210,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0372",
 			"idPointTri": "NA_TR0I63",
-			"latitude": -1.50033839594,
-			"longitude": 47.2460312917,
+			"latitude": 47.2460312917,
+			"longitude": -1.50033839594,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Chaupières Nantes",
 			"typeDechets": "Verre",
@@ -3230,8 +3229,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0391",
 			"idPointTri": "NA_TRI174",
-			"latitude": -1.54890317171,
-			"longitude": 47.2243435773,
+			"latitude": 47.2243435773,
+			"longitude": -1.54890317171,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "14B Rue Monfoulon Nantes",
 			"typeDechets": "Verre",
@@ -3244,8 +3243,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0400",
 			"idPointTri": "NA_TRI072",
-			"latitude": -1.61078939415,
-			"longitude": 47.2020154455,
+			"latitude": 47.2020154455,
+			"longitude": -1.61078939415,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Marange Sylvange Nantes",
 			"typeDechets": "Verre",
@@ -3254,13 +3253,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0418",
 			"idPointTri": "NA_TRI183",
-			"latitude": -1.59208416462,
-			"longitude": 47.1992575989,
+			"latitude": 47.1992575989,
+			"longitude": -1.59208416462,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Réformes Nantes",
 			"typeDechets": "Verre",
@@ -3273,8 +3272,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0419",
 			"idPointTri": "NA_TRI029",
-			"latitude": -1.59265224382,
-			"longitude": 47.2096585006,
+			"latitude": 47.2096585006,
+			"longitude": -1.59265224382,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Sables d'Olonne Nantes",
 			"typeDechets": "Verre",
@@ -3283,13 +3282,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0427",
 			"idPointTri": "NA_TRI188",
-			"latitude": -1.54095931974,
-			"longitude": 47.2144893405,
+			"latitude": 47.2144893405,
+			"longitude": -1.54095931974,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "42 Quai Malakoff Nantes",
 			"typeDechets": "Verre",
@@ -3302,8 +3301,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0440",
 			"idPointTri": "NA_TRI193",
-			"latitude": -1.5320888942,
-			"longitude": 47.2010128803,
+			"latitude": 47.2010128803,
+			"longitude": -1.5320888942,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Côte Saint Sébastien Nantes",
 			"typeDechets": "Verre",
@@ -3316,8 +3315,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0446",
 			"idPointTri": "NA_TRI116",
-			"latitude": -1.53216598885,
-			"longitude": 47.2267308765,
+			"latitude": 47.2267308765,
+			"longitude": -1.53216598885,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "40 Rue des Chalâtres Nantes",
 			"typeDechets": "Verre",
@@ -3326,13 +3325,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0448",
 			"idPointTri": "NA_TRI013",
-			"latitude": -1.53306077781,
-			"longitude": 47.240702201,
+			"latitude": 47.240702201,
+			"longitude": -1.53306077781,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Anne Claude Godeau Nantes",
 			"typeDechets": "Verre",
@@ -3341,13 +3340,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0465",
 			"idPointTri": "NA_TRI085",
-			"latitude": -1.52303279086,
-			"longitude": 47.2306979671,
+			"latitude": 47.2306979671,
+			"longitude": -1.52303279086,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Julien Lemordant Nantes",
 			"typeDechets": "Verre",
@@ -3356,13 +3355,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0473",
 			"idPointTri": "NA_TRI010",
-			"latitude": -1.56979874588,
-			"longitude": 47.2309391082,
+			"latitude": 47.2309391082,
+			"longitude": -1.56979874588,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Lelasseur Nantes",
 			"typeDechets": "Verre",
@@ -3371,13 +3370,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0484",
 			"idPointTri": "NA_TRI005",
-			"latitude": -1.56556289188,
-			"longitude": 47.2286111674,
+			"latitude": 47.2286111674,
+			"longitude": -1.56556289188,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place Emile Fritsch Nantes",
 			"typeDechets": "Verre",
@@ -3386,13 +3385,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0497",
 			"idPointTri": "NA_TRI209",
-			"latitude": -1.51973742127,
-			"longitude": 47.2826031528,
+			"latitude": 47.2826031528,
+			"longitude": -1.51973742127,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Alfred Kastler Nantes",
 			"typeDechets": "Verre",
@@ -3405,8 +3404,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0501",
 			"idPointTri": "NA_TRI127",
-			"latitude": -1.52364485347,
-			"longitude": 47.2620036935,
+			"latitude": 47.2620036935,
+			"longitude": -1.52364485347,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Patience Nantes",
 			"typeDechets": "Verre",
@@ -3415,13 +3414,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0504",
 			"idPointTri": "OR_TRI007",
-			"latitude": -1.63197534105,
-			"longitude": 47.2613275349,
+			"latitude": 47.2613275349,
+			"longitude": -1.63197534105,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Pont Marchand Orvault",
 			"typeDechets": "Verre",
@@ -3434,8 +3433,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0511",
 			"idPointTri": "OR_TRI013",
-			"latitude": -1.58110370286,
-			"longitude": 47.2591245658,
+			"latitude": 47.2591245658,
+			"longitude": -1.58110370286,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de la Praudière, Rtes de Rennes Orvault",
 			"typeDechets": "Verre",
@@ -3448,8 +3447,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0519",
 			"idPointTri": "OR_TRI004",
-			"latitude": -1.59520375019,
-			"longitude": 47.2523915246,
+			"latitude": 47.2523915246,
+			"longitude": -1.59520375019,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Kindia Orvault",
 			"typeDechets": "Verre",
@@ -3458,13 +3457,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0531",
 			"idPointTri": "OR_TRI029",
-			"latitude": -1.59935724181,
-			"longitude": 47.268342357,
+			"latitude": 47.268342357,
+			"longitude": -1.59935724181,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin des Matines Orvault",
 			"typeDechets": "Verre",
@@ -3477,8 +3476,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0538",
 			"idPointTri": "OR_TRI036",
-			"latitude": -1.58909236305,
-			"longitude": 47.2579985695,
+			"latitude": 47.2579985695,
+			"longitude": -1.58909236305,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Chantemerle (Domaine) Orvault",
 			"typeDechets": "Verre",
@@ -3491,8 +3490,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0548",
 			"idPointTri": "RE_TRI009",
-			"latitude": -1.56063881048,
-			"longitude": 47.1900022724,
+			"latitude": 47.1900022724,
+			"longitude": -1.56063881048,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Henri Barbusse Rezé",
 			"typeDechets": "Verre",
@@ -3505,8 +3504,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0553",
 			"idPointTri": "RE_TRI014",
-			"latitude": -1.55420877789,
-			"longitude": 47.1877172476,
+			"latitude": 47.1877172476,
+			"longitude": -1.55420877789,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Léard Rezé",
 			"typeDechets": "Verre",
@@ -3519,8 +3518,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0556",
 			"idPointTri": "RE_TRI017",
-			"latitude": -1.56114358344,
-			"longitude": 47.184273633,
+			"latitude": 47.184273633,
+			"longitude": -1.56114358344,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée de l'Acheneau Rezé",
 			"typeDechets": "Verre",
@@ -3533,8 +3532,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0560",
 			"idPointTri": "RE_TRI021",
-			"latitude": -1.54851601847,
-			"longitude": 47.1788142523,
+			"latitude": 47.1788142523,
+			"longitude": -1.54851601847,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Augustin Mouillé Rezé",
 			"typeDechets": "Verre",
@@ -3547,8 +3546,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0590",
 			"idPointTri": "RE_TRI047",
-			"latitude": -1.53154287444,
-			"longitude": 47.1791491495,
+			"latitude": 47.1791491495,
+			"longitude": -1.53154287444,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Blordière Rezé",
 			"typeDechets": "Verre",
@@ -3561,8 +3560,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0604",
 			"idPointTri": "SA_TRI004",
-			"latitude": -1.65856709276,
-			"longitude": 47.2624518358,
+			"latitude": 47.2624518358,
+			"longitude": -1.65856709276,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Noues Sautron",
 			"typeDechets": "Verre",
@@ -3575,8 +3574,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0615",
 			"idPointTri": "SA_TRI015",
-			"latitude": -1.67943337238,
-			"longitude": 47.2697960935,
+			"latitude": 47.2697960935,
+			"longitude": -1.67943337238,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place de la Gendarmerie,rue de l’Église Sautron",
 			"typeDechets": "Verre",
@@ -3589,8 +3588,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0623",
 			"idPointTri": "AG_TRI004",
-			"latitude": -1.61920185276,
-			"longitude": 47.1245169952,
+			"latitude": 47.1245169952,
+			"longitude": -1.61920185276,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Passage du Champ de Foire Saint-Aignan-Grandlieu",
 			"typeDechets": "Verre",
@@ -3603,8 +3602,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0627",
 			"idPointTri": "SH_TRI009",
-			"latitude": -1.61293505839,
-			"longitude": 47.2120733749,
+			"latitude": 47.2120733749,
+			"longitude": -1.61293505839,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Charente St-Herblain",
 			"typeDechets": "Verre",
@@ -3613,13 +3612,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Emballage ménager"
+			"type": "Verre, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_VE0639",
 			"idPointTri": "SH_TRI046",
-			"latitude": -1.63129805134,
-			"longitude": 47.2373689153,
+			"latitude": 47.2373689153,
+			"longitude": -1.63129805134,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Bergerie St-Herblain",
 			"typeDechets": "Verre",
@@ -3632,8 +3631,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0640",
 			"idPointTri": "SH_TRI047",
-			"latitude": -1.61902716994,
-			"longitude": 47.221616161,
+			"latitude": 47.221616161,
+			"longitude": -1.61902716994,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Benoît Frachon St-Herblain",
 			"typeDechets": "Verre",
@@ -3646,8 +3645,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0641",
 			"idPointTri": "SH_TRI048",
-			"latitude": -1.59924440721,
-			"longitude": 47.2382662347,
+			"latitude": 47.2382662347,
+			"longitude": -1.59924440721,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place du Maquis de Saffré St-Herblain",
 			"typeDechets": "Verre",
@@ -3660,8 +3659,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0646",
 			"idPointTri": "SH_TRI053",
-			"latitude": -1.65481212804,
-			"longitude": 47.2170607949,
+			"latitude": 47.2170607949,
+			"longitude": -1.65481212804,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin de la Butte St-Herblain",
 			"typeDechets": "Verre",
@@ -3674,8 +3673,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0675",
 			"idPointTri": "SH_TRI091",
-			"latitude": -1.59196282001,
-			"longitude": 47.2314201957,
+			"latitude": 47.2314201957,
+			"longitude": -1.59196282001,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de la Favrie St-Herblain",
 			"typeDechets": "Verre",
@@ -3688,8 +3687,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0697",
 			"idPointTri": "SH_TRI037",
-			"latitude": -1.60286748743,
-			"longitude": 47.2390113808,
+			"latitude": 47.2390113808,
+			"longitude": -1.60286748743,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée Antonio Vivaldi St-Herblain",
 			"typeDechets": "Verre",
@@ -3698,13 +3697,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Emballage ménager"
+			"type": "Verre, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_VE0699",
 			"idPointTri": "SH_TRI105",
-			"latitude": -1.59817175971,
-			"longitude": 47.2381026514,
+			"latitude": 47.2381026514,
+			"longitude": -1.59817175971,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place du Maquis de Saffré St-Herblain",
 			"typeDechets": "Verre",
@@ -3717,8 +3716,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0713",
 			"idPointTri": "SH_TRI108",
-			"latitude": -1.60823745479,
-			"longitude": 47.225904091,
+			"latitude": 47.225904091,
+			"longitude": -1.60823745479,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Hauts Moulins St-Herblain",
 			"typeDechets": "Verre",
@@ -3731,8 +3730,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0735",
 			"idPointTri": "JB_TRI007",
-			"latitude": -1.73953461607,
-			"longitude": 47.1995516968,
+			"latitude": 47.1995516968,
+			"longitude": -1.73953461607,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Fontaine Saint-Jean-de-Boiseau",
 			"typeDechets": "Verre",
@@ -3745,8 +3744,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0736",
 			"idPointTri": "JB_TRI008",
-			"latitude": -1.74824489263,
-			"longitude": 47.1905938914,
+			"latitude": 47.1905938914,
+			"longitude": -1.74824489263,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Surchaud Saint-Jean-de-Boiseau",
 			"typeDechets": "Verre",
@@ -3759,8 +3758,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0742",
 			"idPointTri": "JB_TRI001",
-			"latitude": -1.71981932646,
-			"longitude": 47.1863350419,
+			"latitude": 47.1863350419,
+			"longitude": -1.71981932646,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Poterie Saint-Jean-de-Boiseau",
 			"typeDechets": "Verre",
@@ -3769,13 +3768,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0749",
 			"idPointTri": "SS_TRI006",
-			"latitude": -1.49549425794,
-			"longitude": 47.2014926231,
+			"latitude": 47.2014926231,
+			"longitude": -1.49549425794,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Saintonge Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -3788,8 +3787,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0758",
 			"idPointTri": "SS_TRI015",
-			"latitude": -1.47639885778,
-			"longitude": 47.1940652282,
+			"latitude": 47.1940652282,
+			"longitude": -1.47639885778,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place de la Croix des Landes Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -3802,8 +3801,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0759",
 			"idPointTri": "SS_TRI016",
-			"latitude": -1.50434746238,
-			"longitude": 47.2003837526,
+			"latitude": 47.2003837526,
+			"longitude": -1.50434746238,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Berlaguts Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -3816,8 +3815,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0763",
 			"idPointTri": "SS_TRI002",
-			"latitude": -1.50898513717,
-			"longitude": 47.2086913984,
+			"latitude": 47.2086913984,
+			"longitude": -1.50898513717,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Becques Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -3826,13 +3825,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0784",
 			"idPointTri": "SS_TRI035",
-			"latitude": -1.5111297526,
-			"longitude": 47.191658014,
+			"latitude": 47.191658014,
+			"longitude": -1.5111297526,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Bois d'Anjou Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -3845,8 +3844,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0796",
 			"idPointTri": "SS_TRI047",
-			"latitude": -1.5056446329,
-			"longitude": 47.2075511605,
+			"latitude": 47.2075511605,
+			"longitude": -1.5056446329,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Clos Davy Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -3859,8 +3858,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0805",
 			"idPointTri": "SS_TRI056",
-			"latitude": -1.48643905839,
-			"longitude": 47.2065398821,
+			"latitude": 47.2065398821,
+			"longitude": -1.48643905839,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Louis Pasteur Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -3873,8 +3872,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0817",
 			"idPointTri": "SL_TRI003",
-			"latitude": -1.48814172888,
-			"longitude": 47.2566660198,
+			"latitude": 47.2566660198,
+			"longitude": -1.48814172888,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Cadoire Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -3883,13 +3882,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0836",
 			"idPointTri": "SL_TRI020",
-			"latitude": -1.46703161757,
-			"longitude": 47.2748863285,
+			"latitude": 47.2748863285,
+			"longitude": -1.46703161757,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Louis Blériot Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -3902,8 +3901,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0837",
 			"idPointTri": "SL_TRI021",
-			"latitude": -1.48914712449,
-			"longitude": 47.2627751898,
+			"latitude": 47.2627751898,
+			"longitude": -1.48914712449,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place Jacques Chesné Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -3916,8 +3915,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0840",
 			"idPointTri": "SL_TRI024",
-			"latitude": -1.45906886404,
-			"longitude": 47.2579698481,
+			"latitude": 47.2579698481,
+			"longitude": -1.45906886404,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de Thouaré Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -3930,8 +3929,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0848",
 			"idPointTri": "TH_TRI005",
-			"latitude": -1.44072059488,
-			"longitude": 47.2678077483,
+			"latitude": 47.2678077483,
+			"longitude": -1.44072059488,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Blançonnerie Thouaré-sur-Loire",
 			"typeDechets": "Verre",
@@ -3940,13 +3939,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0855",
 			"idPointTri": "VE_TRI013",
-			"latitude": -1.43474244335,
-			"longitude": 47.16565249,
+			"latitude": 47.16565249,
+			"longitude": -1.43474244335,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place du Cirque Vertou",
 			"typeDechets": "Verre",
@@ -3959,8 +3958,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0856",
 			"idPointTri": "VE_TRI014",
-			"latitude": -1.43653009537,
-			"longitude": 47.1619061753,
+			"latitude": 47.1619061753,
+			"longitude": -1.43653009537,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Ville Henri Vertou",
 			"typeDechets": "Verre",
@@ -3973,8 +3972,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0867",
 			"idPointTri": "VE_TRI020",
-			"latitude": -1.475402332,
-			"longitude": 47.1840676184,
+			"latitude": 47.1840676184,
+			"longitude": -1.475402332,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Chesnaie Vertou",
 			"typeDechets": "Verre",
@@ -3987,8 +3986,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0872",
 			"idPointTri": "VE_TRI023",
-			"latitude": -1.48918187078,
-			"longitude": 47.1754963221,
+			"latitude": 47.1754963221,
+			"longitude": -1.48918187078,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Fraîches Vertou",
 			"typeDechets": "Verre",
@@ -4001,8 +4000,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0918",
 			"idPointTri": "BO_TRI007",
-			"latitude": -1.57939999744,
-			"longitude": 47.1806000414,
+			"latitude": 47.1806000414,
+			"longitude": -1.57939999744,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Impasse de la Prairie au Pré Bouguenais",
 			"typeDechets": "Verre",
@@ -4015,8 +4014,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0925",
 			"idPointTri": "LV_TRI004",
-			"latitude": -1.70310064789,
-			"longitude": 47.1505003082,
+			"latitude": 47.1505003082,
+			"longitude": -1.70310064789,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Chaussérie Saint-Léger-les-Vignes",
 			"typeDechets": "Verre",
@@ -4029,8 +4028,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0929",
 			"idPointTri": "NA_TRI214",
-			"latitude": -1.57641913898,
-			"longitude": 47.2308580475,
+			"latitude": 47.2308580475,
+			"longitude": -1.57641913898,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Boulay Paty Nantes",
 			"typeDechets": "Verre",
@@ -4043,8 +4042,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0943",
 			"idPointTri": "NA_TRI219",
-			"latitude": -1.52291946373,
-			"longitude": 47.2116338944,
+			"latitude": 47.2116338944,
+			"longitude": -1.52291946373,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Pré-Salé Nantes",
 			"typeDechets": "Verre",
@@ -4053,13 +4052,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Trisac"
+			"type": "Verre, Trisac"
 		},
 		{
 			"code": "stco_conteneur_VE0970",
 			"idPointTri": "TH_TRI004",
-			"latitude": -1.43975536908,
-			"longitude": 47.2657097041,
+			"latitude": 47.2657097041,
+			"longitude": -1.43975536908,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin de la Noë Thouaré-sur-Loire",
 			"typeDechets": "Verre",
@@ -4068,13 +4067,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0003",
 			"idPointTri": "IN_TRI004",
-			"latitude": -1.64705291444,
-			"longitude": 47.1930743156,
+			"latitude": 47.1930743156,
+			"longitude": -1.64705291444,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin du Port Indre",
 			"typeDechets": "Emballage ménager",
@@ -4083,13 +4082,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0027",
 			"idPointTri": "SH_TRI080",
-			"latitude": -1.59601447887,
-			"longitude": 47.2331807825,
+			"latitude": 47.2331807825,
+			"longitude": -1.59601447887,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard du Val de Chézine St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -4102,8 +4101,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_DS0028",
 			"idPointTri": "SH_TRI002",
-			"latitude": -1.60028690294,
-			"longitude": 47.2341081697,
+			"latitude": 47.2341081697,
+			"longitude": -1.60028690294,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard du Val de Chézine St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -4112,13 +4111,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Emballage ménager"
+			"type": "Emballage ménager, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_DS0050",
 			"idPointTri": "SH_TRI011",
-			"latitude": -1.61723231834,
-			"longitude": 47.21628696,
+			"latitude": 47.21628696,
+			"longitude": -1.61723231834,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue d'Avranches St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -4127,13 +4126,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0079",
 			"idPointTri": "SH_TRI117",
-			"latitude": -1.61026359453,
-			"longitude": 47.2123403158,
+			"latitude": 47.2123403158,
+			"longitude": -1.61026359453,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Mayenne St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -4146,8 +4145,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_PC0037",
 			"idPointTri": "NA_TRI068",
-			"latitude": -1.54396055371,
-			"longitude": 47.2161549217,
+			"latitude": 47.2161549217,
+			"longitude": -1.54396055371,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "51 Quai Malakoff Nantes",
 			"typeDechets": "Papier-carton",
@@ -4156,13 +4155,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0095",
 			"idPointTri": "NA_TRI067",
-			"latitude": -1.53455434715,
-			"longitude": 47.2037636278,
+			"latitude": 47.2037636278,
+			"longitude": -1.53455434715,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Docteur Zamenhof Nantes",
 			"typeDechets": "Papier-carton",
@@ -4171,13 +4170,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0098",
 			"idPointTri": "NA_TRI073",
-			"latitude": -1.53033297084,
-			"longitude": 47.1847351058,
+			"latitude": 47.1847351058,
+			"longitude": -1.53033297084,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Olivraie Nantes",
 			"typeDechets": "Papier-carton",
@@ -4186,13 +4185,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0106",
 			"idPointTri": "NA_TRI031",
-			"latitude": -1.53113350728,
-			"longitude": 47.2292398647,
+			"latitude": 47.2292398647,
+			"longitude": -1.53113350728,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "36 Rue des Agenets Nantes",
 			"typeDechets": "Papier-carton",
@@ -4201,13 +4200,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0125",
 			"idPointTri": "NA_TRI093",
-			"latitude": -1.56850799404,
-			"longitude": 47.2561567557,
+			"latitude": 47.2561567557,
+			"longitude": -1.56850799404,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue René Guy Cadou Nantes",
 			"typeDechets": "Papier-carton",
@@ -4216,13 +4215,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0136",
 			"idPointTri": "RE_TRI001",
-			"latitude": -1.53338205036,
-			"longitude": 47.1581307617,
+			"latitude": 47.1581307617,
+			"longitude": -1.53338205036,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Pierre Legendre Rezé",
 			"typeDechets": "Papier-carton",
@@ -4231,13 +4230,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PL0018",
 			"idPointTri": "NA_TRI095",
-			"latitude": -1.58744212936,
-			"longitude": 47.2131597848,
+			"latitude": 47.2131597848,
+			"longitude": -1.58744212936,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Danton Nantes",
 			"typeDechets": "Plastique",
@@ -4246,13 +4245,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Papier-carton"
+			"type": "Plastique, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0008",
 			"idPointTri": "BG_TRI008",
-			"latitude": -1.4682257448,
-			"longitude": 47.2099739456,
+			"latitude": 47.2099739456,
+			"longitude": -1.4682257448,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue d'Anjou Basse-Goulaine",
 			"typeDechets": "Verre",
@@ -4265,8 +4264,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0009",
 			"idPointTri": "BG_TRI009",
-			"latitude": -1.46803538398,
-			"longitude": 47.2021619915,
+			"latitude": 47.2021619915,
+			"longitude": -1.46803538398,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Simone De Beauvoir Basse-Goulaine",
 			"typeDechets": "Verre",
@@ -4279,8 +4278,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0023",
 			"idPointTri": "BY_TRI005",
-			"latitude": -1.67072670835,
-			"longitude": 47.1432912893,
+			"latitude": 47.1432912893,
+			"longitude": -1.67072670835,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de la Roderie Bouaye",
 			"typeDechets": "Verre",
@@ -4293,8 +4292,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0031",
 			"idPointTri": "NA_TRI016",
-			"latitude": -1.55140177742,
-			"longitude": 47.2322141161,
+			"latitude": 47.2322141161,
+			"longitude": -1.55140177742,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Etienne Etiennez Nantes",
 			"typeDechets": "Verre",
@@ -4307,8 +4306,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0045",
 			"idPointTri": "BO_TRI020",
-			"latitude": -1.6142232148,
-			"longitude": 47.1769879619,
+			"latitude": 47.1769879619,
+			"longitude": -1.6142232148,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Commune de Paris 1871 Bouguenais",
 			"typeDechets": "Verre",
@@ -4321,8 +4320,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0047",
 			"idPointTri": "BO_TRI022",
-			"latitude": -1.62365407688,
-			"longitude": 47.1811901842,
+			"latitude": 47.1811901842,
+			"longitude": -1.62365407688,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Quai de la Vallée Bouguenais",
 			"typeDechets": "Verre",
@@ -4335,8 +4334,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0052",
 			"idPointTri": "BO_TRI027",
-			"latitude": -1.65759980893,
-			"longitude": 47.1750894527,
+			"latitude": 47.1750894527,
+			"longitude": -1.65759980893,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Mouchonnerie Bouguenais",
 			"typeDechets": "Verre",
@@ -4349,8 +4348,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0065",
 			"idPointTri": "BO_TRI040",
-			"latitude": -1.64237898055,
-			"longitude": 47.1904413073,
+			"latitude": 47.1904413073,
+			"longitude": -1.64237898055,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Pêcheurs Bouguenais",
 			"typeDechets": "Verre",
@@ -4363,8 +4362,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0067",
 			"idPointTri": "BO_TRI002",
-			"latitude": -1.57626017134,
-			"longitude": 47.1698200587,
+			"latitude": 47.1698200587,
+			"longitude": -1.57626017134,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jules Vallès Bouguenais",
 			"typeDechets": "Verre",
@@ -4373,13 +4372,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0068",
 			"idPointTri": "BO_TRI042",
-			"latitude": -1.60651204198,
-			"longitude": 47.1734712033,
+			"latitude": 47.1734712033,
+			"longitude": -1.60651204198,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin des Bélians Bouguenais",
 			"typeDechets": "Verre",
@@ -4392,8 +4391,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0087",
 			"idPointTri": "CA_TRI002",
-			"latitude": -1.49150935348,
-			"longitude": 47.2956854437,
+			"latitude": 47.2956854437,
+			"longitude": -1.49150935348,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place de la Libération Carquefou",
 			"typeDechets": "Verre",
@@ -4402,13 +4401,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0092",
 			"idPointTri": "CA_TRI008",
-			"latitude": -1.48711800434,
-			"longitude": 47.2942574522,
+			"latitude": 47.2942574522,
+			"longitude": -1.48711800434,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Jumelière Carquefou",
 			"typeDechets": "Verre",
@@ -4421,8 +4420,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0094",
 			"idPointTri": "CA_TRI010",
-			"latitude": -1.50398171345,
-			"longitude": 47.2771026274,
+			"latitude": 47.2771026274,
+			"longitude": -1.50398171345,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard du Chêne Vert Carquefou",
 			"typeDechets": "Verre",
@@ -4435,8 +4434,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0110",
 			"idPointTri": "CA_TRI024",
-			"latitude": -1.49741837645,
-			"longitude": 47.3032115255,
+			"latitude": 47.3032115255,
+			"longitude": -1.49741837645,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Erdre Carquefou",
 			"typeDechets": "Verre",
@@ -4449,8 +4448,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0117",
 			"idPointTri": "CA_TRI031",
-			"latitude": -1.45459169791,
-			"longitude": 47.2833644117,
+			"latitude": 47.2833644117,
+			"longitude": -1.45459169791,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée des Sapins Carquefou",
 			"typeDechets": "Verre",
@@ -4463,8 +4462,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0132",
 			"idPointTri": "CO_TRI006",
-			"latitude": -1.72661134588,
-			"longitude": 47.2200825567,
+			"latitude": 47.2200825567,
+			"longitude": -1.72661134588,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Jaunaie Couëron",
 			"typeDechets": "Verre",
@@ -4477,8 +4476,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0134",
 			"idPointTri": "CO_TRI008",
-			"latitude": -1.7103023306,
-			"longitude": 47.2169597005,
+			"latitude": 47.2169597005,
+			"longitude": -1.7103023306,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Marais Couëron",
 			"typeDechets": "Verre",
@@ -4491,8 +4490,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0139",
 			"idPointTri": "CO_TRI013",
-			"latitude": -1.73156463116,
-			"longitude": 47.2096022998,
+			"latitude": 47.2096022998,
+			"longitude": -1.73156463116,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Quai Commandant Lucas Couëron",
 			"typeDechets": "Verre",
@@ -4505,8 +4504,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0143",
 			"idPointTri": "CO_TRI017",
-			"latitude": -1.70828403802,
-			"longitude": 47.2129810382,
+			"latitude": 47.2129810382,
+			"longitude": -1.70828403802,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Pont de Retz Couëron",
 			"typeDechets": "Verre",
@@ -4519,8 +4518,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0159",
 			"idPointTri": "CO_TRI032",
-			"latitude": -1.69559136856,
-			"longitude": 47.2191006132,
+			"latitude": 47.2191006132,
+			"longitude": -1.69559136856,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de Beaulieu Couëron",
 			"typeDechets": "Verre",
@@ -4533,8 +4532,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0180",
 			"idPointTri": "CH_TRI001",
-			"latitude": -1.55100171782,
-			"longitude": 47.2587530113,
+			"latitude": 47.2587530113,
+			"longitude": -1.55100171782,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Ampère La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -4543,13 +4542,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0203",
 			"idPointTri": "CH_TRI030",
-			"latitude": -1.55298814317,
-			"longitude": 47.2682669773,
+			"latitude": 47.2682669773,
+			"longitude": -1.55298814317,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard du Gesvres La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -4562,8 +4561,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0204",
 			"idPointTri": "CH_TRI031",
-			"latitude": -1.55215579194,
-			"longitude": 47.2694538234,
+			"latitude": 47.2694538234,
+			"longitude": -1.55215579194,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard de l'Hopitau La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -4576,8 +4575,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0209",
 			"idPointTri": "CH_TRI036",
-			"latitude": -1.54875354031,
-			"longitude": 47.2645050692,
+			"latitude": 47.2645050692,
+			"longitude": -1.54875354031,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue des Cinq Fleurs La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -4590,8 +4589,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0218",
 			"idPointTri": "MT_TRI007",
-			"latitude": -1.67840282947,
-			"longitude": 47.1802257027,
+			"latitude": 47.1802257027,
+			"longitude": -1.67840282947,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée du Huit Mai 1945 La Montagne",
 			"typeDechets": "Verre",
@@ -4604,8 +4603,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0225",
 			"idPointTri": "MT_TRI014",
-			"latitude": -1.69005014086,
-			"longitude": 47.1884382419,
+			"latitude": 47.1884382419,
+			"longitude": -1.69005014086,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Courante La Montagne",
 			"typeDechets": "Verre",
@@ -4618,8 +4617,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0234",
 			"idPointTri": "MT_TRI001",
-			"latitude": -1.68318613661,
-			"longitude": 47.1771053471,
+			"latitude": 47.1771053471,
+			"longitude": -1.68318613661,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin du Pérou La Montagne",
 			"typeDechets": "Verre",
@@ -4628,13 +4627,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0236",
 			"idPointTri": "PE_TRI003",
-			"latitude": -1.75928256315,
-			"longitude": 47.1956335583,
+			"latitude": 47.1956335583,
+			"longitude": -1.75928256315,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Jouardais Le Pellerin",
 			"typeDechets": "Verre",
@@ -4647,8 +4646,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0238",
 			"idPointTri": "PE_TRI005",
-			"latitude": -1.76258429972,
-			"longitude": 47.1975647128,
+			"latitude": 47.1975647128,
+			"longitude": -1.76258429972,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Génolière Le Pellerin",
 			"typeDechets": "Verre",
@@ -4661,8 +4660,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0251",
 			"idPointTri": "SO_TRI004",
-			"latitude": -1.5209473673,
-			"longitude": 47.1506004164,
+			"latitude": 47.1506004164,
+			"longitude": -1.5209473673,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Guindonnière Les Sorinières",
 			"typeDechets": "Verre",
@@ -4675,8 +4674,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0261",
 			"idPointTri": "SO_TRI014",
-			"latitude": -1.52601648013,
-			"longitude": 47.1522414321,
+			"latitude": 47.1522414321,
+			"longitude": -1.52601648013,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Flamands Les Sorinières",
 			"typeDechets": "Verre",
@@ -4689,8 +4688,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0263",
 			"idPointTri": "SO_TRI016",
-			"latitude": -1.52194732917,
-			"longitude": 47.1591078213,
+			"latitude": 47.1591078213,
+			"longitude": -1.52194732917,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Maillardière Les Sorinières",
 			"typeDechets": "Verre",
@@ -4703,8 +4702,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0267",
 			"idPointTri": "MA_TRI002",
-			"latitude": -1.38201528059,
-			"longitude": 47.3046282639,
+			"latitude": 47.3046282639,
+			"longitude": -1.38201528059,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin de la Piletière Mauves-sur-Loire",
 			"typeDechets": "Verre",
@@ -4717,8 +4716,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0271",
 			"idPointTri": "MA_TRI006",
-			"latitude": -1.39866635416,
-			"longitude": 47.2998224358,
+			"latitude": 47.2998224358,
+			"longitude": -1.39866635416,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Métairie Mauves-sur-Loire",
 			"typeDechets": "Verre",
@@ -4727,13 +4726,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0279",
 			"idPointTri": "NA_TRI135",
-			"latitude": -1.57638730564,
-			"longitude": 47.2253271278,
+			"latitude": 47.2253271278,
+			"longitude": -1.57638730564,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Gaston Serpette Nantes",
 			"typeDechets": "Verre",
@@ -4746,8 +4745,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0284",
 			"idPointTri": "NA_TRI137",
-			"latitude": -1.5719176963,
-			"longitude": 47.2470669515,
+			"latitude": 47.2470669515,
+			"longitude": -1.5719176963,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue Castellano Nantes",
 			"typeDechets": "Verre",
@@ -4760,8 +4759,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0291",
 			"idPointTri": "NA_TRI140",
-			"latitude": -1.57443438204,
-			"longitude": 47.2599937398,
+			"latitude": 47.2599937398,
+			"longitude": -1.57443438204,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Samuel De Champlain Nantes",
 			"typeDechets": "Verre",
@@ -4774,8 +4773,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0300",
 			"idPointTri": "NA_TRI142",
-			"latitude": -1.58715619883,
-			"longitude": 47.2092802541,
+			"latitude": 47.2092802541,
+			"longitude": -1.58715619883,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard de l'Egalité Nantes",
 			"typeDechets": "Verre",
@@ -4788,8 +4787,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0318",
 			"idPointTri": "NA_TRI150",
-			"latitude": -1.56428193386,
-			"longitude": 47.2606800777,
+			"latitude": 47.2606800777,
+			"longitude": -1.56428193386,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Honduras Nantes",
 			"typeDechets": "Verre",
@@ -4802,8 +4801,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0331",
 			"idPointTri": "NA_TRI099",
-			"latitude": -1.54361491842,
-			"longitude": 47.2018625936,
+			"latitude": 47.2018625936,
+			"longitude": -1.54361491842,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Anatole de Monzie Nantes",
 			"typeDechets": "Verre",
@@ -4812,13 +4811,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0332",
 			"idPointTri": "NA_TRI133",
-			"latitude": -1.54484087637,
-			"longitude": 47.2277917147,
+			"latitude": 47.2277917147,
+			"longitude": -1.54484087637,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "25 Rue Saint Rogatien Nantes",
 			"typeDechets": "Verre",
@@ -4827,13 +4826,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0369",
 			"idPointTri": "NA_TRI164",
-			"latitude": -1.50284016313,
-			"longitude": 47.2497679296,
+			"latitude": 47.2497679296,
+			"longitude": -1.50284016313,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Garde Nantes",
 			"typeDechets": "Verre",
@@ -4846,8 +4845,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0383",
 			"idPointTri": "NA_TRI008",
-			"latitude": -1.55226686659,
-			"longitude": 47.2184381928,
+			"latitude": 47.2184381928,
+			"longitude": -1.55226686659,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "11 Rue Saint-Denis Nantes",
 			"typeDechets": "Verre",
@@ -4856,13 +4855,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Trisac"
+			"type": "Verre, Trisac"
 		},
 		{
 			"code": "stco_conteneur_VE0387",
 			"idPointTri": "NA_TRI098",
-			"latitude": -1.54866666777,
-			"longitude": 47.2047299359,
+			"latitude": 47.2047299359,
+			"longitude": -1.54866666777,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "9 Boulevard Gustave Roch Nantes",
 			"typeDechets": "Verre",
@@ -4871,13 +4870,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0388",
 			"idPointTri": "NA_TRI171",
-			"latitude": -1.55044567727,
-			"longitude": 47.2351727622,
+			"latitude": 47.2351727622,
+			"longitude": -1.55044567727,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Eugène Orieux Nantes",
 			"typeDechets": "Verre",
@@ -4890,8 +4889,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0393",
 			"idPointTri": "NA_TRI124",
-			"latitude": -1.54552933471,
-			"longitude": 47.2017248547,
+			"latitude": 47.2017248547,
+			"longitude": -1.54552933471,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Adolphe Billault Nantes",
 			"typeDechets": "Verre",
@@ -4900,13 +4899,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0420",
 			"idPointTri": "NA_TRI184",
-			"latitude": -1.59201950867,
-			"longitude": 47.2047722911,
+			"latitude": 47.2047722911,
+			"longitude": -1.59201950867,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Fonteny Nantes",
 			"typeDechets": "Verre",
@@ -4919,8 +4918,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0434",
 			"idPointTri": "NA_TRI101",
-			"latitude": -1.53787888154,
-			"longitude": 47.2252408563,
+			"latitude": 47.2252408563,
+			"longitude": -1.53787888154,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "2 Rue des Rochettes Nantes",
 			"typeDechets": "Verre",
@@ -4929,13 +4928,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0447",
 			"idPointTri": "NA_TRI096",
-			"latitude": -1.53004096995,
-			"longitude": 47.1965568308,
+			"latitude": 47.1965568308,
+			"longitude": -1.53004096995,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Biarritz Nantes",
 			"typeDechets": "Verre",
@@ -4948,8 +4947,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0467",
 			"idPointTri": "NA_TRI198",
-			"latitude": -1.51811601557,
-			"longitude": 47.1869730023,
+			"latitude": 47.1869730023,
+			"longitude": -1.51811601557,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Gilarderie Nantes",
 			"typeDechets": "Verre",
@@ -4962,8 +4961,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0490",
 			"idPointTri": "NA_TRI205",
-			"latitude": -1.55252088599,
-			"longitude": 47.2119091331,
+			"latitude": 47.2119091331,
+			"longitude": -1.55252088599,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "2 Chaussée de la Madeleine Nantes",
 			"typeDechets": "Verre",
@@ -4972,13 +4971,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0493",
 			"idPointTri": "NA_TRI207",
-			"latitude": -1.58882350731,
-			"longitude": 47.20056677,
+			"latitude": 47.20056677,
+			"longitude": -1.58882350731,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Gutenberg Nantes",
 			"typeDechets": "Verre",
@@ -4991,8 +4990,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0525",
 			"idPointTri": "OR_TRI002",
-			"latitude": -1.58934163213,
-			"longitude": 47.2462398716,
+			"latitude": 47.2462398716,
+			"longitude": -1.58934163213,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de la Ferrière Orvault",
 			"typeDechets": "Verre",
@@ -5001,13 +5000,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0536",
 			"idPointTri": "OR_TRI034",
-			"latitude": -1.59784141573,
-			"longitude": 47.2442207428,
+			"latitude": 47.2442207428,
+			"longitude": -1.59784141573,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Botte d'Asperges Orvault",
 			"typeDechets": "Verre",
@@ -5020,8 +5019,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0544",
 			"idPointTri": "RE_TRI005",
-			"latitude": -1.54935672306,
-			"longitude": 47.1919621351,
+			"latitude": 47.1919621351,
+			"longitude": -1.54935672306,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Georges Barbeau Rezé",
 			"typeDechets": "Verre",
@@ -5034,8 +5033,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0552",
 			"idPointTri": "RE_TRI013",
-			"latitude": -1.55804750246,
-			"longitude": 47.1867599633,
+			"latitude": 47.1867599633,
+			"longitude": -1.55804750246,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue René Clair Rezé",
 			"typeDechets": "Verre",
@@ -5048,8 +5047,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0593",
 			"idPointTri": "RE_TRI050",
-			"latitude": -1.55481867646,
-			"longitude": 47.1666624262,
+			"latitude": 47.1666624262,
+			"longitude": -1.55481867646,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Paul Henri Spaak Rezé",
 			"typeDechets": "Verre",
@@ -5062,8 +5061,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0594",
 			"idPointTri": "RE_TRI051",
-			"latitude": -1.5611402668,
-			"longitude": 47.1701738281,
+			"latitude": 47.1701738281,
+			"longitude": -1.5611402668,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue Willy Brandt Rezé",
 			"typeDechets": "Verre",
@@ -5076,8 +5075,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0595",
 			"idPointTri": "RE_TRI052",
-			"latitude": -1.53776178774,
-			"longitude": 47.1865771466,
+			"latitude": 47.1865771466,
+			"longitude": -1.53776178774,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Baptiste Vigier Rezé",
 			"typeDechets": "Verre",
@@ -5090,8 +5089,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0598",
 			"idPointTri": "RE_TRI055",
-			"latitude": -1.56050316422,
-			"longitude": 47.185123914,
+			"latitude": 47.185123914,
+			"longitude": -1.56050316422,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée de Clisson Rezé",
 			"typeDechets": "Verre",
@@ -5104,8 +5103,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0600",
 			"idPointTri": "RE_TRI057",
-			"latitude": -1.55948428615,
-			"longitude": 47.1844762907,
+			"latitude": 47.1844762907,
+			"longitude": -1.55948428615,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place François Mitterrand Rezé",
 			"typeDechets": "Verre",
@@ -5118,8 +5117,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0608",
 			"idPointTri": "SA_TRI008",
-			"latitude": -1.67270365141,
-			"longitude": 47.2606621572,
+			"latitude": 47.2606621572,
+			"longitude": -1.67270365141,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Verger Sautron",
 			"typeDechets": "Verre",
@@ -5132,8 +5131,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0622",
 			"idPointTri": "AG_TRI003",
-			"latitude": -1.63108547401,
-			"longitude": 47.1438925778,
+			"latitude": 47.1438925778,
+			"longitude": -1.63108547401,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Impasse des Ecobuts Saint-Aignan-Grandlieu",
 			"typeDechets": "Verre",
@@ -5146,8 +5145,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0632",
 			"idPointTri": "SH_TRI019",
-			"latitude": -1.61782992655,
-			"longitude": 47.2100263948,
+			"latitude": 47.2100263948,
+			"longitude": -1.61782992655,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Béziers St-Herblain",
 			"typeDechets": "Verre",
@@ -5156,13 +5155,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Emballage ménager"
+			"type": "Verre, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_VE0661",
 			"idPointTri": "SH_TRI067",
-			"latitude": -1.63992193774,
-			"longitude": 47.2124528998,
+			"latitude": 47.2124528998,
+			"longitude": -1.63992193774,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Rocher St-Herblain",
 			"typeDechets": "Verre",
@@ -5175,8 +5174,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0663",
 			"idPointTri": "SH_TRI068",
-			"latitude": -1.62839218428,
-			"longitude": 47.2101206515,
+			"latitude": 47.2101206515,
+			"longitude": -1.62839218428,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Souvenir Français St-Herblain",
 			"typeDechets": "Verre",
@@ -5189,8 +5188,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0673",
 			"idPointTri": "SH_TRI016",
-			"latitude": -1.6116346788,
-			"longitude": 47.2405142832,
+			"latitude": 47.2405142832,
+			"longitude": -1.6116346788,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Zambèze St-Herblain",
 			"typeDechets": "Verre",
@@ -5199,13 +5198,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Emballage ménager"
+			"type": "Verre, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_VE0681",
 			"idPointTri": "SH_TRI093",
-			"latitude": -1.59337845516,
-			"longitude": 47.2385034501,
+			"latitude": 47.2385034501,
+			"longitude": -1.59337845516,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue des Genêts St-Herblain",
 			"typeDechets": "Verre",
@@ -5218,8 +5217,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0694",
 			"idPointTri": "SH_TRI042",
-			"latitude": -1.60516553842,
-			"longitude": 47.2377915543,
+			"latitude": 47.2377915543,
+			"longitude": -1.60516553842,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée Mozart St-Herblain",
 			"typeDechets": "Verre",
@@ -5228,13 +5227,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Emballage ménager"
+			"type": "Verre, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_VE0711",
 			"idPointTri": "SH_TRI006",
-			"latitude": -1.60792171025,
-			"longitude": 47.229182975,
+			"latitude": 47.229182975,
+			"longitude": -1.60792171025,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue Condorcet St-Herblain",
 			"typeDechets": "Verre",
@@ -5243,13 +5242,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Emballage ménager"
+			"type": "Verre, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_VE0715",
 			"idPointTri": "SH_TRI109",
-			"latitude": -1.6048937664,
-			"longitude": 47.2243962862,
+			"latitude": 47.2243962862,
+			"longitude": -1.6048937664,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue Colonac St-Herblain",
 			"typeDechets": "Verre",
@@ -5262,8 +5261,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0731",
 			"idPointTri": "JB_TRI003",
-			"latitude": -1.71182278832,
-			"longitude": 47.1942716801,
+			"latitude": 47.1942716801,
+			"longitude": -1.71182278832,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Noë Saint-Jean-de-Boiseau",
 			"typeDechets": "Verre",
@@ -5276,8 +5275,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0737",
 			"idPointTri": "JB_TRI009",
-			"latitude": -1.72538742581,
-			"longitude": 47.192644598,
+			"latitude": 47.192644598,
+			"longitude": -1.72538742581,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Pierre Mendès France Saint-Jean-de-Boiseau",
 			"typeDechets": "Verre",
@@ -5290,8 +5289,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0747",
 			"idPointTri": "LV_TRI003",
-			"latitude": -1.70489949097,
-			"longitude": 47.1418003338,
+			"latitude": 47.1418003338,
+			"longitude": -1.70489949097,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Corbon Saint-Léger-les-Vignes",
 			"typeDechets": "Verre",
@@ -5304,8 +5303,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0757",
 			"idPointTri": "SS_TRI014",
-			"latitude": -1.47992781063,
-			"longitude": 47.1932838884,
+			"latitude": 47.1932838884,
+			"longitude": -1.47992781063,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Noë Cottée Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -5318,8 +5317,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0775",
 			"idPointTri": "SS_TRI026",
-			"latitude": -1.5151123625,
-			"longitude": 47.1989358319,
+			"latitude": 47.1989358319,
+			"longitude": -1.5151123625,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Bois des Michées Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -5332,8 +5331,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0786",
 			"idPointTri": "SS_TRI037",
-			"latitude": -1.50304250148,
-			"longitude": 47.1905925664,
+			"latitude": 47.1905925664,
+			"longitude": -1.50304250148,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Mutualité Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -5346,8 +5345,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0807",
 			"idPointTri": "SS_TRI057",
-			"latitude": -1.52842838851,
-			"longitude": 47.202046855,
+			"latitude": 47.202046855,
+			"longitude": -1.52842838851,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Fonderie Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -5360,8 +5359,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0815",
 			"idPointTri": "SS_TRI005",
-			"latitude": -1.48747899528,
-			"longitude": 47.2033355378,
+			"latitude": 47.2033355378,
+			"longitude": -1.48747899528,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Roussillon Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -5374,8 +5373,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0822",
 			"idPointTri": "SL_TRI008",
-			"latitude": -1.48182360779,
-			"longitude": 47.2541017616,
+			"latitude": 47.2541017616,
+			"longitude": -1.48182360779,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Nobilière Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -5388,8 +5387,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0824",
 			"idPointTri": "SL_TRI009",
-			"latitude": -1.46693539669,
-			"longitude": 47.2408043207,
+			"latitude": 47.2408043207,
+			"longitude": -1.46693539669,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée Robert Cheval Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -5402,8 +5401,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0828",
 			"idPointTri": "SL_TRI013",
-			"latitude": -1.49656756538,
-			"longitude": 47.2546466692,
+			"latitude": 47.2546466692,
+			"longitude": -1.49656756538,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de l'Aiguillon Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -5416,8 +5415,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0832",
 			"idPointTri": "SL_TRI017",
-			"latitude": -1.45329877227,
-			"longitude": 47.25120822,
+			"latitude": 47.25120822,
+			"longitude": -1.45329877227,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route des Perrières Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -5430,8 +5429,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0838",
 			"idPointTri": "SL_TRI022",
-			"latitude": -1.48381926754,
-			"longitude": 47.2433850891,
+			"latitude": 47.2433850891,
+			"longitude": -1.48381926754,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Loire Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -5444,8 +5443,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0859",
 			"idPointTri": "VE_TRI017",
-			"latitude": -1.46565988372,
-			"longitude": 47.1688499842,
+			"latitude": 47.1688499842,
+			"longitude": -1.46565988372,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Massonnière Vertou",
 			"typeDechets": "Verre",
@@ -5458,8 +5457,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0869",
 			"idPointTri": "VE_TRI002",
-			"latitude": -1.47484462628,
-			"longitude": 47.1783593098,
+			"latitude": 47.1783593098,
+			"longitude": -1.47484462628,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de la Gare Vertou",
 			"typeDechets": "Verre",
@@ -5468,13 +5467,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0886",
 			"idPointTri": "VE_TRI034",
-			"latitude": -1.47944266968,
-			"longitude": 47.1643719796,
+			"latitude": 47.1643719796,
+			"longitude": -1.47944266968,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Guichet Sérex Vertou",
 			"typeDechets": "Verre",
@@ -5487,8 +5486,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0887",
 			"idPointTri": "VE_TRI035",
-			"latitude": -1.48626027442,
-			"longitude": 47.1655409514,
+			"latitude": 47.1655409514,
+			"longitude": -1.48626027442,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Impasse de la Vallée Vertou",
 			"typeDechets": "Verre",
@@ -5501,8 +5500,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0903",
 			"idPointTri": "VE_TRI048",
-			"latitude": -1.49605059824,
-			"longitude": 47.1858559201,
+			"latitude": 47.1858559201,
+			"longitude": -1.49605059824,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route du Mortier Vannerie Vertou",
 			"typeDechets": "Verre",
@@ -5515,8 +5514,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0913",
 			"idPointTri": "RE_TRI059",
-			"latitude": -1.55193942855,
-			"longitude": 47.1710203904,
+			"latitude": 47.1710203904,
+			"longitude": -1.55193942855,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de Deauville Rezé",
 			"typeDechets": "Verre",
@@ -5529,8 +5528,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0917",
 			"idPointTri": "BO_TRI012",
-			"latitude": -1.57899978008,
-			"longitude": 47.1748999415,
+			"latitude": 47.1748999415,
+			"longitude": -1.57899978008,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Saules Bouguenais",
 			"typeDechets": "Verre",
@@ -5543,8 +5542,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0920",
 			"idPointTri": "AG_TRI1",
-			"latitude": -1.62725097014,
-			"longitude": 47.1261439737,
+			"latitude": 47.1261439737,
+			"longitude": -1.62725097014,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de la Garotterie Saint-Aignan-Grandlieu",
 			"typeDechets": "Verre",
@@ -5553,13 +5552,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0939",
 			"idPointTri": "SS_TRI065",
-			"latitude": -1.4894728257,
-			"longitude": 47.2083532938,
+			"latitude": 47.2083532938,
+			"longitude": -1.4894728257,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue Jean Jaurès Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -5572,8 +5571,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0945",
 			"idPointTri": "RE_TRI048",
-			"latitude": -1.53688971968,
-			"longitude": 47.1721600516,
+			"latitude": 47.1721600516,
+			"longitude": -1.53688971968,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Moulin Guibreteau Rezé",
 			"typeDechets": "Verre",
@@ -5586,8 +5585,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0961",
 			"idPointTri": "SH_TRI077",
-			"latitude": -1.607870201,
-			"longitude": 47.2471224843,
+			"latitude": 47.2471224843,
+			"longitude": -1.607870201,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de Vannes St-Herblain",
 			"typeDechets": "Verre",
@@ -5596,13 +5595,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Emballage ménager"
+			"type": "Verre, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_VE0966",
 			"idPointTri": "IN_TRI011",
-			"latitude": -1.64830182455,
-			"longitude": 47.1959608387,
+			"latitude": 47.1959608387,
+			"longitude": -1.64830182455,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Surcouf Indre",
 			"typeDechets": "Verre",
@@ -5615,8 +5614,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0975",
 			"idPointTri": "SL_TRI026",
-			"latitude": -1.46510014814,
-			"longitude": 47.2514998416,
+			"latitude": 47.2514998416,
+			"longitude": -1.46510014814,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la gironnière Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -5629,8 +5628,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0988",
 			"idPointTri": "NA_TRI125",
-			"latitude": -1.52390298545,
-			"longitude": 47.1855079642,
+			"latitude": 47.1855079642,
+			"longitude": -1.52390298545,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Bourdonnières Nantes",
 			"typeDechets": "Verre",
@@ -5639,13 +5638,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_DS0013",
 			"idPointTri": "SH_TRI032",
-			"latitude": -1.58708904229,
-			"longitude": 47.2364794338,
+			"latitude": 47.2364794338,
+			"longitude": -1.58708904229,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard du Massacre St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -5654,13 +5653,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0019",
 			"idPointTri": "SH_TRI021",
-			"latitude": -1.60367682854,
-			"longitude": 47.2399196704,
+			"latitude": 47.2399196704,
+			"longitude": -1.60367682854,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue des Naudières St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -5669,13 +5668,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0032",
 			"idPointTri": "SH_TRI010",
-			"latitude": -1.60764760765,
-			"longitude": 47.2429941986,
+			"latitude": 47.2429941986,
+			"longitude": -1.60764760765,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Euphrate St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -5684,13 +5683,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0039",
 			"idPointTri": "SH_TRI034",
-			"latitude": -1.60627891703,
-			"longitude": 47.2284549136,
+			"latitude": 47.2284549136,
+			"longitude": -1.60627891703,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Bas Moulins St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -5699,13 +5698,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0042",
 			"idPointTri": "SH_TRI007",
-			"latitude": -1.6051338373,
-			"longitude": 47.2169211264,
+			"latitude": 47.2169211264,
+			"longitude": -1.6051338373,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue Michel Lecour Grandmaison St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -5714,13 +5713,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0045",
 			"idPointTri": "SH_TRI084",
-			"latitude": -1.60849912565,
-			"longitude": 47.2140641816,
+			"latitude": 47.2140641816,
+			"longitude": -1.60849912565,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Chicotière St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -5733,8 +5732,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_DS0052",
 			"idPointTri": "SH_TRI026",
-			"latitude": -1.61779691461,
-			"longitude": 47.2146835849,
+			"latitude": 47.2146835849,
+			"longitude": -1.61779691461,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue d'Avranches St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -5743,13 +5742,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0064",
 			"idPointTri": "SH_TRI089",
-			"latitude": -1.61720045666,
-			"longitude": 47.2095413146,
+			"latitude": 47.2095413146,
+			"longitude": -1.61720045666,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue d'Agen St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -5762,8 +5761,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_PC0003",
 			"idPointTri": "NA_TRI014",
-			"latitude": -1.57829785456,
-			"longitude": 47.2219993988,
+			"latitude": 47.2219993988,
+			"longitude": -1.57829785456,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place Paul Doumer Nantes",
 			"typeDechets": "Papier-carton",
@@ -5772,13 +5771,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Plastique"
+			"type": "Papier-carton, Plastique"
 		},
 		{
 			"code": "stco_conteneur_PC0064",
 			"idPointTri": "NA_TRI049",
-			"latitude": -1.55130670749,
-			"longitude": 47.2039085911,
+			"latitude": 47.2039085911,
+			"longitude": -1.55130670749,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "28 Boulevard Gustave Roch Nantes",
 			"typeDechets": "Papier-carton",
@@ -5787,13 +5786,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0087",
 			"idPointTri": "NA_TRI066",
-			"latitude": -1.54203420708,
-			"longitude": 47.2074170117,
+			"latitude": 47.2074170117,
+			"longitude": -1.54203420708,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue François Albert Nantes",
 			"typeDechets": "Papier-carton",
@@ -5802,13 +5801,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Papier-carton"
+			"type": "Papier-carton, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_PC0097",
 			"idPointTri": "NA_TRI102",
-			"latitude": -1.53325421686,
-			"longitude": 47.2205051072,
+			"latitude": 47.2205051072,
+			"longitude": -1.53325421686,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "9 Rue Francisco Ferrer Nantes",
 			"typeDechets": "Papier-carton",
@@ -5817,13 +5816,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0107",
 			"idPointTri": "NA_TRI115",
-			"latitude": -1.52752125572,
-			"longitude": 47.1959830163,
+			"latitude": 47.1959830163,
+			"longitude": -1.52752125572,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue d'Hasparren Nantes",
 			"typeDechets": "Papier-carton",
@@ -5832,13 +5831,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Plastique"
+			"type": "Papier-carton, Plastique"
 		},
 		{
 			"code": "stco_conteneur_PC0109",
 			"idPointTri": "NA_TRI118",
-			"latitude": -1.52649197367,
-			"longitude": 47.2118041698,
+			"latitude": 47.2118041698,
+			"longitude": -1.52649197367,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "2 Boulevard de la Loire Nantes",
 			"typeDechets": "Papier-carton",
@@ -5847,13 +5846,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0110",
 			"idPointTri": "NA_TRI110",
-			"latitude": -1.5310349656,
-			"longitude": 47.2533382577,
+			"latitude": 47.2533382577,
+			"longitude": -1.5310349656,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Port Durand Nantes",
 			"typeDechets": "Papier-carton",
@@ -5862,13 +5861,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PL0013",
 			"idPointTri": "NA_TRI082",
-			"latitude": -1.51978650876,
-			"longitude": 47.2298376712,
+			"latitude": 47.2298376712,
+			"longitude": -1.51978650876,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Julien Lemordant Nantes",
 			"typeDechets": "Plastique",
@@ -5877,13 +5876,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Verre"
+			"type": "Plastique, Verre"
 		},
 		{
 			"code": "stco_conteneur_PL0094",
 			"idPointTri": "NA_TRI129",
-			"latitude": -1.54321218789,
-			"longitude": 47.2393405921,
+			"latitude": 47.2393405921,
+			"longitude": -1.54321218789,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jacques Duclos Nantes",
 			"typeDechets": "Plastique",
@@ -5892,13 +5891,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Verre"
+			"type": "Plastique, Verre"
 		},
 		{
 			"code": "stco_conteneur_PL0112",
 			"idPointTri": "NA_TRI069",
-			"latitude": -1.52710166902,
-			"longitude": 47.191134883,
+			"latitude": 47.191134883,
+			"longitude": -1.52710166902,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Georges le Mevel Nantes",
 			"typeDechets": "Plastique",
@@ -5907,13 +5906,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Verre"
+			"type": "Plastique, Verre"
 		},
 		{
 			"code": "stco_conteneur_PL0132",
 			"idPointTri": "NA_TRI004",
-			"latitude": -1.57730809494,
-			"longitude": 47.240711367,
+			"latitude": 47.240711367,
+			"longitude": -1.57730809494,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue Junon Nantes",
 			"typeDechets": "Plastique",
@@ -5922,13 +5921,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Verre"
+			"type": "Plastique, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0001",
 			"idPointTri": "BG_TRI001",
-			"latitude": -1.46464572546,
-			"longitude": 47.2172818854,
+			"latitude": 47.2172818854,
+			"longitude": -1.46464572546,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Général Leclerc Basse-Goulaine",
 			"typeDechets": "Verre",
@@ -5937,13 +5936,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0015",
 			"idPointTri": "BG_TRI019",
-			"latitude": -1.47289977069,
-			"longitude": 47.2055002749,
+			"latitude": 47.2055002749,
+			"longitude": -1.47289977069,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Marcel Carné Basse-Goulaine",
 			"typeDechets": "Verre",
@@ -5956,8 +5955,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0024",
 			"idPointTri": "BY_TRI006",
-			"latitude": -1.68275439138,
-			"longitude": 47.1554869548,
+			"latitude": 47.1554869548,
+			"longitude": -1.68275439138,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Esplanade de l'Edit de Nantes Bouaye",
 			"typeDechets": "Verre",
@@ -5970,8 +5969,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0032",
 			"idPointTri": "BO_TRI008",
-			"latitude": -1.58939702843,
-			"longitude": 47.1754840368,
+			"latitude": 47.1754840368,
+			"longitude": -1.58939702843,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Neustrie Bouguenais",
 			"typeDechets": "Verre",
@@ -5984,8 +5983,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0066",
 			"idPointTri": "BO_TRI041",
-			"latitude": -1.58806796744,
-			"longitude": 47.1870837151,
+			"latitude": 47.1870837151,
+			"longitude": -1.58806796744,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin de la Vaserie Bouguenais",
 			"typeDechets": "Verre",
@@ -5998,8 +5997,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0078",
 			"idPointTri": "BR_TRI001",
-			"latitude": -1.72296670842,
-			"longitude": 47.1693900823,
+			"latitude": 47.1693900823,
+			"longitude": -1.72296670842,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Prés Brains",
 			"typeDechets": "Verre",
@@ -6012,8 +6011,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0099",
 			"idPointTri": "CA_TRI013",
-			"latitude": -1.50222865876,
-			"longitude": 47.2983155962,
+			"latitude": 47.2983155962,
+			"longitude": -1.50222865876,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue du Professeur Jean Rouxel Carquefou",
 			"typeDechets": "Verre",
@@ -6026,8 +6025,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0113",
 			"idPointTri": "CA_TRI027",
-			"latitude": -1.52360840531,
-			"longitude": 47.3030290989,
+			"latitude": 47.3030290989,
+			"longitude": -1.52360840531,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de Port Jean Carquefou",
 			"typeDechets": "Verre",
@@ -6040,8 +6039,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0125",
 			"idPointTri": "CA_TRI039",
-			"latitude": -1.50157556035,
-			"longitude": 47.2920317997,
+			"latitude": 47.2920317997,
+			"longitude": -1.50157556035,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin de la Savaudière Carquefou",
 			"typeDechets": "Verre",
@@ -6054,8 +6053,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0142",
 			"idPointTri": "CO_TRI016",
-			"latitude": -1.71319078865,
-			"longitude": 47.2124764345,
+			"latitude": 47.2124764345,
+			"longitude": -1.71319078865,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard des Martyrs de la Résistance Couëron",
 			"typeDechets": "Verre",
@@ -6068,8 +6067,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0144",
 			"idPointTri": "CO_TRI018",
-			"latitude": -1.69661682452,
-			"longitude": 47.2175528931,
+			"latitude": 47.2175528931,
+			"longitude": -1.69661682452,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Trévellec Couëron",
 			"typeDechets": "Verre",
@@ -6082,8 +6081,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0178",
 			"idPointTri": "CH_TRI007",
-			"latitude": -1.56615037551,
-			"longitude": 47.2926142977,
+			"latitude": 47.2926142977,
+			"longitude": -1.56615037551,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Parking  Mazaire La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -6096,8 +6095,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0191",
 			"idPointTri": "CH_TRI018",
-			"latitude": -1.55204788209,
-			"longitude": 47.2937320826,
+			"latitude": 47.2937320826,
+			"longitude": -1.55204788209,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue du Premier Mai La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -6110,8 +6109,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0192",
 			"idPointTri": "CH_TRI019",
-			"latitude": -1.54003501079,
-			"longitude": 47.3069775379,
+			"latitude": 47.3069775379,
+			"longitude": -1.54003501079,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de la Gandonnière La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -6124,8 +6123,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0193",
 			"idPointTri": "CH_TRI020",
-			"latitude": -1.54823929594,
-			"longitude": 47.3040571322,
+			"latitude": 47.3040571322,
+			"longitude": -1.54823929594,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Charles Nungesser La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -6138,8 +6137,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0196",
 			"idPointTri": "CH_TRI023",
-			"latitude": -1.55981358853,
-			"longitude": 47.3063416642,
+			"latitude": 47.3063416642,
+			"longitude": -1.55981358853,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Aven La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -6152,8 +6151,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0206",
 			"idPointTri": "CH_TRI033",
-			"latitude": -1.55001726684,
-			"longitude": 47.2692111614,
+			"latitude": 47.2692111614,
+			"longitude": -1.55001726684,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Jacques Demy La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -6166,8 +6165,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0208",
 			"idPointTri": "CH_TRI035",
-			"latitude": -1.54901648484,
-			"longitude": 47.2665589182,
+			"latitude": 47.2665589182,
+			"longitude": -1.54901648484,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue des Cotterets La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -6180,8 +6179,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0222",
 			"idPointTri": "MT_TRI011",
-			"latitude": -1.6832212665,
-			"longitude": 47.187773747,
+			"latitude": 47.187773747,
+			"longitude": -1.6832212665,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Union La Montagne",
 			"typeDechets": "Verre",
@@ -6194,8 +6193,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0226",
 			"idPointTri": "MT_TRI015",
-			"latitude": -1.68770835,
-			"longitude": 47.1871712731,
+			"latitude": 47.1871712731,
+			"longitude": -1.68770835,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Flora Tristan La Montagne",
 			"typeDechets": "Verre",
@@ -6208,8 +6207,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0260",
 			"idPointTri": "SO_TRI013",
-			"latitude": -1.52465853855,
-			"longitude": 47.1577250211,
+			"latitude": 47.1577250211,
+			"longitude": -1.52465853855,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Menhir Les Sorinières",
 			"typeDechets": "Verre",
@@ -6222,8 +6221,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0262",
 			"idPointTri": "SO_TRI015",
-			"latitude": -1.51611470675,
-			"longitude": 47.1305362376,
+			"latitude": 47.1305362376,
+			"longitude": -1.51611470675,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Lieu-dit Le Taillis Les Sorinières",
 			"typeDechets": "Verre",
@@ -6236,8 +6235,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0296",
 			"idPointTri": "NA_TRI034",
-			"latitude": -1.58899551908,
-			"longitude": 47.2207729356,
+			"latitude": 47.2207729356,
+			"longitude": -1.58899551908,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Baptiste Delambre Nantes",
 			"typeDechets": "Verre",
@@ -6246,13 +6245,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0314",
 			"idPointTri": "NA_TRI148",
-			"latitude": -1.56222442782,
-			"longitude": 47.214811132,
+			"latitude": 47.214811132,
+			"longitude": -1.56222442782,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "2 Rue Louis Préaubert Nantes",
 			"typeDechets": "Verre",
@@ -6265,8 +6264,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0345",
 			"idPointTri": "NA_TRI160",
-			"latitude": -1.51535051934,
-			"longitude": 47.2279789877,
+			"latitude": 47.2279789877,
+			"longitude": -1.51535051934,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Perrines Nantes",
 			"typeDechets": "Verre",
@@ -6279,8 +6278,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0360",
 			"idPointTri": "NA_TRI162",
-			"latitude": -1.50925887284,
-			"longitude": 47.2308569161,
+			"latitude": 47.2308569161,
+			"longitude": -1.50925887284,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Auguste Péneau Nantes",
 			"typeDechets": "Verre",
@@ -6293,8 +6292,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0379",
 			"idPointTri": "NA_TRI169",
-			"latitude": -1.55389087745,
-			"longitude": 47.2189437082,
+			"latitude": 47.2189437082,
+			"longitude": -1.55389087745,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "42 Rue de Strasbourg Nantes",
 			"typeDechets": "Verre",
@@ -6307,8 +6306,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0382",
 			"idPointTri": "NA_TRI170",
-			"latitude": -1.55480102761,
-			"longitude": 47.2526844039,
+			"latitude": 47.2526844039,
+			"longitude": -1.55480102761,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Bourgeonnière Nantes",
 			"typeDechets": "Verre",
@@ -6321,8 +6320,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0390",
 			"idPointTri": "NA_TRI173",
-			"latitude": -1.54759672769,
-			"longitude": 47.2035703742,
+			"latitude": 47.2035703742,
+			"longitude": -1.54759672769,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "1 Rue de l’Echappée Nantes",
 			"typeDechets": "Verre",
@@ -6335,8 +6334,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0408",
 			"idPointTri": "NA_TRI179",
-			"latitude": -1.60402116925,
-			"longitude": 47.2135961503,
+			"latitude": 47.2135961503,
+			"longitude": -1.60402116925,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Durantière Nantes",
 			"typeDechets": "Verre",
@@ -6349,8 +6348,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0429",
 			"idPointTri": "NA_TRI189",
-			"latitude": -1.54065035761,
-			"longitude": 47.2316515927,
+			"latitude": 47.2316515927,
+			"longitude": -1.54065035761,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Morand Nantes",
 			"typeDechets": "Verre",
@@ -6363,8 +6362,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0432",
 			"idPointTri": "NA_TRI190",
-			"latitude": -1.53620104083,
-			"longitude": 47.1960115025,
+			"latitude": 47.1960115025,
+			"longitude": -1.53620104083,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Bonne Garde Nantes",
 			"typeDechets": "Verre",
@@ -6377,8 +6376,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0476",
 			"idPointTri": "NA_TRI077",
-			"latitude": -1.56764846965,
-			"longitude": 47.247103206,
+			"latitude": 47.247103206,
+			"longitude": -1.56764846965,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Hippodrome Nantes",
 			"typeDechets": "Verre",
@@ -6387,13 +6386,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Plastique"
+			"type": "Verre, Plastique"
 		},
 		{
 			"code": "stco_conteneur_VE0485",
 			"idPointTri": "NA_TRI035",
-			"latitude": -1.56500088238,
-			"longitude": 47.222233495,
+			"latitude": 47.222233495,
+			"longitude": -1.56500088238,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue d'Auvours Nantes",
 			"typeDechets": "Verre",
@@ -6402,13 +6401,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0509",
 			"idPointTri": "OR_TRI011",
-			"latitude": -1.59337417692,
-			"longitude": 47.2631329886,
+			"latitude": 47.2631329886,
+			"longitude": -1.59337417692,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Toussaint Deniaud Orvault",
 			"typeDechets": "Verre",
@@ -6421,8 +6420,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0512",
 			"idPointTri": "OR_TRI014",
-			"latitude": -1.58287242603,
-			"longitude": 47.2564135538,
+			"latitude": 47.2564135538,
+			"longitude": -1.58287242603,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Mulonnière Orvault",
 			"typeDechets": "Verre",
@@ -6435,8 +6434,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0522",
 			"idPointTri": "OR_TRI022",
-			"latitude": -1.58016174358,
-			"longitude": 47.2488923324,
+			"latitude": 47.2488923324,
+			"longitude": -1.58016174358,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Taillis Orvault",
 			"typeDechets": "Verre",
@@ -6449,8 +6448,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0545",
 			"idPointTri": "RE_TRI006",
-			"latitude": -1.55208383669,
-			"longitude": 47.1919722848,
+			"latitude": 47.1919722848,
+			"longitude": -1.55208383669,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Maurice Garand Rezé",
 			"typeDechets": "Verre",
@@ -6463,8 +6462,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0550",
 			"idPointTri": "RE_TRI011",
-			"latitude": -1.56920933106,
-			"longitude": 47.1893529464,
+			"latitude": 47.1893529464,
+			"longitude": -1.56920933106,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Le Corbusier Rezé",
 			"typeDechets": "Verre",
@@ -6477,8 +6476,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0559",
 			"idPointTri": "RE_TRI020",
-			"latitude": -1.54863364727,
-			"longitude": 47.1810402088,
+			"latitude": 47.1810402088,
+			"longitude": -1.54863364727,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Joseph et Lucien Leclerc Rezé",
 			"typeDechets": "Verre",
@@ -6491,8 +6490,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0561",
 			"idPointTri": "RE_TRI022",
-			"latitude": -1.55908495576,
-			"longitude": 47.1777194978,
+			"latitude": 47.1777194978,
+			"longitude": -1.55908495576,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Galarnière Rezé",
 			"typeDechets": "Verre",
@@ -6501,13 +6500,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0566",
 			"idPointTri": "RE_TRI027",
-			"latitude": -1.5698302648,
-			"longitude": 47.1925307965,
+			"latitude": 47.1925307965,
+			"longitude": -1.5698302648,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue du Maréchal De Lattre de Tassigny Rezé",
 			"typeDechets": "Verre",
@@ -6520,8 +6519,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0575",
 			"idPointTri": "RE_TRI036",
-			"latitude": -1.5364925392,
-			"longitude": 47.1767322904,
+			"latitude": 47.1767322904,
+			"longitude": -1.5364925392,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Parc Ferrand Rezé",
 			"typeDechets": "Verre",
@@ -6534,8 +6533,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0589",
 			"idPointTri": "RE_TRI046",
-			"latitude": -1.532205748,
-			"longitude": 47.1643193179,
+			"latitude": 47.1643193179,
+			"longitude": -1.532205748,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Robinière Rezé",
 			"typeDechets": "Verre",
@@ -6544,13 +6543,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0612",
 			"idPointTri": "SA_TRI012",
-			"latitude": -1.67942549002,
-			"longitude": 47.2651092577,
+			"latitude": 47.2651092577,
+			"longitude": -1.67942549002,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée du Bois Sautron",
 			"typeDechets": "Verre",
@@ -6563,8 +6562,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0634",
 			"idPointTri": "SH_TRI028",
-			"latitude": -1.61550944529,
-			"longitude": 47.2050774079,
+			"latitude": 47.2050774079,
+			"longitude": -1.61550944529,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Marseille St-Herblain",
 			"typeDechets": "Verre",
@@ -6573,13 +6572,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Emballage ménager"
+			"type": "Verre, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_VE0647",
 			"idPointTri": "SH_TRI054",
-			"latitude": -1.65226718534,
-			"longitude": 47.2153078987,
+			"latitude": 47.2153078987,
+			"longitude": -1.65226718534,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Euclide St-Herblain",
 			"typeDechets": "Verre",
@@ -6592,8 +6591,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0653",
 			"idPointTri": "SH_TRI059",
-			"latitude": -1.65753826957,
-			"longitude": 47.2050844577,
+			"latitude": 47.2050844577,
+			"longitude": -1.65753826957,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée des Agates St-Herblain",
 			"typeDechets": "Verre",
@@ -6606,8 +6605,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0676",
 			"idPointTri": "SH_TRI092",
-			"latitude": -1.58870260247,
-			"longitude": 47.2348271328,
+			"latitude": 47.2348271328,
+			"longitude": -1.58870260247,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard du Massacre St-Herblain",
 			"typeDechets": "Verre",
@@ -6620,8 +6619,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0682",
 			"idPointTri": "SH_TRI094",
-			"latitude": -1.59696434951,
-			"longitude": 47.2403304535,
+			"latitude": 47.2403304535,
+			"longitude": -1.59696434951,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de Cheverny St-Herblain",
 			"typeDechets": "Verre",
@@ -6634,8 +6633,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0698",
 			"idPointTri": "SH_TRI104",
-			"latitude": -1.60196036215,
-			"longitude": 47.2397997894,
+			"latitude": 47.2397997894,
+			"longitude": -1.60196036215,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue des Naudières St-Herblain",
 			"typeDechets": "Verre",
@@ -6648,8 +6647,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0714",
 			"idPointTri": "SH_TRI023",
-			"latitude": -1.60694771107,
-			"longitude": 47.2228534975,
+			"latitude": 47.2228534975,
+			"longitude": -1.60694771107,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Garotterie St-Herblain",
 			"typeDechets": "Verre",
@@ -6658,13 +6657,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Emballage ménager"
+			"type": "Verre, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_VE0725",
 			"idPointTri": "SH_TRI029",
-			"latitude": -1.61253331463,
-			"longitude": 47.2162138038,
+			"latitude": 47.2162138038,
+			"longitude": -1.61253331463,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Chicotière St-Herblain",
 			"typeDechets": "Verre",
@@ -6673,13 +6672,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Emballage ménager"
+			"type": "Verre, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_VE0739",
 			"idPointTri": "JB_TRI011",
-			"latitude": -1.70316899444,
-			"longitude": 47.1852875227,
+			"latitude": 47.1852875227,
+			"longitude": -1.70316899444,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Impasse de la Rivetière Saint-Jean-de-Boiseau",
 			"typeDechets": "Verre",
@@ -6692,8 +6691,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0744",
 			"idPointTri": "JB_TRI014",
-			"latitude": -1.69512710605,
-			"longitude": 47.1939995373,
+			"latitude": 47.1939995373,
+			"longitude": -1.69512710605,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Remparts Saint-Jean-de-Boiseau",
 			"typeDechets": "Verre",
@@ -6706,8 +6705,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0746",
 			"idPointTri": "LV_TRI002",
-			"latitude": -1.72169996032,
-			"longitude": 47.1369995965,
+			"latitude": 47.1369995965,
+			"longitude": -1.72169996032,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Anciens Chais Saint-Léger-les-Vignes",
 			"typeDechets": "Verre",
@@ -6720,8 +6719,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0756",
 			"idPointTri": "SS_TRI013",
-			"latitude": -1.48461894601,
-			"longitude": 47.1953190321,
+			"latitude": 47.1953190321,
+			"longitude": -1.48461894601,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée des Amandiers Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -6734,8 +6733,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0760",
 			"idPointTri": "SS_TRI017",
-			"latitude": -1.48549161659,
-			"longitude": 47.1997600651,
+			"latitude": 47.1997600651,
+			"longitude": -1.48549161659,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Pyramide Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -6748,8 +6747,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0764",
 			"idPointTri": "SS_TRI019",
-			"latitude": -1.51791349006,
-			"longitude": 47.1903199494,
+			"latitude": 47.1903199494,
+			"longitude": -1.51791349006,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Aristide Briand Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -6762,8 +6761,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0765",
 			"idPointTri": "SS_TRI003",
-			"latitude": -1.49143689293,
-			"longitude": 47.2037396725,
+			"latitude": 47.2037396725,
+			"longitude": -1.49143689293,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Beaugency Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -6772,13 +6771,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0789",
 			"idPointTri": "SS_TRI040",
-			"latitude": -1.51592013925,
-			"longitude": 47.2050061395,
+			"latitude": 47.2050061395,
+			"longitude": -1.51592013925,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Baugerie Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -6791,8 +6790,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0794",
 			"idPointTri": "SS_TRI045",
-			"latitude": -1.51125278202,
-			"longitude": 47.2074600275,
+			"latitude": 47.2074600275,
+			"longitude": -1.51125278202,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Docteur Paul Michaux Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -6805,8 +6804,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0798",
 			"idPointTri": "SS_TRI049",
-			"latitude": -1.49670144325,
-			"longitude": 47.2078850666,
+			"latitude": 47.2078850666,
+			"longitude": -1.49670144325,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Général De Gaulle Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -6819,8 +6818,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0819",
 			"idPointTri": "SL_TRI001",
-			"latitude": -1.48383002233,
-			"longitude": 47.2500060185,
+			"latitude": 47.2500060185,
+			"longitude": -1.48383002233,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place André Malraux Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -6829,13 +6828,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0825",
 			"idPointTri": "SL_TRI010",
-			"latitude": -1.4954132717,
-			"longitude": 47.2508259379,
+			"latitude": 47.2508259379,
+			"longitude": -1.4954132717,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Mottay Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -6848,8 +6847,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0827",
 			"idPointTri": "SL_TRI012",
-			"latitude": -1.47859011534,
-			"longitude": 47.2619484933,
+			"latitude": 47.2619484933,
+			"longitude": -1.47859011534,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Beau Soleil Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -6862,8 +6861,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0829",
 			"idPointTri": "SL_TRI014",
-			"latitude": -1.46988233142,
-			"longitude": 47.2606491789,
+			"latitude": 47.2606491789,
+			"longitude": -1.46988233142,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Moulin Cassé Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -6876,8 +6875,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0830",
 			"idPointTri": "SL_TRI015",
-			"latitude": -1.48664289541,
-			"longitude": 47.2636836682,
+			"latitude": 47.2636836682,
+			"longitude": -1.48664289541,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Denis Papin Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -6890,8 +6889,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0852",
 			"idPointTri": "VE_TRI010",
-			"latitude": -1.4464700715,
-			"longitude": 47.1784722494,
+			"latitude": 47.1784722494,
+			"longitude": -1.4464700715,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Mortiers Vertou",
 			"typeDechets": "Verre",
@@ -6904,8 +6903,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0854",
 			"idPointTri": "VE_TRI012",
-			"latitude": -1.43276135377,
-			"longitude": 47.1778330486,
+			"latitude": 47.1778330486,
+			"longitude": -1.43276135377,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Chevrue Vertou",
 			"typeDechets": "Verre",
@@ -6918,8 +6917,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0858",
 			"idPointTri": "VE_TRI016",
-			"latitude": -1.46213992407,
-			"longitude": 47.1659407631,
+			"latitude": 47.1659407631,
+			"longitude": -1.46213992407,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard de l'Europe Vertou",
 			"typeDechets": "Verre",
@@ -6932,8 +6931,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0868",
 			"idPointTri": "VE_TRI021",
-			"latitude": -1.47700091194,
-			"longitude": 47.1858782324,
+			"latitude": 47.1858782324,
+			"longitude": -1.47700091194,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Bois Rigaud Vertou",
 			"typeDechets": "Verre",
@@ -6946,8 +6945,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0883",
 			"idPointTri": "VE_TRI032",
-			"latitude": -1.47133921465,
-			"longitude": 47.1377056784,
+			"latitude": 47.1377056784,
+			"longitude": -1.47133921465,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Grande Ile Vertou",
 			"typeDechets": "Verre",
@@ -6960,8 +6959,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0892",
 			"idPointTri": "VE_TRI040",
-			"latitude": -1.50572022946,
-			"longitude": 47.1637015436,
+			"latitude": 47.1637015436,
+			"longitude": -1.50572022946,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Clos des Vignes Vertou",
 			"typeDechets": "Verre",
@@ -6974,8 +6973,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0922",
 			"idPointTri": "BY_TRI008",
-			"latitude": -1.65884881232,
-			"longitude": 47.155847403,
+			"latitude": 47.155847403,
+			"longitude": -1.65884881232,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de Bouguenais Bouaye",
 			"typeDechets": "Verre",
@@ -6988,8 +6987,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0923",
 			"idPointTri": "BO_TRI045",
-			"latitude": -1.62312473751,
-			"longitude": 47.176795803,
+			"latitude": 47.176795803,
+			"longitude": -1.62312473751,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Cimetière Bouguenais",
 			"typeDechets": "Verre",
@@ -7002,8 +7001,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0942",
 			"idPointTri": "NA_TRI218",
-			"latitude": -1.55257589375,
-			"longitude": 47.221210762,
+			"latitude": 47.221210762,
+			"longitude": -1.55257589375,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Quai Ceineray Nantes",
 			"typeDechets": "Verre",
@@ -7016,8 +7015,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0948",
 			"idPointTri": "NA_TRI221",
-			"latitude": -1.55239590416,
-			"longitude": 47.2234859477,
+			"latitude": 47.2234859477,
+			"longitude": -1.55239590416,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "1 Quai Henri Barbusse Nantes",
 			"typeDechets": "Verre",
@@ -7030,8 +7029,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0958",
 			"idPointTri": "OR_TRI039",
-			"latitude": -1.6349291646,
-			"longitude": 47.2598709635,
+			"latitude": 47.2598709635,
+			"longitude": -1.6349291646,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de la Bugallière Orvault",
 			"typeDechets": "Verre",
@@ -7044,8 +7043,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0959",
 			"idPointTri": "OR_TRI038",
-			"latitude": -1.61494400897,
-			"longitude": 47.2721043537,
+			"latitude": 47.2721043537,
+			"longitude": -1.61494400897,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Patureau Orvault",
 			"typeDechets": "Verre",
@@ -7058,8 +7057,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_DS0014",
 			"idPointTri": "SH_TRI027",
-			"latitude": -1.59091617765,
-			"longitude": 47.2355917248,
+			"latitude": 47.2355917248,
+			"longitude": -1.59091617765,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de la Baraudière St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -7068,13 +7067,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0017",
 			"idPointTri": "SH_TRI039",
-			"latitude": -1.60871250547,
-			"longitude": 47.2413046478,
+			"latitude": 47.2413046478,
+			"longitude": -1.60871250547,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue des Thébaudières St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -7083,13 +7082,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0046",
 			"idPointTri": "SH_TRI008",
-			"latitude": -1.61042359044,
-			"longitude": 47.214879557,
+			"latitude": 47.214879557,
+			"longitude": -1.61042359044,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Chicotière St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -7098,13 +7097,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0067",
 			"idPointTri": "SH_TRI025",
-			"latitude": -1.61710771018,
-			"longitude": 47.2059895029,
+			"latitude": 47.2059895029,
+			"longitude": -1.61710771018,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Marseille St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -7113,13 +7112,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0070",
 			"idPointTri": "SH_TRI090",
-			"latitude": -1.65246401765,
-			"longitude": 47.2141081547,
+			"latitude": 47.2141081547,
+			"longitude": -1.65246401765,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Théophile Guillou St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -7132,8 +7131,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_DS0074",
 			"idPointTri": "SH_TRI115",
-			"latitude": -1.60803305892,
-			"longitude": 47.2140078994,
+			"latitude": 47.2140078994,
+			"longitude": -1.60803305892,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Chicotière St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -7146,8 +7145,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_PC0034",
 			"idPointTri": "NA_TRI018",
-			"latitude": -1.54385377258,
-			"longitude": 47.2046354817,
+			"latitude": 47.2046354817,
+			"longitude": -1.54385377258,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "2 Rue de la Porte Gellée Nantes",
 			"typeDechets": "Papier-carton",
@@ -7156,13 +7155,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0055",
 			"idPointTri": "NA_TRI030",
-			"latitude": -1.50565293477,
-			"longitude": 47.2362282326,
+			"latitude": 47.2362282326,
+			"longitude": -1.50565293477,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard du Manoir Saint-Lo Nantes",
 			"typeDechets": "Papier-carton",
@@ -7171,13 +7170,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0085",
 			"idPointTri": "NA_TRI047",
-			"latitude": -1.597750382,
-			"longitude": 47.2186727482,
+			"latitude": 47.2186727482,
+			"longitude": -1.597750382,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Bouillon Nantes",
 			"typeDechets": "Papier-carton",
@@ -7186,13 +7185,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0089",
 			"idPointTri": "NA_TRI080",
-			"latitude": -1.53950699187,
-			"longitude": 47.2031142372,
+			"latitude": 47.2031142372,
+			"longitude": -1.53950699187,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "3 Rue Pierre Etienne Flandin Nantes",
 			"typeDechets": "Papier-carton",
@@ -7201,13 +7200,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0090",
 			"idPointTri": "NA_TRI100",
-			"latitude": -1.53989599805,
-			"longitude": 47.2289135978,
+			"latitude": 47.2289135978,
+			"longitude": -1.53989599805,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "2 Rue du 51ième RA Nantes",
 			"typeDechets": "Papier-carton",
@@ -7216,13 +7215,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0094",
 			"idPointTri": "NA_TRI032",
-			"latitude": -1.53778476795,
-			"longitude": 47.2394425817,
+			"latitude": 47.2394425817,
+			"longitude": -1.53778476795,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de Saint Joseph Nantes",
 			"typeDechets": "Papier-carton",
@@ -7231,13 +7230,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0131",
 			"idPointTri": "NA_TRI003",
-			"latitude": -1.58046865663,
-			"longitude": 47.2357634278,
+			"latitude": 47.2357634278,
+			"longitude": -1.58046865663,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Chanteclerc Nantes",
 			"typeDechets": "Papier-carton",
@@ -7246,13 +7245,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Plastique"
+			"type": "Papier-carton, Plastique"
 		},
 		{
 			"code": "stco_conteneur_PC0132",
 			"idPointTri": "NA_TRI210",
-			"latitude": -1.55739599674,
-			"longitude": 47.2516072565,
+			"latitude": 47.2516072565,
+			"longitude": -1.55739599674,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Fresche Blanc Nantes",
 			"typeDechets": "Papier-carton",
@@ -7265,8 +7264,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_PL0087",
 			"idPointTri": "NA_TRI113",
-			"latitude": -1.59855687489,
-			"longitude": 47.2045729839,
+			"latitude": 47.2045729839,
+			"longitude": -1.59855687489,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Préfailles Nantes",
 			"typeDechets": "Plastique",
@@ -7275,13 +7274,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Plastique, Papier-carton"
+			"type": "Plastique, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0002",
 			"idPointTri": "BG_TRI017",
-			"latitude": -1.45878251392,
-			"longitude": 47.2308300094,
+			"latitude": 47.2308300094,
+			"longitude": -1.45878251392,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "impasse des trois cheminées Basse-Goulaine",
 			"typeDechets": "Verre",
@@ -7294,8 +7293,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0005",
 			"idPointTri": "BG_TRI018",
-			"latitude": -1.4773869180799999,
-			"longitude": 47.2146921111,
+			"latitude": 47.2146921111,
+			"longitude": -1.4773869180799999,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Port Basse-Goulaine",
 			"typeDechets": "Verre",
@@ -7308,8 +7307,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0030",
 			"idPointTri": "BO_TRI006",
-			"latitude": -1.59101192569,
-			"longitude": 47.178477278,
+			"latitude": 47.178477278,
+			"longitude": -1.59101192569,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Basses Landes Bouguenais",
 			"typeDechets": "Verre",
@@ -7322,8 +7321,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0037",
 			"idPointTri": "BO_TRI013",
-			"latitude": -1.58616781962,
-			"longitude": 47.1788353122,
+			"latitude": 47.1788353122,
+			"longitude": -1.58616781962,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Clos St Père Bouguenais",
 			"typeDechets": "Verre",
@@ -7336,8 +7335,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0048",
 			"idPointTri": "BO_TRI023",
-			"latitude": -1.6257892045,
-			"longitude": 47.1793015729,
+			"latitude": 47.1793015729,
+			"longitude": -1.6257892045,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jacques Demy Bouguenais",
 			"typeDechets": "Verre",
@@ -7350,8 +7349,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0050",
 			"idPointTri": "BO_TRI025",
-			"latitude": -1.64299320811,
-			"longitude": 47.1794401247,
+			"latitude": 47.1794401247,
+			"longitude": -1.64299320811,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Pagerie Bouguenais",
 			"typeDechets": "Verre",
@@ -7364,8 +7363,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0053",
 			"idPointTri": "BO_TRI028",
-			"latitude": -1.63345842271,
-			"longitude": 47.1749767815,
+			"latitude": 47.1749767815,
+			"longitude": -1.63345842271,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Gouretterie Bouguenais",
 			"typeDechets": "Verre",
@@ -7378,8 +7377,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0076",
 			"idPointTri": "BO_TRI048",
-			"latitude": -1.58930041939,
-			"longitude": 47.1828149892,
+			"latitude": 47.1828149892,
+			"longitude": -1.58930041939,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Célestin Freinet Bouguenais",
 			"typeDechets": "Verre",
@@ -7392,8 +7391,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0079",
 			"idPointTri": "BR_TRI002",
-			"latitude": -1.73597589176,
-			"longitude": 47.169300216,
+			"latitude": 47.169300216,
+			"longitude": -1.73597589176,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Impasse de la Nouëlle Brains",
 			"typeDechets": "Verre",
@@ -7406,8 +7405,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0085",
 			"idPointTri": "CA_TRI005",
-			"latitude": -1.48099425354,
-			"longitude": 47.2980209295,
+			"latitude": 47.2980209295,
+			"longitude": -1.48099425354,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "rue du chevalier maillard Carquefou",
 			"typeDechets": "Verre",
@@ -7420,8 +7419,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0095",
 			"idPointTri": "CA_TRI004",
-			"latitude": -1.49818730394,
-			"longitude": 47.2812503432,
+			"latitude": 47.2812503432,
+			"longitude": -1.49818730394,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place des Tennis Carquefou",
 			"typeDechets": "Verre",
@@ -7430,13 +7429,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0097",
 			"idPointTri": "CA_TRI011",
-			"latitude": -1.50172160585,
-			"longitude": 47.2828952246,
+			"latitude": 47.2828952246,
+			"longitude": -1.50172160585,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue du Bernier Carquefou",
 			"typeDechets": "Verre",
@@ -7449,8 +7448,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0161",
 			"idPointTri": "CO_TRI034",
-			"latitude": -1.6848002751,
-			"longitude": 47.2196003979,
+			"latitude": 47.2196003979,
+			"longitude": -1.6848002751,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Noë Allais Couëron",
 			"typeDechets": "Verre",
@@ -7463,8 +7462,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0187",
 			"idPointTri": "CH_TRI014",
-			"latitude": -1.55721252704,
-			"longitude": 47.3013340919,
+			"latitude": 47.3013340919,
+			"longitude": -1.55721252704,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Lanoue Bras de Fer La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -7477,8 +7476,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0194",
 			"idPointTri": "CH_TRI021",
-			"latitude": -1.55209971827,
-			"longitude": 47.3058041128,
+			"latitude": 47.3058041128,
+			"longitude": -1.55209971827,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Source La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -7491,8 +7490,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0199",
 			"idPointTri": "CH_TRI026",
-			"latitude": -1.53833557056,
-			"longitude": 47.2885448517,
+			"latitude": 47.2885448517,
+			"longitude": -1.53833557056,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin de Kerbihan La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -7505,8 +7504,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0210",
 			"idPointTri": "CH_TRI037",
-			"latitude": -1.55712523496,
-			"longitude": 47.2797782817,
+			"latitude": 47.2797782817,
+			"longitude": -1.55712523496,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin de Roche Blanche La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -7519,8 +7518,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0216",
 			"idPointTri": "MT_TRI005",
-			"latitude": -1.67195133376,
-			"longitude": 47.1851510271,
+			"latitude": 47.1851510271,
+			"longitude": -1.67195133376,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Fauvettes La Montagne",
 			"typeDechets": "Verre",
@@ -7533,8 +7532,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0227",
 			"idPointTri": "MT_TRI002",
-			"latitude": -1.6874777497,
-			"longitude": 47.1846272408,
+			"latitude": 47.1846272408,
+			"longitude": -1.6874777497,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Grand Clos La Montagne",
 			"typeDechets": "Verre",
@@ -7543,13 +7542,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0254",
 			"idPointTri": "SO_TRI007",
-			"latitude": -1.5295664242,
-			"longitude": 47.135028977,
+			"latitude": 47.135028977,
+			"longitude": -1.5295664242,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Moulin des Landes Les Sorinières",
 			"typeDechets": "Verre",
@@ -7562,8 +7561,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0295",
 			"idPointTri": "NA_TRI041",
-			"latitude": -1.58999369166,
-			"longitude": 47.2107820484,
+			"latitude": 47.2107820484,
+			"longitude": -1.58999369166,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Convention Nantes",
 			"typeDechets": "Verre",
@@ -7572,13 +7571,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0307",
 			"idPointTri": "NA_TRI045",
-			"latitude": -1.59161591538,
-			"longitude": 47.2253747259,
+			"latitude": 47.2253747259,
+			"longitude": -1.59161591538,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Marc Nattier Nantes",
 			"typeDechets": "Verre",
@@ -7587,13 +7586,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0310",
 			"idPointTri": "NA_TRI146",
-			"latitude": -1.56713062141,
-			"longitude": 47.265504751,
+			"latitude": 47.265504751,
+			"longitude": -1.56713062141,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Pierre Adolphe Bobierre Nantes",
 			"typeDechets": "Verre",
@@ -7606,8 +7605,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0315",
 			"idPointTri": "NA_TRI149",
-			"latitude": -1.56217692447,
-			"longitude": 47.2264039671,
+			"latitude": 47.2264039671,
+			"longitude": -1.56217692447,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Noire Nantes",
 			"typeDechets": "Verre",
@@ -7620,8 +7619,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0319",
 			"idPointTri": "NA_TRI151",
-			"latitude": -1.56262235157,
-			"longitude": 47.2534903275,
+			"latitude": 47.2534903275,
+			"longitude": -1.56262235157,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Renards Nantes",
 			"typeDechets": "Verre",
@@ -7634,8 +7633,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0324",
 			"idPointTri": "NA_TRI021",
-			"latitude": -1.55865362669,
-			"longitude": 47.2188313675,
+			"latitude": 47.2188313675,
+			"longitude": -1.55865362669,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "5 Rue Léopold Cassegrain Nantes",
 			"typeDechets": "Verre",
@@ -7648,8 +7647,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0334",
 			"idPointTri": "NA_TRI156",
-			"latitude": -1.54363190607,
-			"longitude": 47.2183690496,
+			"latitude": 47.2183690496,
+			"longitude": -1.54363190607,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Richebourg Nantes",
 			"typeDechets": "Verre",
@@ -7662,8 +7661,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0356",
 			"idPointTri": "NA_TRI039",
-			"latitude": -1.51262194658,
-			"longitude": 47.2475340037,
+			"latitude": 47.2475340037,
+			"longitude": -1.51262194658,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jules Grandjouan Nantes",
 			"typeDechets": "Verre",
@@ -7672,13 +7671,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Plastique"
+			"type": "Verre, Plastique"
 		},
 		{
 			"code": "stco_conteneur_VE0378",
 			"idPointTri": "NA_TRI168",
-			"latitude": -1.55589681982,
-			"longitude": 47.2340281922,
+			"latitude": 47.2340281922,
+			"longitude": -1.55589681982,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Haute Forêt Nantes",
 			"typeDechets": "Verre",
@@ -7691,8 +7690,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0399",
 			"idPointTri": "NA_TRI176",
-			"latitude": -1.61434261401,
-			"longitude": 47.2010650358,
+			"latitude": 47.2010650358,
+			"longitude": -1.61434261401,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Bâtonnier Cholet Nantes",
 			"typeDechets": "Verre",
@@ -7705,8 +7704,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0401",
 			"idPointTri": "NA_TRI177",
-			"latitude": -1.59582205796,
-			"longitude": 47.2066734121,
+			"latitude": 47.2066734121,
+			"longitude": -1.59582205796,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "68 Rue des Alouettes Nantes",
 			"typeDechets": "Verre",
@@ -7719,8 +7718,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0404",
 			"idPointTri": "NA_TRI178",
-			"latitude": -1.60685079654,
-			"longitude": 47.214529229,
+			"latitude": 47.214529229,
+			"longitude": -1.60685079654,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Du Tertre Nantes",
 			"typeDechets": "Verre",
@@ -7733,8 +7732,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0412",
 			"idPointTri": "NA_TRI180",
-			"latitude": -1.60014665875,
-			"longitude": 47.2131775081,
+			"latitude": 47.2131775081,
+			"longitude": -1.60014665875,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Durantière Nantes",
 			"typeDechets": "Verre",
@@ -7747,8 +7746,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0423",
 			"idPointTri": "NA_TRI187",
-			"latitude": -1.60535541583,
-			"longitude": 47.2156112681,
+			"latitude": 47.2156112681,
+			"longitude": -1.60535541583,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard du Tertre Nantes",
 			"typeDechets": "Verre",
@@ -7761,8 +7760,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0458",
 			"idPointTri": "NA_TRI196",
-			"latitude": -1.52970131645,
-			"longitude": 47.2411378545,
+			"latitude": 47.2411378545,
+			"longitude": -1.52970131645,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Jules Verne Nantes",
 			"typeDechets": "Verre",
@@ -7775,8 +7774,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0459",
 			"idPointTri": "NA_TRI197",
-			"latitude": -1.52700430512,
-			"longitude": 47.2081186897,
+			"latitude": 47.2081186897,
+			"longitude": -1.52700430512,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Cherche Midi Nantes",
 			"typeDechets": "Verre",
@@ -7789,8 +7788,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0503",
 			"idPointTri": "OR_TRI006",
-			"latitude": -1.63666619361,
-			"longitude": 47.26127751,
+			"latitude": 47.26127751,
+			"longitude": -1.63666619361,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Pollux Orvault",
 			"typeDechets": "Verre",
@@ -7803,8 +7802,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0505",
 			"idPointTri": "OR_TRI008",
-			"latitude": -1.6349291646,
-			"longitude": 47.2598709635,
+			"latitude": 47.2598709635,
+			"longitude": -1.6349291646,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de la Bugallière Orvault",
 			"typeDechets": "Verre",
@@ -7817,8 +7816,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0513",
 			"idPointTri": "OR_TRI015",
-			"latitude": -1.58007972953,
-			"longitude": 47.2549533535,
+			"latitude": 47.2549533535,
+			"longitude": -1.58007972953,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Reynière Orvault",
 			"typeDechets": "Verre",
@@ -7831,8 +7830,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0530",
 			"idPointTri": "OR_TRI028",
-			"latitude": -1.5928890542,
-			"longitude": 47.2717751202,
+			"latitude": 47.2717751202,
+			"longitude": -1.5928890542,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue du Bois Raguenet premier Orvault",
 			"typeDechets": "Verre",
@@ -7845,8 +7844,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0539",
 			"idPointTri": "OR_TRI003",
-			"latitude": -1.62431690426,
-			"longitude": 47.2734980056,
+			"latitude": 47.2734980056,
+			"longitude": -1.62431690426,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Raffuneau Orvault",
 			"typeDechets": "Verre",
@@ -7859,8 +7858,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0549",
 			"idPointTri": "RE_TRI010",
-			"latitude": -1.57749558495,
-			"longitude": 47.1950660935,
+			"latitude": 47.1950660935,
+			"longitude": -1.57749558495,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Quai Surcouf Rezé",
 			"typeDechets": "Verre",
@@ -7873,8 +7872,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0551",
 			"idPointTri": "RE_TRI012",
-			"latitude": -1.56266402262,
-			"longitude": 47.1875263273,
+			"latitude": 47.1875263273,
+			"longitude": -1.56266402262,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée du Parc des Mahaudières Rezé",
 			"typeDechets": "Verre",
@@ -7887,8 +7886,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0557",
 			"idPointTri": "RE_TRI018",
-			"latitude": -1.55847679765,
-			"longitude": 47.1818212294,
+			"latitude": 47.1818212294,
+			"longitude": -1.55847679765,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place Jean Perrin Rezé",
 			"typeDechets": "Verre",
@@ -7901,8 +7900,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0558",
 			"idPointTri": "RE_TRI019",
-			"latitude": -1.56412744711,
-			"longitude": 47.1817466362,
+			"latitude": 47.1817466362,
+			"longitude": -1.56412744711,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Bas Landreau Rezé",
 			"typeDechets": "Verre",
@@ -7915,8 +7914,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0562",
 			"idPointTri": "RE_TRI023",
-			"latitude": -1.53287614964,
-			"longitude": 47.180027908,
+			"latitude": 47.180027908,
+			"longitude": -1.53287614964,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Haute Morinière Rezé",
 			"typeDechets": "Verre",
@@ -7929,8 +7928,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0568",
 			"idPointTri": "RE_TRI029",
-			"latitude": -1.554193567,
-			"longitude": 47.1827801391,
+			"latitude": 47.1827801391,
+			"longitude": -1.554193567,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée des Marguerites Rezé",
 			"typeDechets": "Verre",
@@ -7943,8 +7942,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0573",
 			"idPointTri": "RE_TRI034",
-			"latitude": -1.56831728222,
-			"longitude": 47.1790538159,
+			"latitude": 47.1790538159,
+			"longitude": -1.56831728222,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard José Arribas Rezé",
 			"typeDechets": "Verre",
@@ -7957,8 +7956,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0576",
 			"idPointTri": "RE_TRI037",
-			"latitude": -1.54218978966,
-			"longitude": 47.171814522,
+			"latitude": 47.171814522,
+			"longitude": -1.54218978966,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Blanchet Rezé",
 			"typeDechets": "Verre",
@@ -7971,8 +7970,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0592",
 			"idPointTri": "RE_TRI049",
-			"latitude": -1.54731285277,
-			"longitude": 47.1673182365,
+			"latitude": 47.1673182365,
+			"longitude": -1.54731285277,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Olympe de Gouges Rezé",
 			"typeDechets": "Verre",
@@ -7985,8 +7984,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0605",
 			"idPointTri": "SA_TRI005",
-			"latitude": -1.66569241949,
-			"longitude": 47.262236835,
+			"latitude": 47.262236835,
+			"longitude": -1.66569241949,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Pépinnière Sautron",
 			"typeDechets": "Verre",
@@ -7999,8 +7998,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0611",
 			"idPointTri": "SA_TRI011",
-			"latitude": -1.68464324764,
-			"longitude": 47.2652866168,
+			"latitude": 47.2652866168,
+			"longitude": -1.68464324764,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Bauches Sautron",
 			"typeDechets": "Verre",
@@ -8013,8 +8012,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0613",
 			"idPointTri": "SA_TRI013",
-			"latitude": -1.67290848619,
-			"longitude": 47.2630099392,
+			"latitude": 47.2630099392,
+			"longitude": -1.67290848619,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Ferme Sautron",
 			"typeDechets": "Verre",
@@ -8027,8 +8026,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0616",
 			"idPointTri": "SA_TRI016",
-			"latitude": -1.69840451407,
-			"longitude": 47.2740916856,
+			"latitude": 47.2740916856,
+			"longitude": -1.69840451407,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Bellevue Sautron",
 			"typeDechets": "Verre",
@@ -8041,8 +8040,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0618",
 			"idPointTri": "SA_TRI001",
-			"latitude": -1.65447849217,
-			"longitude": 47.2602756371,
+			"latitude": 47.2602756371,
+			"longitude": -1.65447849217,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de la Hubonnière Sautron",
 			"typeDechets": "Verre",
@@ -8055,8 +8054,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0637",
 			"idPointTri": "SH_TRI044",
-			"latitude": -1.63295031164,
-			"longitude": 47.2322328879,
+			"latitude": 47.2322328879,
+			"longitude": -1.63295031164,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Chauvinière St-Herblain",
 			"typeDechets": "Verre",
@@ -8069,8 +8068,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0654",
 			"idPointTri": "SH_TRI060",
-			"latitude": -1.65526798426,
-			"longitude": 47.2084096442,
+			"latitude": 47.2084096442,
+			"longitude": -1.65526798426,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée de la Bourgonnière St-Herblain",
 			"typeDechets": "Verre",
@@ -8083,8 +8082,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0659",
 			"idPointTri": "SH_TRI065",
-			"latitude": -1.64575791441,
-			"longitude": 47.2162687592,
+			"latitude": 47.2162687592,
+			"longitude": -1.64575791441,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Frères Grimm St-Herblain",
 			"typeDechets": "Verre",
@@ -8097,8 +8096,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0664",
 			"idPointTri": "SH_TRI069",
-			"latitude": -1.62863278134,
-			"longitude": 47.2060909205,
+			"latitude": 47.2060909205,
+			"longitude": -1.62863278134,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Souvenir Français St-Herblain",
 			"typeDechets": "Verre",
@@ -8111,8 +8110,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0668",
 			"idPointTri": "SH_TRI041",
-			"latitude": -1.63771032852,
-			"longitude": 47.208183681,
+			"latitude": 47.208183681,
+			"longitude": -1.63771032852,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Docteur Boubée St-Herblain",
 			"typeDechets": "Verre",
@@ -8125,8 +8124,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0693",
 			"idPointTri": "SH_TRI103",
-			"latitude": -1.60546176937,
-			"longitude": 47.2386451373,
+			"latitude": 47.2386451373,
+			"longitude": -1.60546176937,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Congo St-Herblain",
 			"typeDechets": "Verre",
@@ -8139,8 +8138,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0732",
 			"idPointTri": "JB_TRI004",
-			"latitude": -1.72094068266,
-			"longitude": 47.1941594015,
+			"latitude": 47.1941594015,
+			"longitude": -1.72094068266,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Prinzé Saint-Jean-de-Boiseau",
 			"typeDechets": "Verre",
@@ -8153,8 +8152,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0761",
 			"idPointTri": "SS_TRI018",
-			"latitude": -1.48827963241,
-			"longitude": 47.1911485885,
+			"latitude": 47.1911485885,
+			"longitude": -1.48827963241,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Nicolas Appert Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -8167,8 +8166,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0774",
 			"idPointTri": "SS_TRI025",
-			"latitude": -1.51056145934,
-			"longitude": 47.1998008716,
+			"latitude": 47.1998008716,
+			"longitude": -1.51056145934,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Grande Pièce Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -8181,8 +8180,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0800",
 			"idPointTri": "SS_TRI051",
-			"latitude": -1.49578192711,
-			"longitude": 47.205489754,
+			"latitude": 47.205489754,
+			"longitude": -1.49578192711,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Pierre Bérégovoy Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -8195,8 +8194,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0804",
 			"idPointTri": "SS_TRI055",
-			"latitude": -1.49210415108,
-			"longitude": 47.2080729582,
+			"latitude": 47.2080729582,
+			"longitude": -1.49210415108,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Général De Gaulle Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -8209,8 +8208,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0809",
 			"idPointTri": "SS_TRI059",
-			"latitude": -1.50890582539,
-			"longitude": 47.2077560815,
+			"latitude": 47.2077560815,
+			"longitude": -1.50890582539,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Becques Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -8223,8 +8222,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0821",
 			"idPointTri": "SL_TRI007",
-			"latitude": -1.47431867745,
-			"longitude": 47.2536307594,
+			"latitude": 47.2536307594,
+			"longitude": -1.47431867745,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Pavillon Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -8237,8 +8236,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0826",
 			"idPointTri": "SL_TRI011",
-			"latitude": -1.47872626736,
-			"longitude": 47.2482433627,
+			"latitude": 47.2482433627,
+			"longitude": -1.47872626736,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Courlis Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -8251,8 +8250,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0833",
 			"idPointTri": "SL_TRI018",
-			"latitude": -1.46166757296,
-			"longitude": 47.2447544063,
+			"latitude": 47.2447544063,
+			"longitude": -1.46166757296,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "route des sables Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -8265,8 +8264,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0834",
 			"idPointTri": "SL_TRI019",
-			"latitude": -1.48844966062,
-			"longitude": 47.2636196544,
+			"latitude": 47.2636196544,
+			"longitude": -1.48844966062,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue André-Marie Ampère Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -8279,8 +8278,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0841",
 			"idPointTri": "SL_TRI005",
-			"latitude": -1.49139675486,
-			"longitude": 47.2590313639,
+			"latitude": 47.2590313639,
+			"longitude": -1.49139675486,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Louis Pasteur Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -8293,8 +8292,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0843",
 			"idPointTri": "TH_TRI003",
-			"latitude": -1.44463537271,
-			"longitude": 47.2850313301,
+			"latitude": 47.2850313301,
+			"longitude": -1.44463537271,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Baudinière Thouaré-sur-Loire",
 			"typeDechets": "Verre",
@@ -8307,8 +8306,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0853",
 			"idPointTri": "VE_TRI011",
-			"latitude": -1.45291960094,
-			"longitude": 47.1729514649,
+			"latitude": 47.1729514649,
+			"longitude": -1.45291960094,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Billardière Vertou",
 			"typeDechets": "Verre",
@@ -8321,8 +8320,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0857",
 			"idPointTri": "VE_TRI015",
-			"latitude": -1.45329614863,
-			"longitude": 47.1631551726,
+			"latitude": 47.1631551726,
+			"longitude": -1.45329614863,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Chiron Vertou",
 			"typeDechets": "Verre",
@@ -8335,8 +8334,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0864",
 			"idPointTri": "VE_TRI007",
-			"latitude": -1.46778625629,
-			"longitude": 47.1643201172,
+			"latitude": 47.1643201172,
+			"longitude": -1.46778625629,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée de la Vigne de Pâques Vertou",
 			"typeDechets": "Verre",
@@ -8345,13 +8344,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0874",
 			"idPointTri": "VE_TRI025",
-			"latitude": -1.49035146796,
-			"longitude": 47.1740964469,
+			"latitude": 47.1740964469,
+			"longitude": -1.49035146796,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Garouère Vertou",
 			"typeDechets": "Verre",
@@ -8364,8 +8363,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0878",
 			"idPointTri": "VE_TRI029",
-			"latitude": -1.47302300782,
-			"longitude": 47.1618377226,
+			"latitude": 47.1618377226,
+			"longitude": -1.47302300782,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Robert Mankel Vertou",
 			"typeDechets": "Verre",
@@ -8378,8 +8377,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0895",
 			"idPointTri": "VE_TRI043",
-			"latitude": -1.45023778817,
-			"longitude": 47.149897562,
+			"latitude": 47.149897562,
+			"longitude": -1.45023778817,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Blandinière Vertou",
 			"typeDechets": "Verre",
@@ -8392,8 +8391,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0904",
 			"idPointTri": "VE_TRI049",
-			"latitude": -1.47898720921,
-			"longitude": 47.1825084824,
+			"latitude": 47.1825084824,
+			"longitude": -1.47898720921,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Entrepreneurs Vertou",
 			"typeDechets": "Verre",
@@ -8406,8 +8405,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0906",
 			"idPointTri": "VE_TRI051",
-			"latitude": -1.47529002046,
-			"longitude": 47.1523026495,
+			"latitude": 47.1523026495,
+			"longitude": -1.47529002046,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Moulin de l'Herbray Vertou",
 			"typeDechets": "Verre",
@@ -8420,8 +8419,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0916",
 			"idPointTri": "SO_TRI018",
-			"latitude": -1.53263519392,
-			"longitude": 47.1476656434,
+			"latitude": 47.1476656434,
+			"longitude": -1.53263519392,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Général De Gaulle Les Sorinières",
 			"typeDechets": "Verre",
@@ -8434,8 +8433,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0936",
 			"idPointTri": "BG_TRI020",
-			"latitude": -1.46455840843,
-			"longitude": 47.2171186394,
+			"latitude": 47.2171186394,
+			"longitude": -1.46455840843,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Ateliers Basse-Goulaine",
 			"typeDechets": "Verre",
@@ -8448,8 +8447,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0950",
 			"idPointTri": "RE_TRI065",
-			"latitude": -1.53637533475,
-			"longitude": 47.1556949499,
+			"latitude": 47.1556949499,
+			"longitude": -1.53637533475,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Blaise Pascal Rezé",
 			"typeDechets": "Verre",
@@ -8462,8 +8461,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_DS0021",
 			"idPointTri": "SH_TRI076",
-			"latitude": -1.60331069955,
-			"longitude": 47.2383430395,
+			"latitude": 47.2383430395,
+			"longitude": -1.60331069955,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée Jehan Allain St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -8476,8 +8475,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_DS0034",
 			"idPointTri": "SH_TRI017",
-			"latitude": -1.61127842825,
-			"longitude": 47.238315087,
+			"latitude": 47.238315087,
+			"longitude": -1.61127842825,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Mozambique St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -8486,13 +8485,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0036",
 			"idPointTri": "SH_TRI082",
-			"latitude": -1.60233724488,
-			"longitude": 47.228208874,
+			"latitude": 47.228208874,
+			"longitude": -1.60233724488,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Pierre Bourdan St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -8505,8 +8504,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_DS0062",
 			"idPointTri": "SH_TRI088",
-			"latitude": -1.61640239795,
-			"longitude": 47.2077370185,
+			"latitude": 47.2077370185,
+			"longitude": -1.61640239795,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Cahors St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -8519,8 +8518,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_DS0073",
 			"idPointTri": "SH_TRI033",
-			"latitude": -1.58998542456,
-			"longitude": 47.2366584224,
+			"latitude": 47.2366584224,
+			"longitude": -1.58998542456,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de la Baraudière St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -8529,13 +8528,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0029",
 			"idPointTri": "NA_TRI036",
-			"latitude": -1.5594018826,
-			"longitude": 47.2114466368,
+			"latitude": 47.2114466368,
+			"longitude": -1.5594018826,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Félix Eboué Nantes",
 			"typeDechets": "Papier-carton",
@@ -8544,13 +8543,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PC0092",
 			"idPointTri": "NA_TRI084",
-			"latitude": -1.53953474085,
-			"longitude": 47.2419097928,
+			"latitude": 47.2419097928,
+			"longitude": -1.53953474085,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Port Boyer Nantes",
 			"typeDechets": "Papier-carton",
@@ -8559,13 +8558,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PL0064",
 			"idPointTri": "NA_TRI167",
-			"latitude": -1.55598358431,
-			"longitude": 47.2341171006,
+			"latitude": 47.2341171006,
+			"longitude": -1.55598358431,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Haute Forêt Nantes",
 			"typeDechets": "Plastique",
@@ -8578,8 +8577,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0003",
 			"idPointTri": "BG_TRI003",
-			"latitude": -1.4644970699,
-			"longitude": 47.2105406588,
+			"latitude": 47.2105406588,
+			"longitude": -1.4644970699,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Champagnère Basse-Goulaine",
 			"typeDechets": "Verre",
@@ -8592,8 +8591,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0013",
 			"idPointTri": "BG_TRI013",
-			"latitude": -1.45685433704,
-			"longitude": 47.211924359,
+			"latitude": 47.211924359,
+			"longitude": -1.45685433704,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Corbon Basse-Goulaine",
 			"typeDechets": "Verre",
@@ -8606,8 +8605,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0028",
 			"idPointTri": "BO_TRI004",
-			"latitude": -1.59754827474,
-			"longitude": 47.1840340293,
+			"latitude": 47.1840340293,
+			"longitude": -1.59754827474,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Ethel et Julius Rosenberg Bouguenais",
 			"typeDechets": "Verre",
@@ -8620,8 +8619,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0033",
 			"idPointTri": "BO_TRI009",
-			"latitude": -1.58477814899,
-			"longitude": 47.1706685615,
+			"latitude": 47.1706685615,
+			"longitude": -1.58477814899,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Baptiste Clément Bouguenais",
 			"typeDechets": "Verre",
@@ -8634,8 +8633,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0034",
 			"idPointTri": "BO_TRI010",
-			"latitude": -1.58548177654,
-			"longitude": 47.163374722,
+			"latitude": 47.163374722,
+			"longitude": -1.58548177654,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Aéronautique Bouguenais",
 			"typeDechets": "Verre",
@@ -8648,8 +8647,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0038",
 			"idPointTri": "BO_TRI014",
-			"latitude": -1.58821484383,
-			"longitude": 47.1808490277,
+			"latitude": 47.1808490277,
+			"longitude": -1.58821484383,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Célestin Freinet Bouguenais",
 			"typeDechets": "Verre",
@@ -8662,8 +8661,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0039",
 			"idPointTri": "BO_TRI015",
-			"latitude": -1.58434675284,
-			"longitude": 47.181641178,
+			"latitude": 47.181641178,
+			"longitude": -1.58434675284,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Danielle Casanova Bouguenais",
 			"typeDechets": "Verre",
@@ -8676,8 +8675,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0051",
 			"idPointTri": "BO_TRI026",
-			"latitude": -1.65935359928,
-			"longitude": 47.180743638,
+			"latitude": 47.180743638,
+			"longitude": -1.65935359928,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Beau Soleil Bouguenais",
 			"typeDechets": "Verre",
@@ -8690,8 +8689,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0056",
 			"idPointTri": "BO_TRI031",
-			"latitude": -1.62441384152,
-			"longitude": 47.1758908385,
+			"latitude": 47.1758908385,
+			"longitude": -1.62441384152,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Eugène Pottier Bouguenais",
 			"typeDechets": "Verre",
@@ -8704,8 +8703,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0064",
 			"idPointTri": "BO_TRI039",
-			"latitude": -1.61997252619,
-			"longitude": 47.1746493375,
+			"latitude": 47.1746493375,
+			"longitude": -1.61997252619,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Maurice Audin Bouguenais",
 			"typeDechets": "Verre",
@@ -8718,8 +8717,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0086",
 			"idPointTri": "CA_TRI006",
-			"latitude": -1.49482511517,
-			"longitude": 47.2936799789,
+			"latitude": 47.2936799789,
+			"longitude": -1.49482511517,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Andre Lenôtre Carquefou",
 			"typeDechets": "Verre",
@@ -8732,8 +8731,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0091",
 			"idPointTri": "CA_TRI007",
-			"latitude": -1.49215233121,
-			"longitude": 47.3019076781,
+			"latitude": 47.3019076781,
+			"longitude": -1.49215233121,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Pierre Mendes France Carquefou",
 			"typeDechets": "Verre",
@@ -8746,8 +8745,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0098",
 			"idPointTri": "CA_TRI012",
-			"latitude": -1.50434950273,
-			"longitude": 47.2753001475,
+			"latitude": 47.2753001475,
+			"longitude": -1.50434950273,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "rue du Champ de Manoeuvre Carquefou",
 			"typeDechets": "Verre",
@@ -8760,8 +8759,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0100",
 			"idPointTri": "CA_TRI014",
-			"latitude": -1.50530710279,
-			"longitude": 47.2972102447,
+			"latitude": 47.2972102447,
+			"longitude": -1.50530710279,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Francois Fresneau Carquefou",
 			"typeDechets": "Verre",
@@ -8774,8 +8773,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0106",
 			"idPointTri": "CA_TRI020",
-			"latitude": -1.48165145216,
-			"longitude": 47.2823836394,
+			"latitude": 47.2823836394,
+			"longitude": -1.48165145216,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Victor Hugo Carquefou",
 			"typeDechets": "Verre",
@@ -8788,8 +8787,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0107",
 			"idPointTri": "CA_TRI021",
-			"latitude": -1.48962553975,
-			"longitude": 47.2736761029,
+			"latitude": 47.2736761029,
+			"longitude": -1.48962553975,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Cadranière Carquefou",
 			"typeDechets": "Verre",
@@ -8802,8 +8801,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0108",
 			"idPointTri": "CA_TRI022",
-			"latitude": -1.46951307401,
-			"longitude": 47.319174353,
+			"latitude": 47.319174353,
+			"longitude": -1.46951307401,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin des Pâtureaux Carquefou",
 			"typeDechets": "Verre",
@@ -8816,8 +8815,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0109",
 			"idPointTri": "CA_TRI023",
-			"latitude": -1.44038212789,
-			"longitude": 47.3004390678,
+			"latitude": 47.3004390678,
+			"longitude": -1.44038212789,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Salle Carquefou",
 			"typeDechets": "Verre",
@@ -8830,8 +8829,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0112",
 			"idPointTri": "CA_TRI026",
-			"latitude": -1.48001227616,
-			"longitude": 47.2860564508,
+			"latitude": 47.2860564508,
+			"longitude": -1.48001227616,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin de la Picaudière Carquefou",
 			"typeDechets": "Verre",
@@ -8844,8 +8843,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0114",
 			"idPointTri": "CA_TRI028",
-			"latitude": -1.47249453851,
-			"longitude": 47.2851491587,
+			"latitude": 47.2851491587,
+			"longitude": -1.47249453851,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin de la Gayonnais Carquefou",
 			"typeDechets": "Verre",
@@ -8858,8 +8857,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0116",
 			"idPointTri": "CA_TRI030",
-			"latitude": -1.49268646597,
-			"longitude": 47.2640672575,
+			"latitude": 47.2640672575,
+			"longitude": -1.49268646597,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Bel Air Carquefou",
 			"typeDechets": "Verre",
@@ -8872,8 +8871,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0127",
 			"idPointTri": "CO_TRI003",
-			"latitude": -1.74437942382,
-			"longitude": 47.2130512674,
+			"latitude": 47.2130512674,
+			"longitude": -1.74437942382,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Robert Surcouf Couëron",
 			"typeDechets": "Verre",
@@ -8886,8 +8885,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0137",
 			"idPointTri": "CO_TRI011",
-			"latitude": -1.72962625663,
-			"longitude": 47.2128533934,
+			"latitude": 47.2128533934,
+			"longitude": -1.72962625663,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place Léon Moinard Couëron",
 			"typeDechets": "Verre",
@@ -8900,8 +8899,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0167",
 			"idPointTri": "IN_TRI002",
-			"latitude": -1.64830981318,
-			"longitude": 47.1959461158,
+			"latitude": 47.1959461158,
+			"longitude": -1.64830981318,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Baptiste Rabillard Indre",
 			"typeDechets": "Verre",
@@ -8910,13 +8909,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Emballage ménager"
+			"type": "Verre, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_VE0177",
 			"idPointTri": "CH_TRI006",
-			"latitude": -1.58409760282,
-			"longitude": 47.2833578601,
+			"latitude": 47.2833578601,
+			"longitude": -1.58409760282,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route d'Orvault La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -8929,8 +8928,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0184",
 			"idPointTri": "CH_TRI011",
-			"latitude": -1.55242354953,
-			"longitude": 47.2966849932,
+			"latitude": 47.2966849932,
+			"longitude": -1.55242354953,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Martin Luther King La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -8943,8 +8942,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0188",
 			"idPointTri": "CH_TRI015",
-			"latitude": -1.56023509337,
-			"longitude": 47.302843873,
+			"latitude": 47.302843873,
+			"longitude": -1.56023509337,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Beausoleil La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -8957,8 +8956,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0205",
 			"idPointTri": "CH_TRI032",
-			"latitude": -1.55106258611,
-			"longitude": 47.2663868023,
+			"latitude": 47.2663868023,
+			"longitude": -1.55106258611,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue du Verger La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -8971,8 +8970,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0212",
 			"idPointTri": "CH_TRI039",
-			"latitude": -1.55705834319,
-			"longitude": 47.2876443991,
+			"latitude": 47.2876443991,
+			"longitude": -1.55705834319,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "38 Rue Maurice Ravel La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -8985,8 +8984,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0213",
 			"idPointTri": "CH_TRI002",
-			"latitude": -1.55330952524,
-			"longitude": 47.2890823062,
+			"latitude": 47.2890823062,
+			"longitude": -1.55330952524,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Blanchetière La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -8999,8 +8998,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0215",
 			"idPointTri": "MT_TRI004",
-			"latitude": -1.66755197932,
-			"longitude": 47.1879984951,
+			"latitude": 47.1879984951,
+			"longitude": -1.66755197932,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Gazay La Montagne",
 			"typeDechets": "Verre",
@@ -9013,8 +9012,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0220",
 			"idPointTri": "MT_TRI009",
-			"latitude": -1.67748169193,
-			"longitude": 47.1874413806,
+			"latitude": 47.1874413806,
+			"longitude": -1.67748169193,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Commandant l'Herminier La Montagne",
 			"typeDechets": "Verre",
@@ -9027,8 +9026,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0221",
 			"idPointTri": "MT_TRI010",
-			"latitude": -1.67896795076,
-			"longitude": 47.1891325876,
+			"latitude": 47.1891325876,
+			"longitude": -1.67896795076,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée du Château d'Aux La Montagne",
 			"typeDechets": "Verre",
@@ -9041,8 +9040,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0239",
 			"idPointTri": "PE_TRI006",
-			"latitude": -1.77788757607,
-			"longitude": 47.2003981439,
+			"latitude": 47.2003981439,
+			"longitude": -1.77788757607,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée de la Source Le Pellerin",
 			"typeDechets": "Verre",
@@ -9051,13 +9050,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0241",
 			"idPointTri": "PE_TRI001",
-			"latitude": -1.75926120948,
-			"longitude": 47.2017655775,
+			"latitude": 47.2017655775,
+			"longitude": -1.75926120948,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place du Champ de Foire Le Pellerin",
 			"typeDechets": "Verre",
@@ -9066,13 +9065,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0252",
 			"idPointTri": "SO_TRI005",
-			"latitude": -1.51847059336,
-			"longitude": 47.1460512402,
+			"latitude": 47.1460512402,
+			"longitude": -1.51847059336,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Papillons Les Sorinières",
 			"typeDechets": "Verre",
@@ -9085,8 +9084,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0258",
 			"idPointTri": "SO_TRI011",
-			"latitude": -1.51947004893,
-			"longitude": 47.1597490512,
+			"latitude": 47.1597490512,
+			"longitude": -1.51947004893,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de l'Orcerie Les Sorinières",
 			"typeDechets": "Verre",
@@ -9099,8 +9098,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0304",
 			"idPointTri": "NA_TRI145",
-			"latitude": -1.58826390965,
-			"longitude": 47.2688079779,
+			"latitude": 47.2688079779,
+			"longitude": -1.58826390965,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin de la Justice Nantes",
 			"typeDechets": "Verre",
@@ -9113,8 +9112,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0340",
 			"idPointTri": "NA_TRI158",
-			"latitude": -1.52390041098,
-			"longitude": 47.2934448732,
+			"latitude": 47.2934448732,
+			"longitude": -1.52390041098,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin de la Guiblinière Nantes",
 			"typeDechets": "Verre",
@@ -9127,8 +9126,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0367",
 			"idPointTri": "NA_TRI037",
-			"latitude": -1.50394131826,
-			"longitude": 47.2257025732,
+			"latitude": 47.2257025732,
+			"longitude": -1.50394131826,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Etier Nantes",
 			"typeDechets": "Verre",
@@ -9137,13 +9136,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0397",
 			"idPointTri": "NA_TRI022",
-			"latitude": -1.61680745518,
-			"longitude": 47.1942574672,
+			"latitude": 47.1942574672,
+			"longitude": -1.61680745518,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de Roche Maurice Nantes",
 			"typeDechets": "Verre",
@@ -9152,13 +9151,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Plastique"
+			"type": "Verre, Plastique"
 		},
 		{
 			"code": "stco_conteneur_VE0421",
 			"idPointTri": "NA_TRI185",
-			"latitude": -1.5909267819,
-			"longitude": 47.2036238682,
+			"latitude": 47.2036238682,
+			"longitude": -1.5909267819,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Maurice Terrien Nantes",
 			"typeDechets": "Verre",
@@ -9171,8 +9170,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0472",
 			"idPointTri": "NA_TRI200",
-			"latitude": -1.57064046205,
-			"longitude": 47.2387932059,
+			"latitude": 47.2387932059,
+			"longitude": -1.57064046205,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Robert Schuman Nantes",
 			"typeDechets": "Verre",
@@ -9185,8 +9184,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0478",
 			"idPointTri": "NA_TRI001",
-			"latitude": -1.56505945243,
-			"longitude": 47.2062928714,
+			"latitude": 47.2062928714,
+			"longitude": -1.56505945243,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Parvis des Nefs Nantes",
 			"typeDechets": "Verre",
@@ -9195,13 +9194,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0488",
 			"idPointTri": "NA_TRI203",
-			"latitude": -1.51789348823,
-			"longitude": 47.2585473714,
+			"latitude": 47.2585473714,
+			"longitude": -1.51789348823,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard de la Beaujoire Nantes",
 			"typeDechets": "Verre",
@@ -9210,13 +9209,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Verre"
+			"type": "Verre, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0489",
 			"idPointTri": "NA_TRI204",
-			"latitude": -1.60339408594,
-			"longitude": 47.2203838682,
+			"latitude": 47.2203838682,
+			"longitude": -1.60339408594,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard du Tertre Nantes",
 			"typeDechets": "Verre",
@@ -9229,8 +9228,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0491",
 			"idPointTri": "NA_TRI086",
-			"latitude": -1.54823233213,
-			"longitude": 47.2003944679,
+			"latitude": 47.2003944679,
+			"longitude": -1.54823233213,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue René Mouchotte Nantes",
 			"typeDechets": "Verre",
@@ -9239,13 +9238,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Papier-carton"
+			"type": "Verre, Papier-carton"
 		},
 		{
 			"code": "stco_conteneur_VE0492",
 			"idPointTri": "NA_TRI206",
-			"latitude": -1.56329153759,
-			"longitude": 47.2365840236,
+			"latitude": 47.2365840236,
+			"longitude": -1.56329153759,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Gabriel Lauriol Nantes",
 			"typeDechets": "Verre",
@@ -9258,8 +9257,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0506",
 			"idPointTri": "OR_TRI009",
-			"latitude": -1.62971467726,
-			"longitude": 47.2720288768,
+			"latitude": 47.2720288768,
+			"longitude": -1.62971467726,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Impassse du Landreau Orvault",
 			"typeDechets": "Verre",
@@ -9272,8 +9271,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0508",
 			"idPointTri": "OR_TRI010",
-			"latitude": -1.63014856086,
-			"longitude": 47.2839047076,
+			"latitude": 47.2839047076,
+			"longitude": -1.63014856086,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin de Bazoges Orvault",
 			"typeDechets": "Verre",
@@ -9286,8 +9285,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0535",
 			"idPointTri": "OR_TRI033",
-			"latitude": -1.62256350861,
-			"longitude": 47.2615322712,
+			"latitude": 47.2615322712,
+			"longitude": -1.62256350861,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de Basse Indre Orvault",
 			"typeDechets": "Verre",
@@ -9300,8 +9299,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0540",
 			"idPointTri": "OR_TRI037",
-			"latitude": -1.61161924966,
-			"longitude": 47.2523972885,
+			"latitude": 47.2523972885,
+			"longitude": -1.61161924966,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Cabriolet Orvault",
 			"typeDechets": "Verre",
@@ -9314,8 +9313,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0555",
 			"idPointTri": "RE_TRI016",
-			"latitude": -1.56273776141,
-			"longitude": 47.1856292625,
+			"latitude": 47.1856292625,
+			"longitude": -1.56273776141,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue d'Ancenis Rezé",
 			"typeDechets": "Verre",
@@ -9328,8 +9327,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0564",
 			"idPointTri": "RE_TRI025",
-			"latitude": -1.55086806312,
-			"longitude": 47.1690608647,
+			"latitude": 47.1690608647,
+			"longitude": -1.55086806312,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Genétais Rezé",
 			"typeDechets": "Verre",
@@ -9342,8 +9341,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0569",
 			"idPointTri": "RE_TRI030",
-			"latitude": -1.55279215359,
-			"longitude": 47.1809277416,
+			"latitude": 47.1809277416,
+			"longitude": -1.55279215359,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Champs Renaudins Rezé",
 			"typeDechets": "Verre",
@@ -9356,8 +9355,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0578",
 			"idPointTri": "RE_TRI039",
-			"latitude": -1.55430871232,
-			"longitude": 47.1966314992,
+			"latitude": 47.1966314992,
+			"longitude": -1.55430871232,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "rue Félix Eboué Rezé",
 			"typeDechets": "Verre",
@@ -9370,8 +9369,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0580",
 			"idPointTri": "RE_TRI041",
-			"latitude": -1.55923215787,
-			"longitude": 47.170569628,
+			"latitude": 47.170569628,
+			"longitude": -1.55923215787,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Guilloterie Rezé",
 			"typeDechets": "Verre",
@@ -9384,8 +9383,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0582",
 			"idPointTri": "RE_TRI043",
-			"latitude": -1.54517032135,
-			"longitude": 47.1656486298,
+			"latitude": 47.1656486298,
+			"longitude": -1.54517032135,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Robert Schuman Rezé",
 			"typeDechets": "Verre",
@@ -9398,8 +9397,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0624",
 			"idPointTri": "AG_TRI005",
-			"latitude": -1.62382449939,
-			"longitude": 47.1492827664,
+			"latitude": 47.1492827664,
+			"longitude": -1.62382449939,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de la Forêt Saint-Aignan-Grandlieu",
 			"typeDechets": "Verre",
@@ -9412,8 +9411,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0625",
 			"idPointTri": "AG_TRI006",
-			"latitude": -1.60601015195,
-			"longitude": 47.1371600782,
+			"latitude": 47.1371600782,
+			"longitude": -1.60601015195,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route des Epinais Saint-Aignan-Grandlieu",
 			"typeDechets": "Verre",
@@ -9426,8 +9425,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0629",
 			"idPointTri": "SH_TRI015",
-			"latitude": -1.61412349973,
-			"longitude": 47.2100369003,
+			"latitude": 47.2100369003,
+			"longitude": -1.61412349973,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Gironde St-Herblain",
 			"typeDechets": "Verre",
@@ -9436,13 +9435,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Verre, Emballage ménager"
+			"type": "Verre, Emballage ménager"
 		},
 		{
 			"code": "stco_conteneur_VE0645",
 			"idPointTri": "SH_TRI052",
-			"latitude": -1.64217212622,
-			"longitude": 47.218153084,
+			"latitude": 47.218153084,
+			"longitude": -1.64217212622,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard François Mitterrand St-Herblain",
 			"typeDechets": "Verre",
@@ -9455,8 +9454,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0652",
 			"idPointTri": "SH_TRI058",
-			"latitude": -1.65709097778,
-			"longitude": 47.2101916171,
+			"latitude": 47.2101916171,
+			"longitude": -1.65709097778,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Gare St-Herblain",
 			"typeDechets": "Verre",
@@ -9469,8 +9468,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0656",
 			"idPointTri": "SH_TRI062",
-			"latitude": -1.64924089626,
-			"longitude": 47.2089804639,
+			"latitude": 47.2089804639,
+			"longitude": -1.64924089626,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Général Zimmer St-Herblain",
 			"typeDechets": "Verre",
@@ -9483,8 +9482,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0660",
 			"idPointTri": "SH_TRI066",
-			"latitude": -1.64077187336,
-			"longitude": 47.21461748,
+			"latitude": 47.21461748,
+			"longitude": -1.64077187336,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Paul Sartre St-Herblain",
 			"typeDechets": "Verre",
@@ -9497,8 +9496,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0666",
 			"idPointTri": "SH_TRI070",
-			"latitude": -1.64845960695,
-			"longitude": 47.2107112271,
+			"latitude": 47.2107112271,
+			"longitude": -1.64845960695,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Hôtel de Ville St-Herblain",
 			"typeDechets": "Verre",
@@ -9511,8 +9510,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0667",
 			"idPointTri": "SH_TRI071",
-			"latitude": -1.61218381408,
-			"longitude": 47.2253737608,
+			"latitude": 47.2253737608,
+			"longitude": -1.61218381408,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue Claude Bernard St-Herblain",
 			"typeDechets": "Verre",
@@ -9525,8 +9524,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0687",
 			"idPointTri": "SH_TRI098",
-			"latitude": -1.63742535421,
-			"longitude": 47.2440790622,
+			"latitude": 47.2440790622,
+			"longitude": -1.63742535421,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Rousselière St-Herblain",
 			"typeDechets": "Verre",
@@ -9539,8 +9538,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0689",
 			"idPointTri": "SH_TRI100",
-			"latitude": -1.65176364764,
-			"longitude": 47.2234281685,
+			"latitude": 47.2234281685,
+			"longitude": -1.65176364764,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Rivaudière St-Herblain",
 			"typeDechets": "Verre",
@@ -9553,8 +9552,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0691",
 			"idPointTri": "SH_TRI102",
-			"latitude": -1.61801108243,
-			"longitude": 47.201881351,
+			"latitude": 47.201881351,
+			"longitude": -1.61801108243,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée des Platanes St-Herblain",
 			"typeDechets": "Verre",
@@ -9567,8 +9566,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0718",
 			"idPointTri": "SH_TRI111",
-			"latitude": -1.61471974895,
-			"longitude": 47.2196112962,
+			"latitude": 47.2196112962,
+			"longitude": -1.61471974895,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Jaurès St-Herblain",
 			"typeDechets": "Verre",
@@ -9581,8 +9580,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0730",
 			"idPointTri": "JB_TRI002",
-			"latitude": -1.70360546829,
-			"longitude": 47.1935580613,
+			"latitude": 47.1935580613,
+			"longitude": -1.70360546829,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Charreaux Saint-Jean-de-Boiseau",
 			"typeDechets": "Verre",
@@ -9595,8 +9594,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0733",
 			"idPointTri": "JB_TRI005",
-			"latitude": -1.72488744536,
-			"longitude": 47.1975879732,
+			"latitude": 47.1975879732,
+			"longitude": -1.72488744536,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Rivière Saint-Jean-de-Boiseau",
 			"typeDechets": "Verre",
@@ -9609,8 +9608,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0751",
 			"idPointTri": "SS_TRI008",
-			"latitude": -1.4890190586,
-			"longitude": 47.1995893628,
+			"latitude": 47.1995893628,
+			"longitude": -1.4890190586,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Lourneau Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -9623,8 +9622,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0779",
 			"idPointTri": "SS_TRI030",
-			"latitude": -1.51632902397,
-			"longitude": 47.1963619209,
+			"latitude": 47.1963619209,
+			"longitude": -1.51632902397,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Perce-Neige Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -9637,8 +9636,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0780",
 			"idPointTri": "SS_TRI031",
-			"latitude": -1.52001802858,
-			"longitude": 47.1981846231,
+			"latitude": 47.1981846231,
+			"longitude": -1.52001802858,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Campanules Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -9651,8 +9650,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0787",
 			"idPointTri": "SS_TRI038",
-			"latitude": -1.49958094385,
-			"longitude": 47.1937869401,
+			"latitude": 47.1937869401,
+			"longitude": -1.49958094385,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Ouche Quinet Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -9665,8 +9664,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0793",
 			"idPointTri": "SS_TRI044",
-			"latitude": -1.5071982277,
-			"longitude": 47.2007406574,
+			"latitude": 47.2007406574,
+			"longitude": -1.5071982277,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Douet Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -9679,8 +9678,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0811",
 			"idPointTri": "SS_TRI061",
-			"latitude": -1.48471480096,
-			"longitude": 47.1946472147,
+			"latitude": 47.1946472147,
+			"longitude": -1.48471480096,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Plantes Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -9693,8 +9692,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0820",
 			"idPointTri": "SL_TRI006",
-			"latitude": -1.4584388928,
-			"longitude": 47.2543678659,
+			"latitude": 47.2543678659,
+			"longitude": -1.4584388928,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Bournière Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -9707,8 +9706,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0831",
 			"idPointTri": "SL_TRI016",
-			"latitude": -1.48921322013,
-			"longitude": 47.2520687429,
+			"latitude": 47.2520687429,
+			"longitude": -1.48921322013,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue des Frênes Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -9721,8 +9720,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0839",
 			"idPointTri": "SL_TRI023",
-			"latitude": -1.47523557928,
-			"longitude": 47.2436381529,
+			"latitude": 47.2436381529,
+			"longitude": -1.47523557928,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin des Claudix Sainte-Luce-sur-Loire",
 			"typeDechets": "Verre",
@@ -9735,8 +9734,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0877",
 			"idPointTri": "VE_TRI028",
-			"latitude": -1.47385656273,
-			"longitude": 47.1647932333,
+			"latitude": 47.1647932333,
+			"longitude": -1.47385656273,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Alexandre Arnaud Vertou",
 			"typeDechets": "Verre",
@@ -9749,8 +9748,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0880",
 			"idPointTri": "VE_TRI031",
-			"latitude": -1.4684558388,
-			"longitude": 47.1498077,
+			"latitude": 47.1498077,
+			"longitude": -1.4684558388,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route des Pégers Vertou",
 			"typeDechets": "Verre",
@@ -9763,8 +9762,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0888",
 			"idPointTri": "VE_TRI036",
-			"latitude": -1.50329381929,
-			"longitude": 47.1634326679,
+			"latitude": 47.1634326679,
+			"longitude": -1.50329381929,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Rédras Vertou",
 			"typeDechets": "Verre",
@@ -9777,8 +9776,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0890",
 			"idPointTri": "VE_TRI038",
-			"latitude": -1.48892430124,
-			"longitude": 47.1630575395,
+			"latitude": 47.1630575395,
+			"longitude": -1.48892430124,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin des Perdriaux Vertou",
 			"typeDechets": "Verre",
@@ -9791,8 +9790,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0891",
 			"idPointTri": "VE_TRI039",
-			"latitude": -1.4999456486,
-			"longitude": 47.1578142832,
+			"latitude": 47.1578142832,
+			"longitude": -1.4999456486,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Petite Bourrelière Vertou",
 			"typeDechets": "Verre",
@@ -9805,8 +9804,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0915",
 			"idPointTri": "RE_TRI058",
-			"latitude": -1.54759775032,
-			"longitude": 47.1846403299,
+			"latitude": 47.1846403299,
+			"longitude": -1.54759775032,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place Roger Salengro Rezé",
 			"typeDechets": "Verre",
@@ -9819,8 +9818,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0938",
 			"idPointTri": "SS_TRI064",
-			"latitude": -1.48729974745,
-			"longitude": 47.1897004019,
+			"latitude": 47.1897004019,
+			"longitude": -1.48729974745,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Marie Curie Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -9833,8 +9832,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0951",
 			"idPointTri": "SO_TRI020",
-			"latitude": -1.51989762596,
-			"longitude": 47.1528489747,
+			"latitude": 47.1528489747,
+			"longitude": -1.51989762596,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Bocage Les Sorinières",
 			"typeDechets": "Verre",
@@ -9847,8 +9846,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0956",
 			"idPointTri": "VE_TRI53",
-			"latitude": -1.47964345601,
-			"longitude": 47.1862798286,
+			"latitude": 47.1862798286,
+			"longitude": -1.47964345601,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Laurier Fleuri Vertou",
 			"typeDechets": "Verre",
@@ -9861,8 +9860,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0976",
 			"idPointTri": "CA_TRI033",
-			"latitude": -1.4602004618,
-			"longitude": 47.2814001695,
+			"latitude": 47.2814001695,
+			"longitude": -1.4602004618,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Véga Carquefou",
 			"typeDechets": "Verre",
@@ -9875,8 +9874,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_DS0030",
 			"idPointTri": "SH_TRI001",
-			"latitude": -1.60878412882,
-			"longitude": 47.2450903466,
+			"latitude": 47.2450903466,
+			"longitude": -1.60878412882,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de l'Angevinière St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -9885,13 +9884,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Emballage ménager, Verre"
+			"type": "Emballage ménager, Verre"
 		},
 		{
 			"code": "stco_conteneur_DS0033",
 			"idPointTri": "SH_TRI081",
-			"latitude": -1.61068495835,
-			"longitude": 47.2427365176,
+			"latitude": 47.2427365176,
+			"longitude": -1.61068495835,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Danube St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -9904,8 +9903,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_DS0049",
 			"idPointTri": "SH_TRI085",
-			"latitude": -1.61475568848,
-			"longitude": 47.2163440259,
+			"latitude": 47.2163440259,
+			"longitude": -1.61475568848,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Falaise St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -9918,8 +9917,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_PC0033",
 			"idPointTri": "NA_TRI104",
-			"latitude": -1.55636966559,
-			"longitude": 47.2310115112,
+			"latitude": 47.2310115112,
+			"longitude": -1.55636966559,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Chanoine Durville Nantes",
 			"typeDechets": "Papier-carton",
@@ -9928,13 +9927,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_PL0023",
 			"idPointTri": "NA_TRI144",
-			"latitude": -1.58478141497,
-			"longitude": 47.2202311789,
+			"latitude": 47.2202311789,
+			"longitude": -1.58478141497,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de la Priauté Nantes",
 			"typeDechets": "Plastique",
@@ -9947,8 +9946,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0007",
 			"idPointTri": "BG_TRI007",
-			"latitude": -1.47271306213,
-			"longitude": 47.2089404115,
+			"latitude": 47.2089404115,
+			"longitude": -1.47271306213,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Ouche aux Roux Basse-Goulaine",
 			"typeDechets": "Verre",
@@ -9961,8 +9960,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0011",
 			"idPointTri": "BG_TRI011",
-			"latitude": -1.45803060141,
-			"longitude": 47.1890676806,
+			"latitude": 47.1890676806,
+			"longitude": -1.45803060141,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Cassardière Basse-Goulaine",
 			"typeDechets": "Verre",
@@ -9975,8 +9974,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0054",
 			"idPointTri": "BO_TRI029",
-			"latitude": -1.64517386663,
-			"longitude": 47.1595924527,
+			"latitude": 47.1595924527,
+			"longitude": -1.64517386663,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Bauches Bouguenais",
 			"typeDechets": "Verre",
@@ -9989,8 +9988,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0057",
 			"idPointTri": "BO_TRI032",
-			"latitude": -1.62813544534,
-			"longitude": 47.1783447183,
+			"latitude": 47.1783447183,
+			"longitude": -1.62813544534,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Eugène Pottier Bouguenais",
 			"typeDechets": "Verre",
@@ -10003,8 +10002,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0093",
 			"idPointTri": "CA_TRI009",
-			"latitude": -1.50539448624,
-			"longitude": 47.2867600234,
+			"latitude": 47.2867600234,
+			"longitude": -1.50539448624,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue Fragonard Carquefou",
 			"typeDechets": "Verre",
@@ -10017,8 +10016,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0102",
 			"idPointTri": "CA_TRI016",
-			"latitude": -1.50159408094,
-			"longitude": 47.2997224428,
+			"latitude": 47.2997224428,
+			"longitude": -1.50159408094,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée des Renaudières Carquefou",
 			"typeDechets": "Verre",
@@ -10031,8 +10030,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0105",
 			"idPointTri": "CA_TRI019",
-			"latitude": -1.48656249456,
-			"longitude": 47.2770805049,
+			"latitude": 47.2770805049,
+			"longitude": -1.48656249456,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de l'Arquebusier Carquefou",
 			"typeDechets": "Verre",
@@ -10045,8 +10044,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0111",
 			"idPointTri": "CA_TRI025",
-			"latitude": -1.48573935053,
-			"longitude": 47.2853303848,
+			"latitude": 47.2853303848,
+			"longitude": -1.48573935053,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard de l'Epinay Carquefou",
 			"typeDechets": "Verre",
@@ -10059,8 +10058,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0115",
 			"idPointTri": "CA_TRI029",
-			"latitude": -1.48698286897,
-			"longitude": 47.2679503721,
+			"latitude": 47.2679503721,
+			"longitude": -1.48698286897,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Impasse des Alizés Carquefou",
 			"typeDechets": "Verre",
@@ -10073,8 +10072,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0120",
 			"idPointTri": "CA_TRI034",
-			"latitude": -1.48476052023,
-			"longitude": 47.2687555613,
+			"latitude": 47.2687555613,
+			"longitude": -1.48476052023,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Hôtellerie Carquefou",
 			"typeDechets": "Verre",
@@ -10087,8 +10086,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0123",
 			"idPointTri": "CA_TRI037",
-			"latitude": -1.48449828056,
-			"longitude": 47.3067229013,
+			"latitude": 47.3067229013,
+			"longitude": -1.48449828056,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Amazone Carquefou",
 			"typeDechets": "Verre",
@@ -10101,8 +10100,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0124",
 			"idPointTri": "CA_TRI038",
-			"latitude": -1.50356327468,
-			"longitude": 47.3026193321,
+			"latitude": 47.3026193321,
+			"longitude": -1.50356327468,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Ampère Carquefou",
 			"typeDechets": "Verre",
@@ -10115,8 +10114,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0175",
 			"idPointTri": "CH_TRI004",
-			"latitude": -1.5695480712,
-			"longitude": 47.3334571693,
+			"latitude": 47.3334571693,
+			"longitude": -1.5695480712,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Fer à Cheval La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -10129,8 +10128,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0185",
 			"idPointTri": "CH_TRI012",
-			"latitude": -1.55605455078,
-			"longitude": 47.2962664613,
+			"latitude": 47.2962664613,
+			"longitude": -1.55605455078,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de Beauregard La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -10143,8 +10142,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0195",
 			"idPointTri": "CH_TRI022",
-			"latitude": -1.55584384625,
-			"longitude": 47.3050557315,
+			"latitude": 47.3050557315,
+			"longitude": -1.55584384625,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Source La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -10157,8 +10156,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0201",
 			"idPointTri": "CH_TRI028",
-			"latitude": -1.53768154822,
-			"longitude": 47.2812592096,
+			"latitude": 47.2812592096,
+			"longitude": -1.53768154822,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée des Muriers La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -10171,8 +10170,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0217",
 			"idPointTri": "MT_TRI006",
-			"latitude": -1.67585077479,
-			"longitude": 47.1836169463,
+			"latitude": 47.1836169463,
+			"longitude": -1.67585077479,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée du Château d'Aux La Montagne",
 			"typeDechets": "Verre",
@@ -10185,8 +10184,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0219",
 			"idPointTri": "MT_TRI008",
-			"latitude": -1.68196375479,
-			"longitude": 47.1837671109,
+			"latitude": 47.1837671109,
+			"longitude": -1.68196375479,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Albert Camus La Montagne",
 			"typeDechets": "Verre",
@@ -10199,8 +10198,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0233",
 			"idPointTri": "MT_TRI018",
-			"latitude": -1.68336395738,
-			"longitude": 47.1902382873,
+			"latitude": 47.1902382873,
+			"longitude": -1.68336395738,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place de l'Eglise La Montagne",
 			"typeDechets": "Verre",
@@ -10213,8 +10212,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0243",
 			"idPointTri": "PE_TRI009",
-			"latitude": -1.75350194033,
-			"longitude": 47.2004303724,
+			"latitude": 47.2004303724,
+			"longitude": -1.75350194033,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Enclos Le Pellerin",
 			"typeDechets": "Verre",
@@ -10227,8 +10226,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0250",
 			"idPointTri": "SO_TRI003",
-			"latitude": -1.52289379433,
-			"longitude": 47.1481185062,
+			"latitude": 47.1481185062,
+			"longitude": -1.52289379433,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Hippolyte Derouet Les Sorinières",
 			"typeDechets": "Verre",
@@ -10241,8 +10240,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0256",
 			"idPointTri": "SO_TRI009",
-			"latitude": -1.50698747647,
-			"longitude": 47.1447387737,
+			"latitude": 47.1447387737,
+			"longitude": -1.50698747647,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Blanchardière Les Sorinières",
 			"typeDechets": "Verre",
@@ -10255,8 +10254,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0257",
 			"idPointTri": "SO_TRI010",
-			"latitude": -1.51149766346,
-			"longitude": 47.1500890645,
+			"latitude": 47.1500890645,
+			"longitude": -1.51149766346,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Fernière Les Sorinières",
 			"typeDechets": "Verre",
@@ -10269,8 +10268,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0259",
 			"idPointTri": "SO_TRI012",
-			"latitude": -1.53235866349,
-			"longitude": 47.1538900261,
+			"latitude": 47.1538900261,
+			"longitude": -1.53235866349,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Progrès Les Sorinières",
 			"typeDechets": "Verre",
@@ -10283,8 +10282,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0266",
 			"idPointTri": "MA_TRI001",
-			"latitude": -1.38836852901,
-			"longitude": 47.2942606746,
+			"latitude": 47.2942606746,
+			"longitude": -1.38836852901,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Plage Mauves-sur-Loire",
 			"typeDechets": "Verre",
@@ -10297,8 +10296,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0269",
 			"idPointTri": "MA_TRI004",
-			"latitude": -1.39389272893,
-			"longitude": 47.2934054645,
+			"latitude": 47.2934054645,
+			"longitude": -1.39389272893,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Thouaré Mauves-sur-Loire",
 			"typeDechets": "Verre",
@@ -10311,8 +10310,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0287",
 			"idPointTri": "NA_TRI138",
-			"latitude": -1.57204526902,
-			"longitude": 47.2587456467,
+			"latitude": 47.2587456467,
+			"longitude": -1.57204526902,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jacques Cartier Nantes",
 			"typeDechets": "Verre",
@@ -10325,8 +10324,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0376",
 			"idPointTri": "NA_TRI166",
-			"latitude": -1.55373417485,
-			"longitude": 47.2020373721,
+			"latitude": 47.2020373721,
+			"longitude": -1.55373417485,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "51 Boulevard Gustave Roch Nantes",
 			"typeDechets": "Verre",
@@ -10339,8 +10338,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0392",
 			"idPointTri": "NA_TRI109",
-			"latitude": -1.54807176608,
-			"longitude": 47.2253683916,
+			"latitude": 47.2253683916,
+			"longitude": -1.54807176608,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "23 Avenue Chanzy Nantes",
 			"typeDechets": "Verre",
@@ -10353,8 +10352,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0471",
 			"idPointTri": "NA_TRI199",
-			"latitude": -1.57349452985,
-			"longitude": 47.2665429797,
+			"latitude": 47.2665429797,
+			"longitude": -1.57349452985,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de la Chapelle sur Erdre Nantes",
 			"typeDechets": "Verre",
@@ -10367,8 +10366,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0475",
 			"idPointTri": "NA_TRI201",
-			"latitude": -1.57107842398,
-			"longitude": 47.2694924359,
+			"latitude": 47.2694924359,
+			"longitude": -1.57107842398,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin de l'Angle Chaillou Nantes",
 			"typeDechets": "Verre",
@@ -10381,8 +10380,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0496",
 			"idPointTri": "NA_TRI208",
-			"latitude": -1.55739599674,
-			"longitude": 47.2516072565,
+			"latitude": 47.2516072565,
+			"longitude": -1.55739599674,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Fresche Blanc Nantes",
 			"typeDechets": "Verre",
@@ -10395,8 +10394,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0498",
 			"idPointTri": "NA_TRI211",
-			"latitude": -1.59807417345,
-			"longitude": 47.2238800781,
+			"latitude": 47.2238800781,
+			"longitude": -1.59807417345,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place des Dervallières Nantes",
 			"typeDechets": "Verre",
@@ -10409,8 +10408,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0499",
 			"idPointTri": "NA_TRI212",
-			"latitude": -1.57282570763,
-			"longitude": 47.2239331349,
+			"latitude": 47.2239331349,
+			"longitude": -1.57282570763,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Luc Olivier Merson Nantes",
 			"typeDechets": "Verre",
@@ -10423,8 +10422,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0521",
 			"idPointTri": "OR_TRI021",
-			"latitude": -1.58584115185,
-			"longitude": 47.2485135788,
+			"latitude": 47.2485135788,
+			"longitude": -1.58584115185,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de la Ferrière Orvault",
 			"typeDechets": "Verre",
@@ -10437,8 +10436,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0523",
 			"idPointTri": "OR_TRI023",
-			"latitude": -1.57999997369,
-			"longitude": 47.2460002708,
+			"latitude": 47.2460002708,
+			"longitude": -1.57999997369,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Patouillerie Orvault",
 			"typeDechets": "Verre",
@@ -10451,8 +10450,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0524",
 			"idPointTri": "OR_TRI024",
-			"latitude": -1.58281554869,
-			"longitude": 47.2475102475,
+			"latitude": 47.2475102475,
+			"longitude": -1.58281554869,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Hortensias Orvault",
 			"typeDechets": "Verre",
@@ -10465,8 +10464,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0528",
 			"idPointTri": "OR_TRI026",
-			"latitude": -1.59040031726,
-			"longitude": 47.2420008975,
+			"latitude": 47.2420008975,
+			"longitude": -1.59040031726,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de la Vilaine Orvault",
 			"typeDechets": "Verre",
@@ -10479,8 +10478,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0529",
 			"idPointTri": "OR_TRI027",
-			"latitude": -1.590195302,
-			"longitude": 47.2405704402,
+			"latitude": 47.2405704402,
+			"longitude": -1.590195302,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de l'Ille Orvault",
 			"typeDechets": "Verre",
@@ -10493,8 +10492,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0534",
 			"idPointTri": "OR_TRI032",
-			"latitude": -1.57717096045,
-			"longitude": 47.2530646672,
+			"latitude": 47.2530646672,
+			"longitude": -1.57717096045,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Alberto Giacometti Orvault",
 			"typeDechets": "Verre",
@@ -10507,8 +10506,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0541",
 			"idPointTri": "OR_TRI005",
-			"latitude": -1.63516561622,
-			"longitude": 47.2655239479,
+			"latitude": 47.2655239479,
+			"longitude": -1.63516561622,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Garenne Orvault",
 			"typeDechets": "Verre",
@@ -10521,8 +10520,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0546",
 			"idPointTri": "RE_TRI007",
-			"latitude": -1.55869413813,
-			"longitude": 47.1910287315,
+			"latitude": 47.1910287315,
+			"longitude": -1.55869413813,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Emile Zola Rezé",
 			"typeDechets": "Verre",
@@ -10535,8 +10534,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0554",
 			"idPointTri": "RE_TRI015",
-			"latitude": -1.5553951544,
-			"longitude": 47.1860674185,
+			"latitude": 47.1860674185,
+			"longitude": -1.5553951544,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Lieutenant de Monti Rezé",
 			"typeDechets": "Verre",
@@ -10549,8 +10548,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0565",
 			"idPointTri": "RE_TRI026",
-			"latitude": -1.54203198098,
-			"longitude": 47.1650392641,
+			"latitude": 47.1650392641,
+			"longitude": -1.54203198098,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Vivier Rezé",
 			"typeDechets": "Verre",
@@ -10563,8 +10562,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0574",
 			"idPointTri": "RE_TRI035",
-			"latitude": -1.53731955409,
-			"longitude": 47.1803191826,
+			"latitude": 47.1803191826,
+			"longitude": -1.53731955409,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Aristide Nogue Rezé",
 			"typeDechets": "Verre",
@@ -10577,8 +10576,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0591",
 			"idPointTri": "RE_TRI062",
-			"latitude": -1.5520993321,
-			"longitude": 47.1672000588,
+			"latitude": 47.1672000588,
+			"longitude": -1.5520993321,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Pablo Picasso Rezé",
 			"typeDechets": "Verre",
@@ -10591,8 +10590,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0597",
 			"idPointTri": "RE_TRI054",
-			"latitude": -1.56925697494,
-			"longitude": 47.1946532492,
+			"latitude": 47.1946532492,
+			"longitude": -1.56925697494,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Abbé Grégoire Rezé",
 			"typeDechets": "Verre",
@@ -10605,8 +10604,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0599",
 			"idPointTri": "RE_TRI056",
-			"latitude": -1.55737206729,
-			"longitude": 47.1840916052,
+			"latitude": 47.1840916052,
+			"longitude": -1.55737206729,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée Paul Eluard Rezé",
 			"typeDechets": "Verre",
@@ -10619,8 +10618,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0602",
 			"idPointTri": "SA_TRI002",
-			"latitude": -1.66268162649,
-			"longitude": 47.2582207168,
+			"latitude": 47.2582207168,
+			"longitude": -1.66268162649,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de la Hubonnière Sautron",
 			"typeDechets": "Verre",
@@ -10633,8 +10632,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0606",
 			"idPointTri": "SA_TRI006",
-			"latitude": -1.66895739287,
-			"longitude": 47.2580844806,
+			"latitude": 47.2580844806,
+			"longitude": -1.66895739287,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Cens Sautron",
 			"typeDechets": "Verre",
@@ -10647,8 +10646,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0636",
 			"idPointTri": "SH_TRI043",
-			"latitude": -1.6449027643,
-			"longitude": 47.2511313584,
+			"latitude": 47.2511313584,
+			"longitude": -1.6449027643,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Syonnière St-Herblain",
 			"typeDechets": "Verre",
@@ -10661,8 +10660,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0642",
 			"idPointTri": "SH_TRI049",
-			"latitude": -1.65072208384,
-			"longitude": 47.2272380191,
+			"latitude": 47.2272380191,
+			"longitude": -1.65072208384,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Johardière St-Herblain",
 			"typeDechets": "Verre",
@@ -10675,8 +10674,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0655",
 			"idPointTri": "SH_TRI061",
-			"latitude": -1.65346069636,
-			"longitude": 47.2114483753,
+			"latitude": 47.2114483753,
+			"longitude": -1.65346069636,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Lieutenant Mouillie St-Herblain",
 			"typeDechets": "Verre",
@@ -10689,8 +10688,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0657",
 			"idPointTri": "SH_TRI063",
-			"latitude": -1.64538365031,
-			"longitude": 47.2111570541,
+			"latitude": 47.2111570541,
+			"longitude": -1.64538365031,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Vecquerie St-Herblain",
 			"typeDechets": "Verre",
@@ -10703,8 +10702,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0658",
 			"idPointTri": "SH_TRI064",
-			"latitude": -1.6485004269,
-			"longitude": 47.2127850609,
+			"latitude": 47.2127850609,
+			"longitude": -1.6485004269,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard François Mitterrand St-Herblain",
 			"typeDechets": "Verre",
@@ -10717,8 +10716,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0690",
 			"idPointTri": "SH_TRI101",
-			"latitude": -1.64717158359,
-			"longitude": 47.2242525553,
+			"latitude": 47.2242525553,
+			"longitude": -1.64717158359,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Coutelier St-Herblain",
 			"typeDechets": "Verre",
@@ -10731,8 +10730,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0700",
 			"idPointTri": "SH_TRI106",
-			"latitude": -1.59546514173,
-			"longitude": 47.2375386841,
+			"latitude": 47.2375386841,
+			"longitude": -1.59546514173,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue des Grands Bois St-Herblain",
 			"typeDechets": "Verre",
@@ -10745,8 +10744,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0771",
 			"idPointTri": "SS_TRI022",
-			"latitude": -1.52466052761,
-			"longitude": 47.2044701118,
+			"latitude": 47.2044701118,
+			"longitude": -1.52466052761,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard des Pas Enchantés Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -10759,8 +10758,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0776",
 			"idPointTri": "SS_TRI027",
-			"latitude": -1.52422546278,
-			"longitude": 47.1990890207,
+			"latitude": 47.1990890207,
+			"longitude": -1.52422546278,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de la Martellière Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -10773,8 +10772,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0777",
 			"idPointTri": "SS_TRI028",
-			"latitude": -1.52458244685,
-			"longitude": 47.1965871484,
+			"latitude": 47.1965871484,
+			"longitude": -1.52458244685,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Bonne Garde Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -10787,8 +10786,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0799",
 			"idPointTri": "SS_TRI050",
-			"latitude": -1.49949053171,
-			"longitude": 47.2069967091,
+			"latitude": 47.2069967091,
+			"longitude": -1.49949053171,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Verdon Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -10801,8 +10800,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0810",
 			"idPointTri": "SS_TRI060",
-			"latitude": -1.48690343668,
-			"longitude": 47.2113875815,
+			"latitude": 47.2113875815,
+			"longitude": -1.48690343668,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue Jules Verne Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -10815,8 +10814,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0871",
 			"idPointTri": "VE_TRI022",
-			"latitude": -1.48422015897,
-			"longitude": 47.1742494292,
+			"latitude": 47.1742494292,
+			"longitude": -1.48422015897,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Violettes Vertou",
 			"typeDechets": "Verre",
@@ -10829,8 +10828,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0873",
 			"idPointTri": "VE_TRI024",
-			"latitude": -1.49494394934,
-			"longitude": 47.1751933604,
+			"latitude": 47.1751933604,
+			"longitude": -1.49494394934,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route du Vignoble Vertou",
 			"typeDechets": "Verre",
@@ -10843,8 +10842,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0875",
 			"idPointTri": "VE_TRI026",
-			"latitude": -1.47970825564,
-			"longitude": 47.1700105257,
+			"latitude": 47.1700105257,
+			"longitude": -1.47970825564,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue ders anciens caombatants d’afrique du sud Vertou",
 			"typeDechets": "Verre",
@@ -10857,8 +10856,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0900",
 			"idPointTri": "VE_TRI046",
-			"latitude": -1.49356504365,
-			"longitude": 47.1788703397,
+			"latitude": 47.1788703397,
+			"longitude": -1.49356504365,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée Alphonse Fillion Vertou",
 			"typeDechets": "Verre",
@@ -10871,8 +10870,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0930",
 			"idPointTri": "SS_TRI063",
-			"latitude": -1.49968503707,
-			"longitude": 47.2050204184,
+			"latitude": 47.2050204184,
+			"longitude": -1.49968503707,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Annie Hure Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -10885,8 +10884,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0940",
 			"idPointTri": "NA_TRI216",
-			"latitude": -1.61315586954,
-			"longitude": 47.2052354914,
+			"latitude": 47.2052354914,
+			"longitude": -1.61315586954,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue de Bayonne Nantes",
 			"typeDechets": "Verre",
@@ -10899,8 +10898,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0941",
 			"idPointTri": "NA_TRI217",
-			"latitude": -1.5913376688,
-			"longitude": 47.197895121,
+			"latitude": 47.197895121,
+			"longitude": -1.5913376688,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Chevreul Nantes",
 			"typeDechets": "Verre",
@@ -10913,8 +10912,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0944",
 			"idPointTri": "NA_TRI220",
-			"latitude": -1.57125539379,
-			"longitude": 47.2093169204,
+			"latitude": 47.2093169204,
+			"longitude": -1.57125539379,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Mathurin Brissonneau Nantes",
 			"typeDechets": "Verre",
@@ -10927,8 +10926,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0954",
 			"idPointTri": "BO_TRI046",
-			"latitude": -1.58476909224,
-			"longitude": 47.1706688702,
+			"latitude": 47.1706688702,
+			"longitude": -1.58476909224,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Baptiste Clément Bouguenais",
 			"typeDechets": "Verre",
@@ -10941,8 +10940,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0955",
 			"idPointTri": "SS_TRI66",
-			"latitude": -1.48212582951,
-			"longitude": 47.203661625,
+			"latitude": 47.203661625,
+			"longitude": -1.48212582951,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Pas Bredy (Pépinière municipale) Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -10955,8 +10954,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0965",
 			"idPointTri": "IN_TRI010",
-			"latitude": -1.66101734446,
-			"longitude": 47.1975522985,
+			"latitude": 47.1975522985,
+			"longitude": -1.66101734446,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Elsa Triolet Indre",
 			"typeDechets": "Verre",
@@ -10969,8 +10968,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_DS0044",
 			"idPointTri": "SH_TRI083",
-			"latitude": -1.61169874,
-			"longitude": 47.2134004787,
+			"latitude": 47.2134004787,
+			"longitude": -1.61169874,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue d'Issoire St-Herblain",
 			"typeDechets": "Emballage ménager",
@@ -10983,8 +10982,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_PC0088",
 			"idPointTri": "NA_TRI117",
-			"latitude": -1.54136024695,
-			"longitude": 47.1964055245,
+			"latitude": 47.1964055245,
+			"longitude": -1.54136024695,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Esnoult des Châtelets Nantes",
 			"typeDechets": "Papier-carton",
@@ -10993,13 +10992,13 @@ var _containersDatas = [
 			"carteIcon": "assets/icons/marker-icon-blue.png",
 			"modesCollecte": ",modco_contverre",
 			"carteMarqueur": 2,
-			"type_dechets": "Papier-carton, Verre"
+			"type": "Papier-carton, Verre"
 		},
 		{
 			"code": "stco_conteneur_VE0022",
 			"idPointTri": "BY_TRI004",
-			"latitude": -1.66909971624,
-			"longitude": 47.1365007192,
+			"latitude": 47.1365007192,
+			"longitude": -1.66909971624,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place des Pêcheurs Bouaye",
 			"typeDechets": "Verre",
@@ -11012,8 +11011,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0026",
 			"idPointTri": "BY_TRI007",
-			"latitude": -1.67943791697,
-			"longitude": 47.1643023004,
+			"latitude": 47.1643023004,
+			"longitude": -1.67943791697,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Coteaux de Grand Lieu Bouaye",
 			"typeDechets": "Verre",
@@ -11026,8 +11025,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0042",
 			"idPointTri": "BO_TRI001",
-			"latitude": -1.58384589347,
-			"longitude": 47.1856114892,
+			"latitude": 47.1856114892,
+			"longitude": -1.58384589347,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Pasteur Bouguenais",
 			"typeDechets": "Verre",
@@ -11040,8 +11039,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0046",
 			"idPointTri": "BO_TRI021",
-			"latitude": -1.6182339344,
-			"longitude": 47.1777677147,
+			"latitude": 47.1777677147,
+			"longitude": -1.6182339344,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue du Général De Gaulle Bouguenais",
 			"typeDechets": "Verre",
@@ -11054,8 +11053,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0080",
 			"idPointTri": "BR_TRI003",
-			"latitude": -1.72374290235,
-			"longitude": 47.159109688,
+			"latitude": 47.159109688,
+			"longitude": -1.72374290235,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Acheneau Brains",
 			"typeDechets": "Verre",
@@ -11068,8 +11067,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0101",
 			"idPointTri": "CA_TRI015",
-			"latitude": -1.50811650809,
-			"longitude": 47.299618904,
+			"latitude": 47.299618904,
+			"longitude": -1.50811650809,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Avenue du Professeur Jean Rouxel Carquefou",
 			"typeDechets": "Verre",
@@ -11082,8 +11081,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0121",
 			"idPointTri": "CA_TRI035",
-			"latitude": -1.47493888308,
-			"longitude": 47.2925057935,
+			"latitude": 47.2925057935,
+			"longitude": -1.47493888308,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Impasse de Vieilleville Carquefou",
 			"typeDechets": "Verre",
@@ -11096,8 +11095,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0122",
 			"idPointTri": "CA_TRI036",
-			"latitude": -1.49540266433,
-			"longitude": 47.3001055905,
+			"latitude": 47.3001055905,
+			"longitude": -1.49540266433,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Passage des Enfants Carquefou",
 			"typeDechets": "Verre",
@@ -11110,8 +11109,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0130",
 			"idPointTri": "CO_TRI004",
-			"latitude": -1.73077418448,
-			"longitude": 47.2166189038,
+			"latitude": 47.2166189038,
+			"longitude": -1.73077418448,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jules Verne Couëron",
 			"typeDechets": "Verre",
@@ -11124,8 +11123,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0131",
 			"idPointTri": "CO_TRI005",
-			"latitude": -1.73559447523,
-			"longitude": 47.2177025902,
+			"latitude": 47.2177025902,
+			"longitude": -1.73559447523,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard de l'Océan Couëron",
 			"typeDechets": "Verre",
@@ -11138,8 +11137,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0136",
 			"idPointTri": "CO_TRI010",
-			"latitude": -1.72401990179,
-			"longitude": 47.2138178195,
+			"latitude": 47.2138178195,
+			"longitude": -1.72401990179,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Paul Langevin Couëron",
 			"typeDechets": "Verre",
@@ -11152,8 +11151,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0145",
 			"idPointTri": "CO_TRI019",
-			"latitude": -1.68970824587,
-			"longitude": 47.215235136,
+			"latitude": 47.215235136,
+			"longitude": -1.68970824587,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Prairies Couëron",
 			"typeDechets": "Verre",
@@ -11166,8 +11165,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0154",
 			"idPointTri": "CO_TRI028",
-			"latitude": -1.72016765932,
-			"longitude": 47.245180384,
+			"latitude": 47.245180384,
+			"longitude": -1.72016765932,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "RD 11 Couëron",
 			"typeDechets": "Verre",
@@ -11180,8 +11179,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0157",
 			"idPointTri": "CO_TRI3",
-			"latitude": -1.66680004709,
-			"longitude": 47.2417999317,
+			"latitude": 47.2417999317,
+			"longitude": -1.66680004709,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "La Barrière Noire Couëron",
 			"typeDechets": "Verre",
@@ -11194,8 +11193,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0169",
 			"idPointTri": "IN_TRI007",
-			"latitude": -1.66722656395,
-			"longitude": 47.1993738004,
+			"latitude": 47.1993738004,
+			"longitude": -1.66722656395,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Allier Indre",
 			"typeDechets": "Verre",
@@ -11208,8 +11207,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0170",
 			"idPointTri": "IN_TRI008",
-			"latitude": -1.67933122121,
-			"longitude": 47.2012394043,
+			"latitude": 47.2012394043,
+			"longitude": -1.67933122121,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Quai Langlois Indre",
 			"typeDechets": "Verre",
@@ -11222,8 +11221,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0182",
 			"idPointTri": "CH_TRI009",
-			"latitude": -1.5518897165,
-			"longitude": 47.3007922344,
+			"latitude": 47.3007922344,
+			"longitude": -1.5518897165,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Jaurès La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -11236,8 +11235,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0189",
 			"idPointTri": "CH_TRI016",
-			"latitude": -1.55847154108,
-			"longitude": 47.2994817335,
+			"latitude": 47.2994817335,
+			"longitude": -1.55847154108,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Louis Maisonneuve La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -11250,8 +11249,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0202",
 			"idPointTri": "CH_TRI029",
-			"latitude": -1.55121342052,
-			"longitude": 47.2730475897,
+			"latitude": 47.2730475897,
+			"longitude": -1.55121342052,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard de l'Hopitau La Chapelle-sur-Erdre",
 			"typeDechets": "Verre",
@@ -11264,8 +11263,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0240",
 			"idPointTri": "PE_TRI007",
-			"latitude": -1.81047434284,
-			"longitude": 47.2006521114,
+			"latitude": 47.2006521114,
+			"longitude": -1.81047434284,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route du Pé de Buzay Le Pellerin",
 			"typeDechets": "Verre",
@@ -11278,8 +11277,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0242",
 			"idPointTri": "PE_TRI008",
-			"latitude": -1.74922991367,
-			"longitude": 47.201257903,
+			"latitude": 47.201257903,
+			"longitude": -1.74922991367,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Curé Le Pellerin",
 			"typeDechets": "Verre",
@@ -11292,8 +11291,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0277",
 			"idPointTri": "NA_TRI134",
-			"latitude": -1.57522049668,
-			"longitude": 47.2045594852,
+			"latitude": 47.2045594852,
+			"longitude": -1.57522049668,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Quai Ernest Renaud Nantes",
 			"typeDechets": "Verre",
@@ -11306,8 +11305,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0292",
 			"idPointTri": "NA_TRI141",
-			"latitude": -1.57183621837,
-			"longitude": 47.2297762517,
+			"latitude": 47.2297762517,
+			"longitude": -1.57183621837,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Lelasseur Nantes",
 			"typeDechets": "Verre",
@@ -11320,8 +11319,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0320",
 			"idPointTri": "NA_TRI152",
-			"latitude": -1.55947448619,
-			"longitude": 47.2105092886,
+			"latitude": 47.2105092886,
+			"longitude": -1.55947448619,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Albert de Mun Nantes",
 			"typeDechets": "Verre",
@@ -11334,8 +11333,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0322",
 			"idPointTri": "NA_TRI153",
-			"latitude": -1.56110263576,
-			"longitude": 47.2451153513,
+			"latitude": 47.2451153513,
+			"longitude": -1.56110263576,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard des Tribunes Nantes",
 			"typeDechets": "Verre",
@@ -11348,8 +11347,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0373",
 			"idPointTri": "NA_TRI165",
-			"latitude": -1.49821251453,
-			"longitude": 47.2542535534,
+			"latitude": 47.2542535534,
+			"longitude": -1.49821251453,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue d'Allemagne Nantes",
 			"typeDechets": "Verre",
@@ -11362,8 +11361,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0414",
 			"idPointTri": "NA_TRI181",
-			"latitude": -1.59999243519,
-			"longitude": 47.2239084948,
+			"latitude": 47.2239084948,
+			"longitude": -1.59999243519,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Charles Perron Nantes",
 			"typeDechets": "Verre",
@@ -11376,8 +11375,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0438",
 			"idPointTri": "NA_TRI192",
-			"latitude": -1.53546341375,
-			"longitude": 47.2345840867,
+			"latitude": 47.2345840867,
+			"longitude": -1.53546341375,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Jules Verne Nantes",
 			"typeDechets": "Verre",
@@ -11390,8 +11389,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0454",
 			"idPointTri": "NA_TRI194",
-			"latitude": -1.52926297639,
-			"longitude": 47.2227027626,
+			"latitude": 47.2227027626,
+			"longitude": -1.52926297639,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place du Ralliement Nantes",
 			"typeDechets": "Verre",
@@ -11404,8 +11403,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0547",
 			"idPointTri": "RE_TRI008",
-			"latitude": -1.56122676878,
-			"longitude": 47.1912165339,
+			"latitude": 47.1912165339,
+			"longitude": -1.56122676878,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Emile Zola Rezé",
 			"typeDechets": "Verre",
@@ -11418,8 +11417,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0570",
 			"idPointTri": "RE_TRI031",
-			"latitude": -1.5606203869,
-			"longitude": 47.1804547265,
+			"latitude": 47.1804547265,
+			"longitude": -1.5606203869,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Maurice Utrillo Rezé",
 			"typeDechets": "Verre",
@@ -11432,8 +11431,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0577",
 			"idPointTri": "RE_TRI038",
-			"latitude": -1.5393273541,
-			"longitude": 47.1682476682,
+			"latitude": 47.1682476682,
+			"longitude": -1.5393273541,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Sorbiers Rezé",
 			"typeDechets": "Verre",
@@ -11446,8 +11445,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0579",
 			"idPointTri": "RE_TRI040",
-			"latitude": -1.5599155694,
-			"longitude": 47.1693556919,
+			"latitude": 47.1693556919,
+			"longitude": -1.5599155694,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard Paul Henri Spaak Rezé",
 			"typeDechets": "Verre",
@@ -11460,8 +11459,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0596",
 			"idPointTri": "RE_TRI053",
-			"latitude": -1.56745402988,
-			"longitude": 47.1866428108,
+			"latitude": 47.1866428108,
+			"longitude": -1.56745402988,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Allée Georges Bénezet Rezé",
 			"typeDechets": "Verre",
@@ -11474,8 +11473,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0609",
 			"idPointTri": "SA_TRI009",
-			"latitude": -1.68276835005,
-			"longitude": 47.2581726618,
+			"latitude": 47.2581726618,
+			"longitude": -1.68276835005,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Vigneau Sautron",
 			"typeDechets": "Verre",
@@ -11488,8 +11487,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0610",
 			"idPointTri": "SA_TRI010",
-			"latitude": -1.68122957708,
-			"longitude": 47.2597432411,
+			"latitude": 47.2597432411,
+			"longitude": -1.68122957708,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Plaisance Sautron",
 			"typeDechets": "Verre",
@@ -11502,8 +11501,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0617",
 			"idPointTri": "SA_TRI017",
-			"latitude": -1.6573007494,
-			"longitude": 47.2538996452,
+			"latitude": 47.2538996452,
+			"longitude": -1.6573007494,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Puisatiers Sautron",
 			"typeDechets": "Verre",
@@ -11516,8 +11515,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0643",
 			"idPointTri": "SH_TRI050",
-			"latitude": -1.65981963002,
-			"longitude": 47.2250345385,
+			"latitude": 47.2250345385,
+			"longitude": -1.65981963002,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Villages St-Herblain",
 			"typeDechets": "Verre",
@@ -11530,8 +11529,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0644",
 			"idPointTri": "SH_TRI051",
-			"latitude": -1.66606350324,
-			"longitude": 47.2217695193,
+			"latitude": 47.2217695193,
+			"longitude": -1.66606350324,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Moulin de la Pâtissière St-Herblain",
 			"typeDechets": "Verre",
@@ -11544,8 +11543,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0650",
 			"idPointTri": "SH_TRI056",
-			"latitude": -1.64770899494,
-			"longitude": 47.2154996093,
+			"latitude": 47.2154996093,
+			"longitude": -1.64770899494,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Calvaires St-Herblain",
 			"typeDechets": "Verre",
@@ -11558,8 +11557,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0670",
 			"idPointTri": "SH_TRI073",
-			"latitude": -1.63573229402,
-			"longitude": 47.2165053226,
+			"latitude": 47.2165053226,
+			"longitude": -1.63573229402,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin de la Solvardière St-Herblain",
 			"typeDechets": "Verre",
@@ -11572,8 +11571,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0674",
 			"idPointTri": "SH_TRI086",
-			"latitude": -1.61816025737,
-			"longitude": 47.2118942015,
+			"latitude": 47.2118942015,
+			"longitude": -1.61816025737,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Morlaix St-Herblain",
 			"typeDechets": "Verre",
@@ -11586,8 +11585,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0685",
 			"idPointTri": "SH_TRI096",
-			"latitude": -1.63263106278,
-			"longitude": 47.2202713989,
+			"latitude": 47.2202713989,
+			"longitude": -1.63263106278,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Chemin du Breil St-Herblain",
 			"typeDechets": "Verre",
@@ -11600,8 +11599,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0717",
 			"idPointTri": "SH_TRI110",
-			"latitude": -1.61835687891,
-			"longitude": 47.2204782445,
+			"latitude": 47.2204782445,
+			"longitude": -1.61835687891,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Jaurès St-Herblain",
 			"typeDechets": "Verre",
@@ -11614,8 +11613,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0728",
 			"idPointTri": "SH_TRI114",
-			"latitude": -1.65709097778,
-			"longitude": 47.2101916171,
+			"latitude": 47.2101916171,
+			"longitude": -1.65709097778,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Gare St-Herblain",
 			"typeDechets": "Verre",
@@ -11628,8 +11627,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0738",
 			"idPointTri": "JB_TRI010",
-			"latitude": -1.71087848761,
-			"longitude": 47.189211966,
+			"latitude": 47.189211966,
+			"longitude": -1.71087848761,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Pierres Blanches Saint-Jean-de-Boiseau",
 			"typeDechets": "Verre",
@@ -11642,8 +11641,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0754",
 			"idPointTri": "SS_TRI011",
-			"latitude": -1.49013973612,
-			"longitude": 47.1964813592,
+			"latitude": 47.1964813592,
+			"longitude": -1.49013973612,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Plantes Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -11656,8 +11655,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0772",
 			"idPointTri": "SS_TRI023",
-			"latitude": -1.51899954877,
-			"longitude": 47.2045595474,
+			"latitude": 47.2045595474,
+			"longitude": -1.51899954877,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Baugerie Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -11670,8 +11669,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0773",
 			"idPointTri": "SS_TRI024",
-			"latitude": -1.52228064299,
-			"longitude": 47.2018494136,
+			"latitude": 47.2018494136,
+			"longitude": -1.52228064299,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Moine Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -11684,8 +11683,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0778",
 			"idPointTri": "SS_TRI029",
-			"latitude": -1.52426456592,
-			"longitude": 47.1919492035,
+			"latitude": 47.1919492035,
+			"longitude": -1.52426456592,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Elisa Mercoeur Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -11698,8 +11697,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0781",
 			"idPointTri": "SS_TRI032",
-			"latitude": -1.51337855752,
-			"longitude": 47.1963005968,
+			"latitude": 47.1963005968,
+			"longitude": -1.51337855752,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Coquelicots Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -11712,8 +11711,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0783",
 			"idPointTri": "SS_TRI034",
-			"latitude": -1.51474111772,
-			"longitude": 47.194428657,
+			"latitude": 47.194428657,
+			"longitude": -1.51474111772,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue des Pétunias Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -11726,8 +11725,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0790",
 			"idPointTri": "SS_TRI041",
-			"latitude": -1.51335483449,
-			"longitude": 47.205506674,
+			"latitude": 47.205506674,
+			"longitude": -1.51335483449,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Petit Clos Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -11740,8 +11739,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0791",
 			"idPointTri": "SS_TRI042",
-			"latitude": -1.51451098818,
-			"longitude": 47.2069075006,
+			"latitude": 47.2069075006,
+			"longitude": -1.51451098818,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Loire Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -11754,8 +11753,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0795",
 			"idPointTri": "SS_TRI046",
-			"latitude": -1.50679633327,
-			"longitude": 47.2091874711,
+			"latitude": 47.2091874711,
+			"longitude": -1.50679633327,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue Jean Baptiste Robert Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -11768,8 +11767,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0797",
 			"idPointTri": "SS_TRI048",
-			"latitude": -1.50262616295,
-			"longitude": 47.2102231399,
+			"latitude": 47.2102231399,
+			"longitude": -1.50262616295,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard des Pas Enchantés Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -11782,8 +11781,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0801",
 			"idPointTri": "SS_TRI052",
-			"latitude": -1.5007860121,
-			"longitude": 47.2038404664,
+			"latitude": 47.2038404664,
+			"longitude": -1.5007860121,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Docteur Luneau Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -11796,8 +11795,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0803",
 			"idPointTri": "SS_TRI054",
-			"latitude": -1.49997881432,
-			"longitude": 47.1995706798,
+			"latitude": 47.1995706798,
+			"longitude": -1.49997881432,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de Bretagne Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -11810,8 +11809,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0808",
 			"idPointTri": "SS_TRI058",
-			"latitude": -1.52227390746,
-			"longitude": 47.2018609898,
+			"latitude": 47.2018609898,
+			"longitude": -1.52227390746,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de l'Ouche Colin Saint-Sébastien-sur-Loire",
 			"typeDechets": "Verre",
@@ -11824,8 +11823,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0860",
 			"idPointTri": "VE_TRI018",
-			"latitude": -1.46771876398,
-			"longitude": 47.1716133877,
+			"latitude": 47.1716133877,
+			"longitude": -1.46771876398,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue du Chapeau Berger Vertou",
 			"typeDechets": "Verre",
@@ -11838,8 +11837,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0897",
 			"idPointTri": "VE_TRI005",
-			"latitude": -1.51165126379,
-			"longitude": 47.1804871185,
+			"latitude": 47.1804871185,
+			"longitude": -1.51165126379,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Rue de la Cale Vertou",
 			"typeDechets": "Verre",
@@ -11852,8 +11851,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0902",
 			"idPointTri": "VE_TRI003",
-			"latitude": -1.50501981358,
-			"longitude": 47.1841641758,
+			"latitude": 47.1841641758,
+			"longitude": -1.50501981358,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place de la Poste Vertou",
 			"typeDechets": "Verre",
@@ -11866,8 +11865,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0909",
 			"idPointTri": "VE_TRI052",
-			"latitude": -1.4980059797,
-			"longitude": 47.1809297518,
+			"latitude": 47.1809297518,
+			"longitude": -1.4980059797,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route du Mortier Vannerie Vertou",
 			"typeDechets": "Verre",
@@ -11880,8 +11879,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0912",
 			"idPointTri": "RE_TRI061",
-			"latitude": -1.55182168794,
-			"longitude": 47.1897388284,
+			"latitude": 47.1897388284,
+			"longitude": -1.55182168794,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Place du 8 mai 1945 Rezé",
 			"typeDechets": "Verre",
@@ -11894,8 +11893,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0933",
 			"idPointTri": "NA_TRI215",
-			"latitude": -1.55702056454,
-			"longitude": 47.207439784499999,
+			"latitude": 47.207439784499999,
+			"longitude": -1.55702056454,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Quai François Mitterrand Nantes",
 			"typeDechets": "Verre",
@@ -11908,8 +11907,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0947",
 			"idPointTri": "SH_TRI119",
-			"latitude": -1.62858132389,
-			"longitude": 47.2281079441,
+			"latitude": 47.2281079441,
+			"longitude": -1.62858132389,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Boulevard du Zénith St-Herblain",
 			"typeDechets": "Verre",
@@ -11922,8 +11921,8 @@ var _containersDatas = [
 		{
 			"code": "stco_conteneur_VE0960",
 			"idPointTri": "CO_TRI035",
-			"latitude": -1.68805254914,
-			"longitude": 47.2283845172,
+			"latitude": 47.2283845172,
+			"longitude": -1.68805254914,
 			"src": "OpenDataNantes - 11/2020",
 			"adresseTemp": "Route de la Carterie Couëron",
 			"typeDechets": "Verre",
