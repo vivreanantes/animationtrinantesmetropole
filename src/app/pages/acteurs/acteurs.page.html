@@ -4,9 +4,9 @@
   <button-menu></button-menu>
   <div class="mt-content" [ngClass]="{'selected':input}">
     <div class="block" *ngIf="!input">
+
       <div class="body">
         <h2>{{"select_categories_acteur"| translate}}</h2>
-
         <select [(ngModel)]="input">
           <option *ngFor="let filtre of filtres">{{filtre}}</option>
         </select>
@@ -16,6 +16,7 @@
         <span>Le <a (click)="openUrl('http://lagalerieduzerodechet.fr/?page_id=1111')" target="_blank">catalogue des acteurs</a> a été réalisé par la Galerie du Zéro Déchet (licence "Creative Commons Paternity"). Il présente les acteurs de la réduction des déchets de Nantes et des environs (limite large Pays de la Loire). </span>
         <a (click)="openUrl('http://lagalerieduzerodechet.fr/?page_id=1234')" target="_blank">{{'plus_d_infos'|translate}}.</a>
       </div>
+
     </div>
 
     <div class="search" *ngIf="input">
@@ -32,7 +33,7 @@
       <div class="body">
         <div class="list">
           <div *ngFor="let type of acteurs[input] | values">
-            <h3 style="background-color:#DDDDDD;text-transform:none;">{{ type[0].categorie_principale_detail?type[0].categorie_principale_detail:"Divers" }} :</h3>
+            <h3 style="background-color:#DDDDDD;text-transform:none;">{{ type[0].categorie_principale_detail?type[0].categorie_principale_detail:"Divers" }}</h3>
             <ul>
               <li *ngFor="let t of type" (click)="details(t)">
                 <div class="info">

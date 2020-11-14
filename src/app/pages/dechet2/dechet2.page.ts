@@ -16,6 +16,7 @@ import { HomeCollectModsHandler } from "../../handlers/home-collect-mods.handler
 })
 export class Dechet2Page implements OnInit {
   item: any = {};
+  currentHomeCollectModsMco: string = null;
   carouselConfig: NguCarouselConfig = {
     grid: { xs: 3, sm: 3, md: 3, lg: 6, all: 0 },
     slide: 3,
@@ -43,6 +44,8 @@ export class Dechet2Page implements OnInit {
   }
 
   private _init(item) {
+    this.currentHomeCollectModsMco = this.homeCollectModsHandler.get().mco;
+
     let Promises: Array<any> = [];
     let getCatUsuel = new Promise((resolve, reject) => {
       if (typeof item.cat_usuel !== "object") {

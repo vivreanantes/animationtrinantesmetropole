@@ -1,5 +1,6 @@
 <ion-content>
   <div class="mt-content fiche">
+
     <div class="close clickable" (click)="close()">
       <ion-icon name="close"></ion-icon>
     </div>
@@ -9,6 +10,9 @@
       </div>
       <h1>{{ item | lang:"nom"}}</h1>
     </div>
+    
+    <div class="currentHomeCollect">{{ 'votre_configuration_adresse_jeu_short' | translate }} <i><span [innerHTML]="currentHomeCollectModsMco|translate" ></span></i></div>
+
     <div class="body">
       <div class="block">
         <div class="titre">

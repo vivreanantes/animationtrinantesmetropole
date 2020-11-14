@@ -5,7 +5,7 @@
   <div class="mt-content" [ngClass]="{'selected':input}">
     <div class="block" *ngIf="!input">
       <div class="body">
-        <h2>Concentré de recettes et astuces d’hygiène et beauté zéro déchet à faire soi-même</h2>
+        <h3>Concentré de recettes et astuces d’hygiène et beauté zéro déchet à faire soi-même</h3>
         <select [(ngModel)]="input">
           <option *ngFor="let filtre of filtres">{{filtre}}</option>
         </select>
@@ -15,7 +15,7 @@
         <span>Ce document a été rédigé conjointement par Alice Martin-Demolon et l'association "La Galerie du Zéro Déchet". </span>
           <a (click)="openUrl('http://lagalerieduzerodechet.fr/?page_id=2363')" target="_blank">{{'plus_d_infos'|translate}}.</a>
           <br/><br/>
-          <span>Si vous pouvez fournir des photos jolies et libres de droits de ces recettes (la préparation ou le résultat), faites par vous, sans visage, on est preneurs ! (par mail à <a (click)="openUrl('mailto://contact@lagalerieduzerodechet.fr')" target="_blank">contact@lagalerieduzerodechet.fr</a>).</span>
+          <span>Si vous faites des photos jolies, sans visage, on est preneurs ! (mail à <a (click)="openUrl('mailto://contact@lagalerieduzerodechet.fr')" target="_blank">contact@lagalerieduzerodechet.fr</a>).</span>
       </div>
     </div>
     
@@ -38,7 +38,6 @@
               <li *ngFor="let t of type" (click)="details(t)">
                 <div class="info">
                   <h5 style='display: block'>{{t.nom}}</h5>
-                  <!--div class="description" [innerHtml]="(t.descr)"></div-->
                 </div>
                 <div class="buttons">
                   <button>
