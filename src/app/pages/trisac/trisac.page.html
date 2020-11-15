@@ -3,7 +3,7 @@
 <ion-content>
   <button-menu></button-menu>
   <div class="mt-content" [ngClass]="{'selected':input}">
-    <div class="block" *ngIf="!input">
+    <div class="block">
       <div class="body">
         <h2>{{"select_quartier"| translate}}</h2>
 
@@ -13,29 +13,18 @@
       </div>
     </div>
 
-
-    <div class="search" *ngIf="input">
-      <select [(ngModel)]="input">
-        <option *ngFor="let filtre of filtres">{{filtre}}</option>
-      </select>
-    </div>
     <div class="block" *ngIf="input">
-      <div class="titre">
-        <h2>
-          {{ ("quartier"| translate)+ " "+input }}
-        </h2>
-      </div>
       <div class="body">
         <div class="list">
           <div *ngFor="let type of trisacs[input] | values">
-            <h3>{{ type[0].type_lieu?type[0].type_lieu:"Divers" }} :</h3>
+            <h3>{{ type[0].type_lieu?type[0].type_lieu:"Divers" }}</h3>
 
             <ul>
               <li class="clickable" *ngFor="let t of type" (click)="details(t)">
                 <div class="info">
                   <h5>{{t.lieu_distribution}}</h5>
                   <div class="horaires" *ngIf="t.horaires">
-                    <strong>{{'horaire'|translate}} :</strong>
+                    <strong>{{'date_horaires'|translate}} :</strong>
                     <p *ngFor="let horaire of t.horaires | values">
                       {{horaire.jour | amParse:'YYYY-MM-DD' |
                       amDateFormat:'LL'}} : {{horaire.heure}}

@@ -1,88 +1,82 @@
 @import "../../../theme/theme";
 :host {
   ion-content {
-    background-color: var(--mt-color-vert) !important;
+    @include mtnbackground();
 
     .mt-content{
-      &:not(.selected){
         .block{
-          border-bottom-left-radius: 10px;
-          border-bottom-right-radius: 10px;
-          margin: 50% auto ;
-          @include prefix(transform,translateY(-50%),moz webkit);
+          border-bottom-left-radius: 10vw;
+          border-bottom-right-radius: 10vw;
 
           .body{
-            padding: 5vw;
-            text-align: center;
-            select{
-              margin-top:3vh;
-              border: 2px solid #000;
+            text-align: left;
+            background: none;
+            padding: 2vh 2vw;
+            h2 {
+              color: #fff;
+              text-shadow: 1px 1px 2px #1c310d;
+              margin-top: 0em;
+              text-align: center;
             }
-
+            .list {
+              margin:0;
+            }
           }
         }
-      }
     }
-    select {
+
+    select{
       height: 10vw;
-      width: 90%;
-      padding: 10px;
-      margin: auto;
-      border: none;
-      border-radius: 10vw;
-      @include fonts("p", bold);
+      width: 97%;
+      margin-top:1vh;
+      padding: 0px;
+      border: 2px solid #296209;
+      border-radius: 0.8em;
       text-align: center;
       text-align-last:center;
-      outline: none;
-
-      @include tablet {
-        height: 7vw;
-      }
-      @include desktop {
-        height: 3vw;
-      }
-    }
-
-    .search {
-      display: flex;
-      width: 100%;
-      margin-top: 3vh;
     }
 
     .block {
-      width: 95vw;
+      width: 96%;
       margin: 2vh auto 0 auto;
       border-top-left-radius: 10px;
       border-top-right-radius: 10px;
       overflow: hidden;
-      .titre {
-        h2 {
-          text-transform: capitalize;
-        }
-      }
       .body {
         --background: #fff;
         background-color: var(--background);
 
         h3 {
-          margin: 0;
           text-transform: capitalize;
+          color: #fff;
+          text-shadow: 1px 1px 2px #1c310d;
+          text-align: center;
+          margin: 2vh 0;
         }
         ul {
           margin: 0;
-          padding-left: 3vw;
+          padding-left: 0;
           li {
             display: flex;
             flex-direction: row;
             justify-content: space-between;
             width: 100%;
-            padding: 2vh 0;
-            &:not(:last-child) {
-              border-bottom: 1px solid var(--ion-color-light-shade);
+            padding: 2vh 2vh;
+            background: #edffd8c7;
+            font-size: 0.9em;
+            border-bottom: 1px solid #175700;
+            &:last-child {
+              border-bottom: none;
             }
-
+            div {
+              margin:0;
+            }
             h5 {
               margin: 0;
+              font-size: 1.2em;
+            }
+            .horaires {
+              margin-top: 1em;
             }
             .buttons {
               display: flex;
@@ -92,6 +86,9 @@
                 border: none;
                 outline: none;
                 font-size: 2rem;
+                ion-icon {
+                  color:#145b00;
+                }
               }
             }
           }
