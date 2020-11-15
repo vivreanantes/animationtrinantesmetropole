@@ -3,11 +3,11 @@
   > .titre {
     background-color: #d8e0e4;
     h2 {
-      padding: 2vh 3vw;
+      padding: 1.5vh 3vw;
       margin: 0;
-      background: $mt-box-header-background;
+      background-color: rgba(208, 255, 79, 0.77);
       color: #3e5500;
-      font-size: 1.2em;
+      font-size: 1.1em;
     }
   }
   > .body {
@@ -69,8 +69,6 @@
     .list {
       > .item {
         display: flex;
-        height: 90px;
-        width: 100%;
         padding: 7px 10px;
 
         &.selected {

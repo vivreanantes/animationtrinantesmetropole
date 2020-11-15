@@ -1,5 +1,9 @@
 @import "../../../theme/theme";
 
+.block > .body .list > .item {
+    width: 100%;
+}
+
 :host {
     --background: transparent !important;
     z-index: 2;
