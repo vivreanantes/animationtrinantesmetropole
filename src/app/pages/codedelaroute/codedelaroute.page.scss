@@ -3,15 +3,6 @@
   ::-webkit-scrollbar {
     display: none;
   }
-
-  .currentHomeCollect {
-    padding: 5px 0;
-    background: rgba(#fff, 0.3);
-    text-align: center;
-    @include fonts("p");
-    color: #fff;
-    font-size: 0.8em;
-  }
   #background {
     $quiz_bg_blur: 10px;
     position: absolute;

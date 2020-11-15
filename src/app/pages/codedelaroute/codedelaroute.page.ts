@@ -16,7 +16,6 @@ import { Router } from "@angular/router";
 import { DebugService } from "../../services/debug.service";
 import { DataService } from "../../services/data.service";
 
-import { HomeCollectModsHandler } from "../../handlers/home-collect-mods.handler";
 import { DifficultHandler } from "../../handlers/difficult.handler";
 
 declare var $: any;
@@ -30,8 +29,6 @@ declare var $: any;
 export class CodedelaroutePage implements OnInit {
   @ViewChildren("rep") reponsesEl: QueryList<ElementRef>;
   currentLang: string = null;
-  currentHomeCollectModsType: string = null;
-  currentHomeCollectModsMco: string = null;
   currentDifficult: string = null;
   currentQcm: any = null;
   list: Array<any> = [];
@@ -65,7 +62,6 @@ export class CodedelaroutePage implements OnInit {
     private alertController: AlertController,
     private dataService: DataService,
     private debugService: DebugService,
-    private homeCollectModsHandler: HomeCollectModsHandler,
     private difficultHandler: DifficultHandler
   ) {}
 
@@ -84,8 +80,6 @@ export class CodedelaroutePage implements OnInit {
     this.questionIndex = 0;
     this.score = 0;
     this._getList();
-    this.currentHomeCollectModsType = this.homeCollectModsHandler.get().type;
-    this.currentHomeCollectModsMco = this.homeCollectModsHandler.get().mco;
     this.currentDifficult = this.difficultHandler.get().code;
   }
 
