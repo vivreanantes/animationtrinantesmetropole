@@ -1,12 +1,12 @@
 <div class="mt-content mb-content">
     <div class="block">
         <button class="titre" (click)="toggleShowBlock()">
-            <ion-icon name="caret-down-outline" style="color: black;" *ngIf="showBlock"></ion-icon>
-            <ion-icon name="caret-forward-outline" style="color: black;" *ngIf="!showBlock"></ion-icon>
+            <ion-icon name="caret-down-outline" *ngIf="showBlock"></ion-icon>
+            <ion-icon name="caret-forward-outline" *ngIf="!showBlock"></ion-icon>
             <h2>{{"actualités" | translate}}</h2>
             <div class="flex-grow-1"></div>
             <button class="refresh" (click)="refresh($event)">
-                <ion-icon name="refresh-outline" style="color: black;"></ion-icon>
+                <ion-icon name="refresh-outline"></ion-icon>
             </button>
         </button>
         <div class="body" *ngIf="showBlock">
