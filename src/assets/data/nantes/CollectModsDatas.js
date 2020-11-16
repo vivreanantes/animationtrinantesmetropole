@@ -68,7 +68,7 @@ var _collectModsDatas = [
       "mots_cles_en":"container,packaging,newspapers,magazines",
       },
 {
-"code":"modco_bacblehorsnantes",
+"code":"modco_bacbleuhorsnantes",
       "nom":"Bacs bleus (hors Nantes)",
       "nom_en":"Blue bins (excluding Nantes)",
       "libelleBouton":"Bacs bleus (hors Nantes)",
@@ -83,7 +83,7 @@ var _collectModsDatas = [
       "mots_cles_en":"bins,blue",
       },
 {
-"code":"modco_bacbleu",
+"code":"modco_bacbleunantes",
       "nom":"Bacs bleus",
       "nom_en":"Blue bins",
       "libelleBouton":"Bacs bleus",

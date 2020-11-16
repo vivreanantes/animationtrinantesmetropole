@@ -39,13 +39,13 @@
         </div>
       </div>
 
-      <div class="block" *ngIf="item.modco && item.modco.length > 0">
+      <div class="block" *ngIf="item.modco_filtered && item.modco_filtered.length > 0">
         <div class="titre">
           <h2>{{'modes_de_collecte'|translate}}</h2>
         </div>
         <div class="body collects">
           <div
-            *ngFor="let modco of item.modco; let i = index"
+            *ngFor="let modco of item.modco_filtered; let i = index"
             class="collect clickable"
             (click)="voirCollec(modco)"
           >

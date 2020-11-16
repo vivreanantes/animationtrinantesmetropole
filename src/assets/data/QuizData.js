@@ -348,7 +348,7 @@ var _theGoodSortingData = {
         "En déchèterie dans la benne « appareils électriques et électroniques »  / Les magasins qui vendent ces produits les reprennent également si vous en achetez un neuf.",
       advice_en:
         'Waste in the dump "electrical and electronic devices" / Stores that sell these products also take back if you buy a new one.',
-      image: "ordinateur_portable.png",
+      image: "ordi_portable_mini.png",
       reponses: ["retour", "decheterie"],
       exclude_filters: ["niveau_enfant"]
     },
@@ -482,7 +482,7 @@ var _theGoodSortingData = {
         "Poubelle : dans les plastiques, seuls les bouteilles et flacons vont en recyclage.",
       advice_en:
         "Waste bin: in plastics, only bottles and bottles go into recycling.",
-      image: "emballage_polystyrene.png",
+      image: "emballage_polystyrene_mini.png",
       reponses: ["poubelle"],
       exclude_filters: ["tri_extension"]
     },
@@ -492,7 +492,7 @@ var _theGoodSortingData = {
       descr_en: "Ham tray made of plastic",
       advice: "Recyclage : tous les emballages se trient en extension de tri.",
       advice_en: "Recycling : all the package are sorted in sorting extension.",
-      image: "emballage_polystyrene.png",
+      image: "emballage_polystyrene_mini.png",
       reponses: ["jaune"],
       exclude_filters: ["tri_normal"]
     },

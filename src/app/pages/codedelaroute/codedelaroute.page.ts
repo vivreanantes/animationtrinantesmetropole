@@ -17,8 +17,10 @@ import { DebugService } from "../../services/debug.service";
 import { DataService } from "../../services/data.service";
 
 import { DifficultHandler } from "../../handlers/difficult.handler";
+import { HomeCollectModsHandler } from "../../handlers/home-collect-mods.handler";
 
-declare var $: any;
+
+declare var $: any; 
 
 @Component({
   selector: "app-codedelaroute",
@@ -28,6 +30,7 @@ declare var $: any;
 })
 export class CodedelaroutePage implements OnInit {
   @ViewChildren("rep") reponsesEl: QueryList<ElementRef>;
+  currentHomeCollectModsType: string = null;
   currentLang: string = null;
   currentDifficult: string = null;
   currentQcm: any = null;
@@ -62,7 +65,8 @@ export class CodedelaroutePage implements OnInit {
     private alertController: AlertController,
     private dataService: DataService,
     private debugService: DebugService,
-    private difficultHandler: DifficultHandler
+    private difficultHandler: DifficultHandler,
+    private homeCollectModsHandler: HomeCollectModsHandler
   ) {}
 
   ngOnInit() {
@@ -81,6 +85,8 @@ export class CodedelaroutePage implements OnInit {
     this.score = 0;
     this._getList();
     this.currentDifficult = this.difficultHandler.get().code;
+    this.currentHomeCollectModsType = this.homeCollectModsHandler.get().type;
+
   }
 
   /**
