@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  contact_url: "http://localhost:8100/scripts/mail.php",
+  contact_url: "http://mieuxtrieranantes.fr/scripts/mail_mieuxtrieranantes.php",
 };
 
 /*

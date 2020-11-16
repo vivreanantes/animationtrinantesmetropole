@@ -64,21 +64,13 @@ export class Dechet2Page implements OnInit {
       }
     });
     Promises.push(getCatUsuel);
-    var str = JSON.stringify(item.modco, null, 4); // (Optional) beautiful indented output.
-    console.log("item.modco stringify : " + str);
     if (typeof item.modco === "string") {
-      console.log("currentHomeCollectModsMco" + this.currentHomeCollectModsMco);
       let homeCollectMods = this.homeCollectModsHandler.get();
-      // tempo
-      // console.log("homeCollectMods.mco (à spliter) : " + homeCollectMods.mco);
-      // console.log("item.mco (à spliter) : " + item.modco);
       homeCollectMods = homeCollectMods ? homeCollectMods.mco.split(",") : [];
       let modco = item.modco.split(",");
       let getModCo = new Promise((resolve, reject) => {
         this.dataService
           .find("nantes/CollectModsDatas.js", undefined, (mod) => {
-            // console.log("je cherche mod.code dans modco et homeCollectMods : " + mod.code);
-            // console.log("les indexs : " + modco.indexOf(mod.code) + " " + homeCollectMods.indexOf(mod.code));
             return (
               modco.indexOf(mod.code) > -1 &&
               homeCollectMods.indexOf(mod.code) > -1

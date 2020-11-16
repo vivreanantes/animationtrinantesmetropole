@@ -17,12 +17,6 @@ export class ContactPage {
   onLoad: boolean = false;
   showHowOther = false;
   form: any = {
-    how: null,
-    how_other: null,
-    think: null,
-    think_other: null,
-    info: null,
-    info_other: null,
     advice: null,
     mail: null,
   };
@@ -55,15 +49,13 @@ export class ContactPage {
   }
 
   send() {
+    console.log("oo");
     this.onLoad = true;
     this.http
       .post(this.url, this.form)
       .toPromise()
       .then((response) => {
         this.form = {
-          how: null,
-          think: null,
-          info: null,
           advice: null,
           mail: null,
         };
