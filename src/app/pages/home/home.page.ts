@@ -11,15 +11,16 @@ export class HomePage {
   currentHomeCollectModsType: string = null;
   currentHomeCollectModsMco: string = null;
   pages = [
+    // https://ionicframework.com/docs/v3/ionicons/
     { title: "trier2", icon: "trash", link: "trier2" },
     { title: "carte", icon: "map", link: "carte" },
-    { title: "jeux", icon: "leaf", link: "quiz" },
+    { title: "jeux", icon: "game-controller", link: "quiz" },
     { title: "cdlr", icon: "help", link: "codedelaroute" },
     { title: "collecteadomicile", icon: "trash", link: "home" },
-    { title: "trisac", icon: "construct", link: "trisac" },
-    { title: "acteurs", icon: "construct", link: "acteurs" },
-    { title: "recettes", icon: "construct", link: "recettes" },
-    { title: "fiches", icon: "trash", link: "fiches" },
+    { title: "trisac", icon: "leaf", link: "trisac" },
+    { title: "acteurs", icon: "people", link: "acteurs" },
+    { title: "recettes", icon: "color-fill", link: "recettes" },
+    { title: "fiches", icon: "school", link: "fiches" },
     { title: "config", icon: "construct", link: "parameters" },
     { title: "contact", icon: "person", link: "contact" }
   ];
