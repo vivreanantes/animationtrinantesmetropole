@@ -674,7 +674,7 @@ var _garbagesDatas = [{
     "mots_cles_en": "branches,foliage,tree,size,",
     "cons": "cons_compostage",
     "image": "feuillages_mini.png",
-    "modco": "modco_decheterie,modco_ecopoint,modco_compostage",
+    "modco": "modco_decheterie,modco_ecopoint",
     "recyc": "recyclable_pas_poubelle",
     "src": "MieuxTrierANantes 12/2014"
   },
@@ -721,13 +721,13 @@ var _garbagesDatas = [{
     "nom": "Cagette bois",
     "nom_en": "Wooden crates",
     "cat_usuel": "cu_vertbois",
-    "cat_trait": "cat_omr",
+    "cat_trait": "cat_organiquegros",
     "descr": "cagette bois, cageot",
     "descr_en": "crate wood crate",
     "mots_cles": "cagette,bois,cageot,",
     "mots_cles_en": "crate,wood,crate,",
     "image": "cagette_mini.png",
-    "modco": "modco_bacbleuhorsnantes,modco_bacbleunantes,modco_sacbleu",
+    "modco": "modco_decheterie,modco_ecopoint",
     "recyc": "non_recyclable",
     "src": "MieuxTrierANantes 02/2015"
   },
@@ -1458,7 +1458,7 @@ var _garbagesDatas = [{
     "mots_cles_en": "grass,lawn,grass,",
     "cons": "cons_compostage",
     "image": "pelouse_mini.png",
-    "modco": "modco_decheterie,modco_ecopoint,modco_compostage",
+    "modco": "modco_decheterie,modco_ecopoint",
     "recyc": "recyclable_pas_poubelle",
     "src": "MieuxTrierANantes 02/2015"
   },
@@ -2315,7 +2315,7 @@ var _garbagesDatas = [{
     "mots_cles_en": "plant,",
     "cons": "cons_compostage",
     "image": "plante_mini.png",
-    "modco": "modco_decheterie,modco_ecopoint,modco_compostage",
+    "modco": "modco_decheterie,modco_ecopoint",
     "recyc": "recyclable_pas_poubelle",
     "src": "MieuxTrierANantes 02/2015"
   },

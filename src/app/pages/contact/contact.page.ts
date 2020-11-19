@@ -49,7 +49,6 @@ export class ContactPage {
   }
 
   send() {
-    console.log("oo");
     this.onLoad = true;
     this.http
       .post(this.url, this.form)
@@ -62,16 +61,15 @@ export class ContactPage {
         this.showHowOther = false;
         this.translateService
           .get(["contact_success_title", "contact_success_txt", "ok"])
-          .subscribe((res: any) => {
-            this.alertController
-              .create({
-                header: res["contact_success_title"],
-                message: res["contact_success_txt"],
-                buttons: [res["ok"]],
-              })
-              .then(() => {
-                this.onLoad = false;
-              });
+          .subscribe((res: any) => {            
+            this.alerteError(
+              res["contact_success_title"],
+              res["contact_success_txt"],
+              [res["ok"]]
+            ).then(() => {
+              this.onLoad = false;
+            });
+
           });
       })
       .catch((error) => {

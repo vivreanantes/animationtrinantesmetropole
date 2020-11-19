@@ -99,8 +99,8 @@ var _advicesDatas = [{
     "code": "cons_capsulelait",
     "nom": "Que faire de l'opercule …",
     "nom_en": "What of the metal cap …",
-    "descr": "La capsule doit être mis dans les déchets ménagers ('bac bleu' ou 'sac bleu'). Ils sont rejetées par le processus de tri du fait de leur taille.",
-    "descr_en": "The capsule should be placed in household waste ('blue box' or 'blue bag'). they are rejected by the sorting process due to their size."
+    "descr": "La capsule doit être mis avec les emballages ('bac jaune' ou 'sac jaune'). Auparavant elles  étaient jetéés par le processus de tri du fait de leur taille mais <b>ce n’est plus le cas</b>.",
+    "descr_en": "The capsule must be put with the packaging ('yellow bin' or 'yellow bag'). They used to be thrown out of the sorting process due to their size, but <b> this is no longer the case </b>."
   },
   {
     "code": "cons_collecte6h14h",

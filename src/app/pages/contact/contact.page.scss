@@ -1,5 +1,12 @@
 @import "../../../theme/theme";
 :host {
+  
+  #title {
+    @include fonts("h1", bold);
+    color: #fff;
+    text-align: center;
+  }
+  
   > #background {
     $quiz_bg_blur: 10px;
     position: absolute;

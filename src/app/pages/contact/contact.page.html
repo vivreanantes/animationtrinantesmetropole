@@ -3,19 +3,18 @@
   <button-menu></button-menu>
   <div class="mt-content">
 
-    <div class="title">
-      <h1>{{ "contact" | translate }}</h1>
-    </div>
+    <div id="title" >{{ "contact" | translate }}</div>
+    
     <div class="mt-form">
 
       <div class="form-group">
-        <label>{{ "contact_advice" | translate }}</label>
+        <label><span style='color:black'>{{ "contact_advice" | translate }}</span></label>
         <textarea [(ngModel)]="form.advice"></textarea>
       </div>
 
       <div class="form-group">
-        <label>{{ "contact_mail" | translate }}</label>
-        <input type="text" [(ngModel)]="form.mail" />
+        <label><span style='color:black'>{{ "contact_mail" | translate }}</span></label>
+        <input type="email" [(ngModel)]="form.mail" />
       </div>
 
       <div class="button">
@@ -48,7 +47,7 @@
       </div>
       <div class="body">
         <div class="list">Afin de réduire son impact environnement, les données de l'application sont stoquées sur le téléphone (ne nécessite pas internet) sauf les actualités et les images de la carte.</div>
-        <div class="list">La plupart des points de la carte proviennet de OpenStreetMap.</div>
+        <div class="list">La plupart des points de la carte proviennent de OpenStreetMap.</div>
       </div>
     </div>
     
