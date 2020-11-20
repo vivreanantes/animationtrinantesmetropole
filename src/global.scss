@@ -31,6 +31,11 @@ html {
   font-size: 100%;
 }
 
+ion-app {
+  margin-top: env(safe-area-inset-top);
+  margin-bottom: env(safe-area-inset-bottom);
+}
+
 // DAGULA
 /* in-flight clone */
 .gu-mirror {
