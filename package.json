@@ -29,7 +29,7 @@
     "@ngu/carousel": "^2.0.3",
     "@ngx-translate/core": "^12.1.2",
     "@ngx-translate/http-loader": "^4.0.0",
-    "cordova-android": "8.1.0",
+    "cordova-android": "^9.0.0",
     "cordova-plugin-device": "^2.0.3",
     "cordova-plugin-ionic-keyboard": "^2.2.0",
     "cordova-plugin-ionic-webview": "^4.2.1",
