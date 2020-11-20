@@ -71,10 +71,18 @@ export class Dechet2Page implements OnInit {
       let getModCo = new Promise((resolve, reject) => {
         this.dataService
           .find("nantes/CollectModsDatas.js", undefined, (mod) => {
+            if (mod.pour_tous==="oui") {
+              // un mode de collecte qui ne dépend pas de la configuration
+              return (modco.indexOf(mod.code) > -1);
+            }
+            else {
+              // un mode de collecte qui dépend de la configuration
             return (
-              modco.indexOf(mod.code) > -1 &&
+              (modco.indexOf(mod.code) > -1 &&
               homeCollectMods.indexOf(mod.code) > -1
+              ) 
             );
+          }
           })
           .then((mods) => {
             item.modco_filtered = mods;
