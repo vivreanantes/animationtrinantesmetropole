@@ -2,49 +2,50 @@
 
 <ion-content>
   <button-menu></button-menu>
-  <div class="mt-content" [ngClass]="{'selected':input}">
-    <div class="block" *ngIf="!input">
-
+  <div class="mt-content">
+    <div class="block">
       <div class="body">
         <h2>{{"select_categories_acteur"| translate}}</h2>
         <select [(ngModel)]="input">
           <option *ngFor="let filtre of filtres">{{filtre}}</option>
         </select>
-      </div>      
-      <div class="body" style="text-align:left">
-        <strong>Crédits : </strong>
+      </div>
+    </div>
+
+    <div id="credits" class="block" *ngIf="!input">   
+      <div class="body">
+        <p style="text-align: center;"><strong>Crédits : </strong></p>
         <span>Le <a (click)="openUrl('http://lagalerieduzerodechet.fr/?page_id=1111')" target="_blank">catalogue des acteurs</a> a été réalisé par la Galerie du Zéro Déchet (licence "Creative Commons Paternity"). Il présente les acteurs de la réduction des déchets de Nantes et des environs (limite large Pays de la Loire). </span>
         <a (click)="openUrl('http://lagalerieduzerodechet.fr/?page_id=1234')" target="_blank">{{'plus_d_infos'|translate}}.</a>
       </div>
-
     </div>
 
-    <div class="search" *ngIf="input">
-      <select [(ngModel)]="input">
-        <option *ngFor="let filtre of filtres">{{filtre}}</option>
-      </select>
-    </div>
     <div class="block" *ngIf="input">
+      <!--
       <div class="titre">
-        <h2>
+        <h3>
           {{ input }}
-        </h2>
-      </div>
+        </h3>
+      </div> -->
       <div class="body">
         <div class="list">
           <div *ngFor="let type of acteurs[input] | values">
-            <h3 style="background-color:#DDDDDD;text-transform:none;">{{ type[0].categorie_principale_detail?type[0].categorie_principale_detail:"Divers" }}</h3>
+            <h3>{{ type[0].categorie_principale_detail?type[0].categorie_principale_detail:"Divers" }}</h3>
             <ul>
               <li *ngFor="let t of type" (click)="details(t)">
-                <div class="info">
-                  <img src="assets/imgs/{{ t.image }}" width='150px'/>
-                  <h5 style='display: block'>{{t.nom}}</h5>
-                  <div class="description" [innerHtml]="(t.descr)"></div>
-                </div>
-                <div class="buttons">
-                  <button>
-                    <ion-icon name="information-circle-outline"></ion-icon>
-                  </button>
+                <h5>{{t.nom}}</h5>
+                <div class="flex-list">
+                  <div class="logo">
+                    <img src="assets/imgs/{{ t.image }}"/>                  
+                  </div>
+                  <div class="info">              
+                    <div class="description" [innerHtml]="(t.descr)"></div>
+                  </div>
+                  <div class="buttons">
+                    <button>
+                      <ion-icon name="information-circle-outline" style="color:#135301"></ion-icon>
+                    </button>
+                  </div>
                 </div>
               </li>
             </ul>

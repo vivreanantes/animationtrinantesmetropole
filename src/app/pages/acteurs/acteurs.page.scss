@@ -1,46 +1,48 @@
 @import "../../../theme/theme";
 :host {
   ion-content {
-    background-color: var(--mt-color-vert) !important;
+    @include mtnbackground();
 
     .mt-content{
-      &:not(.selected){
-        .block{
-          border-bottom-left-radius: 10px;
-          border-bottom-right-radius: 10px;
-          margin: 50% auto ;
-          @include prefix(transform,translateY(-50%),moz webkit);
+      .block{
+        border-bottom-left-radius: 10vw;
+        border-bottom-right-radius: 10vw;
 
-          .body{
-            padding: 5vw;
+        .body{
+          text-align: left;
+          background: none;
+          padding: 2vh 2vw;
+          h2 {
+            color: #fff;
+            text-shadow: 1px 1px 2px #1c310d;
+            margin-top: 0em;
             text-align: center;
-            select{
-              margin-top:3vh;
-              border: 2px solid #000;
-            }
-
+          }
+          .list {
+            margin:0;
           }
         }
       }
     }
-    select {
+
+    #credits {
+      font-size: 0.9em;
+      border-radius: 2vw;
+      .body {
+        background: #ebf9be;
+        padding:1em;
+      }
+    }
+
+    select{
       height: 10vw;
-      width: 90%;
-      padding: 10px;
-      margin: auto;
-      border: none;
-      border-radius: 10vw;
-      @include fonts("p", bold);
+      width: 97%;
+      margin-top:1vh;
+      padding: 0px;
+      border: 2px solid #296209;
+      border-radius: 0.8em;
       text-align: center;
       text-align-last:center;
-      outline: none;
-
-      @include tablet {
-        height: 7vw;
-      }
-      @include desktop {
-        height: 3vw;
-      }
     }
 
     .search {
@@ -56,8 +58,13 @@
       border-top-right-radius: 10px;
       overflow: hidden;
       .titre {
-        h2 {
+        background: none;
+        h3 {
           text-transform: capitalize;
+          color: #fff;
+          text-shadow: 1px 1px 2px #1c310d;
+          text-align: center;
+          margin: 2vh 0;
         }
       }
       .body {
@@ -65,24 +72,40 @@
         background-color: var(--background);
 
         h3 {
-          margin: 0;
           text-transform: capitalize;
+          color: #fff;
+          text-shadow: 1px 1px 2px #1c310d;
+          text-align: center;
+          margin: 2vh 0;
         }
         ul {
           margin: 0;
-          padding-left: 3vw;
-          li {
-            display: flex;
-            flex-direction: row;
-            justify-content: space-between;
+          padding-left: 0;
+          li {           
             width: 100%;
-            padding: 2vh 0;
-            &:not(:last-child) {
-              border-bottom: 1px solid var(--ion-color-light-shade);
+            padding: 1vh 1vh;
+            background: #edffd8c7;
+            font-size: 0.9em;
+            border-bottom: 1px solid #175700;
+            list-style: none;
+            &:last-child {
+              border-bottom: none;
             }
-
+            .flex-list {
+              display: flex;
+              flex-direction: row;
+              justify-content: space-between;
+              align-items: flex-start;
+            }
+            img {
+              max-width: 5em;
+              height: auto;
+            }
             h5 {
               margin: 0;
+              text-align: center;
+              color: #135301;
+              padding: 0.25em 0em;
             }
             .buttons {
               display: flex;
