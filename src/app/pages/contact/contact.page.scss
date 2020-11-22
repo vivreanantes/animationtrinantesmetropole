@@ -1,12 +1,6 @@
 @import "../../../theme/theme";
 :host {
   
-  #title {
-    @include fonts("h1", bold);
-    color: #fff;
-    text-align: center;
-  }
-  
   > #background {
     $quiz_bg_blur: 10px;
     position: absolute;
@@ -49,5 +43,26 @@
       --background: #fff;
       background-color: var(--background);
     }
+    textarea {
+      margin-top: 0.5em;
+      width: 90%;
+      border: 2px solid #b2ca3c;
+      padding: 0.5em;
+      font-size: 0.9em;
+      font-family: Verdana;
+    }
+    input {
+      width: 90%;
+      margin-top: 0.5em;
+      border: 2px solid #b2ca3c;
+      padding: 0.5em;
+    }
+    button {
+      margin: auto;
+      width: 96%;
+      @include buttonStyle();
+      margin-top:1em;
+    }
+
   }
 }

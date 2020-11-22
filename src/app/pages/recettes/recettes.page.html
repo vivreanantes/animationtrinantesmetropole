@@ -3,37 +3,30 @@
 <ion-content>
   <button-menu></button-menu>
   <div class="mt-content" [ngClass]="{'selected':input}">
-    <div class="block" *ngIf="!input">
+    <div class="block">
       <div class="body">
-        <h3>Concentré de recettes et astuces d’hygiène et beauté zéro déchet à faire soi-même</h3>
+        <h2>Concentré de recettes et astuces d’hygiène et beauté zéro déchet à faire soi-même</h2>
         <select [(ngModel)]="input">
           <option *ngFor="let filtre of filtres">{{filtre}}</option>
         </select>
       </div>      
-      <div class="body" style="text-align:left">
-        <strong>Crédits : </strong>
+    </div>
+
+    <div id="credits" class="block" *ngIf="!input">   
+      <div class="body">
+        <p style="text-align: center;"><strong>Crédits : </strong></p>
         <span>Ce document a été rédigé conjointement par Alice Martin-Demolon et l'association "La Galerie du Zéro Déchet". </span>
-          <a (click)="openUrl('http://lagalerieduzerodechet.fr/?page_id=2363')" target="_blank">{{'plus_d_infos'|translate}}.</a>
-          <br/><br/>
-          <span>Si vous faites des photos jolies, sans visage, on est preneurs ! (mail à <a (click)="openUrl('mailto://contact@lagalerieduzerodechet.fr')" target="_blank">contact@lagalerieduzerodechet.fr</a>).</span>
+        <a (click)="openUrl('http://lagalerieduzerodechet.fr/?page_id=2363')" target="_blank">{{'plus_d_infos'|translate}}.</a>
+        <br/><br/>
+        <span>Si vous faites des photos jolies, sans visage, on est preneurs ! (<a (click)="openUrl('mailto://contact@lagalerieduzerodechet.fr')" target="_blank">contact@lagalerieduzerodechet.fr</a>).</span>
       </div>
     </div>
     
-    <div class="search" *ngIf="input">
-      <select [(ngModel)]="input">
-        <option *ngFor="let filtre of filtres">{{filtre}}</option>
-      </select>
-    </div>
     <div class="block" *ngIf="input">
-      <div class="titre">
-        <h2>
-          {{ input }}
-        </h2>
-      </div>
       <div class="body">
         <div class="list">
           <div *ngFor="let type of recettes[input] | values">
-            <h3 style="background-color:#DDDDDD;text-transform:none;" *ngIf="type[0].categorie_principale_detail">{{ type[0].categorie_principale_detail }}</h3>
+            <h3 *ngIf="type[0].categorie_principale_detail">{{ type[0].categorie_principale_detail }}</h3>
             <ul>
               <li *ngFor="let t of type" (click)="details(t)">
                 <div class="info">
@@ -41,7 +34,7 @@
                 </div>
                 <div class="buttons">
                   <button>
-                    <ion-icon name="information-circle-outline"></ion-icon>
+                    <ion-icon name="information-circle-outline" style="color:#135301"></ion-icon>
                   </button>
                 </div>
               </li>

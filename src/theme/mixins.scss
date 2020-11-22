@@ -62,3 +62,15 @@ $desktop-width: 1024px;
   background-image: url(/assets/imgs/quiz2.png);
   background-size: cover;
 }
+
+@mixin buttonStyle {
+  padding: 1vh 2vw;
+  background: red;
+  font-size: 1em;
+  margin: auto;
+  border-radius: 10px;
+  color: #646202;
+  font: 1.2rem "Roboto", "Helvetica Neue", sans-serif;
+  background-color: #f8f671;
+  border: 2px solid #d5c700;
+}

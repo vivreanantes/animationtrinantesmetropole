@@ -109,7 +109,7 @@
           align-items: center;
           justify-content: space-evenly;
           border-bottom: 1px solid var(--ion-color-medium-tint);
-          padding: 2.5vh 0;
+          padding: 2vh 0;
           &.selected {
             img {
               filter: grayscale(0);
@@ -137,12 +137,9 @@
       width: 100%;
       > button {
         width: 100%;
-        margin: 0;
-        padding: 15px 20px;
-        border-radius: 0;
-        background-color: $mt-button-background;
-        @include fonts("button", bold);
-        color: $mt-button-text;
+        @include buttonStyle();
+        padding:0.5em;
+        background: #fbf84c;
       }
     }
   }

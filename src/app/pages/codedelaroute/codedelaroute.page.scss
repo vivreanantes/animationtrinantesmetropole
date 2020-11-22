@@ -219,12 +219,8 @@
           > button {
             margin: auto;
             width: 100%;
-            padding: 2.5vh 0;
-            border-radius: 10px;
-            color: #063111;
-            @include fonts("button", bold);
-            background-color: rgba(#fff, 0.8);
-            font-size: 1em;
+            @include buttonStyle();
+            min-height: 3.5em;
           }
         }
       }

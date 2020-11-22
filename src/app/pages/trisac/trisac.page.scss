@@ -61,12 +61,18 @@
             flex-direction: row;
             justify-content: space-between;
             width: 100%;
-            padding: 2vh 2vh;
+            padding: 1vh 2vh;
             background: #edffd8c7;
             font-size: 0.9em;
             border-bottom: 1px solid #175700;
+            &:first-child {
+              border-top-left-radius: 0.8em;
+              border-top-right-radius: 0.8em;
+            }
             &:last-child {
               border-bottom: none;
+              border-bottom-left-radius: 0.8em;
+              border-bottom-right-radius: 0.8em;
             }
             div {
               margin:0;

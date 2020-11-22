@@ -3,30 +3,34 @@
   <button-menu></button-menu>
   <div class="mt-content">
 
-    <div id="title" >{{ "contact" | translate }}</div>
-    
-    <div class="mt-form">
-
-      <div class="form-group">
-        <label><span style='color:black'>{{ "contact_advice" | translate }}</span></label>
-        <textarea [(ngModel)]="form.advice"></textarea>
+    <div class="block">
+      <div class="titre">
+        <h2>{{ "contact" | translate }}</h2>
       </div>
+      <div class="body">
+       
+        <div class="form-group">
+          <label><span style='color:black'>{{ "contact_advice" | translate }}</span></label>
+          <textarea [(ngModel)]="form.advice" rows="5" maxlength="1024"></textarea>
+        </div>
+  
+        <div class="form-group">
+          <label><span style='color:black'>{{ "contact_mail" | translate }}</span></label><br>
+          <input type="email" [(ngModel)]="form.mail" maxlength="80"/>
+        </div>
+  
+        <div class="button">
+          <button
+            ion-button
+            block
+            color="primary"
+            (click)="send()"
+            [disabled]="onLoad === true"
+          >
+            {{ "contact_send" | translate }}
+          </button>
+        </div>
 
-      <div class="form-group">
-        <label><span style='color:black'>{{ "contact_mail" | translate }}</span></label>
-        <input type="email" [(ngModel)]="form.mail" />
-      </div>
-
-      <div class="button">
-        <button
-          ion-button
-          block
-          color="primary"
-          (click)="send()"
-          [disabled]="onLoad === true"
-        >
-          {{ "contact_send" | translate }}
-        </button>
       </div>
     </div>
  
