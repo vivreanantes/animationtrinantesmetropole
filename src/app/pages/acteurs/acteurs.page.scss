@@ -88,8 +88,14 @@
             font-size: 0.9em;
             border-bottom: 1px solid #175700;
             list-style: none;
+            &:first-child {
+              border-top-left-radius: 0.8em;
+              border-top-right-radius: 0.8em;
+            }
             &:last-child {
               border-bottom: none;
+              border-bottom-left-radius: 0.8em;
+              border-bottom-right-radius: 0.8em;
             }
             .flex-list {
               display: flex;

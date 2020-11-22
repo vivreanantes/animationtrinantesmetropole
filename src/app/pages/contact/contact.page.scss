@@ -60,14 +60,8 @@
     button {
       margin: auto;
       width: 96%;
-      padding: 1.5vh 0;
-      border-radius: 10px;
-      color: #4a6402;
-      font: bold 1.3rem "Roboto", "Helvetica Neue", sans-serif;
-      background-color: rgb(210, 248, 113);
-      font-size: 1em;
-      margin-top: 0.8em;
-      border: 2px solid #b1ce27;
+      @include buttonStyle();
+      margin-top:1em;
     }
 
   }

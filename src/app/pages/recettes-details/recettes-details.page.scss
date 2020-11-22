@@ -1,7 +1,7 @@
 @import "../../../theme/theme";
 :host {
   ion-content {
-    background-color: var(--mt-color-vert) !important;
+    @include mtnbackground();
     hr {
       margin: 2vh 0;
     }
