@@ -104,7 +104,7 @@ var _collectModsDatas = [
             "pour_tous" : "non"
       },
       {
-            "code": "modco_bacjaunnantes",
+            "code": "modco_bacjaunenantes",
             "nom": "Bacs jaunes (Nantes)",
             "nom_en": "Yellow Bacs (Nantes)",
             "libelleBouton": "Bacs jaunes (Nantes)",
@@ -121,7 +121,7 @@ var _collectModsDatas = [
             "pour_tous" : "non"
       },
       {
-            "code": "modco_bacjaune",
+            "code": "modco_bacjaunehorsnantes",
             "nom": "Bacs jaunes",
             "nom_en": "Yellow Bacs",
             "libelleBouton": "Bacs jaunes",

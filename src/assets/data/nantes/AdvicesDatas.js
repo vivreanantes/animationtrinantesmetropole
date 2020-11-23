@@ -449,6 +449,22 @@ var _advicesDatas = [{
     "fiche": "fiche_verre"
   },
   {
+    "code":"cons_recyclage_pile",
+    "nom":"Le recyclage des piles ",
+    "nom_en":"Battery recycling ",
+    "descr":"Lorsque vous déposez une pile dans un collecteur, c'est environ 50% de la matière, en tonnage, qui est recyclé (Fer, Nickel et Zinc). Le reste (dont les métaux lourds) est incinéré. <br/>Plus d’infos <a href='https://www.smed06.fr/piles-pourquoi-leur-recyclage-est-important/' target='_blank'>ici</a>",
+    "descr_en":"When you put a battery in a collector, about 50% of the material, in tonnage, is recycled (Iron, Nickel and Zinc). The rest (including heavy metals) is incinerated. <br/> More info <a href='https://www.smed06.fr/piles-pourquoi-leur-recyclage-est-important/' target='_blank'> here </a> "
+ },
+ {
+  "code":"cons_cartouche",
+  "nom":"Comment réduire les cartouches d’encres ?",
+  "nom_en":"How to reduce ink cartridges?",
+  "descr":"Quelques conseils : 1. N'imprimer que quand c'est nécessaire. 2. Utiliser le mode multi-pages et recto verso et en mode brouillon (à paramétrer par défaut) 3. Choisir des papiers labellisés. 4. Déposer les cartouches d'encre en point de collecte. 5. Choisir une police d’écriture peu gourmande en encre (ex. Century Gothic). 6. Débrancher l'appareil quand vous ne l'utilisez pas.",
+  "descr_en":"A few tips: 1. Print only when necessary. 2. Use the multi-page and double-sided mode and in draft mode (to be configured by default) 3. Choose labeled papers. 4. Take the ink cartridges to a collection point. 5. Choose a font that does not require much ink (eg Century Gothic). 6. Unplug from outlet when not in use.",
+  "fiche":"fiche_cartouche_encre"
+},
+
+  {
     "code": "cons_vider_paslaver",
     "nom": "Vidé, mais pas lavé",
     "nom_en": "Emptied but not washed",

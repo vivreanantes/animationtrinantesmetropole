@@ -48,7 +48,7 @@ var _garbagesDatas = [{
     "mots_cles": "agenda,",
     "mots_cles_en": "acid,agenda,",
     "image": "agenda_mini.png",
-    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_sacjaune,modco_contembjournmag",
+    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_bacjaunenantes,modco_sacjaune,modco_contembjournmag",
     "recyc": "recyclable_oui",
     "src": "MieuxTrierANantes 02/2015"
   },
@@ -100,7 +100,7 @@ var _garbagesDatas = [{
     "mots_cles": "annuaire,",
     "mots_cles_en": "directory,",
     "image": "annuaire_mini.png",
-    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_sacjaune,modco_contembjournmag",
+    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_bacjaunenantes,modco_sacjaune,modco_contembjournmag",
     "recyc": "recyclable_oui",
     "src": "MieuxTrierANantes 02/2015"
   },
@@ -208,7 +208,7 @@ var _garbagesDatas = [{
     "mots_cles": "baril,lessive,paquet,lessives,baril,carton,",
     "mots_cles_en": "barrel,of,laundry,detergents,packets,cardboard,barrels,",
     "image": "baril_lessive_mini.png",
-    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_sacjaune,modco_contembjournmag",
+    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_bacjaunenantes,modco_sacjaune,modco_contembjournmag",
     "recyc": "recyclable_oui",
     "src": "MieuxTrierANantes 02/2015"
   },
@@ -403,7 +403,7 @@ var _garbagesDatas = [{
     "mots_cles": "boite,œuf,carton,",
     "mots_cles_en": "egg,carton,",
     "image": "boite_a_oeufs_mini.png",
-    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_sacjaune,modco_contembjournmag",
+    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_bacjaunenantes,modco_sacjaune,modco_contembjournmag",
     "recyc": "recyclable_oui",
     "src": "MieuxTrierANantes 02/2015"
   },
@@ -746,7 +746,7 @@ var _garbagesDatas = [{
     "cons": "cons_spirale,",
     "image": "bloc_note_mini.png",
     "image_secondaire": "cahier_mini.png",
-    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_sacjaune,modco_contembjournmag",
+    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_bacjaunenantes,modco_sacjaune,modco_contembjournmag",
     "recyc": "recyclable_oui",
     "src": "MieuxTrierANantes 02/2015"
   },
@@ -763,7 +763,7 @@ var _garbagesDatas = [{
     "mots_cles": "calendrier,",
     "mots_cles_en": "calendar,",
     "image": "calendrier_mini.png",
-    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_sacjaune,modco_contembjournmag",
+    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_bacjaunenantes,modco_sacjaune,modco_contembjournmag",
     "recyc": "recyclable_oui",
     "src": "MieuxTrierANantes 02/2015"
   },
@@ -816,7 +816,7 @@ var _garbagesDatas = [{
     "mots_cles": "carte,postale,",
     "mots_cles_en": "post,card,",
     "image": "carte_postale_mini.png",
-    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_sacjaune,modco_contembjournmag",
+    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_bacjaunenantes,modco_sacjaune,modco_contembjournmag",
     "recyc": "recyclable_oui",
     "src": "MieuxTrierANantes 02/2015"
   },
@@ -833,7 +833,7 @@ var _garbagesDatas = [{
     "mots_cles": "carton,petit,ou,grands,",
     "mots_cles_en": "cardboard,small,or,large,",
     "image": "carton_mini.png",
-    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_sacjaune,modco_contembjournmag",
+    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_bacjaunenantes,modco_sacjaune,modco_contembjournmag",
     "recyc": "recyclable_oui",
     "src": "MieuxTrierANantes 02/2015"
   },
@@ -852,6 +852,7 @@ var _garbagesDatas = [{
     "image": "cartouches_imprimantes_mini.png",
     "modco": "modco_pointsdevente,modco_decheterie,modco_ecopoint",
     "recyc": "recyclable_pas_poubelle",
+    "cons": "cons_cartouche",
     "src": "MieuxTrierANantes 02/2015"
   },
   {
@@ -1187,7 +1188,7 @@ var _garbagesDatas = [{
     "mots_cles_en": "boxboard,packaging,overwrapping,cardboard,cardboard,cereal,box,pizza,box,",
     "cons": "cons_souille,",
     "image": "cartonette_mini.png",
-    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_sacjaune,modco_contembjournmag",
+    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_bacjaunenantes,modco_sacjaune,modco_contembjournmag",
     "recyc": "recyclable_oui",
     "src": "MieuxTrierANantes 02/2015"
   },
@@ -1223,7 +1224,7 @@ var _garbagesDatas = [{
     "mots_cles_en": "envelope,",
     "cons": "cons_fenetre_enveloppe,",
     "image": "enveloppes_mini.png",
-    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_sacjaune,modco_contembjournmag",
+    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_bacjaunenantes,modco_sacjaune,modco_contembjournmag",
     "recyc": "recyclable_oui",
     "src": "MieuxTrierANantes 02/2015"
   },
@@ -1295,7 +1296,7 @@ var _garbagesDatas = [{
     "mots_cles": "essuie,tout,rouleau,carton,rouleau,carton,papier,toilette,",
     "mots_cles_en": "towels,roll,cardboard,cardboard,toilet,paper,roll,",
     "image": "rouleau_carton_essui_tout_mini.png",
-    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_sacjaune,modco_contembjournmag",
+    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_bacjaunenantes,modco_sacjaune,modco_contembjournmag",
     "recyc": "recyclable_oui",
     "src": "MieuxTrierANantes 02/2015"
   },
@@ -1654,7 +1655,7 @@ var _garbagesDatas = [{
     "mots_cles": "journal,revue,",
     "mots_cles_en": "newspaper,magazine,",
     "image": "journal_mini.png",
-    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_sacjaune,modco_contembjournmag",
+    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_bacjaunenantes,modco_sacjaune,modco_contembjournmag",
     "recyc": "recyclable_oui",
     "src": "MieuxTrierANantes 02/2015"
   },
@@ -1780,7 +1781,7 @@ var _garbagesDatas = [{
     "mots_cles": "livre,bd,bande,dessinee,",
     "mots_cles_en": "book,comics,comic,",
     "image": "livre_mini.png",
-    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_sacjaune,modco_contembjournmag",
+    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_bacjaunenantes,modco_sacjaune,modco_contembjournmag",
     "recyc": "recyclable_oui",
     "src": "MieuxTrierANantes 02/2015"
   },
@@ -1814,7 +1815,7 @@ var _garbagesDatas = [{
     "mots_cles": "magazine,revue,",
     "mots_cles_en": "magazine,journal,",
     "image": "magazines_mini.png",
-    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_sacjaune,modco_contembjournmag",
+    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_bacjaunenantes,modco_sacjaune,modco_contembjournmag",
     "recyc": "recyclable_oui",
     "src": "MieuxTrierANantes 02/2015"
   },
@@ -2099,7 +2100,7 @@ var _garbagesDatas = [{
     "mots_cles": "papier,prospectus,publicite,feuille,imprimee,ou,non,",
     "mots_cles_en": "paper,prospectuses,advertising,film,printed,or,not,",
     "image": "feuilles_petit_2.png",
-    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_sacjaune,modco_contembjournmag",
+    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_bacjaunenantes,modco_sacjaune,modco_contembjournmag",
     "recyc": "recyclable_oui",
     "src": "MieuxTrierANantes 02/2015"
   },
@@ -2274,7 +2275,7 @@ var _garbagesDatas = [{
     "descr_en": "small battery",
     "mots_cles": "pile,petit,accumulateur,",
     "mots_cles_en": "small,battery,",
-    "cons": "cons_pilerechargeable,cons_recuppdv2,",
+    "cons": "cons_pilerechargeable,cons_recuppdv2,cons_recyclage_pile,",
     "image": "pile_45_mini.png",
     "image_secondaire": "pile9v_mini.png",
     "modco": "modco_decheterie,modco_ecopoint,modco_pointsdevente",
@@ -2658,7 +2659,7 @@ var _garbagesDatas = [{
     "mots_cles_en": "paper,bag,",
     "cons": "cons_souille,",
     "image": "sac_papier_mini.png",
-    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_sacjaune,modco_contembjournmag",
+    "modco": "modco_contpapiercarton,modco_bacjaunehorsnantes,modco_bacjaunenantes,modco_sacjaune,modco_contembjournmag",
     "recyc": "recyclable_oui",
     "src": "MieuxTrierANantes 02/2015"
   },

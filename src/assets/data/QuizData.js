@@ -526,7 +526,7 @@ var _theGoodSortingData = {
       advice:
         "A mettre dans les bornes dédiées que l’on trouve en déchèterie et dans certains magasins et grandes surfaces.",
       advice_en: "To put in the dedicated terminals that are found in refuse and in some stores and supermarkets.",
-      image: "cartouches_imprimantes.png",
+      image: "cartouches_imprimantes_mini.png",
       reponses: ["retour", "decheterie"],
       exclude_filters: ["niveau_enfant"]
     },
