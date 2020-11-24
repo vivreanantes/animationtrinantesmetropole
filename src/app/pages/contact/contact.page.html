@@ -9,6 +9,24 @@
       </div>
       <div class="body">
        
+        <form #f="ngForm" (ngSubmit)="send(f.value)">
+          <ion-item margin-vertical>
+            <ion-label position="stacked" class="my-label"><span style='color:black;font-size:1.2 em;'>{{ "contact_advice" | translate }}</span></ion-label>
+            <ion-textarea style="margin-top: 0.5em;
+            width: 100%;
+            border: 2px solid #b2ca3c;
+            padding: 0.1em;
+            font-size: 0.9em;
+            font-family: Verdana;"></ion-textarea>
+          </ion-item>
+          <ion-item margin-vertical>
+            <ion-label position="stacked" class="my-label"><span style='color:black;font-size:1.2 em;'>{{ "contact_mail" | translate }}</span></ion-label>
+            <ion-input type="email" name="email" #email="ngModel" ngModel email></ion-input>
+          </ion-item>
+          <button ion-button block large [disabled]="!f.valid" type="submit"> {{ "contact_send" | translate }}</button> 
+        </form>
+        
+<!--
         <div class="form-group">
           <label><span style='color:black'>{{ "contact_advice" | translate }}</span></label>
           <textarea [(ngModel)]="form.advice" rows="5" maxlength="1024"></textarea>
@@ -16,7 +34,7 @@
   
         <div class="form-group">
           <label><span style='color:black'>{{ "contact_mail" | translate }}</span></label><br>
-          <input type="email" [(ngModel)]="form.mail" maxlength="80"/>
+          <input type="email" [(ngModel)]="form.mail" maxlength="80"  #email="ngModel" ngModel email/>
         </div>
   
         <div class="button">
@@ -30,7 +48,7 @@
             {{ "contact_send" | translate }}
           </button>
         </div>
-
+-->
       </div>
     </div>
  
@@ -51,7 +69,13 @@
       </div>
       <div class="body">
         <div class="list">Afin de réduire son impact environnement, les données de l'application sont stoquées sur le téléphone (ne nécessite pas internet) sauf les actualités et les images de la carte.</div>
-        <div class="list">La plupart des points de la carte proviennent de OpenStreetMap.</div>
+        <div class="list"><br/>
+          <p>Les données de la carte proviennent de :</p>
+          <p>- Ville de Nantes : conteneurs, déchetteries, écopoints;</p>
+          <p>- OpenStreetMap : lieux de vrac, réemploi, ateliers co-réparation;</p>
+          <p>- Compostri : composteurs;</p>
+          <p>- Le Relais : conteneurs de vêtements.</p>
+        </div>
       </div>
     </div>
     

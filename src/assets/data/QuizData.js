@@ -436,7 +436,7 @@ var _theGoodSortingData = {
         "Poubelle : seul le 'verre d'emballage' (bouteille, bocaux) peut être recyclé et mis dans une colonne dédiée.",
       advice_en:
         "Waste bin: only the 'packaging glass' (bottle, jars) can be recycled and put in a dedicated column.",
-      image: "verre_a_boire.png",
+      image: "verre_a_boire_petit.png",
       reponses: ["poubelle"],
       exclude_filters: ["niveau_expert"]
     },

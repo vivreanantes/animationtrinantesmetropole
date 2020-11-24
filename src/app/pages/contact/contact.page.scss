@@ -32,7 +32,6 @@
   .mt-content {
     background: none;
   }
-
   .block {
     width: 95vw;
     margin: 2vh auto 0 auto;
@@ -42,14 +41,10 @@
     .body {
       --background: #fff;
       background-color: var(--background);
-    }
-    textarea {
-      margin-top: 0.5em;
-      width: 90%;
-      border: 2px solid #b2ca3c;
-      padding: 0.5em;
-      font-size: 0.9em;
-      font-family: Verdana;
+
+      .my-label { 
+        font-size:1.4em !important;
+      }
     }
     input {
       width: 90%;
