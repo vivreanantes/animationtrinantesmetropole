@@ -656,12 +656,12 @@ var _theGoodSortingData = {
         },
         {
           code: "niveau_normal",
-          descr: "niveau normal",
+          descr: "normal",
           descr_en: "normal"
         },
         {
           code: "niveau_expert",
-          descr: "niveau expert",
+          descr: "expert",
           descr_en: "expert"
         }
       ],

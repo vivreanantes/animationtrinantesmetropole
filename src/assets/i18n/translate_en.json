@@ -9,7 +9,7 @@
   "quiz_restart_confirm_title": "Retry",
   "quiz_restart_confirm_txt": "Are you sure to start again ?",
   "quiz_restart_confirm_yes": "retry",
-  "difficult_title": "Select the difficult",
+  "difficult_title": "Select the difficulty",
   "quiz_next": "Next question",
   "quiz_finish_text": "You have {{reponses}} good answer(s) for {{questions}} questions.",
   "cdlr_valid": "Validate",

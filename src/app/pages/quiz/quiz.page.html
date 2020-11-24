@@ -101,9 +101,16 @@
     </div>
 
     <div id="difficult" [ngClass]="{'on-over':onOver===true}">
-      <button (click)="changeDifficult()">
-        <ion-icon name="settings"></ion-icon>
+
+      <button id="notification-button" (click)="changeDifficult()">
+        <ion-buttons slot="end">
+          <ion-icon slot="icon-only" name="settings"></ion-icon>
+          <ion-badge color="danger" style="position: absolute; right: -5px; top: 2px;" *ngIf="currentDifficult==='niveau_enfant'">1</ion-badge>
+          <ion-badge color="danger" style="position: absolute; right: -5px; top: 2px;" *ngIf="currentDifficult==='niveau_normal'">2</ion-badge>
+          <ion-badge color="danger" style="position: absolute; right: -5px; top: 2px;" *ngIf="currentDifficult==='niveau_expert'">3</ion-badge>
+        </ion-buttons>
       </button>
+      
     </div>
 
     <div id="confirm" [ngClass]="{'show':onSelect===true}">
