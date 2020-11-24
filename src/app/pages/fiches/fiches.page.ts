@@ -120,11 +120,26 @@ export class FichesPage implements OnInit {
   }
 
   /**
+   * Retire les accents
+   */
+  normalizeString (string: any) {
+    return string.split('').map(function (letter) {
+        let i = this.accents.indexOf(letter)
+        return (i !== -1) ? this.out[i] : letter
+      }.bind({
+        accents: 'ÀÁÂÃÄÅĄàáâãäåąßÒÓÔÕÕÖØÓòóôõöøóÈÉÊËĘèéêëęðÇĆçćÐÌÍÎÏìíîïÙÚÛÜùúûüÑŃñńŠŚšśŸÿýŽŻŹžżź',
+        out: 'AAAAAAAaaaaaaaBOOOOOOOOoooooooEEEEEeeeeeeCCccDIIIIiiiiUUUUuuuuNNnnSSssYyyZZZzzz'
+      })
+    ).join('')
+  }
+
+  /**
    * Filtre les propositions
    */
   filtre(value?: any) {
     let categories: any = {};
     value = value.toLowerCase();
+    value = this.normalizeString(value);
     Object.keys(this.categoriesRaw).map((key, index) => {
       if (
         this.categoriesRaw[key].items &&
