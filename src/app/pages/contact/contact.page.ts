@@ -5,6 +5,7 @@ import { HttpClient } from "@angular/common/http";
 import { TranslateService } from "@ngx-translate/core";
 
 import { environment } from "../../../environments/environment";
+import {NgForm} from '@angular/forms';
 
 @Component({
   selector: "app-contact",
@@ -48,10 +49,10 @@ export class ContactPage {
       });
   }
 
-  send() {
+  send(contactForm: NgForm) {
     this.onLoad = true;
     this.http
-      .post(this.url, this.form)
+      .post(this.url, contactForm.value)
       .toPromise()
       .then((response) => {
         this.form = {
