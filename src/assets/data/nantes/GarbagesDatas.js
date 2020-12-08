@@ -994,7 +994,8 @@ var _garbagesDatas = [{
     "modco": "modco_bacbleuhorsnantes,modco_bacbleunantes,modco_sacbleu",
     "recyc": "non_recyclable",
     "src": "MieuxTrierANantes 02/2015",
-    "sponsor": "Cre"
+    "sponsor": "Cre",
+    "cons":"cons_cotontige"
   },
   {
     "code": "dec_coucheBebe",
@@ -2155,7 +2156,8 @@ var _garbagesDatas = [{
     "image": "papier_cadeau_mini.png",
     "modco": "modco_bacbleuhorsnantes,modco_bacbleunantes,modco_sacbleu",
     "recyc": "non_recyclable",
-    "src": "MieuxTrierANantes 02/2015"
+    "src": "MieuxTrierANantes 02/2015",
+    "cons":"cons_papiercadeau"
   },
   {
     "code": "dec_papierPeint",
