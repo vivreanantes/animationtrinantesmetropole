@@ -9,7 +9,7 @@
       </div>
       <div class="body">
        
-        <form #f="ngForm" (ngSubmit)="send(f.value)">
+        <form #contactForm="ngForm" (ngSubmit)="send(contactForm)" >
           <ion-item margin-vertical>
             <ion-label position="stacked" class="my-label"><span style='color:black;font-size:1.2 em;'>{{ "contact_advice" | translate }}</span></ion-label>
             <ion-textarea style="margin-top: 0.5em;
@@ -17,38 +17,15 @@
             border: 2px solid #b2ca3c;
             padding: 0.1em;
             font-size: 0.9em;
-            font-family: Verdana;"></ion-textarea>
+            font-family: Verdana;" name="advice" ngModel advice ></ion-textarea>
           </ion-item>
           <ion-item margin-vertical>
             <ion-label position="stacked" class="my-label"><span style='color:black;font-size:1.2 em;'>{{ "contact_mail" | translate }}</span></ion-label>
-            <ion-input type="email" name="email" #email="ngModel" ngModel email></ion-input>
+            <ion-input type="email" name="mail" #mail="ngModel" ngModel mail></ion-input>
           </ion-item>
-          <button ion-button block large [disabled]="!f.valid" type="submit"> {{ "contact_send" | translate }}</button> 
+          <button ion-button block large [disabled]="!contactForm.valid" type="submit"> {{ "contact_send" | translate }}</button> 
         </form>
         
-<!--
-        <div class="form-group">
-          <label><span style='color:black'>{{ "contact_advice" | translate }}</span></label>
-          <textarea [(ngModel)]="form.advice" rows="5" maxlength="1024"></textarea>
-        </div>
-  
-        <div class="form-group">
-          <label><span style='color:black'>{{ "contact_mail" | translate }}</span></label><br>
-          <input type="email" [(ngModel)]="form.mail" maxlength="80"  #email="ngModel" ngModel email/>
-        </div>
-  
-        <div class="button">
-          <button
-            ion-button
-            block
-            color="primary"
-            (click)="send()"
-            [disabled]="onLoad === true"
-          >
-            {{ "contact_send" | translate }}
-          </button>
-        </div>
--->
       </div>
     </div>
  

@@ -24,7 +24,6 @@
     <preference name="SplashScreenDelay" value="3000" />
     <platform name="android">
         <preference name="android-minSdkVersion" value="24" />
-        <!-- cordova plugin add cordova-custom-config : deplacer vers la carte sd -->
         <custom-preference name="android-manifest/@android:installLocation" value="auto" />
         <allow-intent href="market:*" />
         <icon density="ldpi" src="resources/android/icon/drawable-ldpi-icon.png" />

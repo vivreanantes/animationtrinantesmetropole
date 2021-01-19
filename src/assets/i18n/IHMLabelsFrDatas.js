@@ -193,9 +193,9 @@ var _ihmLabelsFrDatas = {
 	"recherche": "Recherche",
 	"recherche_solutions": "Recherche de solutions",
 	"affiner_recherche": "Vous pouvez utiliser la recherche par mot-clé pour affiner votre recherche.",
-	"jhabite_nantes": "Ville : Nantes",
-	"jhabite_extension": "Villes : La Montagne, le Pellerin, Saint Jean de Boiseau, Carquefou (la partie en extension de tri)",
-	"jhabite_hors_nantes": "Autres villes de Nantes Métropole",
+	"jhabite_nantes": "Nantes",
+	"jhabite_extension": "Autres villes de Nantes Métropole",
+	"jhabite_hors_nantes": "Je n'habite pas Nantes Métropole",
 	// RM-LA_LANGUE_03 : Si sa traduction n’existe pas, on affiche le mot en français.
 	"nom_translated": "{{nom}}",
 	"descr_translated": "{{descr}}",
