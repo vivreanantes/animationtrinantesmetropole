@@ -2334,7 +2334,7 @@ var _garbagesDatas = [{
     "descr_en": "tire",
     "mots_cles": "pneu,",
     "mots_cles_en": "tire,",
-    "cons": "cons_numerosencombrants,cons_encombrants",
+    "cons": "cons_pneu,cons_numerosencombrants,cons_encombrants",
     "image": "pneu_mini.png",
     "modco": "modco_encombrant,modco_decheterie",
     "recyc": "recyclable_pas_poubelle",

@@ -450,6 +450,13 @@ var _advicesDatas = [{
   "fiche": "fiche_verre"
 },
 {
+  "code":"cons_pneu",
+  "nom":"Toutes les déchèteries n’acceptent pas les pneus",
+  "nom_en":"Not all recycling centers accept tires.",
+  "descr":"Concernant la prise en charge de pneus usagés, il n'y a qu'une seule decheterie qui les accepte sur la Métropole, c'est celle de Nantes (Prarie de Mauve). Sur les autres points de collecte, ils sont refusés. ",
+  "descr_en":"Regarding the handling of used tires, there is only one recycling center that accepts them in the Metropolis, that of Nantes (Prarie de Mauve). At the other collection points, they are refused. "
+},
+{
   "code": "cons_recyclage_pile",
   "nom": "Le recyclage des piles ",
   "nom_en": "Battery recycling ",
