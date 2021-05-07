@@ -1,23 +1,23 @@
-Nom du lieu ;Quartier;Adresse;latitude;longitude;commentaire
-Passage Douard ;Olivettes;11 passage Douard 44000 Nantes;47.21169988760166;-1.5510095959441383;En libre accès dans le passage
-La Vie Claire;St Mihiel;14 Rue Pitre Chevalier, 44000 Nantes;47.2244852043505;-1.5501119725794863;Libre accès dvt le magasin pdt horaires ouverture (lundi 11H30/19H, mardi Au samedi 9H00/19H, fermé le dimanche)
-Belle de jour ;St Donatien;4 Place du 51e Régiment d'Artillerie, 44000 Nantes;;;Libre accès dvt la cloture de la terrasse 
-O bocal;Ile de Nantes;10 bis Allée des Tanneurs, 44000 Nantes  ;;;Libre accès dvt boutique 
-Tour de Terre (=Yuliceramica);Graslin;5 rue urvoy de saint bedan, 4400 Nantes;;;Libre accès dvt boutique 
-Biocoop République;République;17 Boulevard Gustave Roc 44200 Nantes;;;Libre accès dans un parking qui ferme la nuit
-Biocoop Cité des congrès;Olivettes;18 20 Rue de Mayence, 44000 Nantes;;;Libre accès dvt la boutique 
-Boulangerie Arlot Cheng;Ile de Nantes;36 Rue La Noue Bras de Fer, 44200 Nantes;;;Libre accès à droite de l'entrée 
-Dose de sens;Ile de Nantes;16 Mail des Chantiers, 44200 Nantes;;;Libre accès dvt la boutique 
-Spar St Mihiel;St Mihiel;25 Quai de Versailles, 44000 Nantes;;;libre accè devant la boutique
-Chez la Voisine;Chantenay;40 Place Jean Macé, 44100 Nantes;;;Libre accès dvt la boutique 
-Nantes Bike Solutions;St donatien;9 Rue Maréchal Joffre, 44000 Nantes;;;Libre accès dvt la boutique 
-Epicerie Equitable ;Malakoff;12 Allée de la Bouscarle de Cetti, 44000 Nantes;;;Libre accès devant la boutique 
-Grain Flori;Quais de la fosse ;17 Rue Mathurin Brissonneau;;;Libre accès devant la boutique 
-Le ptit Canclaux;Canclaux;Place canclaux;;;Libre accès devant la boutique 
-Abc Terroirs;Graslin;9 Rue Franklin;;;Libre accès devant la boutique 
-L'arbre à bouteilles;Procé;2 Rue des Dervallières, 44000 Nantes;;;Libre accès devant la boutique 
-Bienvenue;Viamre;2 Rue de l'Industrie, 44000 Nantes;;;Libre accès devant la boutique 
-Biocoop Bretagne;Tour de bretagne;14 Rue de Budapest, 44000 Nantes;;;Libre accès devant la boutique 
-Rue de la savonnerie;Ecole d'archi;Rue de la savonneire;;;Accès libre dans la rue 
-Pain beurre chocolat ;St Félix;10 Boulevard Amiral Courbet, 44000 Nantes;;;Libre accès devant la boulangerie
-Agronaute;Ancien MIN;Rue du Sénégal;;;Accès libre pour les personnes travaillant sur place
+Nom du lieu ,Quartier,Adresse,latitude,longitude,commentaire
+Passage Douard ,Olivettes,"11 passage Douard, 44000 Nantes",47.21169988760166,-1.5510095959441383,En libre accès dans le passage
+La Vie Claire,St Mihiel,"14 Rue Pitre Chevalier, 44000 Nantes",47.2244852043505,-1.5501119725794863,"Libre accès devant le magasin pendant horaires ouverture (lundi 11H30/19H), mardi au samedi 9H00/19H, fermé le dimanche) "
+Belle de jour ,St Donatien,"4 Place du 51e Régiment d'Artillerie, 44000 Nantes",47.22938290529091,-1.5405514575796624,Libre accès devant la clôture de la terrasse 
+O bocal,Ile de Nantes,"10 bis Allée des Tanneurs, 44000 Nantes  ",47.21927774469633,-1.557326832107035,Libre accès devant boutique 
+Tour de Terre (=Yuliceramica),Graslin,"5 rue urvoy de saint bedan, 4400 Nantes",47.213452373617386,-1.566408399561516,Libre accès devant boutique 
+Biocoop République,République,17 Boulevard Gustave Roc,47.20421712722529,-1.5503929572345525,Libre accès dans un parking qui ferme la nuit
+Biocoop Cité des congrès,Olivettes,"18 20 Rue de Mayence, 44000 Nantes",47.21143939246593,-1.5453403879253609,Libre accès devant la boutique 
+Boulangerie Arlot Cheng,Ile de Nantes,"36 Rue La Noue Bras de Fer, 44200 Nantes",47.2070408976371,-1.5633881149072002,Libre accès à droite de l'entrée 
+Dose de sens,Ile de Nantes,"16 Mail des Chantiers, 44200 Nantes",47.204933902269225,-1.5679929149072696,Libre accès devant la boutique 
+Spar St Mihiel,St Mihiel,"25 Quai de Versailles, 44000 Nantes",47.22449972193352,-1.554009187924991,libre accès devant la boutique
+Chez la Voisine,Chantenay,"40 Place Jean Macé, 44100 Nantes",47.20031719159368,-1.589028472580156,Libre accès devant la boutique 
+Nantes Bike Solutions,St donatien,"9 Rue Maréchal Joffre, 44000 Nantes",47.222951995045825,-1.5458618879250305,Libre accès devant la boutique 
+Epicerie Equitable ,Malakoff,"12 Allée de la Bouscarle de Cetti, 44000 Nantes",47.215923315331416,-1.536769886070583,Libre accès devant la boutique 
+Grain Flori,Quais de la fosse ,17 Rue Mathurin Brissonneau,47.209257834566564,-1.5712766437435297,Libre accès devant la boutique 
+Le ptit Canclaux,Canclaux,"Place canclaux, Nantes",47.21443541331722,-1.574462093444882,Libre accès devant la boutique 
+Abc Terroirs,Graslin,9 Rue Franklin,47.214426246865834,-1.563484900898832,Libre accès devant la boutique 
+L'arbre à bouteilles,Procé,"2 Rue des Dervallières, 44000 Nantes",47.22054527812063,-1.5736486261008666,Libre accès devant la boutique 
+Bienvenue,Viamre,"2 Rue de l'Industrie, 44000 Nantes",47.218647491322706,-1.560837519298747,Libre accès devant la boutique 
+Biocoop Bretagne,Tour de bretagne,"14 Rue de Budapest, 44000 Nantes",47.216763348534,-1.5596084132165522,Libre accès devant la boutique 
+Rue de la savonnerie,Ecole d'archi,"Rue de la Savonnerie, Nantes",47.205803111053605,-1.5575641860708733,Accès libre dans la rue 
+Pain beurre chocolat ,St Félix,"10 Boulevard Amiral Courbet, 44000 Nantes",47.229422786740805,-1.5541977805667564,Libre accès devant la boulangerie
+Agronaute,Ancien MIN,"Rue du Sénégal, Nantes",47.200658796665024,-1.5650112167620251,Accès libre pour les personnes travaillant sur place
