@@ -14,7 +14,14 @@ export class NewsComponent {
 		private http: HttpClient,
 		public alertController: AlertController) {}
 
-	newsUrl = "https://raw.githubusercontent.com/vivreanantes/animationtrinantesmetropole/MieuxTrierANantesV3/src/assets/data/News.json"
+	// newsUrl = "https://raw.githubusercontent.com/vivreanantes/animationtrinantesmetropole/MieuxTrierANantesV3/src/assets/data/News.json"
+	// Les actualités sont un flux JSON qui est présent sur Pipedream
+	// Exemple : [ {
+    //        "icon": "🤔",
+    //        "title": "Un article sur l'avenir des emballages triés (extension de tri généralisée sur tout Nantes Métropole en janvier 2021)",
+    //        "description": "L'usine Arc-en-Ciel, située à Couëron, réceptionne et trie les déchets recyclables des agglos nantaise et nazairienne\n <a href='https://www.20minutes.fr/nantes/2957575-20210121-nantes-tous-emballages-desormais-poubelle-jaune-deviennent' target='_blank'>Petit article de 20 minutes</a>."
+    //    } ]
+	newsUrl = "https://enuf01zaj0t1xyc.m.pipedream.net/"
 
 	updatedAt = undefined;
 	showBlock = false;
