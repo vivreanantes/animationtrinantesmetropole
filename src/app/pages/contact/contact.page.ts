@@ -8,6 +8,7 @@ import { environment } from "../../../environments/environment";
 import { NgForm } from '@angular/forms';
 import { exit } from "process";
 
+
 @Component({
   selector: "app-contact",
   templateUrl: "./contact.page.html",
@@ -17,12 +18,15 @@ import { exit } from "process";
 export class ContactPage {
   url: string = environment.contact_url;
   onLoad: boolean = false;
+  aForm = null;
 
   constructor(
     private http: HttpClient,
     private alertController: AlertController,
     private translateService: TranslateService
-  ) { }
+  ) { 
+
+  }
 
   send(contactForm: NgForm) {
     // this.onLoad = true;
