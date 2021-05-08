@@ -5,7 +5,8 @@ import { HttpClient } from "@angular/common/http";
 import { TranslateService } from "@ngx-translate/core";
 
 import { environment } from "../../../environments/environment";
-import {NgForm} from '@angular/forms';
+import { NgForm } from '@angular/forms';
+import { exit } from "process";
 
 @Component({
   selector: "app-contact",
@@ -16,63 +17,46 @@ import {NgForm} from '@angular/forms';
 export class ContactPage {
   url: string = environment.contact_url;
   onLoad: boolean = false;
-  showHowOther = false;
-  form: any = {
-    advice: null,
-    mail: null,
-  };
-  customAlertOptions: any = {
-    header: "Pizza Toppings",
-    subHeader: "Select your toppings",
-    message: "$1.00 per topping",
-    translucent: true,
-  };
 
   constructor(
     private http: HttpClient,
     private alertController: AlertController,
     private translateService: TranslateService
-  ) {}
-
-  howChange(event: any) {
-    this.translateService
-      .get(["contact_how_choice_9"])
-      .subscribe((res: any) => {
-        if (
-          this.form.how &&
-          this.form.how.indexOf(res["contact_how_choice_9"]) > -1
-        ) {
-          this.showHowOther = true;
-        } else {
-          this.showHowOther = false;
-        }
-      });
-  }
+  ) { }
 
   send(contactForm: NgForm) {
-    this.onLoad = true;
+    // this.onLoad = true;
+    this.aForm = contactForm;
+
     this.http
       .post(this.url, contactForm.value)
+      // On crée une Promesse
       .toPromise()
+      // Promesse : création de la "callback" de succès avec then
       .then((response) => {
-        this.form = {
-          advice: null,
-          mail: null,
-        };
-        this.showHowOther = false;
+
         this.translateService
           .get(["contact_success_title", "contact_success_txt", "ok"])
-          .subscribe((res: any) => {            
-            this.alerteError(
+          .subscribe((res: any) => {
+            this.openPopup(
               res["contact_success_title"],
               res["contact_success_txt"],
-              [res["ok"]]
-            ).then(() => {
-              this.onLoad = false;
-            });
+              [
+                {
+                  text: res["ok"],
+                  handler: () => {
+                    this.aForm.resetForm();
+                  },
+                }
+              ]
+            );
+            // .then(() => {
+            //  this.onLoad = false;
+            // });
 
           });
       })
+      // Promesse : création de la "callback" d'erreur avec error
       .catch((error) => {
         this._error();
       });
@@ -83,7 +67,7 @@ export class ContactPage {
       this.translateService
         .get(["contact_error_title", "contact_error_network", "ok"])
         .subscribe((res: any) => {
-          this.alerteError(
+          this.openPopup(
             res["contact_error_title"],
             res["contact_error_network"],
             [res["ok"]]
@@ -93,17 +77,17 @@ export class ContactPage {
       this.translateService
         .get(["contact_error_title", "contact_error_field", "ok"])
         .subscribe((res: any) => {
-          this.alerteError(
+          this.openPopup(
             res["contact_error_title"],
             res["contact_error_field"],
             [res["ok"]]
           );
         });
     }
-    this.onLoad = false;
+    // this.onLoad = false;
   }
 
-  async alerteError(header: string, message: string, buttons: Array<any>) {
+  async openPopup(header: string, message: string, buttons: Array<any>) {
     const alert = await this.alertController.create({
       message: header,
       subHeader: message,
