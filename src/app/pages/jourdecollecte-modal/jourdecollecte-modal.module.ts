@@ -13,8 +13,9 @@ import { JourDeCollecteModalPage } from './jourdecollecte-modal.page';
     CommonModule,
     FormsModule,
     IonicModule,
-    JourDeCollecteModalPageRoutingModule
+    JourDeCollecteModalPageRoutingModule,
   ],
-  declarations: [JourDeCollecteModalPage]
+  declarations: [JourDeCollecteModalPage],
+  entryComponents: [JourDeCollecteModalPage],
 })
 export class JourDeCollecteModalPageModule {}

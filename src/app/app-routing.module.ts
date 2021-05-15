@@ -72,9 +72,7 @@ const routes: Routes = [
   {
     path: "jourdecollecte-modal",
     loadChildren: () =>
-      import("./pages/jourdecollecte-modal/jourdecollecte-modal.module").then(
-        (m) => m.JourDeCollecteModalPageModule
-      ),
+      import("./pages/jourdecollecte-modal/jourdecollecte-modal.module").then((m) => m.JourDeCollecteModalPageModule),
   },
   {
     path: "acteurs-details",
