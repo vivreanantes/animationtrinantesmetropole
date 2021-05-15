@@ -2,7 +2,22 @@
   <button-menu></button-menu>
 
   <div class="mt-content">
+
+    <div class="block" style='clear: both;'>
+      <div >
+        <h2>{{"select_quartier"| translate}}</h2>
+
+        <select [(ngModel)]="input_zone"
+          (ngModelChange)="onChangeFiltreZone()"
+        >
+          <option *ngFor="let filtre of filtres">{{filtre}}</option>
+        </select>
+      </div>
+    </div>
+
     <div class="search">
+
+
       <div class="input-field">
         <input
           type="text"
@@ -19,8 +34,6 @@
         <div class="title" *ngIf="categorie.items && categorie.items.length >0">
           <h2>{{ categorie | lang: "nom" }}</h2>
         </div>
-
-
 
         <div class="block" *ngIf="categorie.items && categorie.items.length > 0">
           <div class="body infos">

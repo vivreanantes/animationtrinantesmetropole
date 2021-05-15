@@ -36,7 +36,7 @@ export class AppComponent {
       { title: "carte", icon: "trash", link: "carte" },
       { title: "jeux", icon: "leaf", link: "quiz" },
       { title: "cdlr", icon: "help", link: "codedelaroute" },
-	    { title: "collecteadomicile", icon: "trash", link: "home" },
+	    { title: "collecteadomicile", icon: "trash", link: "collecteadomicile" },
       { title: "trisac", icon: "construct", link: "trisac" },
       { title: "acteurs", icon: "construct", link: "acteurs" },
       { title: "recettes", icon: "construct", link: "recettes" },

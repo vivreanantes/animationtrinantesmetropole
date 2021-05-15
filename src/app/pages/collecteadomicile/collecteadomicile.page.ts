@@ -1,7 +1,6 @@
 import { Component, OnInit, ViewEncapsulation } from "@angular/core";
 import { ModalController } from "@ionic/angular";
 import { NguCarouselConfig } from "@ngu/carousel";
-
 import { DataService } from "../../services/data.service";
 
 import { JourDeCollecteModalPage } from "../jourdecollecte-modal/jourdecollecte-modal.page";
@@ -14,9 +13,10 @@ import { JourDeCollecteModalPage } from "../jourdecollecte-modal/jourdecollecte-
 })
 export class CollecteADomicilePage implements OnInit {
   input: string = null;
+  input_zone: string = null;
   categories: any = {};
   categoriesRaw: any = {};
-  filtres: any = {};
+  filtres: Array<any> = [];
   carouselConfig: NguCarouselConfig = {
     grid: { xs: 3, sm: 3, md: 3, lg: 6, all: 0 },
     slide: 3,
@@ -32,11 +32,23 @@ export class CollecteADomicilePage implements OnInit {
 
   constructor(
     public modalController: ModalController,
+    // private activatedRoute: ActivatedRoute,
     private dataService: DataService
   ) {}
 
   ngOnInit() {
     this.init();
+    this.filtres[0]="Bellevue - Chantenay - Sainte Anne";
+    this.filtres[1]="Breil - Barberie";
+    this.filtres[2]="Centre Ville";
+    this.filtres[3]="Dervallières - Zola";
+    this.filtres[4]="Doulon - Bottière";
+    this.filtres[5]="Hauts Pavés - Saint Félix";
+    this.filtres[6]="Ile de Nantes";
+    this.filtres[7]="Malakoff - Saint-Donatien";
+    this.filtres[8]="Nantes Erdre";
+    this.filtres[9]="Nantes Nord";
+    this.filtres[10]="Nantes Sud";
   }
 
   /**
@@ -70,6 +82,7 @@ export class CollecteADomicilePage implements OnInit {
         });
     });
     return new Promise((resolve, reject) => {
+      // La Promesse qui est lancée sur le chargement des villesJoursDeCollecte, et des JoursDeCollecte
       Promise.all([villesJoursDeCollectePromise, itemsPromise])
         .then((datas) => {
           let results: any = {};
@@ -96,12 +109,13 @@ export class CollecteADomicilePage implements OnInit {
                 }
                 if (itemIndex === items.length - 1) {
                   this.categoriesRaw = results;
-                  this.categories = results;
-                  resolve();
+                  // this.categories = results;
+                 //  resolve();
                 }
               });
             }
           });
+          // this.filtre();
         })
         .catch(reject);
     });
@@ -119,9 +133,15 @@ export class CollecteADomicilePage implements OnInit {
    */
   cleanFiltre() {
     this.input = null;
-    this.filtre();
+    this.filtre(this.input);
   }
 
+  /**
+   * Remet à zéro le filtre
+   */
+   onChangeFiltreZone() {
+    this.filtre(this.input);
+  }
   /**
    * Retire les accents
    */
@@ -140,36 +160,58 @@ export class CollecteADomicilePage implements OnInit {
    * Filtre les propositions
    */
   filtre(value?: any) {
+    if (value == null) {
+      value = "";
+    }
     let categories: any = {};
     value = value.toLowerCase();
     value = this.normalizeString(value);
     Object.keys(this.categoriesRaw).map((key, index) => {
+      
+      // 1. S'il y a des élements dans cette catégorie
       if (
         this.categoriesRaw[key].items &&
         this.categoriesRaw[key].items.length > 0
       ) {
-        this.categoriesRaw[key].items.map((item, jndex) => {
-          // || item.mots_cles_en.toLowerCase().indexOf(value) > -1
-          if (
-            !value ||
-            value === "" ||
-            item.mots_cles.toLowerCase().indexOf(value) > -1 
-          ) {
-            if (!categories[key])
-              categories[key] = this.copyCategorie(this.categoriesRaw[key]);
-            categories[key].items.push(item);
-          }
-          if (
-            jndex === this.categoriesRaw[key].items.length - 1 &&
-            index === Object.keys(this.categoriesRaw).length - 1
-          ) {
-            this.categories = categories;
-          }
-        });
-      } else if (index === Object.keys(this.categoriesRaw).length - 1) {
-        this.categories = categories;
+        // 1.1. Si c'est la bonne catégorie
+        if (this.categoriesRaw[key].code == this.input_zone) {
+          
+          // Je parcours tous ces élements
+          this.categoriesRaw[key].items.map((item, jndex) => {
+              // console.log("abc");
+              if (
+                !value ||
+                value === "" ||
+                item.mots_cles.toLowerCase().indexOf(value) > -1 
+              ) {
+                if (!categories[key]) {
+                  categories[key] = this.copyCategorie(this.categoriesRaw[key]);
+                }
+                categories[key].items.push(item);
+              }
+          });
+        }
+        // 1.2. Ce n'est pas la bonne catégorie
+        else {
+          // Rien à faire
+          // categories[key].items = new Array();
+        }
+
+        
+        // 1.3 Le dernier : on modifie l'objet this.categories
+        if (
+          index === this.categoriesRaw[key].items.length - 1 &&
+          index === Object.keys(this.categoriesRaw).length - 1
+        ) {
+          this.categories = categories;
+        }
       }
+      
+      
     });
+
+    this.categories = categories;
+
   }
 
   /**

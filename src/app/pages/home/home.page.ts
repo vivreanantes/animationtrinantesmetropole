@@ -16,7 +16,7 @@ export class HomePage {
     { title: "carte", icon: "map", link: "carte" },
     { title: "jeux", icon: "game-controller", link: "quiz" },
     { title: "cdlr", icon: "help", link: "codedelaroute" },
-    { title: "collecteadomicile", icon: "trash", link: "home" },
+    { title: "collecteadomicile", icon: "trash", link: "collecteadomicile" },
     { title: "trisac", icon: "leaf", link: "trisac" },
     { title: "acteurs", icon: "people", link: "acteurs" },
     { title: "recettes", icon: "color-fill", link: "recettes" },
