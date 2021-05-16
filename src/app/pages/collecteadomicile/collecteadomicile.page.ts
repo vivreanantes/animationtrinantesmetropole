@@ -165,7 +165,7 @@ export class CollecteADomicilePage implements OnInit {
     }
     let categories: any = {};
     value = value.toLowerCase();
-    value = this.normalizeString(value);
+    // value = this.normalizeString(value);
     Object.keys(this.categoriesRaw).map((key, index) => {
       
       // 1. S'il y a des élements dans cette catégorie

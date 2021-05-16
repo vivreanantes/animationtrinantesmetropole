@@ -1,19 +1,23 @@
-<ion-header>
-  <ion-toolbar>
-    <ion-title>jourdecollecte-modal</ion-title>
-  </ion-toolbar>
-</ion-header>
-
 <ion-content>
   <div class="mt-content fiche">
+    
     <div class="close clickable" (click)="close()">
       <ion-icon name="close"></ion-icon>
     </div>
+   
     <div class="header">
-      <h1>{{ dechet.dcv}}</h1>
+      <h1>{{ item.dcv}}</h1>
     </div>
-    {{ dechet.ddcvcv}}
-    
-    
+
+    <div class="body">
+
+      <div>{{ item.dcv}}</div>
+      <div>{{item.jcbj}}</div>
+      
+      <p *ngIf="item.src">
+        <strong>{{'source'|translate}} :</strong> {{ item.src }}
+      </p>
     </div>
+
+  </div>
 </ion-content>
