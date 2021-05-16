@@ -89,8 +89,8 @@ var _paramFilterTypeMapDatas = [{
 	}, {
 		"id": "4",
 		"code": "modco_compostage",
-		"nom": "Composteurs (477)",
-		"nom_en": "Composting (477)",
+		"nom": "Composteurs (513)",
+		"nom_en": "Composting (513)",
 		"image": "assets/icons/marker-icon-yellow.png"
 	}, {
 		"id": "5",
