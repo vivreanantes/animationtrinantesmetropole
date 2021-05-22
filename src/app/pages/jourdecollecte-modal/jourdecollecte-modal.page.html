@@ -11,12 +11,20 @@
 
     <div class="body">
 
-      <div>{{ item.dcv}}</div>
-      <div>{{item.jcbj}}</div>
+      <div>{{item.dcv}}</div>
+      <div [innerHtml]="(item.jcbj)"></div>
       
       <p *ngIf="item.src">
         <strong>{{'source'|translate}} :</strong> {{ item.src }}
       </p>
+
+      <hr *ngIf="item.cons" />
+      
+      <div class="info">
+        <h5>{{item.cons.nom}}</h5>
+        {{item.cons.descr}}
+      </div>
+
     </div>
 
   </div>

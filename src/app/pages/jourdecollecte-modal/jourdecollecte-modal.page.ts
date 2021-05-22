@@ -1,6 +1,8 @@
 import { Component, OnInit } from '@angular/core';
 import { NavParams, ModalController} from "@ionic/angular";
+import { debug } from 'console';
 import { DataService } from "../../services/data.service";
+// import { LangageService } from "../../services/langage.service";
 
 @Component({
   selector: 'app-jourdecollecte-modal',
@@ -9,13 +11,16 @@ import { DataService } from "../../services/data.service";
 })
 export class JourDeCollecteModalPage implements OnInit {
   item: any = {};
+  langage: string;
   constructor(
     private navParams: NavParams,
     private dataService: DataService,
+    // private langageService: LangageService,
     private modalController: ModalController
   ) {}
 
   ngOnInit() {
+   //  this.langage = this.langageService.get();
     this._init(this.navParams.get("dechet")).then((item) => {
       this.item = item;
     });
