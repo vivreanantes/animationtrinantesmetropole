@@ -8,8 +8,7 @@ import { DomicileModalPage } from "../domicile-modal/domicile-modal.page";
 @Component({
   selector: "app-parameters",
   templateUrl: "./parameters.page.html",
-  styleUrls: ["./parameters.page.scss"],
-  encapsulation: ViewEncapsulation.ShadowDom,
+  styleUrls: ["./parameters.page.scss"]
 })
 export class ParametersPage {
   langues: Array<any> = [];

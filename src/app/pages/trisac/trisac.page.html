@@ -3,24 +3,18 @@
 <ion-content>
   <button-menu></button-menu>
   <div class="mt-content" [ngClass]="{'selected':input}">
-    <div class="block">
-      <div class="body">
+    <div class="selector">
         <h2>{{"select_quartier"| translate}}</h2>
-
         <select [(ngModel)]="input">
           <option *ngFor="let filtre of filtres">{{filtre}}</option>
         </select>
-      </div>
     </div>
 
-    <div class="block" *ngIf="input">
-      <div class="body">
-        <div class="list">
+    <div class="listBlock" *ngIf="input">
           <div *ngFor="let type of trisacs[input] | values">
             <h3>{{ type[0].type_lieu?type[0].type_lieu:"Divers" }}</h3>
-
-            <ul>
-              <li class="clickable" *ngFor="let t of type" (click)="details(t)">
+            <div class="sections">
+              <div class="section" *ngFor="let t of type" (click)="details(t)">
                 <div class="info">
                   <h5>{{t.lieu_distribution}}</h5>
                   <div class="horaires" *ngIf="t.horaires">
@@ -32,15 +26,11 @@
                   </div>
                 </div>
                 <div class="buttons">
-                  <button>
-                    <ion-icon name="information-circle-outline"></ion-icon>
-                  </button>
+                  <ion-icon name="information-circle"></ion-icon>
                 </div>
-              </li>
-            </ul>
+              </div>
+            </div>
           </div>
-        </div>
-      </div>
     </div>
   </div>
 </ion-content>

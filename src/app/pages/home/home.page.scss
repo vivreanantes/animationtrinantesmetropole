@@ -62,28 +62,65 @@
             }
         }
 
+        /*
         #menu {
             margin: auto;
-            display: grid;
             width: 90%;
             margin-top:3vh;
-            cursor: pointer;
-            grid-template-columns: repeat(auto-fill, minmax(26vw, 1fr));
-            grid-auto-rows: 1fr;
-            column-gap: 2vw;
-            row-gap: 5vw;
-            justify-items: center;
 
-            /*
-            @include desktop {
-                width: 80%;
-                grid-template-columns: repeat(auto-fill, minmax(15vw, 1fr));
+            .row {
+                display: table-row;
+    
             }
 
-            @include tablet {
-                width: 100%;
-                grid-template-columns: repeat(auto-fill, minmax(30vw, 1fr));
-            }*/
+            .page {
+                display:table-cell;
+
+                border-spacing: 10px;
+                border-collapse: separate;
+
+                height: 30vw;
+                min-width: 15%;
+                margin: 1em;
+                padding:2vw;
+                background: rgb(248, 255, 202);
+                border-radius: 1em;
+
+                -moz-box-shadow: 2px 2px 3px 0px #25683b;
+                -webkit-box-shadow: 2px 2px 3px 0px #25683b;
+                -o-box-shadow: 2px 2px 3px 0px #25683b;
+                box-shadow: 2px 2px 3px 0px #25683b;
+                color: #fff;
+
+                >ion-icon {
+                    margin: auto;
+                    margin-bottom: 0px;
+                    font-size: 10vw;
+                    color: #006610;
+                }
+    
+                >span {
+                    margin: auto;
+                    margin-top: 0.5vh;
+                    font-size: 0.9em;
+                    font-weight: bold;
+                    color: #006610;
+                    white-space: pre-line;
+                    text-align: center;
+                }
+
+            }
+        }*/
+
+        #menu {
+            margin: auto;
+            width: 90%;
+            margin-top:3vh;
+            display: flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            justify-content: center;
+
 
             .page {
                 display: flex;
@@ -93,24 +130,12 @@
                 padding:2vw;
                 background: rgb(248, 255, 202);
                 border-radius: 1em;
+                margin: 1.5vw;
 
                 -moz-box-shadow: 2px 2px 3px 0px #25683b;
                 -webkit-box-shadow: 2px 2px 3px 0px #25683b;
                 -o-box-shadow: 2px 2px 3px 0px #25683b;
                 box-shadow: 2px 2px 3px 0px #25683b;
-                filter:progid:DXImageTransform.Microsoft.Shadow(color=#25683b, Direction=134, Strength=3);
-
-                /*
-
-                @include desktop {
-                    height: 15vw;
-                    width: 15vw;
-                }
-
-                @include tablet {
-                    height: 25vw;
-                    width: 25vw;
-                }*/
 
                 color: #fff;
 
@@ -119,15 +144,6 @@
                     margin-bottom: 0px;
                     font-size: 10vw;
                     color: #006610;
-
-                    /*
-                    @include desktop {
-                        font-size: 5vw;
-                    }
-
-                    @include tablet {
-                        font-size: 10vw;
-                    }*/
                 }
 
                 >span {

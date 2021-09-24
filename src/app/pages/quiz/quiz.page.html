@@ -10,14 +10,14 @@
 
     <div class="currentHomeCollect">{{ 'votre_configuration_adresse_jeu_short' | translate }} <i><span [innerHTML]="currentHomeCollectModsMco|translate" ></span></i></div>
 
-    <div id="title" *ngIf="!onOver">
-      {{ 'drap_to_answer'| translate }}
-    </div>
     <div
       id="game"
       *ngIf="questions.length > 0"
       [ngClass]="{'on-drag':onDrag===true,'on-select':onSelect===true,'on-advise':onAdvise===true,'on-over':onOver===true}"
     >
+    <div id="title" *ngIf="!onOver">
+      {{ 'drap_to_answer'| translate }}
+    </div>
       <div class="reponses">
         <div
           class="reponse clickable"

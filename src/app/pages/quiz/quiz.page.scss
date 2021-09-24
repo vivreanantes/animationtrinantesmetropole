@@ -185,14 +185,16 @@
 
     #title {
       @include fonts("h1", bold);
+      font-size: 1.2em;
       color: #fff;
       text-align: center;
+      margin-top: 1em;
     }
 
     #game {
       display: block;
       position: absolute;
-      top: 5vh;
+      top: 10vh;
       left: 0;
       bottom: 8vh;
       right: 0;
@@ -217,8 +219,8 @@
         top: 10vh;
         left: 50%;
         @include prefix(transform, translateX(-50%), webkit);
-        width: 45vw;
-        height: 45vw;
+        width: 40vw;
+        height: 40vw;
         background: rgba(#fff, 0.8);
         border-radius: 20px;
         cursor: pointer;
@@ -266,15 +268,16 @@
       > .reponses {
         display: flex;
         flex-wrap: wrap;
+        justify-content: center;
         position: absolute;
-        bottom: 0;
+        bottom: 1vh;
         left: 0;
         right: 0;
         > .reponse {
           position: relative;
-          width: 25vw;
-          height: 25vw;
-          margin: 0 auto 4vw auto;
+          width: 26vw;
+          height: 26vw;
+          margin: 2vw;
           border: 1px dashed #ccc;
           background-color: #fff;
           opacity: 0.5;
@@ -345,6 +348,7 @@
             &.title {
               top: 5px;
               font-weight: bold;
+              font-size: 0.9em;
               @include tablet {
                 top: 15px;
               }

@@ -6,8 +6,7 @@ import { TelephoneModalPage } from "../telephone-modal/telephone-modal.page";
 @Component({
   selector: "app-recettes-details",
   templateUrl: "./recettes-details.page.html",
-  styleUrls: ["./recettes-details.page.scss"],
-  encapsulation: ViewEncapsulation.ShadowDom,
+  styleUrls: ["./recettes-details.page.scss"]
 })
 export class RecettesDetailsPage implements OnInit {
   item: any = {};

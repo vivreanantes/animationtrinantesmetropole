@@ -5,8 +5,7 @@ import { DataService } from "../../services/data.service";
 @Component({
   selector: "app-trisac-details",
   templateUrl: "./trisac-details.page.html",
-  styleUrls: ["./trisac-details.page.scss"],
-  encapsulation: ViewEncapsulation.ShadowDom,
+  styleUrls: ["./trisac-details.page.scss"]
 })
 export class TrisacDetailsPage implements OnInit {
   item: any = {};
