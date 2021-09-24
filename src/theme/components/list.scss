@@ -39,6 +39,27 @@ Pages avec selecteur global + listes d'élements informations :
     }
 }
 
+.search {
+  width: 92vw;
+  margin: 1vh auto;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
+  input {
+    width: 80%;
+    padding: 0.3em;
+    border: 2px solid #296209;
+    border-radius: 0.3em;
+    text-align: center;
+  }
+  ion-icon {
+    font-size: 1.5em;
+    transform: translateX(-150%);
+  }
+}
+
 .listBlock {
     width: 92vw;
     margin: 2vh auto 0 auto;
@@ -91,7 +112,7 @@ Pages avec selecteur global + listes d'élements informations :
 
           h5 {
             margin: 0;
-            font-size: 1.2rem;
+            font-size: 1.2em;
             color: #135301;
           }
 

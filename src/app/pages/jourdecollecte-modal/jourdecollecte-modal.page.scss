@@ -2,23 +2,5 @@
 :host {
   ion-content {
     @include mtnbackground();
-    hr {
-      margin: 2vh 0;
-    }
-    .info {
-      .inner {
-        display: flex;
-      }
-    }
-    .buttons {
-      display: flex;
-      width: 100%;
-      margin-top: 1vh;
-      button {
-        margin: auto;
-        width: 100%;
-        @include buttonStyle();
-      }
-    }
   }
 }

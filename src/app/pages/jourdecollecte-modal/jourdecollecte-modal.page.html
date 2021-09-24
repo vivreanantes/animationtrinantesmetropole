@@ -1,31 +1,29 @@
 <ion-content>
   <div class="mt-content fiche">
-    
     <div class="close clickable" (click)="close()">
       <ion-icon name="close"></ion-icon>
     </div>
-   
     <div class="header">
       <h1>{{ item.dcv}}</h1>
     </div>
-
     <div class="body">
-
-      <div>{{item.dcv}}</div>
-      <div [innerHtml]="(item.jcbj)"></div>
+      <div class="block">
+        <div class="titre">
+          <h2>{{'Informations'|translate}}</h2>
+        </div>
+        <div class="body infos">
+            <div>{{item.dcv}}</div>
+            <div [innerHtml]="(item.jcbj)"></div>
       
-      <p *ngIf="item.src">
-        <strong>{{'source'|translate}} :</strong> {{ item.src }}
-      </p>
-
-      <hr *ngIf="item.cons" />
-      
-      <div class="info">
-        <h5>{{item.cons.nom}}</h5>
-        {{item.cons.descr}}
+            <p *ngIf="item.src">
+              <strong>{{'source'|translate}} :</strong> {{ item.src }}
+            </p>
+            <hr *ngIf="item.cons" />
+            <h5>{{item.cons.nom}}</h5>
+            {{item.cons.descr}}
       </div>
-
+      </div>
     </div>
-
   </div>
 </ion-content>
+
