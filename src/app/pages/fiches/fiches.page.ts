@@ -8,8 +8,7 @@ import { FichePage } from "../fiche/fiche.page";
 @Component({
   selector: "app-fiches",
   templateUrl: "./fiches.page.html",
-  styleUrls: ["./fiches.page.scss"],
-  encapsulation: ViewEncapsulation.ShadowDom,
+  styleUrls: ["./fiches.page.scss"]
 })
 export class FichesPage implements OnInit {
   input: string = null;

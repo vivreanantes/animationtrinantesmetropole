@@ -9,8 +9,7 @@ import { HomeCollectModsHandler } from "../../handlers/home-collect-mods.handler
 @Component({
   selector: "app-dechet",
   templateUrl: "./dechet.page.html",
-  styleUrls: ["./dechet.page.scss"],
-  encapsulation: ViewEncapsulation.ShadowDom,
+  styleUrls: ["./dechet.page.scss"]
 })
 export class DechetPage implements OnInit {
   @Input('dechet') dechet;

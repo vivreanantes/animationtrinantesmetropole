@@ -2,23 +2,14 @@
   <button-menu></button-menu>
 
   <div class="mt-content">
-
-    <div class="block" style='clear: both;'>
-      <div >
+    <div class="selector">
         <h2>{{"select_quartier_et_rue"| translate}}</h2>
-
-        <select [(ngModel)]="input_zone"
-          (ngModelChange)="onChangeFiltreZone()"
-        >
+        <select [(ngModel)]="input_zone" (ngModelChange)="onChangeFiltreZone()">
           <option *ngFor="let filtre of filtres">{{filtre}}</option>
         </select>
-      </div>
     </div>
 
     <div class="search">
-
-
-      <div class="input-field">
         <input
           type="text"
           placeholder="{{ 'donnez_votre_rue'|translate }}"
@@ -26,24 +17,23 @@
           (ngModelChange)="onChangeFiltre(input)"
         />
         <ion-icon name="close" (click)="cleanFiltre()"></ion-icon>
-      </div>
     </div>
 
-    <div class="categories" *ngIf="categories">
+    <div class="listBlock" *ngIf="categories">
       <div class="categorie" *ngFor="let categorie of categories | values">
         <div class="title" *ngIf="categorie.items && categorie.items.length >0">
-          <h2>{{ categorie | lang: "nom" }}</h2>
+          <h3>{{ categorie | lang: "nom" }}</h3>
         </div>
 
-        <div class="block" *ngIf="categorie.items && categorie.items.length > 0">
-          <div class="body infos">
-            <div class="info" *ngFor="let con of categorie.items; let i = index" [ngClass]="{'plus':con.fiche}"
-              (click)="voirJourDeCollecte(con)">
+        <div class="sections" *ngIf="categorie.items && categorie.items.length > 0">
+          <div class="section" *ngFor="let con of categorie.items; let i = index" [ngClass]="{'plus':con.fiche}"
+          (click)="voirJourDeCollecte(con)">
+            <div class="info">
               <div><strong>{{ con|lang:'dcv' }}</strong></div>
               <div [innerHtml]="(con | lang:'jcbj')"></div>
-              <div class="plus">
-                <ion-icon name="help-circle"></ion-icon>
-              </div>
+            </div>
+            <div class="buttons">
+              <ion-icon name="information-circle"></ion-icon>
             </div>
           </div>
         </div>

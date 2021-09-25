@@ -1,0 +1,153 @@
+/**
+Pages avec selecteur global + listes d'élements informations :
+- Page Recettes
+- Page Acteurs
+- Page Trisac
+*/
+
+#credits {
+    font-size: 0.9em;
+    border-radius: 2vw;
+    width: 90vw;
+    margin: 2vh auto;
+    background: #ebf9be;
+    padding:1em;
+
+    > p {
+        margin-top: 0em;
+    }
+}
+
+// Selecteur global catégorie
+.selector {
+    padding: 2vh 4vw;
+
+    h2 {
+        color: #fff;
+        text-shadow: 1px 1px 2px #1c310d;
+        margin-top: 0em;
+        text-align: center;
+    }
+
+    select {
+        width: 100%;
+        margin-top:1vh;
+        padding: 0.5em;
+        border: 2px solid #296209;
+        border-radius: 0.8em;
+        text-align: center;
+    }
+}
+
+.search {
+  width: 92vw;
+  margin: 1vh auto;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
+  input {
+    width: 80%;
+    padding: 0.3em;
+    border: 2px solid #296209;
+    border-radius: 0.3em;
+    text-align: center;
+  }
+  ion-icon {
+    font-size: 1.5em;
+    transform: translateX(-150%);
+  }
+}
+
+.listBlock {
+    width: 92vw;
+    margin: 2vh auto 0 auto;
+    overflow: hidden;
+    .titre {
+      h2 {
+        text-transform: capitalize;
+      }
+    }
+
+      h3 {
+        text-transform: capitalize;
+        color: #fff;
+        text-shadow: 1px 1px 2px #1c310d;
+        text-align: center;
+        margin: 2vh 0;
+      }
+      div.sections {
+        margin: 0;
+        padding-left: 0;
+        display: flex;
+        flex-wrap: wrap;
+        margin-bottom: 2vh;
+
+        div.section {
+          display: flex;
+          align-items: center;
+          flex-direction: row;
+          flex-wrap: wrap;
+          padding-bottom: 0.2vh;
+          width: 100%;
+          font-size: 0.9em;
+          background: #c4e39f;
+          border-bottom: 1px solid #a4b360;
+
+          div.info {
+            margin: 0;
+            padding: 1vh 2vh;
+            flex: 1;
+          }
+
+          div.logo {
+            padding: 0.6em;
+            padding-right: 0em;
+            img {
+              max-width: 5em;
+              height: auto;
+            }
+          }
+
+          h5 {
+            margin: 0;
+            font-size: 1.2em;
+            color: #135301;
+          }
+
+          .fullWidthTitre h5 {
+              width:90vw;
+              margin:0.5em;
+              margin-bottom: 0.2em;
+              text-align: center;
+          }
+
+          .buttons {
+            margin: 0;
+            padding: 0.8vh 2vh;
+            ion-icon {
+              font-size: 2em;
+              color:#2e6020
+            }
+          }
+
+          &:first-child  {
+            border-top-left-radius: 0.8em;
+            border-top-right-radius: 0.8em;
+          }
+          &:last-child {
+            border-bottom-left-radius: 0.8em;
+            border-bottom-right-radius: 0.8em;
+          }
+
+        }
+
+        // PAGE acteurs
+        div.section-acteur {
+            align-items:flex-start;
+        }
+
+      }
+    
+  }

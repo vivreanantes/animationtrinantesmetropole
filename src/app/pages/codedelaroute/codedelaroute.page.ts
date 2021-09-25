@@ -25,8 +25,7 @@ declare var $: any;
 @Component({
   selector: "app-codedelaroute",
   templateUrl: "./codedelaroute.page.html",
-  styleUrls: ["./codedelaroute.page.scss"],
-  encapsulation: ViewEncapsulation.ShadowDom,
+  styleUrls: ["./codedelaroute.page.scss"]
 })
 export class CodedelaroutePage implements OnInit {
   @ViewChildren("rep") reponsesEl: QueryList<ElementRef>;

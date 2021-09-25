@@ -11,8 +11,7 @@ import { HomeCollectModsHandler } from "../../handlers/home-collect-mods.handler
 @Component({
   selector: "app-dechet2",
   templateUrl: "./dechet2.page.html",
-  styleUrls: ["./dechet2.page.scss"],
-  encapsulation: ViewEncapsulation.ShadowDom,
+  styleUrls: ["./dechet2.page.scss"]
 })
 export class Dechet2Page implements OnInit {
   item: any = {};

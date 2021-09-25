@@ -28,7 +28,7 @@
   }
   .filtre {
     position: fixed;
-    bottom: 2vh;
+    bottom: 5vh;
     left: 25vw;
     z-index: 2;
     width: 50vw;
@@ -42,7 +42,7 @@
       width: 25vw;
     }
     &.hide{
-      @include prefix(transform, translateY(150%), webkit moz);
+      @include prefix(transform, translateY(200%), webkit moz);
     }
   }
   .position {
@@ -91,7 +91,7 @@
 
     > .header {
       position: relative;
-      padding: 15px 20px;
+      padding: 0.6em;
       @include fonts("h4");
       text-align: center;
       border-bottom: 1px solid #555;
@@ -106,10 +106,10 @@
           position: relative;
           display: flex;
           flex-direction: row;
+          justify-content: flex-start;
           align-items: center;
-          justify-content: space-evenly;
           border-bottom: 1px solid var(--ion-color-medium-tint);
-          padding: 2vh 0;
+          padding: 1vh 0;
           &.selected {
             img {
               filter: grayscale(0);
@@ -118,12 +118,9 @@
             background: darken($mt-box-list-background, 5);
           }
           img {
-            position: absolute;
-            top: 50%;
-            left: 5vw;
-            @include prefix(transform, translateY(-50%), webkit);
-            filter: grayscale(1);
-            opacity: 0.5;
+            margin: 0 4vw;
+            opacity: 0.4;
+            max-height: 2em;
           }
           .checkbox-icon {
             display: none;

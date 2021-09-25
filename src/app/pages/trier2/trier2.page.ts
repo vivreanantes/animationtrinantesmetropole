@@ -10,8 +10,7 @@ import { Dechet2Page } from "../dechet2/dechet2.page";
 @Component({
   selector: "app-trier2",
   templateUrl: "./trier2.page.html",
-  styleUrls: ["./trier2.page.scss"],
-  encapsulation: ViewEncapsulation.ShadowDom,
+  styleUrls: ["./trier2.page.scss"]
 })
 export class Trier2Page implements OnInit {
   input: string = null;

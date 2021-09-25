@@ -7,8 +7,7 @@ import { DataService } from "../../services/data.service";
 @Component({
   selector: 'app-categorie-dechet',
   templateUrl: './categorie-dechet.page.html',
-  styleUrls: ['./categorie-dechet.page.scss'],
-  encapsulation: ViewEncapsulation.ShadowDom,
+  styleUrls: ['./categorie-dechet.page.scss']
 })
 export class CategorieDechetPage implements OnInit {
   categorie: any;

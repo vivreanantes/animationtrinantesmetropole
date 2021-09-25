@@ -3,45 +3,35 @@
 <ion-content>
   <button-menu></button-menu>
   <div class="mt-content" [ngClass]="{'selected':input}">
-    <div class="block">
-      <div class="body">
+    <div class="selector">
         <h2>Concentré de recettes et astuces d’hygiène et beauté zéro déchet à faire soi-même</h2>
         <select [(ngModel)]="input">
           <option *ngFor="let filtre of filtres">{{filtre}}</option>
-        </select>
-      </div>      
+        </select>   
     </div>
 
-    <div id="credits" class="block" *ngIf="!input">   
-      <div class="body">
-        <p style="text-align: center;"><strong>Crédits : </strong></p>
+    <div id="credits" *ngIf="!input">   
+        <p style="text-align: center;"><strong>Crédits</strong></p>
         <span>Ce document a été rédigé conjointement par Alice Martin-Demolon et l'association "La Galerie du Zéro Déchet". </span>
         <a (click)="openUrl('http://lagalerieduzerodechet.fr/?page_id=2363')" target="_blank">{{'plus_d_infos'|translate}}.</a>
         <br/><br/>
         <span>Si vous faites des photos jolies, sans visage, on est preneurs ! (<a (click)="openUrl('mailto://contact@lagalerieduzerodechet.fr')" target="_blank">contact@lagalerieduzerodechet.fr</a>).</span>
-      </div>
     </div>
     
-    <div class="block" *ngIf="input">
-      <div class="body">
-        <div class="list">
+    <div class="listBlock" *ngIf="input">
           <div *ngFor="let type of recettes[input] | values">
             <h3 *ngIf="type[0].categorie_principale_detail">{{ type[0].categorie_principale_detail }}</h3>
-            <ul>
-              <li *ngFor="let t of type" (click)="details(t)">
+            <div class="sections">
+              <div class="section" *ngFor="let t of type" (click)="details(t)">
                 <div class="info">
                   <h5 style='display: block'>{{t.nom}}</h5>
                 </div>
                 <div class="buttons">
-                  <button>
-                    <ion-icon name="information-circle-outline" style="color:#135301"></ion-icon>
-                  </button>
+                    <ion-icon name="information-circle"></ion-icon>
                 </div>
-              </li>
-            </ul>
+              </div>
+            </div>
           </div>
-        </div>
-      </div>
     </div>
 
   </div>

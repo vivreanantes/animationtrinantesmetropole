@@ -8,8 +8,7 @@ import { JourDeCollecteModalPage } from "../jourdecollecte-modal/jourdecollecte-
 @Component({
   selector: "app-collecteadomicile",
   templateUrl: "./collecteadomicile.page.html",
-  styleUrls: ["./collecteadomicile.page.scss"],
-  encapsulation: ViewEncapsulation.ShadowDom,
+  styleUrls: ["./collecteadomicile.page.scss"]
 })
 export class CollecteADomicilePage implements OnInit {
   input: string = null;

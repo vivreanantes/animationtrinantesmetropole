@@ -23,8 +23,7 @@ import * as interact from "interactjs/dist/interact.js";
 @Component({
   selector: "app-quiz",
   templateUrl: "./quiz.page.html",
-  styleUrls: ["./quiz.page.scss"],
-  encapsulation: ViewEncapsulation.ShadowDom,
+  styleUrls: ["./quiz.page.scss"]
 })
 export class QuizPage {
   @ViewChild("garbage", { static: false }) garbageEl: ElementRef;

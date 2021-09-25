@@ -13,8 +13,7 @@ import { DataService } from "../../services/data.service";
 @Component({
   selector: "app-structure",
   templateUrl: "./structure.page.html",
-  styleUrls: ["./structure.page.scss"],
-  encapsulation: ViewEncapsulation.ShadowDom,
+  styleUrls: ["./structure.page.scss"]
 })
 export class StructurePage implements OnInit {
   item: any = {};

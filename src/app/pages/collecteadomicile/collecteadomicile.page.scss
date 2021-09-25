@@ -1,8 +1,11 @@
 @import "../../../theme/theme";
 :host {
-  ::-webkit-scrollbar {
-    display: none;
+
+  ion-content {
+    @include mtnbackground();
   }
+
+  /*
   > ion-content {
     background-color: var(--mt-color-vert) !important;
     .search {
@@ -107,6 +110,6 @@
           }
         }
       }
-    }
-  }
+    } 
+  } */
 }

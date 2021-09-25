@@ -12,8 +12,7 @@ import { exit } from "process";
 @Component({
   selector: "app-contact",
   templateUrl: "./contact.page.html",
-  styleUrls: ["./contact.page.scss"],
-  encapsulation: ViewEncapsulation.ShadowDom,
+  styleUrls: ["./contact.page.scss"]
 })
 export class ContactPage {
   url: string = environment.contact_url;

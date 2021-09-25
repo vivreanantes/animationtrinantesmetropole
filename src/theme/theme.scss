@@ -1,5 +1,10 @@
 @import "./variables";
 @import "./mixins";
 
-@import "./elements/elements";
-@import "./components/components";
+@import "./components/ion-content";
+@import "./components/form";
+@import "./components/modal";
+@import "./components/alert";
+@import "./components/block";
+@import "./components/list";
+@import "./components/leaflet";

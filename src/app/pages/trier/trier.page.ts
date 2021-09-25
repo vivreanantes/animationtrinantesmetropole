@@ -6,8 +6,7 @@ import { LangageService } from "../../services/langage.service";
 @Component({
   selector: "app-trier",
   templateUrl: "./trier.page.html",
-  styleUrls: ["./trier.page.scss"],
-  encapsulation: ViewEncapsulation.ShadowDom,
+  styleUrls: ["./trier.page.scss"]
 })
 export class TrierPage implements OnInit {
   language: string = "fr";
