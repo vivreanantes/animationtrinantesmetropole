@@ -9,7 +9,10 @@
       "build": "ng build",
       "test": "ng test",
       "lint": "ng lint",
-      "e2e": "ng e2e"
+      "e2e": "ng e2e",
+      "android-apk-release": "ionic cordova build android --prod --release",
+      "android-apk-sign": "jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore release_animationnantesmetropole.keystore -storepass xxx -keypass xxx ./platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk christian",
+      "android-apk-zipalign": "zipalign -v 4 ./platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk ./platforms/android/app/build/outputs/apk/release/app-release.apk && rm ./platforms/android/app/build/outputs/apk/release/app-release-unsigned.apk"
    },
    "private": true,
    "dependencies": {

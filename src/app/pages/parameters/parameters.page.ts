@@ -5,6 +5,7 @@ import { LangageService } from "../../services/langage.service";
 import { HomeCollectModsHandler } from "../../handlers/home-collect-mods.handler";
 
 import { DomicileModalPage } from "../domicile-modal/domicile-modal.page";
+
 @Component({
   selector: "app-parameters",
   templateUrl: "./parameters.page.html",
