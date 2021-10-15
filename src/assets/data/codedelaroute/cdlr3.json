@@ -1,0 +1,237 @@
+[
+  {
+    "name": "supporterre",
+    "resume": "Quelle activité réalise l'association SupporTerre ?",
+    "resume_en": "",
+    "advice": "Située à côté de la mairie de Doulon, la Recyclerie du Sport propose des centaines d'articles de sports d'occasion mais en très bon état, à bas prix.",
+    "advice_en": "",
+    "image": "RecyclerieDuSport.jpg",
+    "reponses": [
+      {
+        "id": 1,
+        "name": "Recyclerie du Sport",
+        "name_en": "Recyclerie du Sport"
+      },
+      {
+        "id": 2,
+        "name": "Ramassage des déchets sur la plage",
+        "name_en": "Ramassage des déchets sur la plage"
+      },
+      {
+        "id": 3,
+        "name": "Collecte de jouets d'occasion",
+        "name_en": "Collecte de jouets d'occasion"
+      }
+    ],
+    "reponse": 1
+  },
+  {
+    "name": "lerelais",
+    "advice": "Les vêtements déposés dans les bornes 'Le Relais' sont séparés au centre de Saint-Herblain. Ceux en très bon état sont vendus dans les 7 boutiques 'Ding-Fring' sur Nantes et la région.",
+    "advice_en": "",
+    "resume": "Les lieux de vente associés aux bornes Le Relais se nomment ?",
+    "resume_en": "",
+    "image": "LeRelaisAtlantique.jpg",
+    "reponses": [
+      {
+        "id": 1,
+        "name": "Ding-Fring",
+        "name_en": "Ding-Fring"
+      },
+      {
+        "id": 2,
+        "name": "Fripouille",
+        "name_en": "Fripouille"
+      },
+      {
+        "id": 3,
+        "name": "Frip Folies",
+        "name_en": "Frip Folies"
+      }
+    ],
+    "reponse": 1
+  },
+  {
+    "name": "ressourcerie_de_l_ile",
+    "advice": "La Ressourcerie de l'île, proche de Trentemoult et du Leroy Merlin, est gérée par une association. Ce vaste lieu propose énormément de livres, jeux, objets décoratifs, meubles. A découvrir.",
+    "advice_en": "",
+    "resume": "La Ressourcerie de l'île est située :",
+    "resume_en": "",
+    "image": "RessourcerieDeLIle.jpg",
+    "reponses": [
+      {
+        "id": 1,
+        "name": "île Feydeau",
+        "name_en": "île Feydeau."
+      },
+      {
+        "id": 2,
+        "name": "île de Nantes",
+        "name_en": "île de Nantes"
+      },
+      {
+        "id": 3,
+        "name": "proche de Trentemoult",
+        "name_en": "next Trentemoult"
+      }
+    ],
+    "reponse": 3
+  },
+  {
+    "name": "gratuite",
+    "advice": "L'utilisation avant la possession ! Il existe plusieurs utilothèques locales (aussi appelées boutiques du partage, bibliothèque d'objets…) avec une simple adhésion pour la garantie, mais aussi des boîtes à dons.",
+    "advice_en": "",
+    "resume": "Quel point commun entre l'Alter Boutik (Rezé), Etik' Boutik (Haute-Goulaine), La Boîte à partage (à Rezé), Les boîtes utiles (7 boîtes, par Nous&Co) ?",
+    "resume_en": "",
+    "image": "BoiteAPartage_Bricolowtech.jpg",
+    "reponses": [
+      {
+        "id": 1,
+        "name": "On mange ensemble.",
+        "name_en": "We share food."
+      },
+      {
+        "id": 2,
+        "name": "On partage des objets.",
+        "name_en": "We share objets."
+      },
+      
+      {
+        "id": 3,
+        "name": "On répare ensemble.",
+        "name_en": "We repair together."
+      }
+    ],
+    "reponse": 2
+  },
+  {
+    "name": "appli",
+    "advice": "Rebelote est une application : de nombreuses ressourceries et magasins d'occasion de Nantes et sa région sont associées : Le Réservoir (ex 'Ateliers du Retz Emploi'), Patmouille, Atelier Bricolage des Dervallières...",
+    "advice_en": "",
+    "resume": "Comment s'appelle l'appli qui montre les objets disponibles dans les ressourceries ?",
+    "resume_en": "",
+    "image": "rebelote.jpg",
+    "reponses": [
+      {
+        "id": 1,
+        "name": "Rebelote",
+        "name_en": "Rebelote"
+      },
+      {
+        "id": 2,
+        "name": "Joker",
+        "name_en": "Joker"
+      },
+      {
+        "id": 3,
+        "name": "Quitte ou double",
+        "name_en": "Quitte ou double"
+      }
+    ],
+    "reponse": 1
+  },
+  {
+    "name": "materiaux",
+    "advice": "Vous trouverez à 'Stations Service's des fenêtres, placos, planches, tissus... Il existe aussi le site internet 'Articonnex' propose lui les matériaux pros des artisans (mise en relation).",
+    "advice_en": "",
+    "resume": "Pour l'achat de matériaux d'occasion, je choisis :",
+    "resume_en": "",
+    "image": "StationsServices.jpg",
+    "reponses": [
+      {
+        "id": 1,
+        "name": "Le Grand Magasin (Nantes Cathédrale)",
+        "name_en": "Le Grand Magasin (Nantes Cathédrale)"
+      },
+      {
+        "id": 2,
+        "name": "Le Réservoir (ex 'Atelier du Retz Emploi')",
+        "name_en": "Le Réservoir (ex 'Atelier du Retz Emploi')"
+      },
+      {
+        "id": 3,
+        "name": "Stations Services (Rezé)",
+        "name_en": "Stations Services (Rezé)"
+      }
+    ],
+    "reponse": 3
+  },
+  {
+    "name": "secours_pop",
+    "advice": "Ouvert à tous, ces lieux ont un tarif privilégié pour les plus déshérités. Solidari'meubles et Pop' Fringues sont  proches de la butte Sainte Anne. 'Boutique Madeleine - fripes et bidules' en face du CHU. Secours Pop' Bouguenais",
+    "advice_en": "",
+    "resume": "Le secours populaire a plusieurs lieux de seconde main. Celui situé à proximité du CHU se nomme :",
+    "resume_en": "",
+    "image": "SecoursPopulaire.jpg",
+    "reponses": [
+      {
+        "id": 1,
+        "name": "Solidari'meubles",
+        "name_en": "Solidari'meubles"
+      },
+      {
+        "id": 2,
+        "name": "Boutique Madeleine - fripes et bidules",
+        "name_en": "Boutique Madeleine - fripes et bidules"
+      },
+      {
+        "id": 3,
+        "name": "Pop' Fringues",
+        "name_en": "Pop' Fringues"
+      }
+    ],
+    "reponse": 2
+  },
+  {
+    "name": "chapelle_sur_erdre",
+    "advice": "1000 m² et 10 salariés, 'Le TransiStore' est un nouvelle ressourcerie généraliste située au 14 Rue Kepler à La Chapelle Sur Erdre.",
+    "advice_en": "",
+    "resume": "La ressourcerie inaugurée fin 2021 à la Chapelle Sur Erdre se nomme :",
+    "resume_en": "",
+    "image": "BoiteATroc_LaChapelleSurErdre.jpg",
+    "reponses": [
+      {
+        "id": 1,
+        "name": "Le TransiStore",
+        "name_en": "Le TransiStore"
+      },
+      {
+        "id": 2,
+        "name": "TransiScope",
+        "name_en": "TransiScope"
+      },
+      {
+        "id": 3,
+        "name": "Transfuge",
+        "name_en": "Transfuge"
+      }
+    ],
+    "reponse": 1
+  },
+  {
+    "name": "s",
+    "advice": "Les cartes www.CartOccase.fr (réalisée par l'asso Mieux trier à Nantes) et www.Carteco-ess.org (gérée par les CRESS) sont synchronisées car elles mettent leurs données sur OpenStreetMap.",
+    "advice_en": "",
+    "resume": "Un de ces sites internet ne référencent pas les ressourceries :",
+    "resume_en": "",
+    "image": "CartOccase.jpg",
+    "reponses": [
+      {
+        "id": 1,
+        "name": "www.CartOccase.fr",
+        "name_en": "www.CartOccase.fr"
+      },
+      {
+        "id": 2,
+        "name": "www.CartoVrac.fr",
+        "name_en": "www.CartoVrac.fr"
+      },
+      {
+        "id": 3,
+        "name": "www.Carteco-ess.org",
+        "name_en": "www.Carteco-ess.org"
+      }
+    ],
+    "reponse": 2
+  }
+]

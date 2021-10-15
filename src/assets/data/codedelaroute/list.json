@@ -12,5 +12,12 @@
     "enabled": true,
     "file": "cdlr2",
     "exclude_filters": []
+  },
+  {
+    "name": "Plusieurs vies pour les objets",
+    "name_en": "Several lifes for objects",
+    "enabled": true,
+    "file": "cdlr3",
+    "exclude_filters": ["niveau_enfant"]
   }
 ]
