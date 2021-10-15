@@ -1,6 +1,8 @@
 [
   {
     "name": "supporterre",
+    "descr": "SupporTerre",
+    "descr_en": "SupporTerre",
     "resume": "Quelle activité réalise l'association SupporTerre ?",
     "resume_en": "",
     "advice": "Située à côté de la mairie de Doulon, la Recyclerie du Sport propose des centaines d'articles de sports d'occasion mais en très bon état, à bas prix.",
@@ -27,6 +29,8 @@
   },
   {
     "name": "lerelais",
+    "descr": "Le Relais",
+    "descr_en": "Le Relais",
     "advice": "Les vêtements déposés dans les bornes 'Le Relais' sont séparés au centre de Saint-Herblain. Ceux en très bon état sont vendus dans les 7 boutiques 'Ding-Fring' sur Nantes et la région.",
     "advice_en": "",
     "resume": "Les lieux de vente associés aux bornes Le Relais se nomment ?",
@@ -53,6 +57,8 @@
   },
   {
     "name": "ressourcerie_de_l_ile",
+    "descr": "La Ressourcerie de l'île",
+    "descr_en": "La Ressourcerie de l'île",
     "advice": "La Ressourcerie de l'île, proche de Trentemoult et du Leroy Merlin, est gérée par une association. Ce vaste lieu propose énormément de livres, jeux, objets décoratifs, meubles. A découvrir.",
     "advice_en": "",
     "resume": "La Ressourcerie de l'île est située :",
@@ -79,6 +85,8 @@
   },
   {
     "name": "gratuite",
+    "descr": "On partage",
+    "descr_en": "We Share ",
     "advice": "L'utilisation avant la possession ! Il existe plusieurs utilothèques locales (aussi appelées boutiques du partage, bibliothèque d'objets…) avec une simple adhésion pour la garantie, mais aussi des boîtes à dons.",
     "advice_en": "",
     "resume": "Quel point commun entre l'Alter Boutik (Rezé), Etik' Boutik (Haute-Goulaine), La Boîte à partage (à Rezé), Les boîtes utiles (7 boîtes, par Nous&Co) ?",
@@ -95,17 +103,18 @@
         "name": "On partage des objets.",
         "name_en": "We share objets."
       },
-      
       {
         "id": 3,
-        "name": "On répare ensemble.",
-        "name_en": "We repair together."
+        "name": "Echange de graines.",
+        "name_en": "Echange de graines."
       }
     ],
     "reponse": 2
   },
   {
     "name": "appli",
+    "descr": "Application",
+    "descr_en": "Application",
     "advice": "Rebelote est une application : de nombreuses ressourceries et magasins d'occasion de Nantes et sa région sont associées : Le Réservoir (ex 'Ateliers du Retz Emploi'), Patmouille, Atelier Bricolage des Dervallières...",
     "advice_en": "",
     "resume": "Comment s'appelle l'appli qui montre les objets disponibles dans les ressourceries ?",
@@ -132,6 +141,8 @@
   },
   {
     "name": "materiaux",
+    "descr": "Matériauthèque",
+    "descr_en": "Material library",
     "advice": "Vous trouverez à 'Stations Service's des fenêtres, placos, planches, tissus... Il existe aussi le site internet 'Articonnex' propose lui les matériaux pros des artisans (mise en relation).",
     "advice_en": "",
     "resume": "Pour l'achat de matériaux d'occasion, je choisis :",
@@ -158,9 +169,11 @@
   },
   {
     "name": "secours_pop",
+    "descr": "Secours Populaire",
+    "descr_en": "Secours Populaire",
     "advice": "Ouvert à tous, ces lieux ont un tarif privilégié pour les plus déshérités. Solidari'meubles et Pop' Fringues sont  proches de la butte Sainte Anne. 'Boutique Madeleine - fripes et bidules' en face du CHU. Secours Pop' Bouguenais",
     "advice_en": "",
-    "resume": "Le secours populaire a plusieurs lieux de seconde main. Celui situé à proximité du CHU se nomme :",
+    "resume": "Le Secours Populaire a plusieurs lieux de seconde main. Celui situé à proximité du CHU se nomme :",
     "resume_en": "",
     "image": "SecoursPopulaire.jpg",
     "reponses": [
@@ -184,6 +197,8 @@
   },
   {
     "name": "chapelle_sur_erdre",
+    "descr": "Ressourcerie de La Chapelle Sur Erdre",
+    "descr_en": "La Chapelle Sur Erdre",
     "advice": "1000 m² et 10 salariés, 'Le TransiStore' est un nouvelle ressourcerie généraliste située au 14 Rue Kepler à La Chapelle Sur Erdre.",
     "advice_en": "",
     "resume": "La ressourcerie inaugurée fin 2021 à la Chapelle Sur Erdre se nomme :",
@@ -209,8 +224,10 @@
     "reponse": 1
   },
   {
-    "name": "s",
-    "advice": "Les cartes www.CartOccase.fr (réalisée par l'asso Mieux trier à Nantes) et www.Carteco-ess.org (gérée par les CRESS) sont synchronisées car elles mettent leurs données sur OpenStreetMap.",
+    "name": "cartes",
+    "descr": "Cartes",
+    "descr_en": "Maps",
+    "advice": "La carte www.CartOccase.fr est réalisée par l'asso Mieux trier à Nantes. La carte www.Carteco-ess.org est gérée par les CRESS. Elles sont synchronisées car elles mettent leurs données sur OpenStreetMap.",
     "advice_en": "",
     "resume": "Un de ces sites internet ne référencent pas les ressourceries :",
     "resume_en": "",
