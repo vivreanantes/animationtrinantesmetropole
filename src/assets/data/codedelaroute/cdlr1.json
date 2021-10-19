@@ -38,6 +38,8 @@
     "descr_en": "Food thrown",
     "resume": "En moyenne, un français jette combien de kg de nourriture par an ?",
     "resume_en": "On average, a French person throws how many kg of food a year ?",
+    "advice": "50 kg",
+    "advice_en": "50 kg",
     "image": "gaspillage_alimentaire_2.jpg",
     "reponses": [
       {
@@ -97,7 +99,7 @@
     "descr_en": "Salad in a bag",
     "resume": "Il est préférable d'acheter la salade toute prête en sachet pour éviter le gaspillage.",
     "resume_en": "It is best to buy the ready-made salad in a bag to avoid waste.",
-    "advice": "Au moment de la mise en sachet, de nombreuses fauilles sont jetées car elles ne répondent pas à un certain calibre alors qu'elles pourraient être consommées. De plus, l'emballage est un déchet supplémentaire",
+    "advice": "Au moment de la mise en sachet, de nombreuses feuilles sont jetées car elles ne répondent pas à un certain calibre alors qu'elles pourraient être consommées. De plus, l'emballage est un déchet supplémentaire",
     "advice_en": "At the time of bagging, many sows are thrown because they do not respond to a certain size when they could be consumed. In addition, the packaging is an additional waste",
     "image": "salade_2.jpg",
     "reponses": [
@@ -141,8 +143,8 @@
     "name": "hachi_parmentier",
     "descr": "Hachi parmentier",
     "descr_en": "Shepherd's pie",
-    "resume": "Le hachis parmentier a été inventé dans un but précis, lequel ?",
-    "resume_en": "The shepherd's pie was invented for a specific purpose, which one ?",
+    "resume": "Le hachis parmentier a été inventé...",
+    "resume_en": "The shepherd's pie was invented...",
     "advice": "Antoine-Augustin Parmentier, pharmacien, a proposé à Louis XVI de favoriser la culture de la pomme de terre, persuadé qu'elle pourrait réduire la disette. Il a inventé le hachis parmentier pour réutiliser les restes de roti ou de pot au feu.",
     "advice_en": "Antoine-Augustin Parmentier, pharmacist, proposed to Louis XVI to favor the cultivation of the potato, persuaded that it could reduce the scarcity. He invented the shepherd's pie to reuse leftover roti or pot-au-feu.",
     "image": "hachi_parmentier.jpg",
@@ -159,7 +161,7 @@
       },
       {
         "id": 3,
-        "name": "Pour réutiliser les restes de roti ou de pot au feu.",
+        "name": "Pour réutiliser les restes de rôti ou de pot au feu.",
         "name_en": "To reuse leftover roti or pot au feu."
       },
       {
@@ -176,6 +178,8 @@
     "descr_en": "Bokashi",
     "resume": "Savez-vous ce qu'est le Bokashi ?",
     "resume_en": "Do you know what Bokashi is ?",
+    "advice": "Le Bokashi est une technique japonaise de traitement des biodéchets, basée sur la fermentation. Idéale en appartement.",
+    "advice_en": "",
     "image": "bokashi.jpg",
     "reponses": [
       {
@@ -199,6 +203,6 @@
         "name_en": "A fermented sauce from fish waste."
       }
     ],
-    "reponse": 2
+    "reponse": 3
   }
 ]

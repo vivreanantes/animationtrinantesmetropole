@@ -250,5 +250,33 @@
       }
     ],
     "reponse": 2
+  },
+  {
+    "name": "repare",
+    "descr": "Réparations",
+    "descr_en": "Repair",
+    "advice": "Certains ordinateurs sont recyclés (partiellment). D'autres sont réparés : 'Naga' et 'Alis44' mettent à disposition de leurs adhérents. 'AfBShop Nantes' et 'Atelier du Bocage' revendent à petits prix.",
+    "advice_en": "",
+    "resume": "'Naga' 'Alis44', 'AfBShop Nantes', 'Atelier du Bocage' récupèrent, réparent et revendent (ou mettent à disposition des bénéficiaires) :",
+    "resume_en": "",
+    "image": "CartOccase.jpg",
+    "reponses": [
+      {
+        "id": 1,
+        "name": "des vélos",
+        "name_en": "bicycles"
+      },
+      {
+        "id": 2,
+        "name": "des ordinateurs",
+        "name_en": "computers"
+      },
+      {
+        "id": 3,
+        "name": "des outils de bricolage",
+        "name_en": ""
+      }
+    ],
+    "reponse": 2
   }
 ]
