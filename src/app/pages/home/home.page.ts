@@ -13,7 +13,7 @@ export class HomePage {
   pages = [
     // https://ionicframework.com/docs/v3/ionicons/
     { title: "trier2", icon: "trash", link: "trier2" },
-    { title: "carte", icon: "map", link: "carte" },
+    // { title: "carte", icon: "map", link: "carte" },  // Causing a bug on iOS
     { title: "jeux", icon: "game-controller", link: "quiz" },
     { title: "cdlr", icon: "help", link: "codedelaroute" },
     { title: "collecteadomicile", icon: "trash", link: "collecteadomicile" },

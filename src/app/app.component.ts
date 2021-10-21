@@ -33,7 +33,7 @@ export class AppComponent {
     this.pages = [
       { title: "accueil", icon: "leaf", link: "home" },
       { title: "trier2", icon: "trash", link: "trier2" },
-      { title: "carte", icon: "trash", link: "carte" },
+      // { title: "carte", icon: "trash", link: "carte" },
       { title: "jeux", icon: "leaf", link: "quiz" },
       { title: "cdlr", icon: "help", link: "codedelaroute" },
 	    { title: "collecteadomicile", icon: "trash", link: "collecteadomicile" },
