@@ -6,8 +6,6 @@ import { TranslateService } from "@ngx-translate/core";
 
 import { environment } from "../../../environments/environment";
 import { NgForm } from '@angular/forms';
-import { exit } from "process";
-
 
 @Component({
   selector: "app-contact",
