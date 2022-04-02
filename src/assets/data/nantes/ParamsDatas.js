@@ -71,8 +71,8 @@ var _paramFilterTypeFiches = [{
 var _paramFilterTypeMapDatas = [{
 		"id": "1",
 		"code": "smco_reemp",
-		"nom": "Réemploi (86)",
-		"nom_en": "Re-use (86)",
+		"nom": "Réemploi (120)",
+		"nom_en": "Re-use (120)",
 		"image": "assets/icons/marker-icon-blue.png"
 	}, {
 		"id": "2",
@@ -101,8 +101,8 @@ var _paramFilterTypeMapDatas = [{
 	}, {
 		"id": "6",
 		"code": "ventevracstruct,ventevracpoints",
-		"nom": "Vente vrac (221)",
-		"nom_en": "No packaging shops (221)",
+		"nom": "Vente vrac (36)",
+		"nom_en": "No packaging shops (36)",
 		"image": "assets/icons/marker-icon-red.png"
 	}, {
 //	}, {
